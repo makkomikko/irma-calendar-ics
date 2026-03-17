@@ -9,15 +9,15 @@ URL = "https://irma.suunnistusliitto.fi/public/competitioncalendar/list?year=upc
 OUTPUT_DIR = "ics_files"
 
 def parse_fi_date(date_str):
-    # Extract numbers from strings like "15.-16.5.2024"
+    """Parses Finnish dates like 15.5.2026 or 15.-16.5.2026"""
     nums = [int(x) for x in re.findall(r'\d+', date_str)]
     try:
-        if len(nums) == 3:
+        if len(nums) == 3: # Single day
             d = datetime.date(nums[2], nums[1], nums[0])
             return d, d
-        elif len(nums) == 4:
+        elif len(nums) == 4: # Range same month
             return datetime.date(nums[3], nums[2], nums[0]), datetime.date(nums[3], nums[2], nums[1])
-        elif len(nums) == 5:
+        elif len(nums) == 5: # Range diff month
             return datetime.date(nums[4], nums[1], nums[0]), datetime.date(nums[4], nums[3], nums[2])
     except: return None, None
     return None, None
@@ -26,28 +26,22 @@ def clean_filename(name):
     cleaned = re.sub(r'[^\w\s-]', '', name).strip()
     return cleaned.replace(' ', '_') + '.ics'
 
-def scrape():
+def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     events_json = []
 
     with sync_playwright() as p:
-        # Launch browser
+        # Launch browser to handle dynamic JS loading
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        print("Opening IRMA...")
+        print("Navigating to IRMA...")
         page.goto(URL, wait_until="networkidle")
         
-        # Wait specifically for the table rows to appear
-        # The selector 'table tr' is generic; we wait for at least one data row.
-        try:
-            page.wait_for_selector("table tr td", timeout=10000)
-        except:
-            print("Timed out waiting for table. The page might be empty or different.")
-            browser.close()
-            return
-
+        # Wait for the table rows to actually appear
+        page.wait_for_selector("table tr td", timeout=15000)
+        
         rows = page.query_selector_all("table tr")
-        print(f"Found {len(rows)} potential rows.")
+        print(f"Analyzing {len(rows)} table rows...")
 
         for row in rows:
             cols = row.query_selector_all("td")
@@ -57,16 +51,16 @@ def scrape():
                 organizer = cols[2].inner_text().strip()
                 discipline = cols[3].inner_text().strip()
 
-                # Filter: Date must have a number, and Discipline must contain "S"
+                # Filter: Must be Foot-O ("S") and have a date
                 if not any(char.isdigit() for char in date_text) or "S" not in discipline.split():
                     continue
 
                 start_date, end_date = parse_fi_date(date_text)
                 if not start_date: continue
 
-                # Build ICS
+                # Generate ICS content
                 cal = Calendar()
-                cal.add('prodid', '-//IRMA Scraper//')
+                cal.add('prodid', '-//IRMA Orienteering Scraper//')
                 cal.add('version', '2.0')
                 event = Event()
                 event.add('summary', name)
@@ -86,13 +80,13 @@ def scrape():
                     "location": organizer,
                     "filename": filename
                 })
-
         browser.close()
 
+    # Save the master list for the website
     with open(os.path.join(OUTPUT_DIR, 'events.json'), 'w', encoding='utf-8') as f:
         json.dump(events_json, f, ensure_ascii=False, indent=2)
     
-    print(f"Done! Created {len(events_json)} events.")
+    print(f"Successfully processed {len(events_json)} events.")
 
 if __name__ == "__main__":
-    scrape()
+    main()
