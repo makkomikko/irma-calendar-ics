@@ -2,3 +2,4 @@ requests==2.31.0
 beautifulsoup4==4.12.2
 ics==0.7
 lxml==4.9.3
+icalendar==5.0.10
