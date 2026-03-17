@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IRMA Orienteering Scraper//
+BEGIN:VEVENT
+SUMMARY:Junioriliigan finaali ja valtakunnallinen Kompassi-tapahtuma
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260317T131759Z
+LOCATION:Kalevan Rasti\nKontiolahden Urheilijat
+END:VEVENT
+END:VCALENDAR
