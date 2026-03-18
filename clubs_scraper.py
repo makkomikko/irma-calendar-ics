@@ -16,85 +16,72 @@ def main():
         context = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
         page = context.new_page()
         
-        print("Loading clubs list (Vaadin Grid)...")
+        print("Loading clubs list...")
         page.goto(URL, wait_until="networkidle")
-        
-        # 1. Wait for the vaadin-grid element to be present
-        try:
-            page.wait_for_selector("vaadin-grid", timeout=30000)
-            # Give it a moment to initialize the internal rows
-            time.sleep(2)
-        except Exception:
-            print("Failed to find vaadin-grid.")
-            browser.close()
-            return
+        page.wait_for_selector("vaadin-grid", timeout=30000)
 
-        # 2. Extract links using JS that pierces Shadow DOM
-        # Vaadin grids often store data in 'vaadin-grid-cell-content' elements
-        print("Extracting club links...")
-        club_links = page.evaluate("""
-            () => {
-                const links = [];
-                // Query all anchor tags inside the grid's light DOM or shadow DOM slots
-                const anchors = document.querySelectorAll('vaadin-grid a');
-                anchors.forEach(a => {
-                    const name = a.innerText.trim();
-                    const href = a.getAttribute('href');
-                    if (name && href) {
-                        links.push({ name, href });
-                    }
-                });
-                return links;
-            }
-        """)
-
-        if not club_links:
-            print("No clubs found in the grid. Checking for lazy loading...")
-            # If empty, we might need to scroll or check a different selector
-            # Note: For some Vaadin versions, the links are in 'vaadin-grid-cell-content'
-            club_links = page.evaluate("""
+        # 1. SCROLLING LOOP: Ensure all clubs in the Vaadin Grid are loaded
+        print("Scrolling through grid to capture all clubs...")
+        club_links = {}
+        last_count = 0
+        for _ in range(15):  # Adjust range if the list is extremely long
+            new_links = page.evaluate("""
                 () => {
-                    const links = [];
-                    const cells = document.querySelectorAll('vaadin-grid-cell-content');
-                    cells.forEach(cell => {
-                        const a = cell.querySelector('a');
-                        if (a) {
-                            links.push({ name: a.innerText.trim(), href: a.getAttribute('href') });
-                        }
+                    const found = {};
+                    document.querySelectorAll('vaadin-grid a').forEach(a => {
+                        const name = a.innerText.trim();
+                        const href = a.getAttribute('href');
+                        if (name && href) found[name] = href;
                     });
-                    return links;
+                    return found;
                 }
             """)
+            club_links.update(new_links)
+            
+            if len(club_links) == last_count: break # Stop if no new clubs found
+            last_count = len(club_links)
+            
+            # Scroll down the grid container
+            page.evaluate("document.querySelector('vaadin-grid').scrollBy(0, 1000)")
+            time.sleep(0.5)
 
-        print(f"Found {len(club_links)} clubs. Fetching areas...")
+        print(f"Found {len(club_links)} clubs. Fetching areas from detail pages...")
         
-        # 3. Visit each club page (these are usually standard HTML, not Vaadin grids)
-        for idx, club in enumerate(club_links, 1):
+        # 2. DETAIL PAGE EXTRACTION: Using the new div-based structure
+        for idx, (name, href) in enumerate(club_links.items(), 1):
             try:
-                full_link = f"{BASE_URL}{club['href']}" if club['href'].startswith("/") else club['href']
-                page.goto(full_link, wait_until="networkidle", timeout=20000)
+                full_link = f"{BASE_URL}{href}" if href.startswith("/") else href
+                page.goto(full_link, wait_until="networkidle", timeout=15000)
                 
-                # Use the 'piercing' logic to find the Area
+                # Wait for the detail wrapper to appear
+                page.wait_for_selector("#detail-wrapper", timeout=5000)
+                
                 area = page.evaluate("""
                     () => {
-                        const rows = Array.from(document.querySelectorAll('tr'));
-                        const areaRow = rows.find(r => r.innerText.includes('Alue'));
-                        if (areaRow) {
-                            const cells = areaRow.querySelectorAll('td');
-                            return cells.length > 1 ? cells[1].innerText.trim() : null;
+                        const labels = ["Alue", "District", "Region"];
+                        const spans = Array.from(document.querySelectorAll('#detail-wrapper span.font-bold'));
+                        
+                        for (let span of spans) {
+                            const text = span.innerText.trim();
+                            if (labels.some(l => text.includes(l))) {
+                                // The value is in the next span sibling
+                                const nextSpan = span.nextElementSibling;
+                                return nextSpan ? nextSpan.innerText.trim() : null;
+                            }
                         }
                         return null;
                     }
                 """)
 
                 if area:
-                    clubs_data[club['name']] = area
+                    clubs_data[name] = area
                 
                 if idx % 20 == 0:
                     print(f"  Processed {idx}/{len(club_links)}...")
                 
-                time.sleep(0.3)
-            except Exception:
+                time.sleep(0.2) # Small delay to avoid hammering the server
+            except Exception as e:
+                # print(f"Error at {name}: {e}")
                 continue
                 
         browser.close()
