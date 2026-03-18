@@ -209,6 +209,7 @@
         let allEvents = [];
         let activeYear = new Date().getFullYear().toString();
         let activeCategory = 'Kaikki'; // 'All'
+        let activeArea = 'Kaikki';
 
         async function loadData() {
             try {
@@ -249,10 +250,10 @@
             });
         }
 
-function setupCategoryFilters() {
+        function setupCategoryFilters() {
             let controlsBar = document.querySelector('.controls-bar');
             
-            // Re-structure controls bar to include the Area Dropdown
+            // 1. Structure the controls
             controlsBar.innerHTML = `
                 <div class="top-controls">
                     <div class="left-group" style="display:flex; gap:10px; align-items:center;">
@@ -272,6 +273,7 @@ function setupCategoryFilters() {
             setupYearTabs();
             populateAreaDropdown();
 
+            // 2. Setup Category Buttons
             const filterContainer = document.getElementById('category-filters');
             const allCats = new Set();
             allEvents.forEach(e => { if(e.categories) e.categories.forEach(c => allCats.add(c)); });
@@ -293,7 +295,8 @@ function setupCategoryFilters() {
 
         function populateAreaDropdown() {
             const dropdown = document.getElementById('area-filter');
-            const areas = [...new Set(allEvents.map(e => e.area))].filter(a => a).sort();
+            // Extract unique areas, filter out nulls/undefined, and sort
+            const areas = [...new Set(allEvents.map(e => e.area))].filter(a => a && a !== "Tuntematon Alue").sort();
             
             areas.forEach(area => {
                 const opt = document.createElement('option');
@@ -333,8 +336,16 @@ function setupCategoryFilters() {
             const filteredEvents = allEvents.filter(e => {
                 const isCorrectYear = e.date.startsWith(activeYear);
                 const isCancelledVisible = showCancelled || !e.cancelled;
-                const isCorrectCategory = activeCategory === 'Kaikki' || (e.categories && e.categories.includes(activeCategory));
+                
+                // FIXED CATEGORY LOGIC
+                const isCorrectCategory = activeCategory === 'Kaikki' || 
+                                          (e.categories && e.categories.includes(activeCategory));
+                
+                // FIXED AREA LOGIC: 
+                // If 'Kaikki' is selected, always return true. 
+                // This will include events with areas, "Tuntematon Alue", or missing area keys.
                 const isCorrectArea = activeArea === 'Kaikki' || e.area === activeArea;
+
                 return isCorrectYear && isCancelledVisible && isCorrectCategory && isCorrectArea;
             });
 
