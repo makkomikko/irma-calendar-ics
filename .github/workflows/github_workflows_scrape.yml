@@ -32,7 +32,10 @@ jobs:
           # Install browser engine and remaining system dependencies
           playwright install chromium --with-deps
       
-      - name: Run scraper
+      - name: Run club area scraper
+        run: python clubs_scraper.py
+
+      - name: Run main calendar scraper
         run: python scraper.py
       
       - name: Commit and push changes
