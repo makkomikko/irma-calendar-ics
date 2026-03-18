@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20260318T073655Z
-DESCRIPTION:Organizer: Rastivarsat\nIRMA Link: https://irma.suunnistusliit
- to.fi/public/competition/view/26673
-LOCATION:Rastivarsat
+DTSTAMP:20260318T110225Z
+DESCRIPTION:Organizer: Rastivarsat\nArea: Tuntematon Alue\nCategories: Vie
+ sti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
+ iew/26673
+LOCATION:Tuntematon Alue (Rastivarsat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26673
 END:VEVENT
 END:VCALENDAR

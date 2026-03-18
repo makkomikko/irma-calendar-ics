@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Lapin Rastipäivät prologi
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-DTSTAMP:20260318T073509Z
-DESCRIPTION:Organizer: Tmi Omataivainen\nIRMA Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27419
-LOCATION:Tmi Omataivainen
+DTSTAMP:20260318T110013Z
+DESCRIPTION:Organizer: Tmi Omataivainen\nArea: Tuntematon Alue\nIRMA Link:
+  https://irma.suunnistusliitto.fi/public/competition/view/27419
+LOCATION:Tuntematon Alue (Tmi Omataivainen)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27419
 END:VEVENT
 END:VCALENDAR

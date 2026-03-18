@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Viking Line Rastit
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260318T073352Z
-DESCRIPTION:Organizer: Paimion Rasti\nIRMA Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27397
-LOCATION:Paimion Rasti
+DTSTAMP:20260318T105813Z
+DESCRIPTION:Organizer: Paimion Rasti\nArea: Tuntematon Alue\nIRMA Link: ht
+ tps://irma.suunnistusliitto.fi/public/competition/view/27397
+LOCATION:Tuntematon Alue (Paimion Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27397
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Hakan keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T073425Z
-DESCRIPTION:Organizer: Valkeakosken Haka\nIRMA Link: https://irma.suunnist
- usliitto.fi/public/competition/view/27325
-LOCATION:Valkeakosken Haka
+DTSTAMP:20260318T105913Z
+DESCRIPTION:Organizer: Valkeakosken Haka\nArea: Tuntematon Alue\nCategorie
+ s: Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
+ ion/view/27325
+LOCATION:Tuntematon Alue (Valkeakosken Haka)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27325
 END:VEVENT
 END:VCALENDAR

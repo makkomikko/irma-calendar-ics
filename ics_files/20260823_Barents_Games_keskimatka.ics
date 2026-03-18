@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Barents Games keskimatka
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260318T073607Z
-DESCRIPTION:Organizer: SK Pohjantähti\nIRMA Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27534
-LOCATION:SK Pohjantähti
+DTSTAMP:20260318T110127Z
+DESCRIPTION:Organizer: SK Pohjantähti\nArea: Tuntematon Alue\nCategories:
+  Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competitio
+ n/view/27534
+LOCATION:Tuntematon Alue (SK Pohjantähti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27534
 END:VEVENT
 END:VCALENDAR

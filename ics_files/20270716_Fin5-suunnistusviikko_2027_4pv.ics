@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko 2027 4.pv
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
-DTSTAMP:20260318T073649Z
-DESCRIPTION:Organizer: Lappeen Riento\nIRMA Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27616
-LOCATION:Lappeen Riento
+DTSTAMP:20260318T110217Z
+DESCRIPTION:Organizer: Lappeen Riento\nArea: Tuntematon Alue\nIRMA Link: h
+ ttps://irma.suunnistusliitto.fi/public/competition/view/27616
+LOCATION:Tuntematon Alue (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27616
 END:VEVENT
 END:VCALENDAR

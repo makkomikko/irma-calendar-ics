@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Lahti-Suunnistus 2. päivä
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260318T073515Z
-DESCRIPTION:Organizer: Lahden Suunnistajat-37\nIRMA Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27461
-LOCATION:Lahden Suunnistajat-37
+DTSTAMP:20260318T110020Z
+DESCRIPTION:Organizer: Lahden Suunnistajat-37\nArea: Tuntematon Alue\nIRMA
+  Link: https://irma.suunnistusliitto.fi/public/competition/view/27461
+LOCATION:Tuntematon Alue (Lahden Suunnistajat-37)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27461
 END:VEVENT
 END:VCALENDAR

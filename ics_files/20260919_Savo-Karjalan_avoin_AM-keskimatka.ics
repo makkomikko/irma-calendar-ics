@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Savo-Karjalan avoin AM-keskimatka
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T073626Z
-DESCRIPTION:Organizer: Siilin Rasti\nIRMA Link: https://irma.suunnistuslii
- tto.fi/public/competition/view/27559
-LOCATION:Siilin Rasti
+DTSTAMP:20260318T110151Z
+DESCRIPTION:Organizer: Siilin Rasti\nArea: Tuntematon Alue\nCategories: Ke
+ skimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/com
+ petition/view/27559
+LOCATION:Tuntematon Alue (Siilin Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27559
 END:VEVENT
 END:VCALENDAR

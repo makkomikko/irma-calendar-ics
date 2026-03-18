@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:AM-yö Uusimaa\, avoin
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260318T073622Z
-DESCRIPTION:Organizer: Helsingin Suunnistajat\nIRMA Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27619
-LOCATION:Helsingin Suunnistajat
+DTSTAMP:20260318T110144Z
+DESCRIPTION:Organizer: Helsingin Suunnistajat\nArea: Tuntematon Alue\nCate
+ gories: Yö\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/
+ competition/view/27619
+LOCATION:Tuntematon Alue (Helsingin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27619
 END:VEVENT
 END:VCALENDAR

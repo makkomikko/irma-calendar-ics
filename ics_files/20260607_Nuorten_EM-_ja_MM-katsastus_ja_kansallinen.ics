@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Nuorten EM- ja MM-katsastus ja kansallinen
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260318T073448Z
-DESCRIPTION:Organizer: Lapuan Virkiä\nIRMA Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27503
-LOCATION:Lapuan Virkiä
+DTSTAMP:20260318T105947Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Tuntematon Alue\nIRMA Link: h
+ ttps://irma.suunnistusliitto.fi/public/competition/view/27503
+LOCATION:Tuntematon Alue (Lapuan Virkiä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27503
 END:VEVENT
 END:VCALENDAR

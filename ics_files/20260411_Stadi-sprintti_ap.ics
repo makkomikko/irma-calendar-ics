@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Stadi-sprintti ap.
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260318T073349Z
-DESCRIPTION:Organizer: Rasti-Jyry\nIRMA Link: https://irma.suunnistusliitt
- o.fi/public/competition/view/27373
-LOCATION:Rasti-Jyry
+DTSTAMP:20260318T105807Z
+DESCRIPTION:Organizer: Rasti-Jyry\nArea: Tuntematon Alue\nCategories: Spri
+ ntti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/
+ 27373
+LOCATION:Tuntematon Alue (Rasti-Jyry)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27373
 END:VEVENT
 END:VCALENDAR

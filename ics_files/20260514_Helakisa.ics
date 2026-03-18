@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Helakisa
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T073413Z
-DESCRIPTION:Organizer: Kyrös-Rasti\nIRMA Link: https://irma.suunnistuslii
- tto.fi/public/competition/view/27462
-LOCATION:Kyrös-Rasti
+DTSTAMP:20260318T105850Z
+DESCRIPTION:Organizer: Kyrös-Rasti\nArea: Tuntematon Alue\nHoliday: Ascen
+ sion Day\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
+ iew/27462
+LOCATION:Tuntematon Alue (Kyrös-Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27462
 END:VEVENT
 END:VCALENDAR

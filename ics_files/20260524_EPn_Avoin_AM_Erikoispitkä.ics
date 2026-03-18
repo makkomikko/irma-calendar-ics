@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:EP:n Avoin AM Erikoispitkä
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T073439Z
-DESCRIPTION:Organizer: Kauhajoen Karhu\nIRMA Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27582
-LOCATION:Kauhajoen Karhu
+DTSTAMP:20260318T105934Z
+DESCRIPTION:Organizer: Kauhajoen Karhu\nArea: Tuntematon Alue\nCategories:
+  Erikoispitkä\nHoliday: Whit Sunday\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27582
+LOCATION:Tuntematon Alue (Kauhajoen Karhu)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27582
 END:VEVENT
 END:VCALENDAR

@@ -6,10 +6,11 @@ SUMMARY:Värska Originaal Finnish Spring -viesti\, Viestiliigan 2. osakilp
  ailu
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260318T073401Z
-DESCRIPTION:Organizer: Angelniemen Ankkuri\nIRMA Link: https://irma.suunni
- stusliitto.fi/public/competition/view/26764
-LOCATION:Angelniemen Ankkuri
+DTSTAMP:20260318T105830Z
+DESCRIPTION:Organizer: Angelniemen Ankkuri\nArea: Tuntematon Alue\nCategor
+ ies: Viestiliiga\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
+ tition/view/26764
+LOCATION:Tuntematon Alue (Angelniemen Ankkuri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26764
 END:VEVENT
 END:VCALENDAR

@@ -6,10 +6,10 @@ SUMMARY:Suomen Tunturisuunnistus 2026\, henkilökohtaiset sarjat 2. päiv
  ä
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260318T073545Z
-DESCRIPTION:Organizer: Lapin Sudet\nIRMA Link: https://irma.suunnistusliit
- to.fi/public/competition/view/27478
-LOCATION:Lapin Sudet
+DTSTAMP:20260318T110059Z
+DESCRIPTION:Organizer: Lapin Sudet\nArea: Tuntematon Alue\nIRMA Link: http
+ s://irma.suunnistusliitto.fi/public/competition/view/27478
+LOCATION:Tuntematon Alue (Lapin Sudet)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27478
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Sprinttiviesti\, kuntotapahtuma (Peruttu)
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260318T073345Z
-DESCRIPTION:Organizer: Kunnon Suunta Oy\nIRMA Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27589
-LOCATION:Kunnon Suunta Oy
+DTSTAMP:20260318T105802Z
+DESCRIPTION:Organizer: Kunnon Suunta Oy\nArea: Tuntematon Alue\nCategories
+ : Viesti\, Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/co
+ mpetition/view/27589
+LOCATION:Tuntematon Alue (Kunnon Suunta Oy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27589
 END:VEVENT
 END:VCALENDAR

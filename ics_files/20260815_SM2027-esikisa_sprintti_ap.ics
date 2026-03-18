@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM2027-esikisa\, sprintti\, ap\,
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T073549Z
-DESCRIPTION:Organizer: Pihkaniskat\nIRMA Link: https://irma.suunnistusliit
- to.fi/public/competition/view/27464
-LOCATION:Pihkaniskat
+DTSTAMP:20260318T110104Z
+DESCRIPTION:Organizer: Pihkaniskat\nArea: Tuntematon Alue\nCategories: Spr
+ intti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
+ /27464
+LOCATION:Tuntematon Alue (Pihkaniskat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27464
 END:VEVENT
 END:VCALENDAR

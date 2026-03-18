@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Uudenmaan Kompassi-viesti 3 os (lähikilpailu\,avoin)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260318T073621Z
-DESCRIPTION:Organizer: Espoon Suunta\nIRMA Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27627
-LOCATION:Espoon Suunta
+DTSTAMP:20260318T110143Z
+DESCRIPTION:Organizer: Espoon Suunta\nArea: Tuntematon Alue\nCategories: V
+ iesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
+ /27627
+LOCATION:Tuntematon Alue (Espoon Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27627
 END:VEVENT
 END:VCALENDAR

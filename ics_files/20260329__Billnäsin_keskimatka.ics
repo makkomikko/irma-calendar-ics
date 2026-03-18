@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:** Billnäsin keskimatka
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260318T073346Z
-DESCRIPTION:Organizer: Karjaan Ura\nIRMA Link: https://irma.suunnistusliit
- to.fi/public/competition/view/27364
-LOCATION:Karjaan Ura
+DTSTAMP:20260318T105804Z
+DESCRIPTION:Organizer: Karjaan Ura\nArea: Tuntematon Alue\nCategories: Kes
+ kimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
+ ew/27364
+LOCATION:Tuntematon Alue (Karjaan Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27364
 END:VEVENT
 END:VCALENDAR

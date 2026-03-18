@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280513
 DTEND;VALUE=DATE:20280514
-DTSTAMP:20260318T073700Z
-DESCRIPTION:Organizer: Lappeen Riento\nIRMA Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27382
-LOCATION:Lappeen Riento
+DTSTAMP:20260318T110231Z
+DESCRIPTION:Organizer: Lappeen Riento\nArea: Tuntematon Alue\nCategories: 
+ Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
+ ion/view/27382
+LOCATION:Tuntematon Alue (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27382
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Avoin Satakunnan AM-sprintti
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260318T073404Z
-DESCRIPTION:Organizer: Musta Mango Oy\nIRMA Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27651
-LOCATION:Musta Mango Oy
+DTSTAMP:20260318T105836Z
+DESCRIPTION:Organizer: Musta Mango Oy\nArea: Tuntematon Alue\nCategories: 
+ Sprintti\, AM/FSOM\nHoliday: May Day\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27651
+LOCATION:Tuntematon Alue (Musta Mango Oy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27651
 END:VEVENT
 END:VCALENDAR

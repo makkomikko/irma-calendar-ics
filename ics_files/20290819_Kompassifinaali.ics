@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kompassifinaali
 DTSTART;VALUE=DATE:20290819
 DTEND;VALUE=DATE:20290820
-DTSTAMP:20260318T073715Z
-DESCRIPTION:Organizer: Joutsenon Kullervo\nSK Vuoksi\nIRMA Link: https://i
- rma.suunnistusliitto.fi/public/competition/view/27239
-LOCATION:Joutsenon Kullervo\nSK Vuoksi
+DTSTAMP:20260318T110249Z
+DESCRIPTION:Organizer: Joutsenon Kullervo\nSK Vuoksi\nArea: Tuntematon Alu
+ e\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/272
+ 39
+LOCATION:Tuntematon Alue (Joutsenon Kullervo\nSK Vuoksi)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27239
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kainuun avoin am-keskimatka Kajaani
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T073438Z
-DESCRIPTION:Organizer: Kajaanin Suunnistajat\nIRMA Link: https://irma.suun
- nistusliitto.fi/public/competition/view/27573
-LOCATION:Kajaanin Suunnistajat
+DTSTAMP:20260318T105932Z
+DESCRIPTION:Organizer: Kajaanin Suunnistajat\nArea: Tuntematon Alue\nCateg
+ ories: Keskimatka\, AM/FSOM\nHoliday: Whit Sunday\nIRMA Link: https://irma
+ .suunnistusliitto.fi/public/competition/view/27573
+LOCATION:Tuntematon Alue (Kajaanin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27573
 END:VEVENT
 END:VCALENDAR

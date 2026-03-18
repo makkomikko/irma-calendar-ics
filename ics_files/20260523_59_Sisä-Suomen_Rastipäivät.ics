@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:59. Sisä-Suomen Rastipäivät
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T073429Z
-DESCRIPTION:Organizer: Saarijärven Pullistus\nIRMA Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27415
-LOCATION:Saarijärven Pullistus
+DTSTAMP:20260318T105917Z
+DESCRIPTION:Organizer: Saarijärven Pullistus\nArea: Tuntematon Alue\nIRMA
+  Link: https://irma.suunnistusliitto.fi/public/competition/view/27415
+LOCATION:Tuntematon Alue (Saarijärven Pullistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27415
 END:VEVENT
 END:VCALENDAR

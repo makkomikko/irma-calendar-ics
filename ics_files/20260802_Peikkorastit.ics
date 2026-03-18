@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Peikkorastit
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T073532Z
-DESCRIPTION:Organizer: Perttelin Peikot\nIRMA Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27374
-LOCATION:Perttelin Peikot
+DTSTAMP:20260318T110045Z
+DESCRIPTION:Organizer: Perttelin Peikot\nArea: Tuntematon Alue\nIRMA Link:
+  https://irma.suunnistusliitto.fi/public/competition/view/27374
+LOCATION:Tuntematon Alue (Perttelin Peikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27374
 END:VEVENT
 END:VCALENDAR

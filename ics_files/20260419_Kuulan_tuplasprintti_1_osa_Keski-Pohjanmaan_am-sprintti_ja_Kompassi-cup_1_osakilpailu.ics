@@ -6,10 +6,11 @@ SUMMARY:Kuulan tuplasprintti 1. osa\, Keski-Pohjanmaan am-sprintti ja Komp
  assi-cup 1. osakilpailu
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T073356Z
-DESCRIPTION:Organizer: Ylivieskan Kuula\nIRMA Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27531
-LOCATION:Ylivieskan Kuula
+DTSTAMP:20260318T105823Z
+DESCRIPTION:Organizer: Ylivieskan Kuula\nArea: Tuntematon Alue\nCategories
+ : Sprintti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/c
+ ompetition/view/27531
+LOCATION:Tuntematon Alue (Ylivieskan Kuula)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27531
 END:VEVENT
 END:VCALENDAR

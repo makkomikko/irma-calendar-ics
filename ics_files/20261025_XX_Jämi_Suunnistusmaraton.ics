@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:XX Jämi Suunnistusmaraton
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260318T073640Z
-DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\nIRMA Link: https://irma.s
- uunnistusliitto.fi/public/competition/view/27463
-LOCATION:Ikaalisten Nouseva-Voima
+DTSTAMP:20260318T110207Z
+DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\nArea: Tuntematon Alue\nIR
+ MA Link: https://irma.suunnistusliitto.fi/public/competition/view/27463
+LOCATION:Tuntematon Alue (Ikaalisten Nouseva-Voima)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27463
 END:VEVENT
 END:VCALENDAR

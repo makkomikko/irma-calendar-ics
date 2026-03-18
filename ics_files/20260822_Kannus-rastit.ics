@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kannus-rastit
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T073605Z
-DESCRIPTION:Organizer: Kannuksen Ura\nIRMA Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27634
-LOCATION:Kannuksen Ura
+DTSTAMP:20260318T110125Z
+DESCRIPTION:Organizer: Kannuksen Ura\nArea: Tuntematon Alue\nIRMA Link: ht
+ tps://irma.suunnistusliitto.fi/public/competition/view/27634
+LOCATION:Tuntematon Alue (Kannuksen Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27634
 END:VEVENT
 END:VCALENDAR

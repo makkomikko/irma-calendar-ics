@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Karhurastit 2026
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T073422Z
-DESCRIPTION:Organizer: Rastikarhut\nIRMA Link: https://irma.suunnistusliit
- to.fi/public/competition/view/27445
-LOCATION:Rastikarhut
+DTSTAMP:20260318T105907Z
+DESCRIPTION:Organizer: Rastikarhut\nArea: Tuntematon Alue\nIRMA Link: http
+ s://irma.suunnistusliitto.fi/public/competition/view/27445
+LOCATION:Tuntematon Alue (Rastikarhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27445
 END:VEVENT
 END:VCALENDAR

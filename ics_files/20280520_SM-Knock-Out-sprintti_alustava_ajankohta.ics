@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-Knock-Out-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280520
 DTEND;VALUE=DATE:20280521
-DTSTAMP:20260318T073701Z
-DESCRIPTION:Organizer: Jatkuva Liike Oy\nRastiPiikkiö\nIRMA Link: https:/
- /irma.suunnistusliitto.fi/public/competition/view/27443
-LOCATION:Jatkuva Liike Oy\nRastiPiikkiö
+DTSTAMP:20260318T110232Z
+DESCRIPTION:Organizer: Jatkuva Liike Oy\nRastiPiikkiö\nArea: Tuntematon A
+ lue\nCategories: Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.f
+ i/public/competition/view/27443
+LOCATION:Tuntematon Alue (Jatkuva Liike Oy\nRastiPiikkiö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27443
 END:VEVENT
 END:VCALENDAR

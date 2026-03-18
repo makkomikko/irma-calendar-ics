@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Etelä-Pohjanmaan AM Viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T073558Z
-DESCRIPTION:Organizer: Kauhajoen Karhu\nIRMA Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27609
-LOCATION:Kauhajoen Karhu
+DTSTAMP:20260318T110117Z
+DESCRIPTION:Organizer: Kauhajoen Karhu\nArea: Tuntematon Alue\nCategories:
+  Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
+ ew/27609
+LOCATION:Tuntematon Alue (Kauhajoen Karhu)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27609
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:KevätSuunnistus
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260318T073443Z
-DESCRIPTION:Organizer: Kouvolan Suunnistajat\nIRMA Link: https://irma.suun
- nistusliitto.fi/public/competition/view/27483
-LOCATION:Kouvolan Suunnistajat
+DTSTAMP:20260318T105939Z
+DESCRIPTION:Organizer: Kouvolan Suunnistajat\nArea: Tuntematon Alue\nIRMA 
+ Link: https://irma.suunnistusliitto.fi/public/competition/view/27483
+LOCATION:Tuntematon Alue (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27483
 END:VEVENT
 END:VCALENDAR

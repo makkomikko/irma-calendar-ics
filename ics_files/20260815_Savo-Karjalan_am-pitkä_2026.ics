@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Savo-Karjalan am-pitkä 2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T073552Z
-DESCRIPTION:Organizer: Liperin Taimi Suunnistus\nIRMA Link: https://irma.s
- uunnistusliitto.fi/public/competition/view/27567
-LOCATION:Liperin Taimi Suunnistus
+DTSTAMP:20260318T110110Z
+DESCRIPTION:Organizer: Liperin Taimi Suunnistus\nArea: Tuntematon Alue\nCa
+ tegories: Pitkä\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/pu
+ blic/competition/view/27567
+LOCATION:Tuntematon Alue (Liperin Taimi Suunnistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27567
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-Knock-Out-sprintti
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20260318T073653Z
-DESCRIPTION:Organizer: Lauttakylän Luja\nIRMA Link: https://irma.suunnist
- usliitto.fi/public/competition/view/27479
-LOCATION:Lauttakylän Luja
+DTSTAMP:20260318T110221Z
+DESCRIPTION:Organizer: Lauttakylän Luja\nArea: Tuntematon Alue\nCategorie
+ s: Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
+ tition/view/27479
+LOCATION:Tuntematon Alue (Lauttakylän Luja)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27479
 END:VEVENT
 END:VCALENDAR

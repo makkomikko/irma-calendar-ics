@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:ÖID:s Ekorrstigfinal
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260318T073501Z
-DESCRIPTION:Organizer: Närpes OK\nIRMA Link: https://irma.suunnistusliitt
- o.fi/public/competition/view/27583
-LOCATION:Närpes OK
+DTSTAMP:20260318T110003Z
+DESCRIPTION:Organizer: Närpes OK\nArea: Tuntematon Alue\nIRMA Link: https
+ ://irma.suunnistusliitto.fi/public/competition/view/27583
+LOCATION:Tuntematon Alue (Närpes OK)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27583
 END:VEVENT
 END:VCALENDAR

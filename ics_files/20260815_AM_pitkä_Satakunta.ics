@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:AM pitkä\, Satakunta
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T073555Z
-DESCRIPTION:Organizer: Vallan Suunta\nIRMA Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27643
-LOCATION:Vallan Suunta
+DTSTAMP:20260318T110112Z
+DESCRIPTION:Organizer: Vallan Suunta\nArea: Tuntematon Alue\nCategories: P
+ itkä\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
+ /27643
+LOCATION:Tuntematon Alue (Vallan Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27643
 END:VEVENT
 END:VCALENDAR

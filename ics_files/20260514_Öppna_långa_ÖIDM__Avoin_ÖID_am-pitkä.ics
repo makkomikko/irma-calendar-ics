@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Öppna långa ÖIDM / Avoin ÖID am-pitkä
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T073414Z
-DESCRIPTION:Organizer: IF Femman\nIRMA Link: https://irma.suunnistusliitto
- .fi/public/competition/view/27469
-LOCATION:IF Femman
+DTSTAMP:20260318T105851Z
+DESCRIPTION:Organizer: IF Femman\nArea: Tuntematon Alue\nCategories: Pitk
+ ä\, AM/FSOM\nHoliday: Ascension Day\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27469
+LOCATION:Tuntematon Alue (IF Femman)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27469
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka\, karsinta
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260318T073617Z
-DESCRIPTION:Organizer: Posion Pyrintö\nIRMA Link: https://irma.suunnistus
- liitto.fi/public/competition/view/26703
-LOCATION:Posion Pyrintö
+DTSTAMP:20260318T110139Z
+DESCRIPTION:Organizer: Posion Pyrintö\nArea: Tuntematon Alue\nCategories:
+  Pitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
+ on/view/26703
+LOCATION:Tuntematon Alue (Posion Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26703
 END:VEVENT
 END:VCALENDAR

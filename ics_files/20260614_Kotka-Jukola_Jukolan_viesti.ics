@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kotka-Jukola\, Jukolan viesti
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260318T073452Z
-DESCRIPTION:Organizer: Kymin Suunnistajat\nVehkalahden Veikot\nIRMA Link: 
- https://irma.suunnistusliitto.fi/public/competition/view/24843
-LOCATION:Kymin Suunnistajat\nVehkalahden Veikot
+DTSTAMP:20260318T105953Z
+DESCRIPTION:Organizer: Kymin Suunnistajat\nVehkalahden Veikot\nArea: Tunte
+ maton Alue\nCategories: Viesti\nIRMA Link: https://irma.suunnistusliitto.f
+ i/public/competition/view/24843
+LOCATION:Tuntematon Alue (Kymin Suunnistajat\nVehkalahden Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/24843
 END:VEVENT
 END:VCALENDAR
