@@ -23,7 +23,6 @@ def clean_filename(name):
     return re.sub(r'[^\w\s-]', '', name).strip().replace(' ', '_') + '.ics'
 
 def clean_text(text):
-    """Sanitizes text to prevent ICS file corruption from hidden HTML characters and raw newlines."""
     if not text: return ""
     text = text.replace('\u00a0', ' ')
     text = text.replace('\n', ', ').replace('\r', '')
@@ -44,17 +43,14 @@ def extract_categories(name):
     return cat
 
 def main():
-    # FIX 2: Safe Directory Handling - Ensure directory exists, don't delete it
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    # Load Club Areas
     clubs_data = {}
     clubs_file = os.path.join(OUTPUT_DIR, 'clubs.json')
     if os.path.exists(clubs_file):
         with open(clubs_file, 'r', encoding='utf-8') as f:
             clubs_data = json.load(f)
 
-    # FIX 1: Load Existing Events for Deadline Caching
     deadlines_cache = {}
     events_file = os.path.join(OUTPUT_DIR, 'events.json')
     if os.path.exists(events_file):
@@ -64,14 +60,11 @@ def main():
                 for e in old_events:
                     if e.get("link") and e.get("deadline"):
                         deadlines_cache[e["link"]] = e["deadline"]
-        except Exception:
-            pass # Ignore if file is broken or missing
+        except Exception: pass
 
     events_json = []
     today = datetime.date.today()
     fi_holidays = holidays.Finland(years=[today.year, today.year + 1])
-    
-    # Track files generated in this run so we can delete old ones later
     generated_files = set(['events.json', 'clubs.json'])
 
     with sync_playwright() as p:
@@ -95,8 +88,7 @@ def main():
                     continue
 
                 start_date, end_date = parse_fi_date(date_text)
-                if not start_date or end_date < today: 
-                    continue
+                if not start_date or end_date < today: continue
                 
                 a_tag = cols[1].query_selector("a")
                 link = f"{BASE_URL}{a_tag.get_attribute('href')}" if a_tag and a_tag.get_attribute("href").startswith("/") else (a_tag.get_attribute("href") if a_tag else "")
@@ -105,18 +97,13 @@ def main():
                 area = clean_text(clubs_data.get(primary_club, "Tuntematon Alue"))
 
                 scraped_events.append({
-                    "name": name,
-                    "start_date": start_date,
-                    "end_date": end_date,
-                    "organizer": organizer,
-                    "link": link,
-                    "area": area
+                    "name": name, "start_date": start_date, "end_date": end_date,
+                    "organizer": organizer, "link": link, "area": area
                 })
 
         for evt in scraped_events:
             deadline_str = ""
             if evt["link"]:
-                # FIX 1: Check the cache before visiting the page
                 if evt["link"] in deadlines_cache:
                     deadline_str = deadlines_cache[evt["link"]]
                 else:
@@ -126,17 +113,21 @@ def main():
                         if tier1_row.count() > 0:
                             match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', tier1_row.first.inner_text())
                             if match: deadline_str = match.group(1)
-                    except Exception: 
-                        pass
+                    except Exception: pass
 
             is_holiday = evt["start_date"] in fi_holidays or evt["end_date"] in fi_holidays
             holiday_name = fi_holidays.get(evt["start_date"]) or fi_holidays.get(evt["end_date"]) or ""
             event_categories = extract_categories(evt["name"])
 
             cal = Calendar()
-            cal.add('prodid', '-//IRMA Scraper//')
+            cal.add('prodid', '-//makkomikko//IRMA Calendar//FI')
             cal.add('version', '2.0')
             event = Event()
+            
+            # MANDATORY: Add a Unique Identifier (UID)
+            # We use the IRMA competition ID from the link to keep it unique
+            irma_id = evt["link"].split('/')[-1] if evt["link"] else clean_filename(evt["name"])
+            event.add('uid', f"irma-{irma_id}-{evt['start_date'].strftime('%Y%m%d')}@suunnistusliitto.fi")
             
             event.add('summary', evt["name"])
             event.add('dtstart', evt["start_date"])
@@ -155,8 +146,6 @@ def main():
             
             cal.add_component(event)
             filename = clean_filename(f"{evt['start_date'].strftime('%Y%m%d')}_{evt['name']}")
-            
-            # FIX 2: Track this file so it doesn't get deleted
             generated_files.add(filename)
             
             with open(os.path.join(OUTPUT_DIR, filename), 'wb') as f:
@@ -164,31 +153,21 @@ def main():
 
             events_json.append({
                 "date": evt["start_date"].strftime('%Y-%m-%d'),
-                "name": evt["name"],
-                "location": evt["organizer"],
-                "area": evt["area"],
-                "filename": filename,
-                "link": evt["link"],
-                "deadline": deadline_str,
-                "cancelled": "peruttu" in evt["name"].lower(),
-                "categories": event_categories,
-                "is_holiday": is_holiday,
-                "holiday_name": holiday_name
+                "name": evt["name"], "location": evt["organizer"], "area": evt["area"],
+                "filename": filename, "link": evt["link"], "deadline": deadline_str,
+                "cancelled": "peruttu" in evt["name"].lower(), "categories": event_categories,
+                "is_holiday": is_holiday, "holiday_name": holiday_name
             })
             
         browser.close()
 
-    # FIX 2: Overwrite events.json safely
     with open(events_file, 'w', encoding='utf-8') as f:
         json.dump(events_json, f, ensure_ascii=False, indent=2)
 
-    # FIX 2: Clean up old `.ics` files that belong to past/removed events
     for filename in os.listdir(OUTPUT_DIR):
         if filename not in generated_files and filename.endswith('.ics'):
-            try:
-                os.remove(os.path.join(OUTPUT_DIR, filename))
-            except Exception:
-                pass
+            try: os.remove(os.path.join(OUTPUT_DIR, filename))
+            except Exception: pass
 
 if __name__ == "__main__":
     main()
