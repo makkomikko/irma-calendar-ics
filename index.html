@@ -109,6 +109,42 @@
         .event-card h3 { color: #333; margin-bottom: 10px; word-break: break-word; }
         .event-card .date, .event-card .location { font-size: 0.9em; color: #666; margin-bottom: 8px; }
         .event-card .deadline { font-size: 0.9em; color: #d97706; margin-bottom: 15px; font-weight: 500; }
+
+        .category-tags { margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+        .cat-tag {
+            background: #e2e8f0; color: #475569; font-size: 0.75em;
+            padding: 3px 8px; border-radius: 12px; font-weight: 600;
+        }
+        /* Color coding specific tags */
+        .cat-tag.sm { background: #fee2e2; color: #991b1b; border: 1px solid #f87171; }
+        .cat-tag.yö { background: #1e293b; color: #f8fafc; }
+        .cat-tag.viesti { background: #dcfce7; color: #166534; }
+        
+        .holiday-alert {
+            background: #fef08a; color: #854d0e; padding: 6px 10px;
+            border-radius: 5px; font-size: 0.85em; font-weight: bold;
+            margin-bottom: 10px; border-left: 4px solid #eab308;
+            display: inline-block;
+        }
+        .event-card.holiday { border-left: 5px solid #eab308; }
+
+        .controls-bar { flex-direction: column; align-items: stretch; }
+        .top-controls { display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 15px; }
+        .category-filters { display: flex; gap: 8px; flex-wrap: wrap; width: 100%; padding-top: 10px; border-top: 1px solid #e2e8f0; }
+        
+        .cat-filter-btn {
+            background: #f8fafc; border: 1px solid #cbd5e1; padding: 6px 12px;
+            border-radius: 15px; cursor: pointer; font-size: 0.85em; color: #475569;
+            transition: all 0.2s;
+        }
+        .cat-filter-btn.active { background: #667eea; color: white; border-color: #667eea; }
+
+        .closing-soon-tag {
+            background: #ef4444; color: white; padding: 3px 8px;
+            border-radius: 12px; font-size: 0.75em; font-weight: bold;
+            margin-left: 10px; vertical-align: middle; animation: pulse 2s infinite;
+        }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.7; } 100% { opacity: 1; } }
         
         .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; }
         .event-link, .download-btn {
@@ -160,6 +196,7 @@
     <script>
         let allEvents = [];
         let activeYear = new Date().getFullYear().toString();
+        let activeCategory = 'Kaikki'; // 'All'
 
         async function loadData() {
             try {
@@ -167,14 +204,13 @@
                 if (!response.ok) throw new Error('Events not found.');
                 
                 allEvents = await response.json();
-                
-                // Sort chronologically
                 allEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
                 
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('lastUpdated').textContent = new Date().toLocaleString('fi-FI');
                 
                 setupYearTabs();
+                setupCategoryFilters();
                 renderEvents();
             } catch (error) {
                 document.getElementById('loading').textContent = `✗ Virhe: ${error.message}`;
@@ -184,15 +220,8 @@
         function setupYearTabs() {
             const tabsContainer = document.getElementById('year-tabs');
             tabsContainer.innerHTML = '';
-            
-            // Extract unique years
-            const years = [...new Set(allEvents.map(e => e.date.substring(0, 4)))];
-            years.sort();
-            
-            // If current year isn't in data, select the first available year
-            if (!years.includes(activeYear) && years.length > 0) {
-                activeYear = years[0];
-            }
+            const years = [...new Set(allEvents.map(e => e.date.substring(0, 4)))].sort();
+            if (!years.includes(activeYear) && years.length > 0) activeYear = years[0];
 
             years.forEach(year => {
                 const btn = document.createElement('button');
@@ -208,79 +237,151 @@
             });
         }
 
+        function setupCategoryFilters() {
+            // Find the container, or create it if missing in the HTML structure
+            let controlsBar = document.querySelector('.controls-bar');
+            
+            // Re-structure controls bar if needed
+            if (!document.querySelector('.category-filters')) {
+                controlsBar.innerHTML = `
+                    <div class="top-controls">
+                        <div id="year-tabs" class="year-tabs"></div>
+                        <label class="toggle-label">
+                            <input type="checkbox" id="show-cancelled" checked onchange="renderEvents()">
+                            Näytä perutut
+                        </label>
+                    </div>
+                    <div id="category-filters" class="category-filters"></div>
+                `;
+                setupYearTabs(); // Re-run to populate new container
+            }
+
+            const filterContainer = document.getElementById('category-filters');
+            filterContainer.innerHTML = '';
+            
+            // Get all unique categories from data
+            const allCats = new Set();
+            allEvents.forEach(e => {
+                if(e.categories) e.categories.forEach(c => allCats.add(c));
+            });
+
+            // Create 'All' button
+            const allBtn = document.createElement('button');
+            allBtn.className = 'cat-filter-btn active';
+            allBtn.textContent = 'Kaikki';
+            allBtn.onclick = (e) => setCategory(e.target, 'Kaikki');
+            filterContainer.appendChild(allBtn);
+
+            // Create specific category buttons
+            Array.from(allCats).sort().forEach(cat => {
+                const btn = document.createElement('button');
+                btn.className = 'cat-filter-btn';
+                btn.textContent = cat;
+                btn.onclick = (e) => setCategory(e.target, cat);
+                filterContainer.appendChild(btn);
+            });
+        }
+
+        function setCategory(btnElement, category) {
+            activeCategory = category;
+            document.querySelectorAll('.cat-filter-btn').forEach(b => b.classList.remove('active'));
+            btnElement.classList.add('active');
+            renderEvents();
+        }
+
+        function parseFiDateToJS(dateStr) {
+            // Converts "15.05.2026" to a JS Date object
+            if(!dateStr) return null;
+            const parts = dateStr.split('.');
+            if(parts.length !== 3) return null;
+            return new Date(parts[2], parts[1] - 1, parts[0]);
+        }
+
         function renderEvents() {
             const container = document.getElementById('calendar-content');
             const showCancelled = document.getElementById('show-cancelled').checked;
             container.innerHTML = '';
 
-            // Filter by Year and Cancelled Status
+            const today = new Date();
+            today.setHours(0,0,0,0);
+
             const filteredEvents = allEvents.filter(e => {
                 const isCorrectYear = e.date.startsWith(activeYear);
                 const isCancelledVisible = showCancelled || !e.cancelled;
-                return isCorrectYear && isCancelledVisible;
+                const isCorrectCategory = activeCategory === 'Kaikki' || (e.categories && e.categories.includes(activeCategory));
+                return isCorrectYear && isCancelledVisible && isCorrectCategory;
             });
 
             if (filteredEvents.length === 0) {
-                container.innerHTML = '<div class="no-events">Ei tapahtumia valitulle vuodelle.</div>';
+                container.innerHTML = '<div class="no-events">Ei tapahtumia valituilla suodattimilla.</div>';
                 return;
             }
 
-            // Group by Month
             let currentMonth = '';
             let currentGrid = null;
 
             filteredEvents.forEach(event => {
                 const dateObj = new Date(event.date);
-                // Finnish month name (e.g., "toukokuu")
                 const monthName = dateObj.toLocaleDateString('fi-FI', { month: 'long' });
 
                 if (monthName !== currentMonth) {
                     currentMonth = monthName;
-                    
                     const monthSection = document.createElement('div');
                     monthSection.className = 'month-group';
-                    
-                    const header = document.createElement('h2');
-                    header.className = 'month-header';
-                    header.textContent = `${monthName} ${activeYear}`;
+                    monthSection.innerHTML = `<h2 class="month-header">${monthName} ${activeYear}</h2>`;
                     
                     currentGrid = document.createElement('div');
                     currentGrid.className = 'events-grid';
                     
-                    monthSection.appendChild(header);
                     monthSection.appendChild(currentGrid);
                     container.appendChild(monthSection);
                 }
 
-                currentGrid.appendChild(createEventCard(event, dateObj));
+                currentGrid.appendChild(createEventCard(event, dateObj, today));
             });
         }
 
-        function createEventCard(event, dateObj) {
+        function createEventCard(event, dateObj, today) {
             const card = document.createElement('div');
-            card.className = `event-card ${event.cancelled ? 'cancelled' : ''}`;
+            card.className = `event-card ${event.cancelled ? 'cancelled' : ''} ${event.is_holiday ? 'holiday' : ''}`;
             
-            const formattedDate = dateObj.toLocaleDateString('fi-FI', { 
-                weekday: 'short', day: 'numeric', month: 'numeric', year: 'numeric' 
-            });
+            const formattedDate = dateObj.toLocaleDateString('fi-FI', { weekday: 'short', day: 'numeric', month: 'numeric', year: 'numeric' });
             
-            let deadlineHtml = event.deadline ? `<div class="deadline">⏰ Ilmoittautuminen: ${event.deadline}</div>` : '';
-            let linkHtml = event.link ? `<a href="${event.link}" target="_blank" class="event-link">🔗 IRMA</a>` : '';
-            
-            // New: Google Maps Button
-            let mapsHtml = event.maps_url 
-                ? `<a href="${event.maps_url}" target="_blank" class="event-link" style="background: #e0f2fe; color: #0369a1; border-color: #bae6fd;">📍 Kartta</a>` 
-                : '';
+            // Closing Soon Logic (7 days)
+            let closingSoonHtml = '';
+            if (event.deadline && !event.cancelled) {
+                const deadlineDate = parseFiDateToJS(event.deadline);
+                if (deadlineDate) {
+                    const diffTime = deadlineDate - today;
+                    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                    if (diffDays >= 0 && diffDays <= 7) {
+                        closingSoonHtml = `<span class="closing-soon-tag">⏳ Päättyy ${diffDays === 0 ? 'tänään!' : diffDays + ' pv'}</span>`;
+                    }
+                }
+            }
 
+            let deadlineHtml = event.deadline ? `<div class="deadline">⏰ Ilmoittautuminen: ${event.deadline} ${closingSoonHtml}</div>` : '';
+            let linkHtml = event.link ? `<a href="${event.link}" target="_blank" class="event-link">🔗 IRMA</a>` : '';
             let cancelBadge = event.cancelled ? `<span class="cancelled-badge">Peruttu</span>` : '';
+            let holidayHtml = event.is_holiday ? `<div class="holiday-alert">🇫🇮 Vapaapäivä: ${escapeHtml(event.holiday_name)}</div><br>` : '';
+
+            let tagsHtml = '';
+            if (event.categories && event.categories.length > 0) {
+                const tags = event.categories.map(cat => `<span class="cat-tag ${cat.toLowerCase().replace(/[^a-zöäå]/g, '')}">${escapeHtml(cat)}</span>`).join('');
+                tagsHtml = `<div class="category-tags">${tags}</div>`;
+            }
             
+            // Display Area alongside the Organizer
+            let areaHtml = event.area && event.area !== "Tuntematon Alue" ? `<br>🗺️ Alue: <strong>${escapeHtml(event.area)}</strong>` : '';
+
             card.innerHTML = `
+                ${tagsHtml}
                 <h3>${escapeHtml(event.name)} ${cancelBadge}</h3>
+                ${holidayHtml}
                 <div class="date">📅 ${formattedDate}</div>
-                <div class="location">🏢 Järjestäjä: ${escapeHtml(event.location)}</div>
+                <div class="location">🏢 Järjestäjä: ${escapeHtml(event.location)} ${areaHtml}</div>
                 ${deadlineHtml}
                 <div class="actions">
-                    ${mapsHtml}
                     ${linkHtml}
                     <a href="ics_files/${encodeURIComponent(event.filename)}" class="download-btn" download>📥 Lataa ICS</a>
                 </div>
