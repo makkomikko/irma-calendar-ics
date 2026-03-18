@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Hämeen AM-sprintti ja XXVIII Junnukisat
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260318T115636Z
-DESCRIPTION:Organizer: Rasti-Nokia\nArea: Tuntematon Alue\nCategories: Spr
- intti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compet
- ition/view/27323
-LOCATION:Tuntematon Alue (Rasti-Nokia)
+DTSTAMP:20260318T121152Z
+DESCRIPTION:Organizer: Rasti-Nokia\nArea: Häme\nCategories: Sprintti\, AM
+ /FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
+ /27323
+LOCATION:Häme (Rasti-Nokia)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27323
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kortesjärvi-sprintti
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260318T115631Z
-DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nArea: Tuntematon Alue\
- nCategories: Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/
- competition/view/27574
-LOCATION:Tuntematon Alue (Kortesjärven Järvi-Veikot)
+DTSTAMP:20260318T121146Z
+DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nArea: Etelä-Pohjanmaa
+ \nCategories: Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public
+ /competition/view/27574
+LOCATION:Etelä-Pohjanmaa (Kortesjärven Järvi-Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27574
 END:VEVENT
 END:VCALENDAR

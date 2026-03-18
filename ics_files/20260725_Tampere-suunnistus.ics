@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Tampere-suunnistus
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T115749Z
-DESCRIPTION:Organizer: Koovee\nArea: Tuntematon Alue\nIRMA Link: https://i
- rma.suunnistusliitto.fi/public/competition/view/27409
-LOCATION:Tuntematon Alue (Koovee)
+DTSTAMP:20260318T121329Z
+DESCRIPTION:Organizer: Koovee\nArea: Häme\nIRMA Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/27409
+LOCATION:Häme (Koovee)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27409
 END:VEVENT
 END:VCALENDAR

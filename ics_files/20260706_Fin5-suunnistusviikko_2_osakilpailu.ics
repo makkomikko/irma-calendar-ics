@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko\, 2. osakilpailu
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-DTSTAMP:20260318T115734Z
-DESCRIPTION:Organizer: Sallan Karhut\nArea: Tuntematon Alue\nIRMA Link: ht
- tps://irma.suunnistusliitto.fi/public/competition/view/27197
-LOCATION:Tuntematon Alue (Sallan Karhut)
+DTSTAMP:20260318T121312Z
+DESCRIPTION:Organizer: Sallan Karhut\nArea: Lappi\nIRMA Link: https://irma
+ .suunnistusliitto.fi/public/competition/view/27197
+LOCATION:Lappi (Sallan Karhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27197
 END:VEVENT
 END:VCALENDAR

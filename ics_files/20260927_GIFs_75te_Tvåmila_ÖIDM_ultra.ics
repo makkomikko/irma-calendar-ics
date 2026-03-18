@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:GIF:s 75:te Tvåmila\, ÖIDM ultra
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260318T115906Z
-DESCRIPTION:Organizer: Gamlakarleby IF\nArea: Tuntematon Alue\nIRMA Link: 
- https://irma.suunnistusliitto.fi/public/competition/view/27537
-LOCATION:Tuntematon Alue (Gamlakarleby IF)
+DTSTAMP:20260318T121503Z
+DESCRIPTION:Organizer: Gamlakarleby IF\nArea: FSO\nIRMA Link: https://irma
+ .suunnistusliitto.fi/public/competition/view/27537
+LOCATION:FSO (Gamlakarleby IF)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27537
 END:VEVENT
 END:VCALENDAR

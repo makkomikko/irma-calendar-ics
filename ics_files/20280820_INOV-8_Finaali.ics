@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:INOV-8 Finaali
 DTSTART;VALUE=DATE:20280820
 DTEND;VALUE=DATE:20280821
-DTSTAMP:20260318T115934Z
-DESCRIPTION:Organizer: Lahden Suunnistajat-37\nArea: Tuntematon Alue\nIRMA
-  Link: https://irma.suunnistusliitto.fi/public/competition/view/27249
-LOCATION:Tuntematon Alue (Lahden Suunnistajat-37)
+DTSTAMP:20260318T121536Z
+DESCRIPTION:Organizer: Lahden Suunnistajat-37\nArea: Päijät-Häme\nIRMA 
+ Link: https://irma.suunnistusliitto.fi/public/competition/view/27249
+LOCATION:Päijät-Häme (Lahden Suunnistajat-37)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27249
 END:VEVENT
 END:VCALENDAR

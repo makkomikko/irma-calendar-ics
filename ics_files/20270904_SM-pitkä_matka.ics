@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-DTSTAMP:20260318T115922Z
-DESCRIPTION:Organizer: Anttolan Urheilijat\nArea: Tuntematon Alue\nCategor
- ies: Pitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
- tition/view/26676
-LOCATION:Tuntematon Alue (Anttolan Urheilijat)
+DTSTAMP:20260318T121522Z
+DESCRIPTION:Organizer: Anttolan Urheilijat\nArea: Kaakko\nCategories: Pitk
+ ä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
+ ew/26676
+LOCATION:Kaakko (Anttolan Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26676
 END:VEVENT
 END:VCALENDAR

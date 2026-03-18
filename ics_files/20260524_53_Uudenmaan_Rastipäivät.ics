@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:53. Uudenmaan Rastipäivät
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T115706Z
-DESCRIPTION:Organizer: Rajamäen Rykmentti\nArea: Tuntematon Alue\nHoliday
- : Whit Sunday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
- ion/view/27427
-LOCATION:Tuntematon Alue (Rajamäen Rykmentti)
+DTSTAMP:20260318T121239Z
+DESCRIPTION:Organizer: Rajamäen Rykmentti\nArea: Uusimaa\nHoliday: Whit S
+ unday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
+ /27427
+LOCATION:Uusimaa (Rajamäen Rykmentti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27427
 END:VEVENT
 END:VCALENDAR

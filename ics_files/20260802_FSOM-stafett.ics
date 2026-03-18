@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:FSOM-stafett
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T115806Z
-DESCRIPTION:Organizer: Solf IK\nArea: Tuntematon Alue\nCategories: AM/FSOM
- \nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2751
- 1
-LOCATION:Tuntematon Alue (Solf IK)
+DTSTAMP:20260318T121349Z
+DESCRIPTION:Organizer: Solf IK\nArea: FSO\nCategories: AM/FSOM\nIRMA Link:
+  https://irma.suunnistusliitto.fi/public/competition/view/27511
+LOCATION:FSO (Solf IK)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27511
 END:VEVENT
 END:VCALENDAR

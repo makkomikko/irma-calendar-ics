@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Nuijamies-rastit\, am-keskimatka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T115845Z
-DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet\nArea: Tuntematon Alue\nCa
- tegories: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.f
- i/public/competition/view/27596
-LOCATION:Tuntematon Alue (Ylikiimingin Nuijamiehet)
+DTSTAMP:20260318T121437Z
+DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet\nArea: Pohjois-Pohjanmaa\n
+ Categories: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto
+ .fi/public/competition/view/27596
+LOCATION:Pohjois-Pohjanmaa (Ylikiimingin Nuijamiehet)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27596
 END:VEVENT
 END:VCALENDAR

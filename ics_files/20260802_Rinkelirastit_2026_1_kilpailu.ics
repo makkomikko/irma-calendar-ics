@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Rinkelirastit 2026 1. kilpailu
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T115802Z
-DESCRIPTION:Organizer: Lappeen Riento\nArea: Tuntematon Alue\nIRMA Link: h
- ttps://irma.suunnistusliitto.fi/public/competition/view/27431
-LOCATION:Tuntematon Alue (Lappeen Riento)
+DTSTAMP:20260318T121345Z
+DESCRIPTION:Organizer: Lappeen Riento\nArea: Kaakko\nIRMA Link: https://ir
+ ma.suunnistusliitto.fi/public/competition/view/27431
+LOCATION:Kaakko (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27431
 END:VEVENT
 END:VCALENDAR

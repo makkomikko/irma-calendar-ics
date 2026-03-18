@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Avoin E-P Am-keskimatka
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T115700Z
-DESCRIPTION:Organizer: Vaasan Suunnistajat\nArea: Tuntematon Alue\nCategor
- ies: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/pub
- lic/competition/view/27513
-LOCATION:Tuntematon Alue (Vaasan Suunnistajat)
+DTSTAMP:20260318T121228Z
+DESCRIPTION:Organizer: Vaasan Suunnistajat\nArea: Etelä-Pohjanmaa\nCatego
+ ries: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/pu
+ blic/competition/view/27513
+LOCATION:Etelä-Pohjanmaa (Vaasan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27513
 END:VEVENT
 END:VCALENDAR

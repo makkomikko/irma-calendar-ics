@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Keski-Suomen AM-sprintti
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260318T115638Z
-DESCRIPTION:Organizer: Muuramen Rasti\nArea: Tuntematon Alue\nCategories: 
- Sprintti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/com
- petition/view/27635
-LOCATION:Tuntematon Alue (Muuramen Rasti)
+DTSTAMP:20260318T121154Z
+DESCRIPTION:Organizer: Muuramen Rasti\nArea: Keski-Suomi\nCategories: Spri
+ ntti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
+ tion/view/27635
+LOCATION:Keski-Suomi (Muuramen Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27635
 END:VEVENT
 END:VCALENDAR

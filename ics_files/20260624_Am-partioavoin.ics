@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Am-partio/avoin
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260318T115724Z
-DESCRIPTION:Organizer: Kannuksen Ura\nArea: Tuntematon Alue\nCategories: A
+DTSTAMP:20260318T121300Z
+DESCRIPTION:Organizer: Kannuksen Ura\nArea: Keski-Pohjanmaa\nCategories: A
  M/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
  w/27633
-LOCATION:Tuntematon Alue (Kannuksen Ura)
+LOCATION:Keski-Pohjanmaa (Kannuksen Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27633
 END:VEVENT
 END:VCALENDAR

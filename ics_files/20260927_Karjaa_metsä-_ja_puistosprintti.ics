@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Karjaa metsä- ja puistosprintti
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260318T115905Z
-DESCRIPTION:Organizer: Karjaan Ura\nArea: Tuntematon Alue\nCategories: Spr
- intti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
- /27365
-LOCATION:Tuntematon Alue (Karjaan Ura)
+DTSTAMP:20260318T121502Z
+DESCRIPTION:Organizer: Karjaan Ura\nArea: Uusimaa\nCategories: Sprintti\nI
+ RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27365
+LOCATION:Uusimaa (Karjaan Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27365
 END:VEVENT
 END:VCALENDAR

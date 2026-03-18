@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kuulan tuplasprintti 2. osa
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T115627Z
-DESCRIPTION:Organizer: Ylivieskan Kuula\nArea: Tuntematon Alue\nCategories
+DTSTAMP:20260318T121141Z
+DESCRIPTION:Organizer: Ylivieskan Kuula\nArea: Keski-Pohjanmaa\nCategories
  : Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
  /view/27579
-LOCATION:Tuntematon Alue (Ylivieskan Kuula)
+LOCATION:Keski-Pohjanmaa (Ylivieskan Kuula)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27579
 END:VEVENT
 END:VCALENDAR

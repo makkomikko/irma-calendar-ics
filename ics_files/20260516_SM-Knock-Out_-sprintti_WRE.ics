@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-Knock-Out -sprintti (WRE)
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T115648Z
-DESCRIPTION:Organizer: SK Pohjantähti\nArea: Tuntematon Alue\nCategories:
-  Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
- tion/view/27231
-LOCATION:Tuntematon Alue (SK Pohjantähti)
+DTSTAMP:20260318T121212Z
+DESCRIPTION:Organizer: SK Pohjantähti\nArea: Pohjois-Pohjanmaa\nCategorie
+ s: Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
+ tition/view/27231
+LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27231
 END:VEVENT
 END:VCALENDAR

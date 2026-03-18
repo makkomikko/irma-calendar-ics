@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:K-P:n AM-keskimatka
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T115754Z
-DESCRIPTION:Organizer: Kalajoen Junkkarit\nArea: Tuntematon Alue\nCategori
+DTSTAMP:20260318T121336Z
+DESCRIPTION:Organizer: Kalajoen Junkkarit\nArea: Keski-Pohjanmaa\nCategori
  es: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/publ
  ic/competition/view/27631
-LOCATION:Tuntematon Alue (Kalajoen Junkkarit)
+LOCATION:Keski-Pohjanmaa (Kalajoen Junkkarit)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27631
 END:VEVENT
 END:VCALENDAR

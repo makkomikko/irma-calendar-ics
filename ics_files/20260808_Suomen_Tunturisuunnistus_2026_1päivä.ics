@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Suomen Tunturisuunnistus 2026\, 1.päivä
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260318T115808Z
-DESCRIPTION:Organizer: Lapin Sudet\nArea: Tuntematon Alue\nIRMA Link: http
- s://irma.suunnistusliitto.fi/public/competition/view/27475
-LOCATION:Tuntematon Alue (Lapin Sudet)
+DTSTAMP:20260318T121351Z
+DESCRIPTION:Organizer: Lapin Sudet\nArea: Lappi\nIRMA Link: https://irma.s
+ uunnistusliitto.fi/public/competition/view/27475
+LOCATION:Lappi (Lapin Sudet)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27475
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti / FM-stafett\, Viestiliigan finaali
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260318T115849Z
-DESCRIPTION:Organizer: OK Raseborg\nArea: Tuntematon Alue\nCategories: Vie
- stiliiga\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
- ion/view/26669
-LOCATION:Tuntematon Alue (OK Raseborg)
+DTSTAMP:20260318T121442Z
+DESCRIPTION:Organizer: OK Raseborg\nArea: FSO\nCategories: Viestiliiga\, S
+ M\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/266
+ 69
+LOCATION:FSO (OK Raseborg)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26669
 END:VEVENT
 END:VCALENDAR

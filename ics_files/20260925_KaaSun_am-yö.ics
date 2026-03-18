@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:KaaSu:n am-yö
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260318T115902Z
-DESCRIPTION:Organizer: Joutsenon Kullervo\nArea: Tuntematon Alue\nCategori
- es: Yö\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/comp
- etition/view/27561
-LOCATION:Tuntematon Alue (Joutsenon Kullervo)
+DTSTAMP:20260318T121459Z
+DESCRIPTION:Organizer: Joutsenon Kullervo\nArea: Kaakko\nCategories: Yö\,
+  AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
+ iew/27561
+LOCATION:Kaakko (Joutsenon Kullervo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27561
 END:VEVENT
 END:VCALENDAR

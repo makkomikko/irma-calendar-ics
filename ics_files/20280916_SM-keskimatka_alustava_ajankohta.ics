@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-keskimatka (alustava ajankohta)
 DTSTART;VALUE=DATE:20280916
 DTEND;VALUE=DATE:20280917
-DTSTAMP:20260318T115936Z
-DESCRIPTION:Organizer: Paimion Rasti\nArea: Tuntematon Alue\nCategories: K
+DTSTAMP:20260318T121538Z
+DESCRIPTION:Organizer: Paimion Rasti\nArea: Varsinais-Suomi\nCategories: K
  eskimatka\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
  tion/view/27398
-LOCATION:Tuntematon Alue (Paimion Rasti)
+LOCATION:Varsinais-Suomi (Paimion Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27398
 END:VEVENT
 END:VCALENDAR

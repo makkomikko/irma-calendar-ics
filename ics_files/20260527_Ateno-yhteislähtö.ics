@@ -5,10 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Ateno-yhteislähtö
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-DTSTAMP:20260318T115711Z
-DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nArea: Tuntematon Alue\
- nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27602
-LOCATION:Tuntematon Alue (Kortesjärven Järvi-Veikot)
+DTSTAMP:20260318T121245Z
+DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nArea: Etelä-Pohjanmaa
+ \nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2760
+ 2
+LOCATION:Etelä-Pohjanmaa (Kortesjärven Järvi-Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27602
 END:VEVENT
 END:VCALENDAR

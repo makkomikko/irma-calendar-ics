@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:eGames-viesti
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T115838Z
-DESCRIPTION:Organizer: Espoon Suunta\nArea: Tuntematon Alue\nCategories: V
- iesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
- /27424
-LOCATION:Tuntematon Alue (Espoon Suunta)
+DTSTAMP:20260318T121429Z
+DESCRIPTION:Organizer: Espoon Suunta\nArea: Uusimaa\nCategories: Viesti\nI
+ RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27424
+LOCATION:Uusimaa (Espoon Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27424
 END:VEVENT
 END:VCALENDAR

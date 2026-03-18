@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Karkki-Rastin 40-vuotisjuhlakilpailu
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T115649Z
-DESCRIPTION:Organizer: Karkki-Rasti\nArea: Tuntematon Alue\nIRMA Link: htt
- ps://irma.suunnistusliitto.fi/public/competition/view/27386
-LOCATION:Tuntematon Alue (Karkki-Rasti)
+DTSTAMP:20260318T121213Z
+DESCRIPTION:Organizer: Karkki-Rasti\nArea: Uusimaa\nIRMA Link: https://irm
+ a.suunnistusliitto.fi/public/competition/view/27386
+LOCATION:Uusimaa (Karkki-Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27386
 END:VEVENT
 END:VCALENDAR

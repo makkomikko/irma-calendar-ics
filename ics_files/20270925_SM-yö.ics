@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-yö
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-DTSTAMP:20260318T115925Z
-DESCRIPTION:Organizer: Kajaanin Suunnistajat\nArea: Tuntematon Alue\nCateg
- ories: Yö\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compet
- ition/view/26770
-LOCATION:Tuntematon Alue (Kajaanin Suunnistajat)
+DTSTAMP:20260318T121525Z
+DESCRIPTION:Organizer: Kajaanin Suunnistajat\nArea: Kainuu\nCategories: Y
+ ö\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
+ ew/26770
+LOCATION:Kainuu (Kajaanin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26770
 END:VEVENT
 END:VCALENDAR

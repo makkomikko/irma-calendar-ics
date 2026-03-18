@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20260318T115919Z
-DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Tuntematon Alue\nIRMA Link: h
- ttps://irma.suunnistusliitto.fi/public/competition/view/26297
-LOCATION:Tuntematon Alue (Lapuan Virkiä)
+DTSTAMP:20260318T121519Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Etelä-Pohjanmaa\nIRMA Link: 
+ https://irma.suunnistusliitto.fi/public/competition/view/26297
+LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26297
 END:VEVENT
 END:VCALENDAR

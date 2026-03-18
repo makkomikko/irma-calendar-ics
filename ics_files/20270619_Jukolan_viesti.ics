@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20260318T115913Z
-DESCRIPTION:Organizer: Sotkamon Jymy\nArea: Tuntematon Alue\nCategories: V
- iesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
- /26190
-LOCATION:Tuntematon Alue (Sotkamon Jymy)
+DTSTAMP:20260318T121511Z
+DESCRIPTION:Organizer: Sotkamon Jymy\nArea: Kainuu\nCategories: Viesti\nIR
+ MA Link: https://irma.suunnistusliitto.fi/public/competition/view/26190
+LOCATION:Kainuu (Sotkamon Jymy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26190
 END:VEVENT
 END:VCALENDAR

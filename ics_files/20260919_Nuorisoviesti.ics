@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Nuorisoviesti
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T115857Z
-DESCRIPTION:Organizer: Turun Suunnistajat\nArea: Tuntematon Alue\nCategori
+DTSTAMP:20260318T121453Z
+DESCRIPTION:Organizer: Turun Suunnistajat\nArea: Varsinais-Suomi\nCategori
  es: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
  /view/27563
-LOCATION:Tuntematon Alue (Turun Suunnistajat)
+LOCATION:Varsinais-Suomi (Turun Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27563
 END:VEVENT
 END:VCALENDAR

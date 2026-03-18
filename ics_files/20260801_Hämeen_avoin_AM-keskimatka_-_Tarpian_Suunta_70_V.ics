@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Hämeen avoin AM-keskimatka - Tarpian Suunta 70 V
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T115757Z
-DESCRIPTION:Organizer: Tarpian Suunta\nArea: Tuntematon Alue\nCategories: 
- Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/c
- ompetition/view/27404
-LOCATION:Tuntematon Alue (Tarpian Suunta)
+DTSTAMP:20260318T121338Z
+DESCRIPTION:Organizer: Tarpian Suunta\nArea: Häme\nCategories: Keskimatka
+ \, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
+ /view/27404
+LOCATION:Häme (Tarpian Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27404
 END:VEVENT
 END:VCALENDAR

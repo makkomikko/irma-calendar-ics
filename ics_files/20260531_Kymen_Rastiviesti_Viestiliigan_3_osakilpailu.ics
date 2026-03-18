@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kymen Rastiviesti\, Viestiliigan 3. osakilpailu
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260318T115713Z
-DESCRIPTION:Organizer: Kouvolan Suunnistajat\nArea: Tuntematon Alue\nCateg
- ories: Viestiliiga\nIRMA Link: https://irma.suunnistusliitto.fi/public/com
- petition/view/27484
-LOCATION:Tuntematon Alue (Kouvolan Suunnistajat)
+DTSTAMP:20260318T121247Z
+DESCRIPTION:Organizer: Kouvolan Suunnistajat\nArea: Kaakko\nCategories: Vi
+ estiliiga\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
+ view/27484
+LOCATION:Kaakko (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27484
 END:VEVENT
 END:VCALENDAR

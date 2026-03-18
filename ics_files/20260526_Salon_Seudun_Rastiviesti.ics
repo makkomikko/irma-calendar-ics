@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Salon Seudun Rastiviesti
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20260318T115709Z
-DESCRIPTION:Organizer: Someron Esa\nArea: Tuntematon Alue\nCategories: Vie
+DTSTAMP:20260318T121243Z
+DESCRIPTION:Organizer: Someron Esa\nArea: Varsinais-Suomi\nCategories: Vie
  sti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2
  7645
-LOCATION:Tuntematon Alue (Someron Esa)
+LOCATION:Varsinais-Suomi (Someron Esa)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27645
 END:VEVENT
 END:VCALENDAR

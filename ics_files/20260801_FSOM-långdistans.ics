@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:FSOM-långdistans
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T115801Z
-DESCRIPTION:Organizer: Solf IK\nArea: Tuntematon Alue\nCategories: AM/FSOM
- \nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2751
- 0
-LOCATION:Tuntematon Alue (Solf IK)
+DTSTAMP:20260318T121343Z
+DESCRIPTION:Organizer: Solf IK\nArea: FSO\nCategories: AM/FSOM\nIRMA Link:
+  https://irma.suunnistusliitto.fi/public/competition/view/27510
+LOCATION:FSO (Solf IK)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27510
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Ice Power -rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T115704Z
-DESCRIPTION:Organizer: Tampereen Pyrintö\nArea: Tuntematon Alue\nHoliday:
-  Whit Sunday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
- on/view/27412
-LOCATION:Tuntematon Alue (Tampereen Pyrintö)
+DTSTAMP:20260318T121237Z
+DESCRIPTION:Organizer: Tampereen Pyrintö\nArea: Häme\nHoliday: Whit Sund
+ ay\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27
+ 412
+LOCATION:Häme (Tampereen Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27412
 END:VEVENT
 END:VCALENDAR

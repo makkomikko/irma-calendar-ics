@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Savo-Karjalan avoin AM-yö
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T115856Z
-DESCRIPTION:Organizer: Siilin Rasti\nArea: Tuntematon Alue\nCategories: Y
- ö\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
- on/view/27560
-LOCATION:Tuntematon Alue (Siilin Rasti)
+DTSTAMP:20260318T121452Z
+DESCRIPTION:Organizer: Siilin Rasti\nArea: Savo-Karjala\nCategories: Yö\,
+  AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
+ iew/27560
+LOCATION:Savo-Karjala (Siilin Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27560
 END:VEVENT
 END:VCALENDAR

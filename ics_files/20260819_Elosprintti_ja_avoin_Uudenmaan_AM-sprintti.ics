@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Elosprintti ja avoin Uudenmaan AM-sprintti
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260318T115830Z
-DESCRIPTION:Organizer: Järvenpään Palo\nArea: Tuntematon Alue\nCategori
- es: Sprintti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public
- /competition/view/27437
-LOCATION:Tuntematon Alue (Järvenpään Palo)
+DTSTAMP:20260318T121420Z
+DESCRIPTION:Organizer: Järvenpään Palo\nArea: Uusimaa\nCategories: Spri
+ ntti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
+ tion/view/27437
+LOCATION:Uusimaa (Järvenpään Palo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27437
 END:VEVENT
 END:VCALENDAR

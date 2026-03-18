@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:ÖIDM stafett
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T115826Z
-DESCRIPTION:Organizer: OK Kristina\nArea: Tuntematon Alue\nIRMA Link: http
- s://irma.suunnistusliitto.fi/public/competition/view/27603
-LOCATION:Tuntematon Alue (OK Kristina)
+DTSTAMP:20260318T121415Z
+DESCRIPTION:Organizer: OK Kristina\nArea: FSO\nIRMA Link: https://irma.suu
+ nnistusliitto.fi/public/competition/view/27603
+LOCATION:FSO (OK Kristina)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27603
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Kaakon AM.viestit
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T115647Z
-DESCRIPTION:Organizer: SK Vuoksi\nArea: Tuntematon Alue\nCategories: Viest
- i\nHoliday: Ascension Day\nIRMA Link: https://irma.suunnistusliitto.fi/pub
- lic/competition/view/27632
-LOCATION:Tuntematon Alue (SK Vuoksi)
+DTSTAMP:20260318T121208Z
+DESCRIPTION:Organizer: SK Vuoksi\nArea: Kaakko\nCategories: Viesti\nHolida
+ y: Ascension Day\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
+ tition/view/27632
+LOCATION:Kaakko (SK Vuoksi)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27632
 END:VEVENT
 END:VCALENDAR

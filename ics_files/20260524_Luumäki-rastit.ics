@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Luumäki-rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T115703Z
-DESCRIPTION:Organizer: Luumäen Rasti\nArea: Tuntematon Alue\nHoliday: Whi
- t Sunday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
- iew/27405
-LOCATION:Tuntematon Alue (Luumäen Rasti)
+DTSTAMP:20260318T121236Z
+DESCRIPTION:Organizer: Luumäen Rasti\nArea: Kaakko\nHoliday: Whit Sunday\
+ nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27405
+LOCATION:Kaakko (Luumäen Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27405
 END:VEVENT
 END:VCALENDAR

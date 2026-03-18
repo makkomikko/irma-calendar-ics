@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:SM-sprintti
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-DTSTAMP:20260318T115923Z
-DESCRIPTION:Organizer: Pihkaniskat\nArea: Tuntematon Alue\nCategories: Spr
- intti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
- /view/26697
-LOCATION:Tuntematon Alue (Pihkaniskat)
+DTSTAMP:20260318T121523Z
+DESCRIPTION:Organizer: Pihkaniskat\nArea: Uusimaa\nCategories: Sprintti\, 
+ SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/26
+ 697
+LOCATION:Uusimaa (Pihkaniskat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26697
 END:VEVENT
 END:VCALENDAR

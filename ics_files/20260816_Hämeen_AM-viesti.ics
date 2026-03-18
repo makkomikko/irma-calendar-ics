@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Hämeen AM-viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T115825Z
-DESCRIPTION:Organizer: Oriveden Ponnistus\nArea: Tuntematon Alue\nCategori
- es: Viesti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/c
- ompetition/view/27493
-LOCATION:Tuntematon Alue (Oriveden Ponnistus)
+DTSTAMP:20260318T121414Z
+DESCRIPTION:Organizer: Oriveden Ponnistus\nArea: Häme\nCategories: Viesti
+ \, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
+ /view/27493
+LOCATION:Häme (Oriveden Ponnistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27493
 END:VEVENT
 END:VCALENDAR

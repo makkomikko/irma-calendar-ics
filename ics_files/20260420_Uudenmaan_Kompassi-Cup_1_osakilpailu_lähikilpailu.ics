@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Uudenmaan Kompassi-Cup 1. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-DTSTAMP:20260318T115628Z
-DESCRIPTION:Organizer: Hyvinkään Rasti\nArea: Tuntematon Alue\nIRMA Link
- : https://irma.suunnistusliitto.fi/public/competition/view/27650
-LOCATION:Tuntematon Alue (Hyvinkään Rasti)
+DTSTAMP:20260318T121142Z
+DESCRIPTION:Organizer: Hyvinkään Rasti\nArea: Uusimaa\nIRMA Link: https:
+ //irma.suunnistusliitto.fi/public/competition/view/27650
+LOCATION:Uusimaa (Hyvinkään Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27650
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Avoin Varsinais-Suomen AM-partio
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T115754Z
-DESCRIPTION:Organizer: Maarian Mahti\nArea: Tuntematon Alue\nCategories: A
+DTSTAMP:20260318T121335Z
+DESCRIPTION:Organizer: Maarian Mahti\nArea: Varsinais-Suomi\nCategories: A
  M/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
  w/27629
-LOCATION:Tuntematon Alue (Maarian Mahti)
+LOCATION:Varsinais-Suomi (Maarian Mahti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27629
 END:VEVENT
 END:VCALENDAR

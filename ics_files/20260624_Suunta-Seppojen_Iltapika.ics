@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Suunta-Seppojen Iltapika
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260318T115723Z
-DESCRIPTION:Organizer: Suunta-Sepot\nArea: Tuntematon Alue\nIRMA Link: htt
- ps://irma.suunnistusliitto.fi/public/competition/view/27605
-LOCATION:Tuntematon Alue (Suunta-Sepot)
+DTSTAMP:20260318T121259Z
+DESCRIPTION:Organizer: Suunta-Sepot\nArea: Satakunta\nIRMA Link: https://i
+ rma.suunnistusliitto.fi/public/competition/view/27605
+LOCATION:Satakunta (Suunta-Sepot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27605
 END:VEVENT
 END:VCALENDAR

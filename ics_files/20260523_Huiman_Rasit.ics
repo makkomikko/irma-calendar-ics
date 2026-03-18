@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Huiman Rasit
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T115701Z
-DESCRIPTION:Organizer: Oulaisten Huima\nArea: Tuntematon Alue\nIRMA Link: 
- https://irma.suunnistusliitto.fi/public/competition/view/27555
-LOCATION:Tuntematon Alue (Oulaisten Huima)
+DTSTAMP:20260318T121229Z
+DESCRIPTION:Organizer: Oulaisten Huima\nArea: Pohjois-Pohjanmaa\nIRMA Link
+ : https://irma.suunnistusliitto.fi/public/competition/view/27555
+LOCATION:Pohjois-Pohjanmaa (Oulaisten Huima)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27555
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:KLL:n suunnistusmestaruuskilpailut\, henkilökohtainen
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260318T115837Z
-DESCRIPTION:Organizer: Kuusamon Erä-Veikot\nArea: Tuntematon Alue\nIRMA L
- ink: https://irma.suunnistusliitto.fi/public/competition/view/27569
-LOCATION:Tuntematon Alue (Kuusamon Erä-Veikot)
+DTSTAMP:20260318T121428Z
+DESCRIPTION:Organizer: Kuusamon Erä-Veikot\nArea: Pohjois-Pohjanmaa\nIRMA
+  Link: https://irma.suunnistusliitto.fi/public/competition/view/27569
+LOCATION:Pohjois-Pohjanmaa (Kuusamon Erä-Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27569
 END:VEVENT
 END:VCALENDAR

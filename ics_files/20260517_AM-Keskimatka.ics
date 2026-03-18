@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:AM-Keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T115655Z
-DESCRIPTION:Organizer: Espoon Akilles\nArea: Tuntematon Alue\nCategories: 
- Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/c
- ompetition/view/27407
-LOCATION:Tuntematon Alue (Espoon Akilles)
+DTSTAMP:20260318T121220Z
+DESCRIPTION:Organizer: Espoon Akilles\nArea: Uusimaa\nCategories: Keskimat
+ ka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
+ on/view/27407
+LOCATION:Uusimaa (Espoon Akilles)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27407
 END:VEVENT
 END:VCALENDAR

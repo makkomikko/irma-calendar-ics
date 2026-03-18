@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset tuplasprintti ap.
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-DTSTAMP:20260318T115634Z
-DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Tuntematon Alue\nCategories: 
- Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
- iew/27470
-LOCATION:Tuntematon Alue (Lapuan Virkiä)
+DTSTAMP:20260318T121149Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Etelä-Pohjanmaa\nCategories:
+  Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
+ view/27470
+LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27470
 END:VEVENT
 END:VCALENDAR

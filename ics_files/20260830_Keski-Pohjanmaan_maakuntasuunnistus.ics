@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Keski-Pohjanmaan maakuntasuunnistus
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T115844Z
-DESCRIPTION:Organizer: Kokkolan Suunnistajat\nArea: Tuntematon Alue\nIRMA 
+DTSTAMP:20260318T121436Z
+DESCRIPTION:Organizer: Kokkolan Suunnistajat\nArea: Keski-Pohjanmaa\nIRMA 
  Link: https://irma.suunnistusliitto.fi/public/competition/view/27544
-LOCATION:Tuntematon Alue (Kokkolan Suunnistajat)
+LOCATION:Keski-Pohjanmaa (Kokkolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27544
 END:VEVENT
 END:VCALENDAR
