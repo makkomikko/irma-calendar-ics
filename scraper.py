@@ -38,9 +38,23 @@ def extract_categories(name):
     return cat
 
 def main():
+    # Only remove the folder if it exists, but preserve clubs.json
     if os.path.exists(OUTPUT_DIR):
+        # Keep clubs.json in memory if it exists
+        clubs_cache = {}
+        clubs_file = os.path.join(OUTPUT_DIR, 'clubs.json')
+        if os.path.exists(clubs_file):
+            with open(clubs_file, 'r', encoding='utf-8') as f:
+                clubs_cache = json.load(f)
+        
         shutil.rmtree(OUTPUT_DIR)
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        
+        # Restore clubs.json immediately
+        with open(os.path.join(OUTPUT_DIR, 'clubs.json'), 'w', encoding='utf-8') as f:
+            json.dump(clubs_cache, f, ensure_ascii=False, indent=2)
+    else:
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     # Load Club Areas
     clubs_data = {}
