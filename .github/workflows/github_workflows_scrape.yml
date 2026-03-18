@@ -2,9 +2,8 @@ name: Scrape and Generate ICS
 
 on:
   schedule:
-    # Run daily at 2 AM UTC
-    - cron: '0 2 * * *'
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 2 * * *'  # Main scraper daily at 02:00
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -23,16 +22,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 icalendar playwright holidays
-          
-          # Fix for the libasound2 virtual package error in Ubuntu 24.04+
+          pip install playwright icalendar holidays
           sudo apt-get update
           sudo apt-get install -y libasound2t64
-          
-          # Install browser engine and remaining system dependencies
           playwright install chromium --with-deps
       
+      # Run club scraper only on Sundays or if manually triggered
       - name: Run club area scraper
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 2 * * 0'
         run: python clubs_scraper.py
 
       - name: Run main calendar scraper
@@ -43,5 +40,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add ics_files/
-          # Only push if there are actually changes to avoid errors
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Update events $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
