@@ -162,6 +162,18 @@
         .event-link:hover { background: #e2e8f0; }
         .download-btn { background: #667eea; color: white; }
         .download-btn:hover { background: #764ba2; }
+
+        .area-select {
+            padding: 8px 12px;
+            border-radius: 20px;
+            border: 1px solid #cbd5e1;
+            background: white;
+            font-weight: bold;
+            color: #475569;
+            cursor: pointer;
+            outline: none;
+        }
+        .area-select:focus { border-color: #667eea; }
         
         .loading { text-align: center; padding: 20px; color: white; font-size: 1.2em; }
         .no-events { text-align: center; padding: 40px; color: white; font-size: 1.1em; width: 100%; }
@@ -237,42 +249,39 @@
             });
         }
 
-        function setupCategoryFilters() {
-            // Find the container, or create it if missing in the HTML structure
+function setupCategoryFilters() {
             let controlsBar = document.querySelector('.controls-bar');
             
-            // Re-structure controls bar if needed
-            if (!document.querySelector('.category-filters')) {
-                controlsBar.innerHTML = `
-                    <div class="top-controls">
+            // Re-structure controls bar to include the Area Dropdown
+            controlsBar.innerHTML = `
+                <div class="top-controls">
+                    <div class="left-group" style="display:flex; gap:10px; align-items:center;">
                         <div id="year-tabs" class="year-tabs"></div>
-                        <label class="toggle-label">
-                            <input type="checkbox" id="show-cancelled" checked onchange="renderEvents()">
-                            Näytä perutut
-                        </label>
+                        <select id="area-filter" class="area-select" onchange="setArea(this.value)">
+                            <option value="Kaikki">Kaikki Alueet</option>
+                        </select>
                     </div>
-                    <div id="category-filters" class="category-filters"></div>
-                `;
-                setupYearTabs(); // Re-run to populate new container
-            }
+                    <label class="toggle-label">
+                        <input type="checkbox" id="show-cancelled" checked onchange="renderEvents()">
+                        Näytä perutut
+                    </label>
+                </div>
+                <div id="category-filters" class="category-filters"></div>
+            `;
+            
+            setupYearTabs();
+            populateAreaDropdown();
 
             const filterContainer = document.getElementById('category-filters');
-            filterContainer.innerHTML = '';
-            
-            // Get all unique categories from data
             const allCats = new Set();
-            allEvents.forEach(e => {
-                if(e.categories) e.categories.forEach(c => allCats.add(c));
-            });
+            allEvents.forEach(e => { if(e.categories) e.categories.forEach(c => allCats.add(c)); });
 
-            // Create 'All' button
             const allBtn = document.createElement('button');
             allBtn.className = 'cat-filter-btn active';
-            allBtn.textContent = 'Kaikki';
+            allBtn.textContent = 'Kaikki Tyypit';
             allBtn.onclick = (e) => setCategory(e.target, 'Kaikki');
             filterContainer.appendChild(allBtn);
 
-            // Create specific category buttons
             Array.from(allCats).sort().forEach(cat => {
                 const btn = document.createElement('button');
                 btn.className = 'cat-filter-btn';
@@ -280,6 +289,23 @@
                 btn.onclick = (e) => setCategory(e.target, cat);
                 filterContainer.appendChild(btn);
             });
+        }
+
+        function populateAreaDropdown() {
+            const dropdown = document.getElementById('area-filter');
+            const areas = [...new Set(allEvents.map(e => e.area))].filter(a => a).sort();
+            
+            areas.forEach(area => {
+                const opt = document.createElement('option');
+                opt.value = area;
+                opt.textContent = area;
+                dropdown.appendChild(opt);
+            });
+        }
+
+        function setArea(val) {
+            activeArea = val;
+            renderEvents();
         }
 
         function setCategory(btnElement, category) {
@@ -301,7 +327,6 @@
             const container = document.getElementById('calendar-content');
             const showCancelled = document.getElementById('show-cancelled').checked;
             container.innerHTML = '';
-
             const today = new Date();
             today.setHours(0,0,0,0);
 
@@ -309,7 +334,8 @@
                 const isCorrectYear = e.date.startsWith(activeYear);
                 const isCancelledVisible = showCancelled || !e.cancelled;
                 const isCorrectCategory = activeCategory === 'Kaikki' || (e.categories && e.categories.includes(activeCategory));
-                return isCorrectYear && isCancelledVisible && isCorrectCategory;
+                const isCorrectArea = activeArea === 'Kaikki' || e.area === activeArea;
+                return isCorrectYear && isCancelledVisible && isCorrectCategory && isCorrectArea;
             });
 
             if (filteredEvents.length === 0) {
