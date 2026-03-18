@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:** Åland 2-dagars / Ahvenanmaan 2-päiväiset
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
-DTSTAMP:20260318T121128Z
-DESCRIPTION:Organizer: IF Åland\nTampereen Pyrintö\nArea: Tuntematon Alu
- e\nHoliday: Easter Sunday\nIRMA Link: https://irma.suunnistusliitto.fi/pub
- lic/competition/view/27414
-LOCATION:Tuntematon Alue (IF Åland\nTampereen Pyrintö)
+DTSTAMP:20260318T183412Z
+DESCRIPTION:Organizer: IF Åland\, Tampereen Pyrintö\nArea: FSO\nHoliday:
+  Easter Sunday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
+ tion/view/27414
+LOCATION:FSO (IF Åland\, Tampereen Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27414
 END:VEVENT
 END:VCALENDAR

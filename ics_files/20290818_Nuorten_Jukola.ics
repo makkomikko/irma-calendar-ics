@@ -5,11 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20290818
 DTEND;VALUE=DATE:20290819
-DTSTAMP:20260318T121546Z
-DESCRIPTION:Organizer: Joutsenon Kullervo\nSK Vuoksi\nArea: Tuntematon Alu
- e\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/272
- 38
-LOCATION:Tuntematon Alue (Joutsenon Kullervo\nSK Vuoksi)
+DTSTAMP:20260318T183737Z
+DESCRIPTION:Organizer: Joutsenon Kullervo\, SK Vuoksi\nArea: Kaakko\nIRMA 
+ Link: https://irma.suunnistusliitto.fi/public/competition/view/27238
+LOCATION:Kaakko (Joutsenon Kullervo\, SK Vuoksi)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27238
 END:VEVENT
 END:VCALENDAR

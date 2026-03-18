@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T121421Z
-DESCRIPTION:Organizer: Kalevan Rasti\nKontiolahden Urheilijat\nArea: Tunte
- maton Alue\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
- /view/26315
-LOCATION:Tuntematon Alue (Kalevan Rasti\nKontiolahden Urheilijat)
+DTSTAMP:20260318T183630Z
+DESCRIPTION:Organizer: Kalevan Rasti\, Kontiolahden Urheilijat\nArea: Savo
+ -Karjala\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
+ iew/26315
+LOCATION:Savo-Karjala (Kalevan Rasti\, Kontiolahden Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26315
 END:VEVENT
 END:VCALENDAR

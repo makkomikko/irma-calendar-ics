@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Lapin Rastipäivät pitkä
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260318T121319Z
+DTSTAMP:20260318T183539Z
 DESCRIPTION:Organizer: Tmi Omataivainen\nArea: Lappi\nCategories: Pitkä\n
  IRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27420
 LOCATION:Lappi (Tmi Omataivainen)

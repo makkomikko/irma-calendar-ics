@@ -5,12 +5,12 @@ BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
-DTSTAMP:20260318T121555Z
-DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\nKankaanpään Suunnistaja
- t\nRastikarhut\nArea: Tuntematon Alue\nCategories: Viesti\nIRMA Link: http
- s://irma.suunnistusliitto.fi/public/competition/view/27108
-LOCATION:Tuntematon Alue (Ikaalisten Nouseva-Voima\nKankaanpään Suunnist
- ajat\nRastikarhut)
+DTSTAMP:20260318T183745Z
+DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\, Kankaanpään Suunnistaj
+ at\, Rastikarhut\nArea: Häme\nCategories: Viesti\nIRMA Link: https://irma
+ .suunnistusliitto.fi/public/competition/view/27108
+LOCATION:Häme (Ikaalisten Nouseva-Voima\, Kankaanpään Suunnistajat\, Ra
+ stikarhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27108
 END:VEVENT
 END:VCALENDAR

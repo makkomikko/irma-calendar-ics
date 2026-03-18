@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Junioriliigan finaali ja valtakunnallinen Kompassi-tapahtuma
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260318T121426Z
-DESCRIPTION:Organizer: Kalevan Rasti\nKontiolahden Urheilijat\nArea: Tunte
- maton Alue\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
- /view/26316
-LOCATION:Tuntematon Alue (Kalevan Rasti\nKontiolahden Urheilijat)
+DTSTAMP:20260318T183634Z
+DESCRIPTION:Organizer: Kalevan Rasti\, Kontiolahden Urheilijat\nArea: Savo
+ -Karjala\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
+ iew/26316
+LOCATION:Savo-Karjala (Kalevan Rasti\, Kontiolahden Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26316
 END:VEVENT
 END:VCALENDAR
