@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka (alustava ajankohta)
 DTSTART;VALUE=DATE:20280902
 DTEND;VALUE=DATE:20280903
-DTSTAMP:20260318T072649Z
-DESCRIPTION:Organizer: IF Femman\nVaasan Suunnistajat\nEvent Link: https:/
- /irma.suunnistusliitto.fi/public/competition/view/27486
-LOCATION:
+DTSTAMP:20260318T073706Z
+DESCRIPTION:Organizer: IF Femman\nVaasan Suunnistajat\nIRMA Link: https://
+ irma.suunnistusliitto.fi/public/competition/view/27486
+LOCATION:IF Femman\nVaasan Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27486
 END:VEVENT
 END:VCALENDAR

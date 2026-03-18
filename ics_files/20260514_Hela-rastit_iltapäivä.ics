@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Hela-rastit\, iltapäivä
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T072400Z
-DESCRIPTION:Organizer: Perämeren Rasti\nEvent Link: https://irma.suunnist
- usliitto.fi/public/competition/view/27626
-LOCATION:
+DTSTAMP:20260318T073416Z
+DESCRIPTION:Organizer: Perämeren Rasti\nIRMA Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27626
+LOCATION:Perämeren Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27626
 END:VEVENT
 END:VCALENDAR

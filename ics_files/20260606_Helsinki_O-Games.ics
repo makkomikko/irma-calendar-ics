@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Helsinki O-Games
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-DTSTAMP:20260318T072429Z
-DESCRIPTION:Organizer: Helsingin Suunnistajat\nEvent Link: https://irma.su
- unnistusliitto.fi/public/competition/view/27367
-LOCATION:
+DTSTAMP:20260318T073445Z
+DESCRIPTION:Organizer: Helsingin Suunnistajat\nIRMA Link: https://irma.suu
+ nnistusliitto.fi/public/competition/view/27367
+LOCATION:Helsingin Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27367
 END:VEVENT
 END:VCALENDAR

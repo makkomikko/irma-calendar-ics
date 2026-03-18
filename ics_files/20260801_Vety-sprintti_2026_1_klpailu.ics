@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vety-sprintti 2026 1. klpailu
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T072512Z
-DESCRIPTION:Organizer: Lappeen Riento\nEvent Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27429
-LOCATION:
+DTSTAMP:20260318T073528Z
+DESCRIPTION:Organizer: Lappeen Riento\nIRMA Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27429
+LOCATION:Lappeen Riento
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27429
 END:VEVENT
 END:VCALENDAR

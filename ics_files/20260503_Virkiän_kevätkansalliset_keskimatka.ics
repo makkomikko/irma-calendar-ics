@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset\, keskimatka
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260318T072352Z
-DESCRIPTION:Organizer: Lapuan Virkiä\nEvent Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27472
-LOCATION:
+DTSTAMP:20260318T073408Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nIRMA Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27472
+LOCATION:Lapuan Virkiä
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27472
 END:VEVENT
 END:VCALENDAR

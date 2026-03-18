@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Avoin Varsinais-Suomen AM-keskimatka
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T072504Z
-DESCRIPTION:Organizer: Vakka-Rasti\nEvent Link: https://irma.suunnistuslii
- tto.fi/public/competition/view/27540
-LOCATION:
+DTSTAMP:20260318T073520Z
+DESCRIPTION:Organizer: Vakka-Rasti\nIRMA Link: https://irma.suunnistusliit
+ to.fi/public/competition/view/27540
+LOCATION:Vakka-Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27540
 END:VEVENT
 END:VCALENDAR

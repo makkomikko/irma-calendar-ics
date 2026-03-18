@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kuulan pariviesti\, Keski-Pohjanmaan Kompassi-viesti 1
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
-DTSTAMP:20260318T072434Z
-DESCRIPTION:Organizer: Ylivieskan Kuula\nEvent Link: https://irma.suunnist
- usliitto.fi/public/competition/view/27558
-LOCATION:
+DTSTAMP:20260318T073450Z
+DESCRIPTION:Organizer: Ylivieskan Kuula\nIRMA Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27558
+LOCATION:Ylivieskan Kuula
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27558
 END:VEVENT
 END:VCALENDAR

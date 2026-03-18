@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä (alustava ajankohta)
 DTSTART;VALUE=DATE:20291020
 DTEND;VALUE=DATE:20291021
-DTSTAMP:20260318T072704Z
-DESCRIPTION:Organizer: Olavin Rasti\nEvent Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27428
-LOCATION:
+DTSTAMP:20260318T073721Z
+DESCRIPTION:Organizer: Olavin Rasti\nIRMA Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27428
+LOCATION:Olavin Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27428
 END:VEVENT
 END:VCALENDAR

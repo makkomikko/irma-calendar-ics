@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Pohjois-Pohjanmaan Kompassi-viesti (lähikilpailu)
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T072543Z
-DESCRIPTION:Organizer: SK Pohjantähti\nEvent Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27624
-LOCATION:
+DTSTAMP:20260318T073559Z
+DESCRIPTION:Organizer: SK Pohjantähti\nIRMA Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27624
+LOCATION:SK Pohjantähti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27624
 END:VEVENT
 END:VCALENDAR

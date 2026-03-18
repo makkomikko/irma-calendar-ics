@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20290818
 DTEND;VALUE=DATE:20290819
-DTSTAMP:20260318T072657Z
-DESCRIPTION:Organizer: Joutsenon Kullervo\nSK Vuoksi\nEvent Link: https://
- irma.suunnistusliitto.fi/public/competition/view/27238
-LOCATION:
+DTSTAMP:20260318T073714Z
+DESCRIPTION:Organizer: Joutsenon Kullervo\nSK Vuoksi\nIRMA Link: https://i
+ rma.suunnistusliitto.fi/public/competition/view/27238
+LOCATION:Joutsenon Kullervo\nSK Vuoksi
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27238
 END:VEVENT
 END:VCALENDAR

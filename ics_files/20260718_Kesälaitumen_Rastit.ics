@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kesälaitumen Rastit
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260318T072454Z
-DESCRIPTION:Organizer: Lauttakylän Luja\nPunkalaitumen Kunto\nEvent Link:
-  https://irma.suunnistusliitto.fi/public/competition/view/27329
-LOCATION:
+DTSTAMP:20260318T073510Z
+DESCRIPTION:Organizer: Lauttakylän Luja\nPunkalaitumen Kunto\nIRMA Link: 
+ https://irma.suunnistusliitto.fi/public/competition/view/27329
+LOCATION:Lauttakylän Luja\nPunkalaitumen Kunto
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27329
 END:VEVENT
 END:VCALENDAR

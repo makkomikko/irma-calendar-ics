@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Etelä-Pohjanmaan AM pitkä matka
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T072531Z
-DESCRIPTION:Organizer: Järviseudun Rasti\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27344
-LOCATION:
+DTSTAMP:20260318T073548Z
+DESCRIPTION:Organizer: Järviseudun Rasti\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27344
+LOCATION:Järviseudun Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27344
 END:VEVENT
 END:VCALENDAR

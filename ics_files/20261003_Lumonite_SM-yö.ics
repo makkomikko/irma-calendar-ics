@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Lumonite SM-yö
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260318T072621Z
-DESCRIPTION:Organizer: Rasti 88\nYläneen Kiri\nEvent Link: https://irma.s
- uunnistusliitto.fi/public/competition/view/26670
-LOCATION:
+DTSTAMP:20260318T073638Z
+DESCRIPTION:Organizer: Rasti 88\nYläneen Kiri\nIRMA Link: https://irma.su
+ unnistusliitto.fi/public/competition/view/26670
+LOCATION:Rasti 88\nYläneen Kiri
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26670
 END:VEVENT
 END:VCALENDAR

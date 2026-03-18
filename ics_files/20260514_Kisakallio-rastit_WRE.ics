@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kisakallio-rastit (WRE)
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T072355Z
-DESCRIPTION:Organizer: Hiidenkiertäjät\nEvent Link: https://irma.suunnis
- tusliitto.fi/public/competition/view/27349
-LOCATION:
+DTSTAMP:20260318T073411Z
+DESCRIPTION:Organizer: Hiidenkiertäjät\nIRMA Link: https://irma.suunnist
+ usliitto.fi/public/competition/view/27349
+LOCATION:Hiidenkiertäjät
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27349
 END:VEVENT
 END:VCALENDAR

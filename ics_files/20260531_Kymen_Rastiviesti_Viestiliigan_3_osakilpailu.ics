@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kymen Rastiviesti\, Viestiliigan 3. osakilpailu
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260318T072428Z
-DESCRIPTION:Organizer: Kouvolan Suunnistajat\nEvent Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27484
-LOCATION:
+DTSTAMP:20260318T073444Z
+DESCRIPTION:Organizer: Kouvolan Suunnistajat\nIRMA Link: https://irma.suun
+ nistusliitto.fi/public/competition/view/27484
+LOCATION:Kouvolan Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27484
 END:VEVENT
 END:VCALENDAR

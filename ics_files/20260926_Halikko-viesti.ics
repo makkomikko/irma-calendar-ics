@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Halikko-viesti
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260318T072618Z
-DESCRIPTION:Organizer: Angelniemen Ankkuri\nEvent Link: https://irma.suunn
- istusliitto.fi/public/competition/view/27390
-LOCATION:
+DTSTAMP:20260318T073635Z
+DESCRIPTION:Organizer: Angelniemen Ankkuri\nIRMA Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/27390
+LOCATION:Angelniemen Ankkuri
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27390
 END:VEVENT
 END:VCALENDAR

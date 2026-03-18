@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Hämeen AM-viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T072540Z
-DESCRIPTION:Organizer: Oriveden Ponnistus\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27493
-LOCATION:
+DTSTAMP:20260318T073557Z
+DESCRIPTION:Organizer: Oriveden Ponnistus\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27493
+LOCATION:Oriveden Ponnistus
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27493
 END:VEVENT
 END:VCALENDAR

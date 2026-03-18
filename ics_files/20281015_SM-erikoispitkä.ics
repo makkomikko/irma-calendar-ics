@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
-DTSTAMP:20260318T072653Z
-DESCRIPTION:Organizer: Hauhon Sisu\nLammin Säkiä\nEvent Link: https://ir
- ma.suunnistusliitto.fi/public/competition/view/27639
-LOCATION:
+DTSTAMP:20260318T073710Z
+DESCRIPTION:Organizer: Hauhon Sisu\nLammin Säkiä\nIRMA Link: https://irm
+ a.suunnistusliitto.fi/public/competition/view/27639
+LOCATION:Hauhon Sisu\nLammin Säkiä
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27639
 END:VEVENT
 END:VCALENDAR

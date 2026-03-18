@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Huiman Rasit
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T072416Z
-DESCRIPTION:Organizer: Oulaisten Huima\nEvent Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27555
-LOCATION:
+DTSTAMP:20260318T073432Z
+DESCRIPTION:Organizer: Oulaisten Huima\nIRMA Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27555
+LOCATION:Oulaisten Huima
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27555
 END:VEVENT
 END:VCALENDAR

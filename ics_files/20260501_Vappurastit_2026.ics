@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Vappurastit 2026
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260318T072347Z
-DESCRIPTION:Organizer: SK Uusi\nEvent Link: https://irma.suunnistusliitto.
- fi/public/competition/view/27514
-LOCATION:
+DTSTAMP:20260318T073403Z
+DESCRIPTION:Organizer: SK Uusi\nIRMA Link: https://irma.suunnistusliitto.f
+ i/public/competition/view/27514
+LOCATION:SK Uusi
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27514
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Keski-Suomen Kompassi-cup 1
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T072401Z
-DESCRIPTION:Organizer: Jämsän Retki-Veikot\nEvent Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27630
-LOCATION:
+DTSTAMP:20260318T073417Z
+DESCRIPTION:Organizer: Jämsän Retki-Veikot\nIRMA Link: https://irma.suun
+ nistusliitto.fi/public/competition/view/27630
+LOCATION:Jämsän Retki-Veikot
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27630
 END:VEVENT
 END:VCALENDAR

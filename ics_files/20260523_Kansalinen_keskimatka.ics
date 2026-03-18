@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kansalinen keskimatka
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T072417Z
-DESCRIPTION:Organizer: Kalevan Rasti\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27556
-LOCATION:
+DTSTAMP:20260318T073433Z
+DESCRIPTION:Organizer: Kalevan Rasti\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27556
+LOCATION:Kalevan Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27556
 END:VEVENT
 END:VCALENDAR

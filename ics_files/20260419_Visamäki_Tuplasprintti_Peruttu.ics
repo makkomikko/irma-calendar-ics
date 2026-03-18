@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Visamäki Tuplasprintti (Peruttu)
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T072340Z
-DESCRIPTION:Organizer: Hämeenlinnan Suunnistajat\nEvent Link: https://irm
- a.suunnistusliitto.fi/public/competition/view/27438
-LOCATION:
+DTSTAMP:20260318T073355Z
+DESCRIPTION:Organizer: Hämeenlinnan Suunnistajat\nIRMA Link: https://irma
+ .suunnistusliitto.fi/public/competition/view/27438
+LOCATION:Hämeenlinnan Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27438
 END:VEVENT
 END:VCALENDAR

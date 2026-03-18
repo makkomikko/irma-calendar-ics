@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Öppna långa ÖIDM / Avoin ÖID am-pitkä
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T072358Z
-DESCRIPTION:Organizer: IF Femman\nEvent Link: https://irma.suunnistusliitt
- o.fi/public/competition/view/27469
-LOCATION:
+DTSTAMP:20260318T073414Z
+DESCRIPTION:Organizer: IF Femman\nIRMA Link: https://irma.suunnistusliitto
+ .fi/public/competition/view/27469
+LOCATION:IF Femman
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27469
 END:VEVENT
 END:VCALENDAR

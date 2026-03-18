@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Avoin Satakunnan ja Varsinais-Suomen am-yö
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260318T072615Z
-DESCRIPTION:Organizer: Hiisirasti\nKöyliön Lallit\nYläneen Kiri\nEvent 
- Link: https://irma.suunnistusliitto.fi/public/competition/view/27598
-LOCATION:
+DTSTAMP:20260318T073632Z
+DESCRIPTION:Organizer: Hiisirasti\nKöyliön Lallit\nYläneen Kiri\nIRMA L
+ ink: https://irma.suunnistusliitto.fi/public/competition/view/27598
+LOCATION:Hiisirasti\nKöyliön Lallit\nYläneen Kiri
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27598
 END:VEVENT
 END:VCALENDAR

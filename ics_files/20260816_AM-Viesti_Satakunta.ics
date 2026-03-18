@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:AM-Viesti\, Satakunta
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T072544Z
-DESCRIPTION:Organizer: Vallan Suunta\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27644
-LOCATION:
+DTSTAMP:20260318T073600Z
+DESCRIPTION:Organizer: Vallan Suunta\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27644
+LOCATION:Vallan Suunta
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27644
 END:VEVENT
 END:VCALENDAR

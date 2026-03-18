@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kevätyönviesti\, Viestiliigan 1. osakilpailu
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260318T072335Z
-DESCRIPTION:Organizer: Paimion Rasti\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27447
-LOCATION:
+DTSTAMP:20260318T073350Z
+DESCRIPTION:Organizer: Paimion Rasti\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27447
+LOCATION:Paimion Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27447
 END:VEVENT
 END:VCALENDAR

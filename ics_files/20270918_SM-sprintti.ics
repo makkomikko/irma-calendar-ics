@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-sprintti
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-DTSTAMP:20260318T072637Z
-DESCRIPTION:Organizer: Pihkaniskat\nEvent Link: https://irma.suunnistuslii
- tto.fi/public/competition/view/26697
-LOCATION:
+DTSTAMP:20260318T073654Z
+DESCRIPTION:Organizer: Pihkaniskat\nIRMA Link: https://irma.suunnistusliit
+ to.fi/public/competition/view/26697
+LOCATION:Pihkaniskat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26697
 END:VEVENT
 END:VCALENDAR

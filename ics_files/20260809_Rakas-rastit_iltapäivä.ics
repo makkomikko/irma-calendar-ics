@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Rakas-rastit iltapäivä
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260318T072526Z
-DESCRIPTION:Organizer: Raja-Karjalan Suunnistajat\nEvent Link: https://irm
- a.suunnistusliitto.fi/public/competition/view/27361
-LOCATION:
+DTSTAMP:20260318T073543Z
+DESCRIPTION:Organizer: Raja-Karjalan Suunnistajat\nIRMA Link: https://irma
+ .suunnistusliitto.fi/public/competition/view/27361
+LOCATION:Raja-Karjalan Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27361
 END:VEVENT
 END:VCALENDAR

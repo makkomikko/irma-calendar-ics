@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM keskimatka (alustava ajankohta)
 DTSTART;VALUE=DATE:20290526
 DTEND;VALUE=DATE:20290527
-DTSTAMP:20260318T072654Z
-DESCRIPTION:Organizer: Jämsän Retki-Veikot\nEvent Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27330
-LOCATION:
+DTSTAMP:20260318T073711Z
+DESCRIPTION:Organizer: Jämsän Retki-Veikot\nIRMA Link: https://irma.suun
+ nistusliitto.fi/public/competition/view/27330
+LOCATION:Jämsän Retki-Veikot
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27330
 END:VEVENT
 END:VCALENDAR

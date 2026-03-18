@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20260318T072627Z
-DESCRIPTION:Organizer: Sotkamon Jymy\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/26190
-LOCATION:
+DTSTAMP:20260318T073644Z
+DESCRIPTION:Organizer: Sotkamon Jymy\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/26190
+LOCATION:Sotkamon Jymy
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26190
 END:VEVENT
 END:VCALENDAR

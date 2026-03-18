@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Öppna långa ÅM / ÅSW
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260318T072530Z
-DESCRIPTION:Organizer: IF Åland\nEvent Link: https://irma.suunnistusliitt
- o.fi/public/competition/view/27641
-LOCATION:
+DTSTAMP:20260318T073547Z
+DESCRIPTION:Organizer: IF Åland\nIRMA Link: https://irma.suunnistusliitto
+ .fi/public/competition/view/27641
+LOCATION:IF Åland
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27641
 END:VEVENT
 END:VCALENDAR

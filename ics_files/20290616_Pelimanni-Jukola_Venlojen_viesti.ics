@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:Pelimanni-Jukola\, Venlojen viesti
 DTSTART;VALUE=DATE:20290616
 DTEND;VALUE=DATE:20290617
-DTSTAMP:20260318T072655Z
+DTSTAMP:20260318T073712Z
 DESCRIPTION:Organizer: IK Falken\nKaustisen Pohjan-Veikot\nOK Botnia\nVete
- lin Urheilijat\nEvent Link: https://irma.suunnistusliitto.fi/public/compet
- ition/view/27096
-LOCATION:
+ lin Urheilijat\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
+ tion/view/27096
+LOCATION:IK Falken\nKaustisen Pohjan-Veikot\nOK Botnia\nVetelin Urheilijat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27096
 END:VEVENT
 END:VCALENDAR

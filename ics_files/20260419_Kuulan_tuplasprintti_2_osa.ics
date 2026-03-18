@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kuulan tuplasprintti 2. osa
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T072342Z
-DESCRIPTION:Organizer: Ylivieskan Kuula\nEvent Link: https://irma.suunnist
- usliitto.fi/public/competition/view/27579
-LOCATION:
+DTSTAMP:20260318T073357Z
+DESCRIPTION:Organizer: Ylivieskan Kuula\nIRMA Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27579
+LOCATION:Ylivieskan Kuula
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27579
 END:VEVENT
 END:VCALENDAR

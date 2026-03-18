@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kainuun avoin AM-yö
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260318T072614Z
-DESCRIPTION:Organizer: Kuhmon Peurat\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27622
-LOCATION:
+DTSTAMP:20260318T073631Z
+DESCRIPTION:Organizer: Kuhmon Peurat\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27622
+LOCATION:Kuhmon Peurat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27622
 END:VEVENT
 END:VCALENDAR

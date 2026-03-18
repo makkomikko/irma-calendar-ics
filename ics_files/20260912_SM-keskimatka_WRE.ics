@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-keskimatka (WRE)
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260318T072602Z
-DESCRIPTION:Organizer: Lynx\nEvent Link: https://irma.suunnistusliitto.fi/
- public/competition/view/26665
-LOCATION:
+DTSTAMP:20260318T073619Z
+DESCRIPTION:Organizer: Lynx\nIRMA Link: https://irma.suunnistusliitto.fi/p
+ ublic/competition/view/26665
+LOCATION:Lynx
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26665
 END:VEVENT
 END:VCALENDAR

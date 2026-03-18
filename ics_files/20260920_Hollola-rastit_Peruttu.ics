@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Hollola-rastit (Peruttu)
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260318T072612Z
-DESCRIPTION:Organizer: Hollolan Urheilijat -46\nEvent Link: https://irma.s
- uunnistusliitto.fi/public/competition/view/27485
-LOCATION:
+DTSTAMP:20260318T073629Z
+DESCRIPTION:Organizer: Hollolan Urheilijat -46\nIRMA Link: https://irma.su
+ unnistusliitto.fi/public/competition/view/27485
+LOCATION:Hollolan Urheilijat -46
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27485
 END:VEVENT
 END:VCALENDAR

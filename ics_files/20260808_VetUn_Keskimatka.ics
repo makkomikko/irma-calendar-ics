@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:VetUn Keskimatka
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260318T072524Z
-DESCRIPTION:Organizer: Vetelin Urheilijat\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27565
-LOCATION:
+DTSTAMP:20260318T073541Z
+DESCRIPTION:Organizer: Vetelin Urheilijat\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27565
+LOCATION:Vetelin Urheilijat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27565
 END:VEVENT
 END:VCALENDAR

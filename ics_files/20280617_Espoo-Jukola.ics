@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Espoo-Jukola
 DTSTART;VALUE=DATE:20280617
 DTEND;VALUE=DATE:20280618
-DTSTAMP:20260318T072646Z
-DESCRIPTION:Organizer: Espoon Suunta\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/26186
-LOCATION:
+DTSTAMP:20260318T073703Z
+DESCRIPTION:Organizer: Espoon Suunta\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/26186
+LOCATION:Espoon Suunta
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26186
 END:VEVENT
 END:VCALENDAR

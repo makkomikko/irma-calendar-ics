@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Luumäki-rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T072418Z
-DESCRIPTION:Organizer: Luumäen Rasti\nEvent Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27405
-LOCATION:
+DTSTAMP:20260318T073434Z
+DESCRIPTION:Organizer: Luumäen Rasti\nIRMA Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27405
+LOCATION:Luumäen Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27405
 END:VEVENT
 END:VCALENDAR

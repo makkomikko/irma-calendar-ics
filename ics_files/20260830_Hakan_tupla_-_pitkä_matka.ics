@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Hakan tupla - pitkä matka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T072558Z
-DESCRIPTION:Organizer: Valkeakosken Haka\nEvent Link: https://irma.suunnis
- tusliitto.fi/public/competition/view/27451
-LOCATION:
+DTSTAMP:20260318T073614Z
+DESCRIPTION:Organizer: Valkeakosken Haka\nIRMA Link: https://irma.suunnist
+ usliitto.fi/public/competition/view/27451
+LOCATION:Valkeakosken Haka
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27451
 END:VEVENT
 END:VCALENDAR

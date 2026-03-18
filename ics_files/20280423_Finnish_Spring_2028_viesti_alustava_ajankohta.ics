@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Finnish Spring 2028 viesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280423
 DTEND;VALUE=DATE:20280424
-DTSTAMP:20260318T072642Z
-DESCRIPTION:Organizer: Liedon Parma\nEvent Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27394
-LOCATION:
+DTSTAMP:20260318T073659Z
+DESCRIPTION:Organizer: Liedon Parma\nIRMA Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27394
+LOCATION:Liedon Parma
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27394
 END:VEVENT
 END:VCALENDAR

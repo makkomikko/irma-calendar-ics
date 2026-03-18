@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kortesjärvi-sprintti
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260318T072346Z
-DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nEvent Link: https://ir
- ma.suunnistusliitto.fi/public/competition/view/27574
-LOCATION:
+DTSTAMP:20260318T073402Z
+DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nIRMA Link: https://irm
+ a.suunnistusliitto.fi/public/competition/view/27574
+LOCATION:Kortesjärven Järvi-Veikot
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27574
 END:VEVENT
 END:VCALENDAR

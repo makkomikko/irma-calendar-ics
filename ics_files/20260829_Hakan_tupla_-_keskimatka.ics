@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Hakan tupla - keskimatka
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T072554Z
-DESCRIPTION:Organizer: Valkeakosken Haka\nEvent Link: https://irma.suunnis
- tusliitto.fi/public/competition/view/27450
-LOCATION:
+DTSTAMP:20260318T073610Z
+DESCRIPTION:Organizer: Valkeakosken Haka\nIRMA Link: https://irma.suunnist
+ usliitto.fi/public/competition/view/27450
+LOCATION:Valkeakosken Haka
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27450
 END:VEVENT
 END:VCALENDAR

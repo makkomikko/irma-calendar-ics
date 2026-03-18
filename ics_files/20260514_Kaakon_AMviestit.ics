@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kaakon AM.viestit
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T072402Z
-DESCRIPTION:Organizer: SK Vuoksi\nEvent Link: https://irma.suunnistusliitt
- o.fi/public/competition/view/27632
-LOCATION:
+DTSTAMP:20260318T073418Z
+DESCRIPTION:Organizer: SK Vuoksi\nIRMA Link: https://irma.suunnistusliitto
+ .fi/public/competition/view/27632
+LOCATION:SK Vuoksi
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27632
 END:VEVENT
 END:VCALENDAR

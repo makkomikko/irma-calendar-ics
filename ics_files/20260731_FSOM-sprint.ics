@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:FSOM-sprint
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260318T072510Z
-DESCRIPTION:Organizer: Solf IK\nEvent Link: https://irma.suunnistusliitto.
- fi/public/competition/view/27509
-LOCATION:
+DTSTAMP:20260318T073526Z
+DESCRIPTION:Organizer: Solf IK\nIRMA Link: https://irma.suunnistusliitto.f
+ i/public/competition/view/27509
+LOCATION:Solf IK
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27509
 END:VEVENT
 END:VCALENDAR

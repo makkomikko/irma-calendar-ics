@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Lakeuden Viesti\, Viestiliigan 6. osakilpailu
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T072539Z
-DESCRIPTION:Organizer: Kauhajoen Karhu\nOK Kristina\nEvent Link: https://i
- rma.suunnistusliitto.fi/public/competition/view/27383
-LOCATION:
+DTSTAMP:20260318T073556Z
+DESCRIPTION:Organizer: Kauhajoen Karhu\nOK Kristina\nIRMA Link: https://ir
+ ma.suunnistusliitto.fi/public/competition/view/27383
+LOCATION:Kauhajoen Karhu\nOK Kristina
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27383
 END:VEVENT
 END:VCALENDAR

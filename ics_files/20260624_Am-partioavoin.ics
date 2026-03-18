@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Am-partio/avoin
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260318T072438Z
-DESCRIPTION:Organizer: Kannuksen Ura\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27633
-LOCATION:
+DTSTAMP:20260318T073455Z
+DESCRIPTION:Organizer: Kannuksen Ura\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27633
+LOCATION:Kannuksen Ura
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27633
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:R-Suunnistus
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T072547Z
-DESCRIPTION:Organizer: Riihimäen Suunnistajat\nEvent Link: https://irma.s
- uunnistusliitto.fi/public/competition/view/27487
-LOCATION:
+DTSTAMP:20260318T073603Z
+DESCRIPTION:Organizer: Riihimäen Suunnistajat\nIRMA Link: https://irma.su
+ unnistusliitto.fi/public/competition/view/27487
+LOCATION:Riihimäen Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27487
 END:VEVENT
 END:VCALENDAR

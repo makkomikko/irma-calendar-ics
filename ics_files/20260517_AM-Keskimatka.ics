@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:AM-Keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T072410Z
-DESCRIPTION:Organizer: Espoon Akilles\nEvent Link: https://irma.suunnistus
- liitto.fi/public/competition/view/27407
-LOCATION:
+DTSTAMP:20260318T073426Z
+DESCRIPTION:Organizer: Espoon Akilles\nIRMA Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27407
+LOCATION:Espoon Akilles
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27407
 END:VEVENT
 END:VCALENDAR

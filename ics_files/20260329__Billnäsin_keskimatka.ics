@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:** Billnäsin keskimatka
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260318T072331Z
-DESCRIPTION:Organizer: Karjaan Ura\nEvent Link: https://irma.suunnistuslii
- tto.fi/public/competition/view/27364
-LOCATION:
+DTSTAMP:20260318T073346Z
+DESCRIPTION:Organizer: Karjaan Ura\nIRMA Link: https://irma.suunnistusliit
+ to.fi/public/competition/view/27364
+LOCATION:Karjaan Ura
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27364
 END:VEVENT
 END:VCALENDAR

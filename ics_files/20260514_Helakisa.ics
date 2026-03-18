@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Helakisa
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T072357Z
-DESCRIPTION:Organizer: Kyrös-Rasti\nEvent Link: https://irma.suunnistusli
- itto.fi/public/competition/view/27462
-LOCATION:
+DTSTAMP:20260318T073413Z
+DESCRIPTION:Organizer: Kyrös-Rasti\nIRMA Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27462
+LOCATION:Kyrös-Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27462
 END:VEVENT
 END:VCALENDAR

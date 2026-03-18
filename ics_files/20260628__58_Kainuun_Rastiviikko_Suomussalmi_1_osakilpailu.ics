@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:** 58. Kainuun Rastiviikko\, Suomussalmi\, 1. osakilpailu
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260318T072442Z
-DESCRIPTION:Organizer: Kainuun Rastiviikko ry\nSuomussalmen Rasti\nEvent L
- ink: https://irma.suunnistusliitto.fi/public/competition/view/27309
-LOCATION:
+DTSTAMP:20260318T073459Z
+DESCRIPTION:Organizer: Kainuun Rastiviikko ry\nSuomussalmen Rasti\nIRMA Li
+ nk: https://irma.suunnistusliitto.fi/public/competition/view/27309
+LOCATION:Kainuun Rastiviikko ry\nSuomussalmen Rasti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27309
 END:VEVENT
 END:VCALENDAR

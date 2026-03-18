@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka (alustava ajankohta)
 DTSTART;VALUE=DATE:20290901
 DTEND;VALUE=DATE:20290902
-DTSTAMP:20260318T072659Z
-DESCRIPTION:Organizer: Suunta Jyväskylä\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27446
-LOCATION:
+DTSTAMP:20260318T073716Z
+DESCRIPTION:Organizer: Suunta Jyväskylä\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27446
+LOCATION:Suunta Jyväskylä
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27446
 END:VEVENT
 END:VCALENDAR

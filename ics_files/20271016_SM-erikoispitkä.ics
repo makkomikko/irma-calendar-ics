@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
-DTSTAMP:20260318T072640Z
-DESCRIPTION:Organizer: Saarijärven Pullistus\nEvent Link: https://irma.su
- unnistusliitto.fi/public/competition/view/26680
-LOCATION:
+DTSTAMP:20260318T073657Z
+DESCRIPTION:Organizer: Saarijärven Pullistus\nIRMA Link: https://irma.suu
+ nnistusliitto.fi/public/competition/view/26680
+LOCATION:Saarijärven Pullistus
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26680
 END:VEVENT
 END:VCALENDAR

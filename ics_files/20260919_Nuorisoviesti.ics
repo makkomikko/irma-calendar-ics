@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Nuorisoviesti
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T072611Z
-DESCRIPTION:Organizer: Turun Suunnistajat\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27563
-LOCATION:
+DTSTAMP:20260318T073628Z
+DESCRIPTION:Organizer: Turun Suunnistajat\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27563
+LOCATION:Turun Suunnistajat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27563
 END:VEVENT
 END:VCALENDAR

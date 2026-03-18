@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-sprinttiviesti
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T072408Z
-DESCRIPTION:Organizer: SK Pohjantähti\nEvent Link: https://irma.suunnistu
- sliitto.fi/public/competition/view/27232
-LOCATION:
+DTSTAMP:20260318T073424Z
+DESCRIPTION:Organizer: SK Pohjantähti\nIRMA Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27232
+LOCATION:SK Pohjantähti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27232
 END:VEVENT
 END:VCALENDAR

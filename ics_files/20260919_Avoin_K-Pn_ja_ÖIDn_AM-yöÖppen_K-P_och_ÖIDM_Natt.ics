@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Avoin K-P:n ja ÖID:n AM-yö/Öppen K-P och ÖIDM Natt
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T072607Z
-DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot\nOK Botnia\nEvent Link: htt
- ps://irma.suunnistusliitto.fi/public/competition/view/27518
-LOCATION:
+DTSTAMP:20260318T073624Z
+DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot\nOK Botnia\nIRMA Link: http
+ s://irma.suunnistusliitto.fi/public/competition/view/27518
+LOCATION:Kaustisen Pohjan-Veikot\nOK Botnia
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27518
 END:VEVENT
 END:VCALENDAR

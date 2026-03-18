@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kolmen maakunnanraja-rastit\, Pitäjänmäki
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T072411Z
-DESCRIPTION:Organizer: RasTiimi\nEvent Link: https://irma.suunnistusliitto
- .fi/public/competition/view/27526
-LOCATION:
+DTSTAMP:20260318T073427Z
+DESCRIPTION:Organizer: RasTiimi\nIRMA Link: https://irma.suunnistusliitto.
+ fi/public/competition/view/27526
+LOCATION:RasTiimi
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27526
 END:VEVENT
 END:VCALENDAR

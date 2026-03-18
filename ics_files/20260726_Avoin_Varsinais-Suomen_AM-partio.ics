@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Avoin Varsinais-Suomen AM-partio
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T072508Z
-DESCRIPTION:Organizer: Maarian Mahti\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27629
-LOCATION:
+DTSTAMP:20260318T073525Z
+DESCRIPTION:Organizer: Maarian Mahti\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27629
+LOCATION:Maarian Mahti
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27629
 END:VEVENT
 END:VCALENDAR

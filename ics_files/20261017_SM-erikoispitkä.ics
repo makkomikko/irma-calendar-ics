@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260318T072622Z
-DESCRIPTION:Organizer: Suunta Jyväskylä\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/26707
-LOCATION:
+DTSTAMP:20260318T073639Z
+DESCRIPTION:Organizer: Suunta Jyväskylä\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/26707
+LOCATION:Suunta Jyväskylä
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26707
 END:VEVENT
 END:VCALENDAR

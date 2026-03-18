@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Nuijamies-rastit\, am-keskimatka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T072600Z
-DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet\nEvent Link: https://irma.
- suunnistusliitto.fi/public/competition/view/27596
-LOCATION:
+DTSTAMP:20260318T073616Z
+DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet\nIRMA Link: https://irma.s
+ uunnistusliitto.fi/public/competition/view/27596
+LOCATION:Ylikiimingin Nuijamiehet
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27596
 END:VEVENT
 END:VCALENDAR

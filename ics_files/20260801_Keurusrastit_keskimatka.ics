@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Keurusrastit (keskimatka)
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T072514Z
-DESCRIPTION:Organizer: Keuruun Kisailijat\nEvent Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27490
-LOCATION:
+DTSTAMP:20260318T073530Z
+DESCRIPTION:Organizer: Keuruun Kisailijat\nIRMA Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27490
+LOCATION:Keuruun Kisailijat
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27490
 END:VEVENT
 END:VCALENDAR

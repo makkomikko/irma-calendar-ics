@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Esi-Jukola Vuokatti\, Viestiliigan 5. osakilpailu
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260318T072441Z
-DESCRIPTION:Organizer: Sotkamon Jymy\nEvent Link: https://irma.suunnistusl
- iitto.fi/public/competition/view/27495
-LOCATION:
+DTSTAMP:20260318T073458Z
+DESCRIPTION:Organizer: Sotkamon Jymy\nIRMA Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27495
+LOCATION:Sotkamon Jymy
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27495
 END:VEVENT
 END:VCALENDAR
