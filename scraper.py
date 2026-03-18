@@ -2,7 +2,6 @@ import os
 import re
 import json
 import datetime
-import shutil
 import holidays
 from playwright.sync_api import sync_playwright
 from icalendar import Calendar, Event
@@ -23,6 +22,13 @@ def parse_fi_date(date_str):
 def clean_filename(name):
     return re.sub(r'[^\w\s-]', '', name).strip().replace(' ', '_') + '.ics'
 
+def clean_text(text):
+    """Sanitizes text to prevent ICS file corruption from hidden HTML characters and raw newlines."""
+    if not text: return ""
+    text = text.replace('\u00a0', ' ')
+    text = text.replace('\n', ', ').replace('\r', '')
+    return re.sub(r'\s+', ' ', text).strip()
+
 def extract_categories(name):
     cat = []
     nl = name.lower()
@@ -38,23 +44,8 @@ def extract_categories(name):
     return cat
 
 def main():
-    # Only remove the folder if it exists, but preserve clubs.json
-    if os.path.exists(OUTPUT_DIR):
-        # Keep clubs.json in memory if it exists
-        clubs_cache = {}
-        clubs_file = os.path.join(OUTPUT_DIR, 'clubs.json')
-        if os.path.exists(clubs_file):
-            with open(clubs_file, 'r', encoding='utf-8') as f:
-                clubs_cache = json.load(f)
-        
-        shutil.rmtree(OUTPUT_DIR)
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-        
-        # Restore clubs.json immediately
-        with open(os.path.join(OUTPUT_DIR, 'clubs.json'), 'w', encoding='utf-8') as f:
-            json.dump(clubs_cache, f, ensure_ascii=False, indent=2)
-    else:
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
+    # FIX 2: Safe Directory Handling - Ensure directory exists, don't delete it
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     # Load Club Areas
     clubs_data = {}
@@ -63,9 +54,25 @@ def main():
         with open(clubs_file, 'r', encoding='utf-8') as f:
             clubs_data = json.load(f)
 
+    # FIX 1: Load Existing Events for Deadline Caching
+    deadlines_cache = {}
+    events_file = os.path.join(OUTPUT_DIR, 'events.json')
+    if os.path.exists(events_file):
+        try:
+            with open(events_file, 'r', encoding='utf-8') as f:
+                old_events = json.load(f)
+                for e in old_events:
+                    if e.get("link") and e.get("deadline"):
+                        deadlines_cache[e["link"]] = e["deadline"]
+        except Exception:
+            pass # Ignore if file is broken or missing
+
     events_json = []
     today = datetime.date.today()
     fi_holidays = holidays.Finland(years=[today.year, today.year + 1])
+    
+    # Track files generated in this run so we can delete old ones later
+    generated_files = set(['events.json', 'clubs.json'])
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -79,10 +86,10 @@ def main():
         for row in rows:
             cols = row.query_selector_all("td")
             if len(cols) >= 4:
-                date_text = cols[0].inner_text().strip()
-                name = cols[1].inner_text().strip()
-                organizer = cols[2].inner_text().strip()
-                discipline = cols[3].inner_text().strip()
+                date_text = clean_text(cols[0].inner_text())
+                name = clean_text(cols[1].inner_text())
+                organizer = clean_text(cols[2].inner_text())
+                discipline = clean_text(cols[3].inner_text())
 
                 if not any(char.isdigit() for char in date_text) or "S" not in discipline.split():
                     continue
@@ -94,9 +101,8 @@ def main():
                 a_tag = cols[1].query_selector("a")
                 link = f"{BASE_URL}{a_tag.get_attribute('href')}" if a_tag and a_tag.get_attribute("href").startswith("/") else (a_tag.get_attribute("href") if a_tag else "")
 
-                # Handle multiple organizers (e.g., "Club A / Club B") by checking the first one
-                primary_club = organizer.split('/')[0].strip()
-                area = clubs_data.get(primary_club, "Tuntematon Alue")
+                primary_club = organizer.split(',')[0].split('/')[0].strip()
+                area = clean_text(clubs_data.get(primary_club, "Tuntematon Alue"))
 
                 scraped_events.append({
                     "name": name,
@@ -110,13 +116,18 @@ def main():
         for evt in scraped_events:
             deadline_str = ""
             if evt["link"]:
-                try:
-                    page.goto(evt["link"], wait_until="networkidle", timeout=15000)
-                    tier1_row = page.locator("tr", has_text="Ilmoittautumisporras #1")
-                    if tier1_row.count() > 0:
-                        match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', tier1_row.first.inner_text())
-                        if match: deadline_str = match.group(1)
-                except Exception: pass
+                # FIX 1: Check the cache before visiting the page
+                if evt["link"] in deadlines_cache:
+                    deadline_str = deadlines_cache[evt["link"]]
+                else:
+                    try:
+                        page.goto(evt["link"], wait_until="networkidle", timeout=15000)
+                        tier1_row = page.locator("tr", has_text="Ilmoittautumisporras #1")
+                        if tier1_row.count() > 0:
+                            match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', tier1_row.first.inner_text())
+                            if match: deadline_str = match.group(1)
+                    except Exception: 
+                        pass
 
             is_holiday = evt["start_date"] in fi_holidays or evt["end_date"] in fi_holidays
             holiday_name = fi_holidays.get(evt["start_date"]) or fi_holidays.get(evt["end_date"]) or ""
@@ -126,6 +137,7 @@ def main():
             cal.add('prodid', '-//IRMA Scraper//')
             cal.add('version', '2.0')
             event = Event()
+            
             event.add('summary', evt["name"])
             event.add('dtstart', evt["start_date"])
             event.add('dtend', evt["end_date"] + datetime.timedelta(days=1))
@@ -138,11 +150,14 @@ def main():
                 
             event.add('description', desc)
             event.add('location', f"{evt['area']} ({evt['organizer']})")
-            event.add('dtstamp', datetime.datetime.now())
+            event.add('dtstamp', datetime.datetime.now(datetime.timezone.utc))
             if evt["link"]: event.add('url', evt["link"])
             
             cal.add_component(event)
             filename = clean_filename(f"{evt['start_date'].strftime('%Y%m%d')}_{evt['name']}")
+            
+            # FIX 2: Track this file so it doesn't get deleted
+            generated_files.add(filename)
             
             with open(os.path.join(OUTPUT_DIR, filename), 'wb') as f:
                 f.write(cal.to_ical())
@@ -163,9 +178,17 @@ def main():
             
         browser.close()
 
-    # Save events.json, but DO NOT overwrite clubs.json (they share the same folder)
-    with open(os.path.join(OUTPUT_DIR, 'events.json'), 'w', encoding='utf-8') as f:
+    # FIX 2: Overwrite events.json safely
+    with open(events_file, 'w', encoding='utf-8') as f:
         json.dump(events_json, f, ensure_ascii=False, indent=2)
+
+    # FIX 2: Clean up old `.ics` files that belong to past/removed events
+    for filename in os.listdir(OUTPUT_DIR):
+        if filename not in generated_files and filename.endswith('.ics'):
+            try:
+                os.remove(os.path.join(OUTPUT_DIR, filename))
+            except Exception:
+                pass
 
 if __name__ == "__main__":
     main()
