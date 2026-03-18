@@ -14,18 +14,14 @@ OUTPUT_DIR = "ics_files"
 def parse_fi_date(date_str):
     nums = [int(x) for x in re.findall(r'\d+', date_str)]
     try:
-        if len(nums) == 3:
-            return datetime.date(nums[2], nums[1], nums[0]), datetime.date(nums[2], nums[1], nums[0])
-        elif len(nums) == 4:
-            return datetime.date(nums[3], nums[2], nums[0]), datetime.date(nums[3], nums[2], nums[1])
-        elif len(nums) == 5:
-            return datetime.date(nums[4], nums[1], nums[0]), datetime.date(nums[4], nums[3], nums[2])
+        if len(nums) == 3: return datetime.date(nums[2], nums[1], nums[0]), datetime.date(nums[2], nums[1], nums[0])
+        elif len(nums) == 4: return datetime.date(nums[3], nums[2], nums[0]), datetime.date(nums[3], nums[2], nums[1])
+        elif len(nums) == 5: return datetime.date(nums[4], nums[1], nums[0]), datetime.date(nums[4], nums[3], nums[2])
     except: return None, None
     return None, None
 
 def clean_filename(name):
-    cleaned = re.sub(r'[^\w\s-]', '', name).strip()
-    return cleaned.replace(' ', '_') + '.ics'
+    return re.sub(r'[^\w\s-]', '', name).strip().replace(' ', '_') + '.ics'
 
 def extract_categories(name):
     cat = []
@@ -46,17 +42,20 @@ def main():
         shutil.rmtree(OUTPUT_DIR)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
+    # Load Club Areas
+    clubs_data = {}
+    clubs_file = os.path.join(OUTPUT_DIR, 'clubs.json')
+    if os.path.exists(clubs_file):
+        with open(clubs_file, 'r', encoding='utf-8') as f:
+            clubs_data = json.load(f)
+
     events_json = []
     today = datetime.date.today()
-    
-    # Load Finnish holidays for the current and next year
     fi_holidays = holidays.Finland(years=[today.year, today.year + 1])
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        
-        print("Loading main calendar...")
         page.goto(URL, wait_until="networkidle")
         page.wait_for_selector("table tr td", timeout=15000)
         
@@ -81,48 +80,34 @@ def main():
                 a_tag = cols[1].query_selector("a")
                 link = f"{BASE_URL}{a_tag.get_attribute('href')}" if a_tag and a_tag.get_attribute("href").startswith("/") else (a_tag.get_attribute("href") if a_tag else "")
 
+                # Handle multiple organizers (e.g., "Club A / Club B") by checking the first one
+                primary_club = organizer.split('/')[0].strip()
+                area = clubs_data.get(primary_club, "Tuntematon Alue")
+
                 scraped_events.append({
                     "name": name,
                     "start_date": start_date,
                     "end_date": end_date,
                     "organizer": organizer,
-                    "link": link
+                    "link": link,
+                    "area": area
                 })
 
-        print(f"Found {len(scraped_events)} upcoming events. Fetching details...")
-        
-        for idx, evt in enumerate(scraped_events, 1):
-            deadline_str, maps_url = "", ""
-            
+        for evt in scraped_events:
+            deadline_str = ""
             if evt["link"]:
-                print(f"[{idx}/{len(scraped_events)}] Checking {evt['name']}...")
                 try:
                     page.goto(evt["link"], wait_until="networkidle", timeout=15000)
                     tier1_row = page.locator("tr", has_text="Ilmoittautumisporras #1")
                     if tier1_row.count() > 0:
                         match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', tier1_row.first.inner_text())
                         if match: deadline_str = match.group(1)
-                    
-                    html_content = page.content()
-                    coord_match = re.search(r'[([]\s*(59\.\d+|6\d\.\d+|70\.\d+)\s*,\s*(19\.\d+|2\d\.\d+|3[0-2]\.\d+)\s*[)\]]', html_content)
-                    if coord_match:
-                        lat, lng = coord_match.groups()
-                        maps_url = f"https://www.google.com/maps/search/?api=1&query={lat},{lng}"
-                except Exception:
-                    pass
+                except Exception: pass
 
-            # Holiday Detection
-            is_holiday = False
-            holiday_name = ""
-            if evt["start_date"] in fi_holidays:
-                is_holiday, holiday_name = True, fi_holidays.get(evt["start_date"])
-            elif evt["end_date"] in fi_holidays:
-                is_holiday, holiday_name = True, fi_holidays.get(evt["end_date"])
-
-            # Categories Extraction
+            is_holiday = evt["start_date"] in fi_holidays or evt["end_date"] in fi_holidays
+            holiday_name = fi_holidays.get(evt["start_date"]) or fi_holidays.get(evt["end_date"]) or ""
             event_categories = extract_categories(evt["name"])
 
-            # Build ICS
             cal = Calendar()
             cal.add('prodid', '-//IRMA Scraper//')
             cal.add('version', '2.0')
@@ -131,23 +116,20 @@ def main():
             event.add('dtstart', evt["start_date"])
             event.add('dtend', evt["end_date"] + datetime.timedelta(days=1))
             
-            desc = f"Organizer: {evt['organizer']}"
+            desc = f"Organizer: {evt['organizer']}\nArea: {evt['area']}"
             if event_categories: desc += f"\nCategories: {', '.join(event_categories)}"
             if is_holiday: desc += f"\nHoliday: {holiday_name}"
             if deadline_str: desc += f"\nSign-up Deadline: {deadline_str}"
             if evt["link"]: desc += f"\nIRMA Link: {evt['link']}"
-            if maps_url: desc += f"\nGoogle Maps: {maps_url}"
                 
             event.add('description', desc)
-            event.add('location', maps_url if maps_url else evt['organizer'])
+            event.add('location', f"{evt['area']} ({evt['organizer']})")
             event.add('dtstamp', datetime.datetime.now())
             if evt["link"]: event.add('url', evt["link"])
             
-            # Optionally add native categories to ICS
-            if event_categories: event.add('categories', event_categories)
             cal.add_component(event)
-
             filename = clean_filename(f"{evt['start_date'].strftime('%Y%m%d')}_{evt['name']}")
+            
             with open(os.path.join(OUTPUT_DIR, filename), 'wb') as f:
                 f.write(cal.to_ical())
 
@@ -155,11 +137,11 @@ def main():
                 "date": evt["start_date"].strftime('%Y-%m-%d'),
                 "name": evt["name"],
                 "location": evt["organizer"],
+                "area": evt["area"],
                 "filename": filename,
                 "link": evt["link"],
                 "deadline": deadline_str,
                 "cancelled": "peruttu" in evt["name"].lower(),
-                "maps_url": maps_url,
                 "categories": event_categories,
                 "is_holiday": is_holiday,
                 "holiday_name": holiday_name
@@ -167,6 +149,7 @@ def main():
             
         browser.close()
 
+    # Save events.json, but DO NOT overwrite clubs.json (they share the same folder)
     with open(os.path.join(OUTPUT_DIR, 'events.json'), 'w', encoding='utf-8') as f:
         json.dump(events_json, f, ensure_ascii=False, indent=2)
 
