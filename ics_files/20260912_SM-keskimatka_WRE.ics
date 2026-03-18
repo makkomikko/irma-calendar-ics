@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-keskimatka (WRE)
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260318T113630Z
+DTSTAMP:20260318T115848Z
 DESCRIPTION:Organizer: Lynx\nArea: Tuntematon Alue\nCategories: Keskimatka
  \, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
  /26665

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Finnish Spring 2028 (alustava ajankohta)
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
-DTSTAMP:20260318T113719Z
+DTSTAMP:20260318T115927Z
 DESCRIPTION:Organizer: Liedon Parma\nArea: Tuntematon Alue\nIRMA Link: htt
  ps://irma.suunnistusliitto.fi/public/competition/view/27393
 LOCATION:Tuntematon Alue (Liedon Parma)
