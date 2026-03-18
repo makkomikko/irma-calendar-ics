@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-viesti / FM-stafett\, Viestiliigan finaali
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260318T055044Z
-LOCATION:OK Raseborg
+DTSTAMP:20260318T070235Z
+DESCRIPTION:Organizer: OK Raseborg\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/26669
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26669
 END:VEVENT
 END:VCALENDAR

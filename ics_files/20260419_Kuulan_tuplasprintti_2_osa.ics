@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IRMA Scraper//
+BEGIN:VEVENT
+SUMMARY:Kuulan tuplasprintti 2. osa
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DTSTAMP:20260318T065926Z
+DESCRIPTION:Organizer: Ylivieskan Kuula\nEvent Link: https://irma.suunnist
+ usliitto.fi/public/competition/view/27579
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27579
+END:VEVENT
+END:VCALENDAR

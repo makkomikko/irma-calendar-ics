@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kisakallio-rastit (WRE)
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T055042Z
-LOCATION:Hiidenkiertäjät
+DTSTAMP:20260318T065946Z
+DESCRIPTION:Organizer: Hiidenkiertäjät\nEvent Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27349
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27349
 END:VEVENT
 END:VCALENDAR

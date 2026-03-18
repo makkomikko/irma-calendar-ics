@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Hollola-rastit (Peruttu)
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260318T055044Z
-LOCATION:Hollolan Urheilijat -46
+DTSTAMP:20260318T070247Z
+DESCRIPTION:Organizer: Hollolan Urheilijat -46\nEvent Link: https://irma.s
+ uunnistusliitto.fi/public/competition/view/27485
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27485
 END:VEVENT
 END:VCALENDAR

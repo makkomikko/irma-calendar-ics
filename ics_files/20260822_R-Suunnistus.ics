@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:R-Suunnistus
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T055044Z
-LOCATION:Riihimäen Suunnistajat
+DTSTAMP:20260318T070216Z
+DESCRIPTION:Organizer: Riihimäen Suunnistajat\nEvent Link: https://irma.s
+ uunnistusliitto.fi/public/competition/view/27487
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27487
 END:VEVENT
 END:VCALENDAR

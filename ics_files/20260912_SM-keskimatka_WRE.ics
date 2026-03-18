@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-keskimatka (WRE)
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260318T055044Z
-LOCATION:Lynx
+DTSTAMP:20260318T070234Z
+DESCRIPTION:Organizer: Lynx\nEvent Link: https://irma.suunnistusliitto.fi/
+ public/competition/view/26665
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26665
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kevät kansallinen
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T055042Z
-LOCATION:Kaustisen Pohjan-Veikot
+DTSTAMP:20260318T070007Z
+DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot\nEvent Link: https://irma.s
+ uunnistusliitto.fi/public/competition/view/27517
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27517
 END:VEVENT
 END:VCALENDAR

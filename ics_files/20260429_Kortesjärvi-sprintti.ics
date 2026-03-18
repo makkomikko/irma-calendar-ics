@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kortesjärvi-sprintti
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260318T055042Z
-LOCATION:Kortesjärven Järvi-Veikot
+DTSTAMP:20260318T065933Z
+DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nEvent Link: https://ir
+ ma.suunnistusliitto.fi/public/competition/view/27574
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27574
 END:VEVENT
 END:VCALENDAR

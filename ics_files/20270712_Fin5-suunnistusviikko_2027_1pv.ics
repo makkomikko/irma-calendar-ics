@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko 2027 1.pv
 DTSTART;VALUE=DATE:20270712
 DTEND;VALUE=DATE:20270713
-DTSTAMP:20260318T055044Z
-LOCATION:Lappeen Riento
+DTSTAMP:20260318T070305Z
+DESCRIPTION:Organizer: Lappeen Riento\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27613
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27613
 END:VEVENT
 END:VCALENDAR

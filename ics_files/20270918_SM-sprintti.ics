@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-sprintti
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-DTSTAMP:20260318T055045Z
-LOCATION:Pihkaniskat
+DTSTAMP:20260318T070314Z
+DESCRIPTION:Organizer: Pihkaniskat\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/26697
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26697
 END:VEVENT
 END:VCALENDAR

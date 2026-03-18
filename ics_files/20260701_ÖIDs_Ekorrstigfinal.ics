@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:ÖID:s Ekorrstigfinal
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260318T055043Z
-LOCATION:Närpes OK
+DTSTAMP:20260318T070057Z
+DESCRIPTION:Organizer: Närpes OK\nEvent Link: https://irma.suunnistusliit
+ to.fi/public/competition/view/27583
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27583
 END:VEVENT
 END:VCALENDAR

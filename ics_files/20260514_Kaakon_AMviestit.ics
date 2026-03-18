@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kaakon AM.viestit
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T055042Z
-LOCATION:SK Vuoksi
+DTSTAMP:20260318T065957Z
+DESCRIPTION:Organizer: SK Vuoksi\nEvent Link: https://irma.suunnistusliitt
+ o.fi/public/competition/view/27632
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27632
 END:VEVENT
 END:VCALENDAR

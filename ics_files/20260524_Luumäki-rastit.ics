@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Luumäki-rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T055042Z
-LOCATION:Luumäen Rasti
+DTSTAMP:20260318T070027Z
+DESCRIPTION:Organizer: Luumäen Rasti\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27405
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27405
 END:VEVENT
 END:VCALENDAR

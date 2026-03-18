@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:INOV-8 liigan finaali ja valtakunnallinen Kompassitapahtuma
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
-DTSTAMP:20260318T055045Z
-LOCATION:Lapuan Virkiä
+DTSTAMP:20260318T070311Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/26298
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26298
 END:VEVENT
 END:VCALENDAR

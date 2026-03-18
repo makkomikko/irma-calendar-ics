@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Salon Seudun Rastiviesti
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20260318T055042Z
-LOCATION:Someron Esa
+DTSTAMP:20260318T070036Z
+DESCRIPTION:Organizer: Someron Esa\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27645
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27645
 END:VEVENT
 END:VCALENDAR

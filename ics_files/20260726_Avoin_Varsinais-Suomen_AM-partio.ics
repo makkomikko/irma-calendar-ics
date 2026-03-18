@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Avoin Varsinais-Suomen AM-partio
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T055043Z
-LOCATION:Maarian Mahti
+DTSTAMP:20260318T070132Z
+DESCRIPTION:Organizer: Maarian Mahti\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27629
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27629
 END:VEVENT
 END:VCALENDAR

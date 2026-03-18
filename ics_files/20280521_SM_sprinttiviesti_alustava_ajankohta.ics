@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM sprinttiviesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280521
 DTEND;VALUE=DATE:20280522
-DTSTAMP:20260318T055045Z
-LOCATION:Jatkuva Liike Oy\nRastiPiikkiö
+DTSTAMP:20260318T070322Z
+DESCRIPTION:Organizer: Jatkuva Liike Oy\nRastiPiikkiö\nEvent Link: https:
+ //irma.suunnistusliitto.fi/public/competition/view/27444
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27444
 END:VEVENT
 END:VCALENDAR

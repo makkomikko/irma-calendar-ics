@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-pitkä matka
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-DTSTAMP:20260318T055045Z
-LOCATION:Anttolan Urheilijat
+DTSTAMP:20260318T070313Z
+DESCRIPTION:Organizer: Anttolan Urheilijat\nEvent Link: https://irma.suunn
+ istusliitto.fi/public/competition/view/26676
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26676
 END:VEVENT
 END:VCALENDAR

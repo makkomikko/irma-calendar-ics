@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Lapin am-keskimatka (avoin)
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260318T055043Z
-LOCATION:Alatornion Pirkat
+DTSTAMP:20260318T070044Z
+DESCRIPTION:Organizer: Alatornion Pirkat\nEvent Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27551
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27551
 END:VEVENT
 END:VCALENDAR

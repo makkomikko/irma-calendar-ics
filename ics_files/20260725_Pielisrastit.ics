@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Pielisrastit
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T055043Z
-LOCATION:Nurmeksen Sepot
+DTSTAMP:20260318T070129Z
+DESCRIPTION:Organizer: Nurmeksen Sepot\nEvent Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27575
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27575
 END:VEVENT
 END:VCALENDAR

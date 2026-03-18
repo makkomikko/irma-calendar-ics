@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Lapin Rastipäivät prologi
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-DTSTAMP:20260318T055043Z
-LOCATION:Tmi Omataivainen
+DTSTAMP:20260318T070108Z
+DESCRIPTION:Organizer: Tmi Omataivainen\nEvent Link: https://irma.suunnist
+ usliitto.fi/public/competition/view/27419
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27419
 END:VEVENT
 END:VCALENDAR

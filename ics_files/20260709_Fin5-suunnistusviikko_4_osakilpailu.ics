@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko\, 4. osakilpailu
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-DTSTAMP:20260318T055043Z
-LOCATION:Sallan Karhut
+DTSTAMP:20260318T070106Z
+DESCRIPTION:Organizer: Sallan Karhut\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27199
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27199
 END:VEVENT
 END:VCALENDAR

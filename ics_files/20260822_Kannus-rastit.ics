@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kannus-rastit
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T055044Z
-LOCATION:Kannuksen Ura
+DTSTAMP:20260318T070218Z
+DESCRIPTION:Organizer: Kannuksen Ura\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27634
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27634
 END:VEVENT
 END:VCALENDAR

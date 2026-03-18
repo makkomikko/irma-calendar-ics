@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Helakisa
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T055042Z
-LOCATION:Kyrös-Rasti
+DTSTAMP:20260318T065951Z
+DESCRIPTION:Organizer: Kyrös-Rasti\nEvent Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27462
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27462
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Keurusrastit (+AM-pitkä matka)
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T055043Z
-LOCATION:Keuruun Kisailijat
+DTSTAMP:20260318T070143Z
+DESCRIPTION:Organizer: Keuruun Kisailijat\nEvent Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/27491
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27491
 END:VEVENT
 END:VCALENDAR

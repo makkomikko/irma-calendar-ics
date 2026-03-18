@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko\, 3. osakilpailu
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
-DTSTAMP:20260318T055043Z
-LOCATION:Sallan Karhut
+DTSTAMP:20260318T070105Z
+DESCRIPTION:Organizer: Sallan Karhut\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27198
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27198
 END:VEVENT
 END:VCALENDAR

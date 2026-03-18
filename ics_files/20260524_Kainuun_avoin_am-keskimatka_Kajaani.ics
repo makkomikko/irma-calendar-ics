@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kainuun avoin am-keskimatka Kajaani
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T055042Z
-LOCATION:Kajaanin Suunnistajat
+DTSTAMP:20260318T070034Z
+DESCRIPTION:Organizer: Kajaanin Suunnistajat\nEvent Link: https://irma.suu
+ nnistusliitto.fi/public/competition/view/27573
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27573
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:FSOM-långdistans
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T055043Z
-LOCATION:Solf IK
+DTSTAMP:20260318T070139Z
+DESCRIPTION:Organizer: Solf IK\nEvent Link: https://irma.suunnistusliitto.
+ fi/public/competition/view/27510
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27510
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-yö (alustava ajankohta)
 DTSTART;VALUE=DATE:20280929
 DTEND;VALUE=DATE:20280930
-DTSTAMP:20260318T055045Z
-LOCATION:Rasti-Kurikka
+DTSTAMP:20260318T070337Z
+DESCRIPTION:Organizer: Rasti-Kurikka\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27406
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27406
 END:VEVENT
 END:VCALENDAR

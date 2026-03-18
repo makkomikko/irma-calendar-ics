@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Espoo-Jukola
 DTSTART;VALUE=DATE:20280617
 DTEND;VALUE=DATE:20280618
-DTSTAMP:20260318T055045Z
-LOCATION:Espoon Suunta
+DTSTAMP:20260318T070325Z
+DESCRIPTION:Organizer: Espoon Suunta\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/26186
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26186
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Savo-Karjalan am-pitkä 2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T055044Z
-LOCATION:Liperin Taimi Suunnistus
+DTSTAMP:20260318T070205Z
+DESCRIPTION:Organizer: Liperin Taimi Suunnistus\nEvent Link: https://irma.
+ suunnistusliitto.fi/public/competition/view/27567
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27567
 END:VEVENT
 END:VCALENDAR

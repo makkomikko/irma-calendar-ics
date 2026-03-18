@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260318T055044Z
-LOCATION:Suunta Jyväskylä
+DTSTAMP:20260318T070259Z
+DESCRIPTION:Organizer: Suunta Jyväskylä\nEvent Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/26707
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26707
 END:VEVENT
 END:VCALENDAR

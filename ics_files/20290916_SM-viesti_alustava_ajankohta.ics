@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-viesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
-DTSTAMP:20260318T055045Z
-LOCATION:SK Pohjantähti
+DTSTAMP:20260318T070346Z
+DESCRIPTION:Organizer: SK Pohjantähti\nEvent Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27436
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27436
 END:VEVENT
 END:VCALENDAR

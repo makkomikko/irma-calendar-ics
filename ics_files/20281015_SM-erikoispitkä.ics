@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
-DTSTAMP:20260318T055045Z
-LOCATION:Hauhon Sisu\nLammin Säkiä
+DTSTAMP:20260318T070338Z
+DESCRIPTION:Organizer: Hauhon Sisu\nLammin Säkiä\nEvent Link: https://ir
+ ma.suunnistusliitto.fi/public/competition/view/27639
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27639
 END:VEVENT
 END:VCALENDAR

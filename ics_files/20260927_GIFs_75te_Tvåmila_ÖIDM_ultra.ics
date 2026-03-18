@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:GIF:s 75:te Tvåmila\, ÖIDM ultra
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260318T055044Z
-LOCATION:Gamlakarleby IF
+DTSTAMP:20260318T070257Z
+DESCRIPTION:Organizer: Gamlakarleby IF\nEvent Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27537
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27537
 END:VEVENT
 END:VCALENDAR

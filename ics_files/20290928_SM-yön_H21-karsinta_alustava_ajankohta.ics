@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-yön H21-karsinta (alustava ajankohta)
 DTSTART;VALUE=DATE:20290928
 DTEND;VALUE=DATE:20290929
-DTSTAMP:20260318T055045Z
-LOCATION:Koovee
+DTSTAMP:20260318T070347Z
+DESCRIPTION:Organizer: Koovee\nEvent Link: https://irma.suunnistusliitto.f
+ i/public/competition/view/27637
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27637
 END:VEVENT
 END:VCALENDAR

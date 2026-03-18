@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-yö (alustava ajankohta)
 DTSTART;VALUE=DATE:20290929
 DTEND;VALUE=DATE:20290930
-DTSTAMP:20260318T055045Z
-LOCATION:Koovee
+DTSTAMP:20260318T070348Z
+DESCRIPTION:Organizer: Koovee\nEvent Link: https://irma.suunnistusliitto.f
+ i/public/competition/view/27636
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27636
 END:VEVENT
 END:VCALENDAR

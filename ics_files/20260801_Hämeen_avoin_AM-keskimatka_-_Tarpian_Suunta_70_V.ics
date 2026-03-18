@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Hämeen avoin AM-keskimatka - Tarpian Suunta 70 V
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T055043Z
-LOCATION:Tarpian Suunta
+DTSTAMP:20260318T070135Z
+DESCRIPTION:Organizer: Tarpian Suunta\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27404
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27404
 END:VEVENT
 END:VCALENDAR

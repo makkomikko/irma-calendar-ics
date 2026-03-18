@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Merenkurkun Rastipäivät – Kvarkenträffen pv 1
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260318T055043Z
-LOCATION:IF Femman\nMalax IF\nVaasan Suunnistajat
+DTSTAMP:20260318T070122Z
+DESCRIPTION:Organizer: IF Femman\nMalax IF\nVaasan Suunnistajat\nEvent Lin
+ k: https://irma.suunnistusliitto.fi/public/competition/view/27466
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27466
 END:VEVENT
 END:VCALENDAR

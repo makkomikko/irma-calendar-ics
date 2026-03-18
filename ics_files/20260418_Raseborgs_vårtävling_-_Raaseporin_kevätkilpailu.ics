@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Raseborgs vårtävling - Raaseporin kevätkilpailu
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260318T055042Z
-LOCATION:OK Raseborg
+DTSTAMP:20260318T065917Z
+DESCRIPTION:Organizer: OK Raseborg\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27337
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27337
 END:VEVENT
 END:VCALENDAR

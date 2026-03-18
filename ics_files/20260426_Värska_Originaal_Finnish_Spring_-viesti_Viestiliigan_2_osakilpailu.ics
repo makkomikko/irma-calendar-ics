@@ -1,12 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Värska Originaal Finnish Spring -viesti\, Viestiliigan 2. osakilp
  ailu
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260318T055042Z
-LOCATION:Angelniemen Ankkuri
+DTSTAMP:20260318T065932Z
+DESCRIPTION:Organizer: Angelniemen Ankkuri\nEvent Link: https://irma.suunn
+ istusliitto.fi/public/competition/view/26764
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26764
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Finnish Spring 2028 (alustava ajankohta)
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
-DTSTAMP:20260318T055045Z
-LOCATION:Liedon Parma
+DTSTAMP:20260318T070318Z
+DESCRIPTION:Organizer: Liedon Parma\nEvent Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27393
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27393
 END:VEVENT
 END:VCALENDAR

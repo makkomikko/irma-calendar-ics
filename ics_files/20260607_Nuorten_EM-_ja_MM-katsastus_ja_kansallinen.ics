@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Nuorten EM- ja MM-katsastus ja kansallinen
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260318T055042Z
-LOCATION:Lapuan Virkiä
+DTSTAMP:20260318T070043Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27503
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27503
 END:VEVENT
 END:VCALENDAR

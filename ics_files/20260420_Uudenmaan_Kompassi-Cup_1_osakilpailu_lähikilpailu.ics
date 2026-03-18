@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IRMA Scraper//
+BEGIN:VEVENT
+SUMMARY:Uudenmaan Kompassi-Cup 1. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+DTSTAMP:20260318T065927Z
+DESCRIPTION:Organizer: Hyvinkään Rasti\nEvent Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27650
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27650
+END:VEVENT
+END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Finnish Spring -viesti
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20260318T055044Z
-LOCATION:OK Trian
+DTSTAMP:20260318T070302Z
+DESCRIPTION:Organizer: OK Trian\nEvent Link: https://irma.suunnistusliitto
+ .fi/public/competition/view/27158
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27158
 END:VEVENT
 END:VCALENDAR

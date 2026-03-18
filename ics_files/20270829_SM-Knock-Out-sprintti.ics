@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-Knock-Out-sprintti
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
-DTSTAMP:20260318T055045Z
-LOCATION:Lauttakylän Luja
+DTSTAMP:20260318T070312Z
+DESCRIPTION:Organizer: Lauttakylän Luja\nEvent Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27479
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27479
 END:VEVENT
 END:VCALENDAR

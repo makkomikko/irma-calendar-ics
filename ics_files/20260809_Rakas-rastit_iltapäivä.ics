@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Rakas-rastit iltapäivä
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260318T055043Z
-LOCATION:Raja-Karjalan Suunnistajat
+DTSTAMP:20260318T070153Z
+DESCRIPTION:Organizer: Raja-Karjalan Suunnistajat\nEvent Link: https://irm
+ a.suunnistusliitto.fi/public/competition/view/27361
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27361
 END:VEVENT
 END:VCALENDAR

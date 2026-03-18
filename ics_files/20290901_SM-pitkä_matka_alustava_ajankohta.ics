@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-pitkä matka (alustava ajankohta)
 DTSTART;VALUE=DATE:20290901
 DTEND;VALUE=DATE:20290902
-DTSTAMP:20260318T055045Z
-LOCATION:Suunta Jyväskylä
+DTSTAMP:20260318T070344Z
+DESCRIPTION:Organizer: Suunta Jyväskylä\nEvent Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/27446
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27446
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Vappurastit 2026
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260318T055042Z
-LOCATION:SK Uusi
+DTSTAMP:20260318T065934Z
+DESCRIPTION:Organizer: SK Uusi\nEvent Link: https://irma.suunnistusliitto.
+ fi/public/competition/view/27514
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27514
 END:VEVENT
 END:VCALENDAR

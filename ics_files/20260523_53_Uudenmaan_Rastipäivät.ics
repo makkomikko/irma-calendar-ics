@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:53. Uudenmaan Rastipäivät
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T055042Z
-LOCATION:Rajamäen Rykmentti
+DTSTAMP:20260318T070021Z
+DESCRIPTION:Organizer: Rajamäen Rykmentti\nEvent Link: https://irma.suunn
+ istusliitto.fi/public/competition/view/27426
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27426
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Uudenmaan Kompassi-viesti 3 os (lähikilpailu\,avoin)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260318T055044Z
-LOCATION:Espoon Suunta
+DTSTAMP:20260318T070236Z
+DESCRIPTION:Organizer: Espoon Suunta\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27627
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27627
 END:VEVENT
 END:VCALENDAR

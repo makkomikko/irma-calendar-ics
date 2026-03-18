@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Am-partio/avoin
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260318T055043Z
-LOCATION:Kannuksen Ura
+DTSTAMP:20260318T070051Z
+DESCRIPTION:Organizer: Kannuksen Ura\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/27633
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27633
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Halikko-viesti
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260318T055044Z
-LOCATION:Angelniemen Ankkuri
+DTSTAMP:20260318T070255Z
+DESCRIPTION:Organizer: Angelniemen Ankkuri\nEvent Link: https://irma.suunn
+ istusliitto.fi/public/competition/view/27390
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27390
 END:VEVENT
 END:VCALENDAR

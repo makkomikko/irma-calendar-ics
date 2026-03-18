@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:KLL:n suunnistusmestaruuskilpailut\, henkilökohtainen
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260318T055044Z
-LOCATION:Kuusamon Erä-Veikot
+DTSTAMP:20260318T070221Z
+DESCRIPTION:Organizer: Kuusamon Erä-Veikot\nEvent Link: https://irma.suun
+ nistusliitto.fi/public/competition/view/27569
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27569
 END:VEVENT
 END:VCALENDAR

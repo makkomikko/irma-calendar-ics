@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Etelä-Pohjanmaan AM Viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T055044Z
-LOCATION:Kauhajoen Karhu
+DTSTAMP:20260318T070211Z
+DESCRIPTION:Organizer: Kauhajoen Karhu\nEvent Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27609
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27609
 END:VEVENT
 END:VCALENDAR

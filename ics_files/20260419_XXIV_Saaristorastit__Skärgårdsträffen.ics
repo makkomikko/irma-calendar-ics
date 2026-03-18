@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:XXIV Saaristorastit – Skärgårdsträffen
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T055042Z
-LOCATION:Kimito SF\nPargas IF
+DTSTAMP:20260318T065920Z
+DESCRIPTION:Organizer: Kimito SF\nPargas IF\nEvent Link: https://irma.suun
+ nistusliitto.fi/public/competition/view/27385
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27385
 END:VEVENT
 END:VCALENDAR

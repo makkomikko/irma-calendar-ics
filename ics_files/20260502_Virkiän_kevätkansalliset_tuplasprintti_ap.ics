@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset tuplasprintti ap.
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-DTSTAMP:20260318T055042Z
-LOCATION:Lapuan Virkiä
+DTSTAMP:20260318T065935Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27470
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27470
 END:VEVENT
 END:VCALENDAR

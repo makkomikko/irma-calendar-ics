@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:KaaSu:n am-yö
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260318T055044Z
-LOCATION:Joutsenon Kullervo
+DTSTAMP:20260318T070253Z
+DESCRIPTION:Organizer: Joutsenon Kullervo\nEvent Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/27561
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27561
 END:VEVENT
 END:VCALENDAR

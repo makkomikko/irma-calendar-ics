@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Stadi-sprintti ap.
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260318T055041Z
-LOCATION:Rasti-Jyry
+DTSTAMP:20260318T065913Z
+DESCRIPTION:Organizer: Rasti-Jyry\nEvent Link: https://irma.suunnistusliit
+ to.fi/public/competition/view/27373
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27373
 END:VEVENT
 END:VCALENDAR

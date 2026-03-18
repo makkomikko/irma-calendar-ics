@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Ice Power -rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T055042Z
-LOCATION:Tampereen Pyrintö
+DTSTAMP:20260318T070028Z
+DESCRIPTION:Organizer: Tampereen Pyrintö\nEvent Link: https://irma.suunni
+ stusliitto.fi/public/competition/view/27412
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27412
 END:VEVENT
 END:VCALENDAR

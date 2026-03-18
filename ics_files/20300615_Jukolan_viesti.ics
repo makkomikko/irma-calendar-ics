@@ -1,11 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
-DTSTAMP:20260318T055045Z
-LOCATION:Ikaalisten Nouseva-Voima\nKankaanpään Suunnistajat\nRastikarhut
+DTSTAMP:20260318T070350Z
+DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\nKankaanpään Suunnistaja
+ t\nRastikarhut\nEvent Link: https://irma.suunnistusliitto.fi/public/compet
+ ition/view/27108
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27108
 END:VEVENT
 END:VCALENDAR

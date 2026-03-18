@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kompassifinaali
 DTSTART;VALUE=DATE:20290819
 DTEND;VALUE=DATE:20290820
-DTSTAMP:20260318T055045Z
-LOCATION:Joutsenon Kullervo\nSK Vuoksi
+DTSTAMP:20260318T070343Z
+DESCRIPTION:Organizer: Joutsenon Kullervo\nSK Vuoksi\nEvent Link: https://
+ irma.suunnistusliitto.fi/public/competition/view/27239
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27239
 END:VEVENT
 END:VCALENDAR

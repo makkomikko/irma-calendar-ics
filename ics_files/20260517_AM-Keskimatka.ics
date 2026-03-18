@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:AM-Keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T055042Z
-LOCATION:Espoon Akilles
+DTSTAMP:20260318T070014Z
+DESCRIPTION:Organizer: Espoon Akilles\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27407
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27407
 END:VEVENT
 END:VCALENDAR

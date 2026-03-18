@@ -1,12 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Kärppäjahti ja avoin K-P.n pitkä matka\, K-P:n Kompassi-cupin 4
  . osakilpailu
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T055044Z
-LOCATION:Kokkolan Suunnistajat
+DTSTAMP:20260318T070227Z
+DESCRIPTION:Organizer: Kokkolan Suunnistajat\nEvent Link: https://irma.suu
+ nnistusliitto.fi/public/competition/view/27543
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27543
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-sprintti (WRE)
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260318T055042Z
-LOCATION:SK Uusi\nTuusulan Voima-Veikot
+DTSTAMP:20260318T065942Z
+DESCRIPTION:Organizer: SK Uusi\nTuusulan Voima-Veikot\nEvent Link: https:/
+ /irma.suunnistusliitto.fi/public/competition/view/26666
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26666
 END:VEVENT
 END:VCALENDAR

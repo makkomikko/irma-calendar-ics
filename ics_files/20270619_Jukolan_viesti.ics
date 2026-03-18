@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20260318T055044Z
-LOCATION:Sotkamon Jymy
+DTSTAMP:20260318T070304Z
+DESCRIPTION:Organizer: Sotkamon Jymy\nEvent Link: https://irma.suunnistusl
+ iitto.fi/public/competition/view/26190
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26190
 END:VEVENT
 END:VCALENDAR

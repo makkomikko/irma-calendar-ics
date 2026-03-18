@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20260318T055045Z
-LOCATION:Lapuan Virkiä
+DTSTAMP:20260318T070310Z
+DESCRIPTION:Organizer: Lapuan Virkiä\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/26297
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26297
 END:VEVENT
 END:VCALENDAR

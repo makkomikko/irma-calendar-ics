@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Barents Games keskimatka
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260318T055044Z
-LOCATION:SK Pohjantähti
+DTSTAMP:20260318T070220Z
+DESCRIPTION:Organizer: SK Pohjantähti\nEvent Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27534
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27534
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:** Billnäsin keskimatka
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260318T055041Z
-LOCATION:Karjaan Ura
+DTSTAMP:20260318T065908Z
+DESCRIPTION:Organizer: Karjaan Ura\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27364
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27364
 END:VEVENT
 END:VCALENDAR

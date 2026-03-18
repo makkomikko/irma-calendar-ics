@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Botnia medeldistans/keskimatka
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-DTSTAMP:20260318T055043Z
-LOCATION:OK Botnia
+DTSTAMP:20260318T070052Z
+DESCRIPTION:Organizer: OK Botnia\nEvent Link: https://irma.suunnistusliitt
+ o.fi/public/competition/view/27506
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27506
 END:VEVENT
 END:VCALENDAR

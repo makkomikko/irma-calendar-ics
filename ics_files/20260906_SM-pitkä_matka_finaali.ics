@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-pitkä matka\, finaali
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260318T055044Z
-LOCATION:Posion Pyrintö
+DTSTAMP:20260318T070233Z
+DESCRIPTION:Organizer: Posion Pyrintö\nEvent Link: https://irma.suunnistu
+ sliitto.fi/public/competition/view/27501
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27501
 END:VEVENT
 END:VCALENDAR

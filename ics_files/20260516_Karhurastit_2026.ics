@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Karhurastit 2026
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T055042Z
-LOCATION:Rastikarhut
+DTSTAMP:20260318T070006Z
+DESCRIPTION:Organizer: Rastikarhut\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27445
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27445
 END:VEVENT
 END:VCALENDAR

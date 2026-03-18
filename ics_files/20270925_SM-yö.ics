@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-yö
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-DTSTAMP:20260318T055045Z
-LOCATION:Kajaanin Suunnistajat
+DTSTAMP:20260318T070316Z
+DESCRIPTION:Organizer: Kajaanin Suunnistajat\nEvent Link: https://irma.suu
+ nnistusliitto.fi/public/competition/view/26770
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/26770
 END:VEVENT
 END:VCALENDAR

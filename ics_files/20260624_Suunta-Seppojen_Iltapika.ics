@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Suunta-Seppojen Iltapika
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260318T055043Z
-LOCATION:Suunta-Sepot
+DTSTAMP:20260318T070050Z
+DESCRIPTION:Organizer: Suunta-Sepot\nEvent Link: https://irma.suunnistusli
+ itto.fi/public/competition/view/27605
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27605
 END:VEVENT
 END:VCALENDAR

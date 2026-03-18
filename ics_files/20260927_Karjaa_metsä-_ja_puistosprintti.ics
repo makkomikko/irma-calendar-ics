@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Karjaa metsä- ja puistosprintti
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260318T055044Z
-LOCATION:Karjaan Ura
+DTSTAMP:20260318T070256Z
+DESCRIPTION:Organizer: Karjaan Ura\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27365
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27365
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:59. Sisä-Suomen Rastipäivät
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T055042Z
-LOCATION:Saarijärven Pullistus
+DTSTAMP:20260318T070018Z
+DESCRIPTION:Organizer: Saarijärven Pullistus\nEvent Link: https://irma.su
+ unnistusliitto.fi/public/competition/view/27415
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27415
 END:VEVENT
 END:VCALENDAR

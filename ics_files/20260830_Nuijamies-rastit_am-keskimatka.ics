@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Nuijamies-rastit\, am-keskimatka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T055044Z
-LOCATION:Ylikiimingin Nuijamiehet
+DTSTAMP:20260318T070231Z
+DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet\nEvent Link: https://irma.
+ suunnistusliitto.fi/public/competition/view/27596
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27596
 END:VEVENT
 END:VCALENDAR

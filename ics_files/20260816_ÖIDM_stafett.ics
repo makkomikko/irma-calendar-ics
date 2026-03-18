@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:ÖIDM stafett
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T055044Z
-LOCATION:OK Kristina
+DTSTAMP:20260318T070210Z
+DESCRIPTION:Organizer: OK Kristina\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27603
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27603
 END:VEVENT
 END:VCALENDAR

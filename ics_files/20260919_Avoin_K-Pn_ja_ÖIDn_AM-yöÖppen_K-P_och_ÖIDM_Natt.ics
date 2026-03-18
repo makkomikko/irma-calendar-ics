@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Avoin K-P:n ja ÖID:n AM-yö/Öppen K-P och ÖIDM Natt
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T055044Z
-LOCATION:Kaustisen Pohjan-Veikot\nOK Botnia
+DTSTAMP:20260318T070239Z
+DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot\nOK Botnia\nEvent Link: htt
+ ps://irma.suunnistusliitto.fi/public/competition/view/27518
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27518
 END:VEVENT
 END:VCALENDAR

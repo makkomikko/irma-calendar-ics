@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280513
 DTEND;VALUE=DATE:20280514
-DTSTAMP:20260318T055045Z
-LOCATION:Lappeen Riento
+DTSTAMP:20260318T070320Z
+DESCRIPTION:Organizer: Lappeen Riento\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27382
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27382
 END:VEVENT
 END:VCALENDAR

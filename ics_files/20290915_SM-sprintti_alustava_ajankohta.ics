@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:SM-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290915
 DTEND;VALUE=DATE:20290916
-DTSTAMP:20260318T055045Z
-LOCATION:Alatornion Pirkat
+DTSTAMP:20260318T070345Z
+DESCRIPTION:Organizer: Alatornion Pirkat\nEvent Link: https://irma.suunnis
+ tusliitto.fi/public/competition/view/27434
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27434
 END:VEVENT
 END:VCALENDAR

@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:Hämeen AM-sprintti ja XXVIII Junnukisat
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260318T055042Z
-LOCATION:Rasti-Nokia
+DTSTAMP:20260318T065939Z
+DESCRIPTION:Organizer: Rasti-Nokia\nEvent Link: https://irma.suunnistuslii
+ tto.fi/public/competition/view/27323
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27323
 END:VEVENT
 END:VCALENDAR

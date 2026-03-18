@@ -1,11 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Orienteering Scraper//
+PRODID:-//IRMA Scraper//
 BEGIN:VEVENT
 SUMMARY:** Åland 2-dagars / Ahvenanmaan 2-päiväiset
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
-DTSTAMP:20260318T055041Z
-LOCATION:IF Åland\nTampereen Pyrintö
+DTSTAMP:20260318T065911Z
+DESCRIPTION:Organizer: IF Åland\nTampereen Pyrintö\nEvent Link: https://
+ irma.suunnistusliitto.fi/public/competition/view/27413
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27413
 END:VEVENT
 END:VCALENDAR
