@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Jalasjärven keskimatka
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260318T183614Z
+DTSTAMP:20260318T185425Z
+UID:irma-27606-20260812@suunnistusliitto.fi
 DESCRIPTION:Organizer: Jalasjärven Jalas\nArea: Etelä-Pohjanmaa\nCategor
  ies: Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/compet
  ition/view/27606

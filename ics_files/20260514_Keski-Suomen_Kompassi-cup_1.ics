@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Keski-Suomen Kompassi-cup 1
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T183439Z
+DTSTAMP:20260318T185256Z
+UID:irma-27630-20260514@suunnistusliitto.fi
 DESCRIPTION:Organizer: Jämsän Retki-Veikot\nArea: Keski-Suomi\nHoliday: 
  Ascension Day\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
  ion/view/27630

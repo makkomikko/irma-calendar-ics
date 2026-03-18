@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Lasten Halikko-juoksu
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260318T183700Z
+DTSTAMP:20260318T185513Z
+UID:irma-27389-20260926@suunnistusliitto.fi
 DESCRIPTION:Organizer: Angelniemen Ankkuri\nArea: Varsinais-Suomi\nIRMA Li
  nk: https://irma.suunnistusliitto.fi/public/competition/view/27389
 LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)

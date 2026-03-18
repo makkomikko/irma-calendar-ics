@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20260318T183715Z
+DTSTAMP:20260318T185529Z
+UID:irma-26297-20270814@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Etelä-Pohjanmaa\nIRMA Link: 
  https://irma.suunnistusliitto.fi/public/competition/view/26297
 LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)

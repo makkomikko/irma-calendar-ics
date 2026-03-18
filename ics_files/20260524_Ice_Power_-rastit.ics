@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Ice Power -rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T183502Z
+DTSTAMP:20260318T185314Z
+UID:irma-27412-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Tampereen Pyrintö\nArea: Häme\nHoliday: Whit Sund
  ay\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27
  412

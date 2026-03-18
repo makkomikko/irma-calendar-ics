@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kevät kansallinen
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T183446Z
+DTSTAMP:20260318T185302Z
+UID:irma-27517-20260516@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot\nArea: Keski-Pohjanmaa\nIRM
  A Link: https://irma.suunnistusliitto.fi/public/competition/view/27517
 LOCATION:Keski-Pohjanmaa (Kaustisen Pohjan-Veikot)

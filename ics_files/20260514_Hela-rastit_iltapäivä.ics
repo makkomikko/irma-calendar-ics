@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Hela-rastit\, iltapäivä
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T183438Z
+DTSTAMP:20260318T185256Z
+UID:irma-27626-20260514@suunnistusliitto.fi
 DESCRIPTION:Organizer: Perämeren Rasti\nArea: Pohjois-Pohjanmaa\nHoliday:
   Ascension Day\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
  tion/view/27626

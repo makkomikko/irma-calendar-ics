@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:GIF:s 75:te Tvåmila\, ÖIDM ultra
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260318T183703Z
+DTSTAMP:20260318T185516Z
+UID:irma-27537-20260927@suunnistusliitto.fi
 DESCRIPTION:Organizer: Gamlakarleby IF\nArea: FSO\nIRMA Link: https://irma
  .suunnistusliitto.fi/public/competition/view/27537
 LOCATION:FSO (Gamlakarleby IF)

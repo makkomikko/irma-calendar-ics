@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Visamäki Tuplasprintti (Peruttu)
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T183419Z
+DTSTAMP:20260318T185236Z
+UID:irma-27438-20260419@suunnistusliitto.fi
 DESCRIPTION:Organizer: Hämeenlinnan Suunnistajat\nArea: Häme\nCategories
  : Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
  /view/27438

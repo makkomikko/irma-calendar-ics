@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset tuplasprintti ip.
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-DTSTAMP:20260318T183429Z
+DTSTAMP:20260318T185246Z
+UID:irma-27471-20260502@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Etelä-Pohjanmaa\nCategories:
   Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
  view/27471

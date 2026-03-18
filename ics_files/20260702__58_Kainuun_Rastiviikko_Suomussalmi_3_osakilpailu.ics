@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:** 58. Kainuun Rastiviikko\, Suomussalmi\, 3. osakilpailu
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
-DTSTAMP:20260318T183529Z
+DTSTAMP:20260318T185342Z
+UID:irma-27311-20260702@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kainuun Rastiviikko ry\, Suomussalmen Rasti\nArea: 
  Kainuu\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
  w/27311

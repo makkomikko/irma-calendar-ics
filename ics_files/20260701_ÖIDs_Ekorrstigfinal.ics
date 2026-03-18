@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:ÖID:s Ekorrstigfinal
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260318T183528Z
+DTSTAMP:20260318T185340Z
+UID:irma-27583-20260701@suunnistusliitto.fi
 DESCRIPTION:Organizer: Närpes OK\nArea: FSO\nIRMA Link: https://irma.suun
  nistusliitto.fi/public/competition/view/27583
 LOCATION:FSO (Närpes OK)

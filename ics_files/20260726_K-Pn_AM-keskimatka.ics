@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:K-P:n AM-keskimatka
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T183552Z
+DTSTAMP:20260318T185405Z
+UID:irma-27631-20260726@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kalajoen Junkkarit\nArea: Keski-Pohjanmaa\nCategori
  es: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/publ
  ic/competition/view/27631

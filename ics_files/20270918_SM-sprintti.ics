@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-sprintti
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-DTSTAMP:20260318T183719Z
+DTSTAMP:20260318T185533Z
+UID:irma-26697-20270918@suunnistusliitto.fi
 DESCRIPTION:Organizer: Pihkaniskat\nArea: Uusimaa\nCategories: Sprintti\, 
  SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/26
  697

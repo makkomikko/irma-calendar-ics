@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Helakisa
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T183436Z
+DTSTAMP:20260318T185253Z
+UID:irma-27462-20260514@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kyrös-Rasti\nArea: Häme\nHoliday: Ascension Day\n
  IRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27462
 LOCATION:Häme (Kyrös-Rasti)

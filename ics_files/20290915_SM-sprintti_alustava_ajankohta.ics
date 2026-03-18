@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290915
 DTEND;VALUE=DATE:20290916
-DTSTAMP:20260318T183740Z
+DTSTAMP:20260318T185556Z
+UID:irma-27434-20290915@suunnistusliitto.fi
 DESCRIPTION:Organizer: Alatornion Pirkat\nArea: Lappi\nCategories: Sprintt
  i\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
  w/27434

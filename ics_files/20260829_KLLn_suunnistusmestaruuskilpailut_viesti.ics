@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:KLL:n suunnistusmestaruuskilpailut\, viesti
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T183639Z
+DTSTAMP:20260318T185452Z
+UID:irma-27570-20260829@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kuusamon Erä-Veikot\nArea: Pohjois-Pohjanmaa\nCate
  gories: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
  tion/view/27570

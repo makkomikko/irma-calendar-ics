@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Lumonite SM-yö
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260318T183704Z
+DTSTAMP:20260318T185517Z
+UID:irma-26670-20261003@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rasti 88\, Yläneen Kiri\nArea: Varsinais-Suomi\nCa
  tegories: Yö\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/com
  petition/view/26670

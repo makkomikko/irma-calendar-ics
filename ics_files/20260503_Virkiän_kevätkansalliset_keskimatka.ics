@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset\, keskimatka
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260318T183431Z
+DTSTAMP:20260318T185248Z
+UID:irma-27472-20260503@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Etelä-Pohjanmaa\nCategories:
   Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competitio
  n/view/27472

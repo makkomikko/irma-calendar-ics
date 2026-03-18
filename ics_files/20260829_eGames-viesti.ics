@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:eGames-viesti
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T183636Z
+DTSTAMP:20260318T185448Z
+UID:irma-27424-20260829@suunnistusliitto.fi
 DESCRIPTION:Organizer: Espoon Suunta\nArea: Uusimaa\nCategories: Viesti\nI
  RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27424
 LOCATION:Uusimaa (Espoon Suunta)

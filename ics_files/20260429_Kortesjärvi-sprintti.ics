@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kortesjärvi-sprintti
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260318T183425Z
+DTSTAMP:20260318T185242Z
+UID:irma-27574-20260429@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot\nArea: Etelä-Pohjanmaa
  \nCategories: Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public
  /competition/view/27574

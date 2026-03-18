@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:EP:n Avoin AM Erikoispitkä
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T183507Z
+DTSTAMP:20260318T185318Z
+UID:irma-27582-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kauhajoen Karhu\nArea: Etelä-Pohjanmaa\nCategories
  : Erikoispitkä\nHoliday: Whit Sunday\nIRMA Link: https://irma.suunnistusl
  iitto.fi/public/competition/view/27582

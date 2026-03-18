@@ -1,12 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kärppäjahti ja avoin K-P.n pitkä matka\, K-P:n Kompassi-cupin 4
  . osakilpailu
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T183638Z
+DTSTAMP:20260318T185451Z
+UID:irma-27543-20260829@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kokkolan Suunnistajat\nArea: Keski-Pohjanmaa\nCateg
  ories: Pitkä\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
  ion/view/27543

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kannus-rastit
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T183633Z
+DTSTAMP:20260318T185445Z
+UID:irma-27634-20260822@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kannuksen Ura\nArea: Keski-Pohjanmaa\nIRMA Link: ht
  tps://irma.suunnistusliitto.fi/public/competition/view/27634
 LOCATION:Keski-Pohjanmaa (Kannuksen Ura)

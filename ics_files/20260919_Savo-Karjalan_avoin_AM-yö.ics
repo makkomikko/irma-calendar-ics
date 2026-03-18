@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Savo-Karjalan avoin AM-yö
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T183653Z
+DTSTAMP:20260318T185506Z
+UID:irma-27560-20260919@suunnistusliitto.fi
 DESCRIPTION:Organizer: Siilin Rasti\nArea: Savo-Karjala\nCategories: Yö\,
   AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
  iew/27560

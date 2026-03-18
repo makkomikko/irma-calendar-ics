@@ -1,12 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Suomen Tunturisuunnistus 2026\, henkilökohtaiset sarjat 2. päiv
  ä
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260318T183613Z
+DTSTAMP:20260318T185424Z
+UID:irma-27478-20260809@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapin Sudet\nArea: Lappi\nIRMA Link: https://irma.s
  uunnistusliitto.fi/public/competition/view/27478
 LOCATION:Lappi (Lapin Sudet)

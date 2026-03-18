@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-Knock-Out-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280520
 DTEND;VALUE=DATE:20280521
-DTSTAMP:20260318T183725Z
+DTSTAMP:20260318T185540Z
+UID:irma-27443-20280520@suunnistusliitto.fi
 DESCRIPTION:Organizer: Jatkuva Liike Oy\, RastiPiikkiö\nArea: Varsinais-S
  uomi\nCategories: Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.
  fi/public/competition/view/27443

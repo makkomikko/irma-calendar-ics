@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:FSOM-stafett
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T183605Z
+DTSTAMP:20260318T185416Z
+UID:irma-27511-20260802@suunnistusliitto.fi
 DESCRIPTION:Organizer: Solf IK\nArea: FSO\nCategories: AM/FSOM\nIRMA Link:
   https://irma.suunnistusliitto.fi/public/competition/view/27511
 LOCATION:FSO (Solf IK)

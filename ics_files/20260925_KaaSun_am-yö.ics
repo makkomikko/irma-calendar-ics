@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:KaaSu:n am-yö
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260318T183659Z
+DTSTAMP:20260318T185512Z
+UID:irma-27561-20260925@suunnistusliitto.fi
 DESCRIPTION:Organizer: Joutsenon Kullervo\nArea: Kaakko\nCategories: Yö\,
   AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
  iew/27561

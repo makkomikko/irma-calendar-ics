@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Finnish Spring -viesti
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20260318T183707Z
+DTSTAMP:20260318T185521Z
+UID:irma-27158-20270425@suunnistusliitto.fi
 DESCRIPTION:Organizer: OK Trian\nArea: FSO\nCategories: Viesti\nIRMA Link:
   https://irma.suunnistusliitto.fi/public/competition/view/27158
 LOCATION:FSO (OK Trian)

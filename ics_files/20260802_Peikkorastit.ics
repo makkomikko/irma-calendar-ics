@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Peikkorastit
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T183601Z
+DTSTAMP:20260318T185412Z
+UID:irma-27374-20260802@suunnistusliitto.fi
 DESCRIPTION:Organizer: Perttelin Peikot\nArea: Varsinais-Suomi\nIRMA Link:
   https://irma.suunnistusliitto.fi/public/competition/view/27374
 LOCATION:Varsinais-Suomi (Perttelin Peikot)

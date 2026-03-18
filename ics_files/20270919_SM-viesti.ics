@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-viesti
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20260318T183720Z
+DTSTAMP:20260318T185534Z
+UID:irma-26673-20270919@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rastivarsat\nArea: Päijät-Häme\nCategories: Vies
  ti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
  ew/26673

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T183630Z
+DTSTAMP:20260318T185442Z
+UID:irma-26315-20260822@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kalevan Rasti\, Kontiolahden Urheilijat\nArea: Savo
  -Karjala\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
  iew/26315

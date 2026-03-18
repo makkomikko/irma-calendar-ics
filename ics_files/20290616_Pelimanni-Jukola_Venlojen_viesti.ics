@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Pelimanni-Jukola\, Venlojen viesti
 DTSTART;VALUE=DATE:20290616
 DTEND;VALUE=DATE:20290617
-DTSTAMP:20260318T183736Z
+DTSTAMP:20260318T185551Z
+UID:irma-27096-20290616@suunnistusliitto.fi
 DESCRIPTION:Organizer: IK Falken\, Kaustisen Pohjan-Veikot\, OK Botnia\, V
  etelin Urheilijat\nArea: FSO\nCategories: Viesti\nIRMA Link: https://irma.
  suunnistusliitto.fi/public/competition/view/27096

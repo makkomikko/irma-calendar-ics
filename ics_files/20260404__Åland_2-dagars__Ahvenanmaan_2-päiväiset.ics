@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:** Åland 2-dagars / Ahvenanmaan 2-päiväiset
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
-DTSTAMP:20260318T183411Z
+DTSTAMP:20260318T185227Z
+UID:irma-27413-20260404@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Åland\, Tampereen Pyrintö\nArea: FSO\nIRMA Lin
  k: https://irma.suunnistusliitto.fi/public/competition/view/27413
 LOCATION:FSO (IF Åland\, Tampereen Pyrintö)

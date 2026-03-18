@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Öppna långa ÅM / ÅSW
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260318T183615Z
+DTSTAMP:20260318T185426Z
+UID:irma-27641-20260814@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Åland\nArea: FSO\nIRMA Link: https://irma.suunn
  istusliitto.fi/public/competition/view/27641
 LOCATION:FSO (IF Åland)

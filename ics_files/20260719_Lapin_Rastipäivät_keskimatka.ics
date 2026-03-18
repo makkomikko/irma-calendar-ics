@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Lapin Rastipäivät keskimatka
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260318T183542Z
+DTSTAMP:20260318T185354Z
+UID:irma-27421-20260719@suunnistusliitto.fi
 DESCRIPTION:Organizer: Tmi Omataivainen\nArea: Lappi\nCategories: Keskimat
  ka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27
  421

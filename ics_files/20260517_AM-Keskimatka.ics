@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:AM-Keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T183451Z
+DTSTAMP:20260318T185305Z
+UID:irma-27407-20260517@suunnistusliitto.fi
 DESCRIPTION:Organizer: Espoon Akilles\nArea: Uusimaa\nCategories: Keskimat
  ka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
  on/view/27407

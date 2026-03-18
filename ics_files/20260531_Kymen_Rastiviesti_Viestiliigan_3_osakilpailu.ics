@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kymen Rastiviesti\, Viestiliigan 3. osakilpailu
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260318T183512Z
+DTSTAMP:20260318T185323Z
+UID:irma-27484-20260531@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kouvolan Suunnistajat\nArea: Kaakko\nCategories: Vi
  estiliiga\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
  view/27484

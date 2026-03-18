@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kevätyönviesti\, Viestiliigan 1. osakilpailu
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260318T183414Z
+DTSTAMP:20260318T185231Z
+UID:irma-27447-20260411@suunnistusliitto.fi
 DESCRIPTION:Organizer: Paimion Rasti\nArea: Varsinais-Suomi\nCategories: Y
  ö\, Viestiliiga\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
  tition/view/27447

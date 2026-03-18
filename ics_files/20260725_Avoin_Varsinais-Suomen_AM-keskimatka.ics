@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Avoin Varsinais-Suomen AM-keskimatka
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T183548Z
+DTSTAMP:20260318T185400Z
+UID:irma-27540-20260725@suunnistusliitto.fi
 DESCRIPTION:Organizer: Vakka-Rasti\nArea: Varsinais-Suomi\nCategories: Kes
  kimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/comp
  etition/view/27540

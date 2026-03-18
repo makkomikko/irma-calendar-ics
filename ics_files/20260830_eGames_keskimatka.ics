@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:eGames keskimatka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T183640Z
+DTSTAMP:20260318T185452Z
+UID:irma-27425-20260830@suunnistusliitto.fi
 DESCRIPTION:Organizer: Espoon Suunta\nArea: Uusimaa\nCategories: Keskimatk
  a\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/274
  25

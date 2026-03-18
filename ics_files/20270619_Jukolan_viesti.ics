@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20260318T183709Z
+DTSTAMP:20260318T185523Z
+UID:irma-26190-20270619@suunnistusliitto.fi
 DESCRIPTION:Organizer: Sotkamon Jymy\nArea: Kainuu\nCategories: Viesti\nIR
  MA Link: https://irma.suunnistusliitto.fi/public/competition/view/26190
 LOCATION:Kainuu (Sotkamon Jymy)

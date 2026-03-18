@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Vety-sprintti 2026 1. klpailu
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260318T183557Z
+DTSTAMP:20260318T185408Z
+UID:irma-27429-20260801@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lappeen Riento\nArea: Kaakko\nCategories: Sprintti\
  nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27429
 LOCATION:Kaakko (Lappeen Riento)

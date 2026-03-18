@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Lakeuden Viesti\, Viestiliigan 6. osakilpailu
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T183623Z
+DTSTAMP:20260318T185435Z
+UID:irma-27383-20260816@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kauhajoen Karhu\, OK Kristina\nArea: Etelä-Pohjanm
  aa\nCategories: Viestiliiga\nIRMA Link: https://irma.suunnistusliitto.fi/p
  ublic/competition/view/27383

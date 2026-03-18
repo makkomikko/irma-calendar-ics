@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Keski-Suomen AM-sprintti
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-DTSTAMP:20260318T183432Z
+DTSTAMP:20260318T185249Z
+UID:irma-27635-20260506@suunnistusliitto.fi
 DESCRIPTION:Organizer: Muuramen Rasti\nArea: Keski-Suomi\nCategories: Spri
  ntti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
  tion/view/27635

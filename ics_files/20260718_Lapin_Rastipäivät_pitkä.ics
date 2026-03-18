@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Lapin Rastipäivät pitkä
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260318T183539Z
+DTSTAMP:20260318T185351Z
+UID:irma-27420-20260718@suunnistusliitto.fi
 DESCRIPTION:Organizer: Tmi Omataivainen\nArea: Lappi\nCategories: Pitkä\n
  IRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27420
 LOCATION:Lappi (Tmi Omataivainen)

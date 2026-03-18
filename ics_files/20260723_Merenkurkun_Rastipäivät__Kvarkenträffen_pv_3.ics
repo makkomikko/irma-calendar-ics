@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Merenkurkun Rastipäivät – Kvarkenträffen pv 3
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DTSTAMP:20260318T183546Z
+DTSTAMP:20260318T185358Z
+UID:irma-27468-20260723@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Femman\, Malax IF\, Vaasan Suunnistajat\nArea: F
  SO\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27
  468

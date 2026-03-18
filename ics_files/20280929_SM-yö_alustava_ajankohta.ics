@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-yö (alustava ajankohta)
 DTSTART;VALUE=DATE:20280929
 DTEND;VALUE=DATE:20280930
-DTSTAMP:20260318T183733Z
+DTSTAMP:20260318T185548Z
+UID:irma-27406-20280929@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rasti-Kurikka\nArea: Etelä-Pohjanmaa\nCategories: 
  Yö\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
  iew/27406

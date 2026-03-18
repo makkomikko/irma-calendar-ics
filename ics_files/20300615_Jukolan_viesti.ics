@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
-DTSTAMP:20260318T183745Z
+DTSTAMP:20260318T185601Z
+UID:irma-27108-20300615@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\, Kankaanpään Suunnistaj
  at\, Rastikarhut\nArea: Häme\nCategories: Viesti\nIRMA Link: https://irma
  .suunnistusliitto.fi/public/competition/view/27108

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Hakan keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T183448Z
+DTSTAMP:20260318T185304Z
+UID:irma-27325-20260517@suunnistusliitto.fi
 DESCRIPTION:Organizer: Valkeakosken Haka\nArea: Häme\nCategories: Keskima
  tka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2
  7325

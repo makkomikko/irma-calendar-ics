@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:ÖIDM stafett
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T183625Z
+DTSTAMP:20260318T185437Z
+UID:irma-27603-20260816@suunnistusliitto.fi
 DESCRIPTION:Organizer: OK Kristina\nArea: FSO\nIRMA Link: https://irma.suu
  nnistusliitto.fi/public/competition/view/27603
 LOCATION:FSO (OK Kristina)

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Helsinki O-Games
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260318T183515Z
+DTSTAMP:20260318T185326Z
+UID:irma-27368-20260607@suunnistusliitto.fi
 DESCRIPTION:Organizer: Helsingin Suunnistajat\nArea: Uusimaa\nIRMA Link: h
  ttps://irma.suunnistusliitto.fi/public/competition/view/27368
 LOCATION:Uusimaa (Helsingin Suunnistajat)

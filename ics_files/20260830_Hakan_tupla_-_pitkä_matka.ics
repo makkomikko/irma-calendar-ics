@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Hakan tupla - pitkä matka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T183641Z
+DTSTAMP:20260318T185453Z
+UID:irma-27451-20260830@suunnistusliitto.fi
 DESCRIPTION:Organizer: Valkeakosken Haka\nArea: Häme\nCategories: Pitkä\
  nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27451
 LOCATION:Häme (Valkeakosken Haka)

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Nuijamies-rastit\, am-keskimatka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260318T183643Z
+DTSTAMP:20260318T185455Z
+UID:irma-27596-20260830@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet\nArea: Pohjois-Pohjanmaa\n
  Categories: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto
  .fi/public/competition/view/27596

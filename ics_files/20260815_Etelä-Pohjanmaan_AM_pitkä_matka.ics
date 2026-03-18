@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Etelä-Pohjanmaan AM pitkä matka
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T183616Z
+DTSTAMP:20260318T185427Z
+UID:irma-27344-20260815@suunnistusliitto.fi
 DESCRIPTION:Organizer: Järviseudun Rasti\nArea: Etelä-Pohjanmaa\nCategor
  ies: Pitkä\nIRMA Link: https://irma.suunnistusliitto.fi/public/competitio
  n/view/27344

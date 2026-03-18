@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Sprinttiviesti\, kuntotapahtuma (Peruttu)
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260318T183409Z
+DTSTAMP:20260318T185225Z
+UID:irma-27589-20260328@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kunnon Suunta Oy\nArea: Varsinais-Suomi\nCategories
  : Viesti\, Sprintti\nIRMA Link: https://irma.suunnistusliitto.fi/public/co
  mpetition/view/27589

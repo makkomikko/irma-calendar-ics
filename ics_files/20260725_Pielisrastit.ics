@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Pielisrastit
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T183549Z
+DTSTAMP:20260318T185401Z
+UID:irma-27575-20260725@suunnistusliitto.fi
 DESCRIPTION:Organizer: Nurmeksen Sepot\nArea: Savo-Karjala\nIRMA Link: htt
  ps://irma.suunnistusliitto.fi/public/competition/view/27575
 LOCATION:Savo-Karjala (Nurmeksen Sepot)

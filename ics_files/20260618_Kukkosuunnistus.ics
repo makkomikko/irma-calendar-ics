@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kukkosuunnistus
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260318T183520Z
+DTSTAMP:20260318T185332Z
+UID:irma-27474-20260618@suunnistusliitto.fi
 DESCRIPTION:Organizer: Laitilan Jyske\nArea: Varsinais-Suomi\nIRMA Link: h
  ttps://irma.suunnistusliitto.fi/public/competition/view/27474
 LOCATION:Varsinais-Suomi (Laitilan Jyske)

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Tampere-suunnistus
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T183547Z
+DTSTAMP:20260318T185359Z
+UID:irma-27409-20260725@suunnistusliitto.fi
 DESCRIPTION:Organizer: Koovee\nArea: Häme\nIRMA Link: https://irma.suunni
  stusliitto.fi/public/competition/view/27409
 LOCATION:Häme (Koovee)

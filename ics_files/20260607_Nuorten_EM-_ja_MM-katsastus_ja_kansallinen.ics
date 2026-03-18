@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Nuorten EM- ja MM-katsastus ja kansallinen
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260318T183515Z
+DTSTAMP:20260318T185327Z
+UID:irma-27503-20260607@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapuan Virkiä\nArea: Etelä-Pohjanmaa\nIRMA Link: 
  https://irma.suunnistusliitto.fi/public/competition/view/27503
 LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)

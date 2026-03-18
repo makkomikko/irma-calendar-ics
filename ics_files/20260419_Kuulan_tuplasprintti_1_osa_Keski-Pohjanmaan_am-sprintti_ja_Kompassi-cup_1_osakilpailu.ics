@@ -1,12 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kuulan tuplasprintti 1. osa\, Keski-Pohjanmaan am-sprintti ja Komp
  assi-cup 1. osakilpailu
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260318T183420Z
+DTSTAMP:20260318T185237Z
+UID:irma-27531-20260419@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ylivieskan Kuula\nArea: Keski-Pohjanmaa\nCategories
  : Sprintti\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/c
  ompetition/view/27531

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-viesti / stafett-FM (alustava ajankohta)
 DTSTART;VALUE=DATE:20280917
 DTEND;VALUE=DATE:20280918
-DTSTAMP:20260318T183732Z
+DTSTAMP:20260318T185547Z
+UID:irma-27435-20280917@suunnistusliitto.fi
 DESCRIPTION:Organizer: Pargas IF\nArea: FSO\nCategories: Viesti\, SM\nIRMA
   Link: https://irma.suunnistusliitto.fi/public/competition/view/27435
 LOCATION:FSO (Pargas IF)

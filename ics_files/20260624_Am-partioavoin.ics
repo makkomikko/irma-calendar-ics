@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Am-partio/avoin
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260318T183522Z
+DTSTAMP:20260318T185334Z
+UID:irma-27633-20260624@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kannuksen Ura\nArea: Keski-Pohjanmaa\nCategories: A
  M/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
  w/27633

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko 2027 1.pv
 DTSTART;VALUE=DATE:20270712
 DTEND;VALUE=DATE:20270713
-DTSTAMP:20260318T183710Z
+DTSTAMP:20260318T185524Z
+UID:irma-27613-20270712@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lappeen Riento\nArea: Kaakko\nIRMA Link: https://ir
  ma.suunnistusliitto.fi/public/competition/view/27613
 LOCATION:Kaakko (Lappeen Riento)

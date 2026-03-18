@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Pohjois-Pohjanmaan Kompassi-viesti (lähikilpailu)
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T183627Z
+DTSTAMP:20260318T185438Z
+UID:irma-27624-20260816@suunnistusliitto.fi
 DESCRIPTION:Organizer: SK Pohjantähti\nArea: Pohjois-Pohjanmaa\nCategorie
  s: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
  view/27624

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260318T183704Z
+DTSTAMP:20260318T185518Z
+UID:irma-26707-20261017@suunnistusliitto.fi
 DESCRIPTION:Organizer: Suunta Jyväskylä\nArea: Keski-Suomi\nCategories: 
  Erikoispitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/com
  petition/view/26707

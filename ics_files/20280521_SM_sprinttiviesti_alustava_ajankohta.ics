@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:SM sprinttiviesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280521
 DTEND;VALUE=DATE:20280522
-DTSTAMP:20260318T183726Z
+DTSTAMP:20260318T185541Z
+UID:irma-27444-20280521@suunnistusliitto.fi
 DESCRIPTION:Organizer: Jatkuva Liike Oy\, RastiPiikkiö\nArea: Varsinais-S
  uomi\nCategories: Viesti\, Sprintti\nIRMA Link: https://irma.suunnistuslii
  tto.fi/public/competition/view/27444

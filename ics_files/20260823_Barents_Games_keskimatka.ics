@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Barents Games keskimatka
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260318T183635Z
+DTSTAMP:20260318T185446Z
+UID:irma-27534-20260823@suunnistusliitto.fi
 DESCRIPTION:Organizer: SK Pohjantähti\nArea: Pohjois-Pohjanmaa\nCategorie
  s: Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competit
  ion/view/27534

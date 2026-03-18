@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Puolanka Sprintti
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T183606Z
+DTSTAMP:20260318T185417Z
+UID:irma-27628-20260802@suunnistusliitto.fi
 DESCRIPTION:Organizer: Puolangan Ryhti\nArea: Kainuu\nCategories: Sprintti
  \nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2762
  8

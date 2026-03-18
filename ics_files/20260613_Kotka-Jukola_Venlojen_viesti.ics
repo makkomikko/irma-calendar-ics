@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kotka-Jukola\, Venlojen viesti
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20260318T183518Z
+DTSTAMP:20260318T185330Z
+UID:irma-24842-20260613@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kymin Suunnistajat\, Vehkalahden Veikot\nArea: Kaak
  ko\nCategories: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public
  /competition/view/24842

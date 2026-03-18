@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:** 58. Kainuun Rastiviikko\, Suomussalmi\, 2. osakilpailu
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260318T183527Z
+DTSTAMP:20260318T185339Z
+UID:irma-27310-20260630@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kainuun Rastiviikko ry\, Suomussalmen Rasti\nArea: 
  Kainuu\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
  w/27310

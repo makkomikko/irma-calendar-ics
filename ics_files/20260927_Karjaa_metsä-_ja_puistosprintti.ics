@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Karjaa metsä- ja puistosprintti
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260318T183702Z
+DTSTAMP:20260318T185515Z
+UID:irma-27365-20260927@suunnistusliitto.fi
 DESCRIPTION:Organizer: Karjaan Ura\nArea: Uusimaa\nCategories: Sprintti\nI
  RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27365
 LOCATION:Uusimaa (Karjaan Ura)

@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Karkki-Rastin 40-vuotisjuhlakilpailu
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T183442Z
+DTSTAMP:20260318T185259Z
+UID:irma-27386-20260516@suunnistusliitto.fi
 DESCRIPTION:Organizer: Karkki-Rasti\nArea: Uusimaa\nIRMA Link: https://irm
  a.suunnistusliitto.fi/public/competition/view/27386
 LOCATION:Uusimaa (Karkki-Rasti)

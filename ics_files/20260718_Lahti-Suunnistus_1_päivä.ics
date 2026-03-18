@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//IRMA Scraper//
+PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Lahti-Suunnistus 1. päivä
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260318T183540Z
+DTSTAMP:20260318T185352Z
+UID:irma-27460-20260718@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lahden Suunnistajat-37\nArea: Päijät-Häme\nIRMA 
  Link: https://irma.suunnistusliitto.fi/public/competition/view/27460
 LOCATION:Päijät-Häme (Lahden Suunnistajat-37)
