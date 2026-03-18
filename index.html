@@ -260,21 +260,27 @@
             const card = document.createElement('div');
             card.className = `event-card ${event.cancelled ? 'cancelled' : ''}`;
             
-            // Standard Finnish Date format: ma 15.5.2026
             const formattedDate = dateObj.toLocaleDateString('fi-FI', { 
                 weekday: 'short', day: 'numeric', month: 'numeric', year: 'numeric' 
             });
             
             let deadlineHtml = event.deadline ? `<div class="deadline">⏰ Ilmoittautuminen: ${event.deadline}</div>` : '';
             let linkHtml = event.link ? `<a href="${event.link}" target="_blank" class="event-link">🔗 IRMA</a>` : '';
+            
+            // New: Google Maps Button
+            let mapsHtml = event.maps_url 
+                ? `<a href="${event.maps_url}" target="_blank" class="event-link" style="background: #e0f2fe; color: #0369a1; border-color: #bae6fd;">📍 Kartta</a>` 
+                : '';
+
             let cancelBadge = event.cancelled ? `<span class="cancelled-badge">Peruttu</span>` : '';
             
             card.innerHTML = `
                 <h3>${escapeHtml(event.name)} ${cancelBadge}</h3>
                 <div class="date">📅 ${formattedDate}</div>
-                <div class="location">📍 ${escapeHtml(event.location)}</div>
+                <div class="location">🏢 Järjestäjä: ${escapeHtml(event.location)}</div>
                 ${deadlineHtml}
                 <div class="actions">
+                    ${mapsHtml}
                     ${linkHtml}
                     <a href="ics_files/${encodeURIComponent(event.filename)}" class="download-btn" download>📥 Lataa ICS</a>
                 </div>
