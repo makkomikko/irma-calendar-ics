@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Lapin Rastipäivät keskimatka
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260318T110019Z
+DTSTAMP:20260318T113503Z
 DESCRIPTION:Organizer: Tmi Omataivainen\nArea: Tuntematon Alue\nCategories
  : Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
  on/view/27421

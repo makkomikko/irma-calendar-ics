@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka (alustava ajankohta)
 DTSTART;VALUE=DATE:20280902
 DTEND;VALUE=DATE:20280903
-DTSTAMP:20260318T110238Z
+DTSTAMP:20260318T113730Z
 DESCRIPTION:Organizer: IF Femman\nVaasan Suunnistajat\nArea: Tuntematon Al
  ue\nCategories: Pitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/p
  ublic/competition/view/27486

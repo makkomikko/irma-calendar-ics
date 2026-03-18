@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
-DTSTAMP:20260318T110253Z
+DTSTAMP:20260318T113747Z
 DESCRIPTION:Organizer: SK Pohjantähti\nArea: Tuntematon Alue\nCategories:
   Viesti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
  on/view/27436

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Kansalinen keskimatka
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T105922Z
+DTSTAMP:20260318T113354Z
 DESCRIPTION:Organizer: Kalevan Rasti\nArea: Tuntematon Alue\nCategories: K
  eskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
  view/27556

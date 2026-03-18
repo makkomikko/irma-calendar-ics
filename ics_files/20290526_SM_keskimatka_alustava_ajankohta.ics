@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM keskimatka (alustava ajankohta)
 DTSTART;VALUE=DATE:20290526
 DTEND;VALUE=DATE:20290527
-DTSTAMP:20260318T110245Z
+DTSTAMP:20260318T113739Z
 DESCRIPTION:Organizer: Jämsän Retki-Veikot\nArea: Tuntematon Alue\nCateg
  ories: Keskimatka\nIRMA Link: https://irma.suunnistusliitto.fi/public/comp
  etition/view/27330
