@@ -28,7 +28,6 @@ def clean_filename(name):
     return cleaned.replace(' ', '_') + '.ics'
 
 def main():
-    # 1. WIPE OLD FILES: Remove the directory to clear past events, then recreate it
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -59,10 +58,7 @@ def main():
                     continue
 
                 start_date, end_date = parse_fi_date(date_text)
-                if not start_date: continue
-                
-                # 2. FILTER PAST EVENTS: Skip if the event has already ended
-                if end_date < today:
+                if not start_date or end_date < today: 
                     continue
                 
                 a_tag = cols[1].query_selector("a")
@@ -79,23 +75,36 @@ def main():
                     "link": link
                 })
 
-        print(f"Found {len(scraped_events)} upcoming events. Fetching deadlines...")
+        print(f"Found {len(scraped_events)} upcoming events. Fetching details...")
         
         for idx, evt in enumerate(scraped_events, 1):
             deadline_str = ""
+            maps_url = ""
+            
             if evt["link"]:
                 print(f"[{idx}/{len(scraped_events)}] Checking {evt['name']}...")
                 try:
                     page.goto(evt["link"], wait_until="networkidle", timeout=15000)
+                    
+                    # 1. FIND DEADLINE
                     tier1_row = page.locator("tr", has_text="Ilmoittautumisporras #1")
                     if tier1_row.count() > 0:
                         row_text = tier1_row.first.inner_text()
                         match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', row_text)
-                        if match:
-                            deadline_str = match.group(1)
+                        if match: deadline_str = match.group(1)
+                    
+                    # 2. FIND COORDINATES (HEURISTIC)
+                    # Looks for Leaflet arrays [lat, lng] or functions (lat, lng) within Finland's bounds
+                    html_content = page.content()
+                    coord_match = re.search(r'[([]\s*(59\.\d+|6\d\.\d+|70\.\d+)\s*,\s*(19\.\d+|2\d\.\d+|3[0-2]\.\d+)\s*[)\]]', html_content)
+                    if coord_match:
+                        lat, lng = coord_match.groups()
+                        maps_url = f"https://www.google.com/maps/search/?api=1&query={lat},{lng}"
+
                 except Exception:
                     print(f"  -> Timeout/Error loading details for {evt['name']}")
 
+            # BUILD ICS
             cal = Calendar()
             cal.add('prodid', '-//IRMA Scraper//')
             cal.add('version', '2.0')
@@ -106,21 +115,26 @@ def main():
             
             desc = f"Organizer: {evt['organizer']}"
             if deadline_str:
-                desc += f"\nSign-up Deadline (Porras 1): {deadline_str}"
+                desc += f"\nSign-up Deadline: {deadline_str}"
             if evt["link"]:
-                desc += f"\nEvent Link: {evt['link']}"
-                event.add('url', evt["link"])
+                desc += f"\nIRMA Link: {evt['link']}"
+            if maps_url:
+                desc += f"\nGoogle Maps: {maps_url}"
+                # If we found coordinates, set the actual ICS location to the Google Maps link!
+                event.add('location', maps_url)
+            else:
+                event.add('location', evt['organizer'])
                 
             event.add('description', desc)
-            event.add('location', '') 
             event.add('dtstamp', datetime.datetime.now())
+            if evt["link"]: event.add('url', evt["link"])
+            
             cal.add_component(event)
 
             filename = clean_filename(f"{evt['start_date'].strftime('%Y%m%d')}_{evt['name']}")
             with open(os.path.join(OUTPUT_DIR, filename), 'wb') as f:
                 f.write(cal.to_ical())
 
-            # 3. TAG CANCELLED EVENTS: Check if "peruttu" is in the name
             is_cancelled = "peruttu" in evt["name"].lower()
 
             events_json.append({
@@ -130,7 +144,8 @@ def main():
                 "filename": filename,
                 "link": evt["link"],
                 "deadline": deadline_str,
-                "cancelled": is_cancelled
+                "cancelled": is_cancelled,
+                "maps_url": maps_url  # Add the new maps link to JSON
             })
             
         browser.close()
