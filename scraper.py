@@ -3,6 +3,7 @@ import re
 import json
 import datetime
 import shutil
+import holidays
 from playwright.sync_api import sync_playwright
 from icalendar import Calendar, Event
 
@@ -14,8 +15,7 @@ def parse_fi_date(date_str):
     nums = [int(x) for x in re.findall(r'\d+', date_str)]
     try:
         if len(nums) == 3:
-            d = datetime.date(nums[2], nums[1], nums[0])
-            return d, d
+            return datetime.date(nums[2], nums[1], nums[0]), datetime.date(nums[2], nums[1], nums[0])
         elif len(nums) == 4:
             return datetime.date(nums[3], nums[2], nums[0]), datetime.date(nums[3], nums[2], nums[1])
         elif len(nums) == 5:
@@ -27,6 +27,20 @@ def clean_filename(name):
     cleaned = re.sub(r'[^\w\s-]', '', name).strip()
     return cleaned.replace(' ', '_') + '.ics'
 
+def extract_categories(name):
+    cat = []
+    nl = name.lower()
+    if "keskimatka" in nl: cat.append("Keskimatka")
+    if "pitkä" in nl and "erikoispitkä" not in nl: cat.append("Pitkä")
+    if "yö" in nl: cat.append("Yö")
+    if "erikoispitkä" in nl: cat.append("Erikoispitkä")
+    if "viesti" in nl and "viestiliiga" not in nl: cat.append("Viesti")
+    if "viestiliiga" in nl: cat.append("Viestiliiga")
+    if "sprintti" in nl: cat.append("Sprintti")
+    if "sm-" in nl: cat.append("SM")
+    if "am-" in nl or "fsom" in nl: cat.append("AM/FSOM")
+    return cat
+
 def main():
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
@@ -34,6 +48,9 @@ def main():
     
     events_json = []
     today = datetime.date.today()
+    
+    # Load Finnish holidays for the current and next year
+    fi_holidays = holidays.Finland(years=[today.year, today.year + 1])
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -62,10 +79,7 @@ def main():
                     continue
                 
                 a_tag = cols[1].query_selector("a")
-                link = ""
-                if a_tag:
-                    href = a_tag.get_attribute("href")
-                    link = f"{BASE_URL}{href}" if href.startswith("/") else href
+                link = f"{BASE_URL}{a_tag.get_attribute('href')}" if a_tag and a_tag.get_attribute("href").startswith("/") else (a_tag.get_attribute("href") if a_tag else "")
 
                 scraped_events.append({
                     "name": name,
@@ -78,33 +92,37 @@ def main():
         print(f"Found {len(scraped_events)} upcoming events. Fetching details...")
         
         for idx, evt in enumerate(scraped_events, 1):
-            deadline_str = ""
-            maps_url = ""
+            deadline_str, maps_url = "", ""
             
             if evt["link"]:
                 print(f"[{idx}/{len(scraped_events)}] Checking {evt['name']}...")
                 try:
                     page.goto(evt["link"], wait_until="networkidle", timeout=15000)
-                    
-                    # 1. FIND DEADLINE
                     tier1_row = page.locator("tr", has_text="Ilmoittautumisporras #1")
                     if tier1_row.count() > 0:
-                        row_text = tier1_row.first.inner_text()
-                        match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', row_text)
+                        match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', tier1_row.first.inner_text())
                         if match: deadline_str = match.group(1)
                     
-                    # 2. FIND COORDINATES (HEURISTIC)
-                    # Looks for Leaflet arrays [lat, lng] or functions (lat, lng) within Finland's bounds
                     html_content = page.content()
                     coord_match = re.search(r'[([]\s*(59\.\d+|6\d\.\d+|70\.\d+)\s*,\s*(19\.\d+|2\d\.\d+|3[0-2]\.\d+)\s*[)\]]', html_content)
                     if coord_match:
                         lat, lng = coord_match.groups()
                         maps_url = f"https://www.google.com/maps/search/?api=1&query={lat},{lng}"
-
                 except Exception:
-                    print(f"  -> Timeout/Error loading details for {evt['name']}")
+                    pass
 
-            # BUILD ICS
+            # Holiday Detection
+            is_holiday = False
+            holiday_name = ""
+            if evt["start_date"] in fi_holidays:
+                is_holiday, holiday_name = True, fi_holidays.get(evt["start_date"])
+            elif evt["end_date"] in fi_holidays:
+                is_holiday, holiday_name = True, fi_holidays.get(evt["end_date"])
+
+            # Categories Extraction
+            event_categories = extract_categories(evt["name"])
+
+            # Build ICS
             cal = Calendar()
             cal.add('prodid', '-//IRMA Scraper//')
             cal.add('version', '2.0')
@@ -114,28 +132,24 @@ def main():
             event.add('dtend', evt["end_date"] + datetime.timedelta(days=1))
             
             desc = f"Organizer: {evt['organizer']}"
-            if deadline_str:
-                desc += f"\nSign-up Deadline: {deadline_str}"
-            if evt["link"]:
-                desc += f"\nIRMA Link: {evt['link']}"
-            if maps_url:
-                desc += f"\nGoogle Maps: {maps_url}"
-                # If we found coordinates, set the actual ICS location to the Google Maps link!
-                event.add('location', maps_url)
-            else:
-                event.add('location', evt['organizer'])
+            if event_categories: desc += f"\nCategories: {', '.join(event_categories)}"
+            if is_holiday: desc += f"\nHoliday: {holiday_name}"
+            if deadline_str: desc += f"\nSign-up Deadline: {deadline_str}"
+            if evt["link"]: desc += f"\nIRMA Link: {evt['link']}"
+            if maps_url: desc += f"\nGoogle Maps: {maps_url}"
                 
             event.add('description', desc)
+            event.add('location', maps_url if maps_url else evt['organizer'])
             event.add('dtstamp', datetime.datetime.now())
             if evt["link"]: event.add('url', evt["link"])
             
+            # Optionally add native categories to ICS
+            if event_categories: event.add('categories', event_categories)
             cal.add_component(event)
 
             filename = clean_filename(f"{evt['start_date'].strftime('%Y%m%d')}_{evt['name']}")
             with open(os.path.join(OUTPUT_DIR, filename), 'wb') as f:
                 f.write(cal.to_ical())
-
-            is_cancelled = "peruttu" in evt["name"].lower()
 
             events_json.append({
                 "date": evt["start_date"].strftime('%Y-%m-%d'),
@@ -144,8 +158,11 @@ def main():
                 "filename": filename,
                 "link": evt["link"],
                 "deadline": deadline_str,
-                "cancelled": is_cancelled,
-                "maps_url": maps_url  # Add the new maps link to JSON
+                "cancelled": "peruttu" in evt["name"].lower(),
+                "maps_url": maps_url,
+                "categories": event_categories,
+                "is_holiday": is_holiday,
+                "holiday_name": holiday_name
             })
             
         browser.close()
