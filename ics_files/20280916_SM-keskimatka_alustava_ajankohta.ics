@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-keskimatka (alustava ajankohta)
 DTSTART;VALUE=DATE:20280916
 DTEND;VALUE=DATE:20280917
-DTSTAMP:20260318T070331Z
+DTSTAMP:20260318T072650Z
 DESCRIPTION:Organizer: Paimion Rasti\nEvent Link: https://irma.suunnistusl
  iitto.fi/public/competition/view/27398
 LOCATION:

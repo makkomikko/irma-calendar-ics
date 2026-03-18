@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-DTSTAMP:20260318T070313Z
+DTSTAMP:20260318T072636Z
 DESCRIPTION:Organizer: Anttolan Urheilijat\nEvent Link: https://irma.suunn
  istusliitto.fi/public/competition/view/26676
 LOCATION:

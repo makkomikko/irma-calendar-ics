@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IRMA Scraper//
+BEGIN:VEVENT
+SUMMARY:Avoin Satakunnan AM-sprintti
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260318T072348Z
+DESCRIPTION:Organizer: Musta Mango Oy\nEvent Link: https://irma.suunnistus
+ liitto.fi/public/competition/view/27651
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27651
+END:VEVENT
+END:VCALENDAR

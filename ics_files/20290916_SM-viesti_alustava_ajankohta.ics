@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
-DTSTAMP:20260318T070346Z
+DTSTAMP:20260318T072701Z
 DESCRIPTION:Organizer: SK Pohjantähti\nEvent Link: https://irma.suunnistu
  sliitto.fi/public/competition/view/27436
 LOCATION:

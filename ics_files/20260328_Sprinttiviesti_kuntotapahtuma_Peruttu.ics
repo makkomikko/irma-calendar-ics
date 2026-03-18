@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Sprinttiviesti\, kuntotapahtuma (Peruttu)
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260318T065907Z
+DTSTAMP:20260318T072330Z
 DESCRIPTION:Organizer: Kunnon Suunta Oy\nEvent Link: https://irma.suunnist
  usliitto.fi/public/competition/view/27589
 LOCATION:

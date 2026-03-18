@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IRMA Scraper//
+BEGIN:VEVENT
+SUMMARY:Varsinais-Suomen Kompassi-cup 3. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+DTSTAMP:20260318T072425Z
+DESCRIPTION:Organizer: Pargas IF\nEvent Link: https://irma.suunnistusliitt
+ o.fi/public/competition/view/27647
+LOCATION:
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27647
+END:VEVENT
+END:VCALENDAR

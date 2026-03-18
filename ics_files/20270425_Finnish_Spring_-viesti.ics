@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Finnish Spring -viesti
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
-DTSTAMP:20260318T070302Z
+DTSTAMP:20260318T072625Z
 DESCRIPTION:Organizer: OK Trian\nEvent Link: https://irma.suunnistusliitto
  .fi/public/competition/view/27158
 LOCATION:
