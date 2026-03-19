@@ -6,21 +6,10 @@
     <title>Orienteering Calendar - ICS Downloader</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-
-        :root {
-            --bg-color: #1a1c19;       /* Deep obsidian/charcoal */
-            --card-bg: #232a22;       /* Dark forest slate */
-            --text-main: #e2e3de;     /* Off-white/clay */
-            --text-muted: #a0a49b;    /* Sage gray */
-            --accent-green: #5a7d51;  /* Muted pine */
-            --accent-gold: #c5a47e;   /* Harvest gold/dirt */
-            --urgent-red: #8e3a3a;    /* Dried blood/clay red */
-            --border-color: #3e443a;  /* Mossy border */
-        }
+        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-main);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
             padding: 20px;
         }
@@ -33,8 +22,7 @@
         
         /* New Controls Bar styling */
         .controls-bar {
-            background: var(--card-bg);
-            border: 1px solid var(--border-color);
+            background: white;
             padding: 15px 20px;
             border-radius: 8px;
             margin-bottom: 30px;
@@ -90,8 +78,7 @@
         }
         
         .event-card {
-            background: var(--card-bg);
-            border: 1px solid var(--border-color);
+            background: white;
             border-radius: 8px;
             padding: 20px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -100,7 +87,7 @@
         }
         .event-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 8px 12px rgba(0,0,0,0.5);
+            box-shadow: 0 8px 12px rgba(0,0,0,0.15);
         }
         
         /* Cancelled Event Styling */
