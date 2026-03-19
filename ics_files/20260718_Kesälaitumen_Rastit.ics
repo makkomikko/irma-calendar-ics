@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Kesälaitumen Rastit
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260319T044422Z
+DTSTAMP:20260319T054800Z
 UID:irma-27329-20260718@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lauttakylän Luja Punkalaitumen Kunto
 LOCATION:Tuntematon Alue (Lauttakylän Luja Punkalaitumen Kunto)
