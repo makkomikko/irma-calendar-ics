@@ -4,7 +4,7 @@ import json
 import datetime
 import holidays
 from playwright.sync_api import sync_playwright
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, Alarm
 
 URL = "https://irma.suunnistusliitto.fi/public/competitioncalendar/list?year=upcoming&area=all&competition=ALL&previous=undefined&tab=competition"
 BASE_URL = "https://irma.suunnistusliitto.fi"
@@ -186,7 +186,27 @@ def main():
             
             event.add('dtstamp', datetime.datetime.now(datetime.timezone.utc))
             if evt["link"]: event.add('url', evt["link"])
-            
+            if deadline_str:
+                try:
+                    # Parse "DD.MM.YYYY" into a datetime object (setting time to 09:00 AM)
+                    dl_parts = deadline_str.split('.')
+                    dl_date = datetime.datetime(
+                        int(dl_parts[2]), 
+                        int(dl_parts[1]), 
+                        int(dl_parts[0]), 
+                        9, 0, tzinfo=datetime.timezone.utc
+                    )
+                    
+                    alarm = Alarm()
+                    alarm.add('action', 'DISPLAY')
+                    alarm.add('description', f"Ilmoittautuminen päättyy: {evt['name']}")
+                    # Trigger the alarm 2 days before the deadline at 09:00 AM
+                    alarm.add('trigger', dl_date - datetime.timedelta(days=1))
+                    
+                    event.add_component(alarm)
+                except Exception:
+                    pass # If the date format is weird, skip the alarm rather than crashing
+                    
             cal.add_component(event)
             filename = clean_filename(f"{evt['start_date'].strftime('%Y%m%d')}_{evt['name']}")
             generated_files.add(filename)
