@@ -6,251 +6,210 @@
     <title>Orienteering Calendar - ICS Downloader</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .container { max-width: 1000px; margin: 0 auto; }
-        
-        header { text-align: center; color: white; margin-bottom: 30px; }
-        header h1 { font-size: 2.5em; margin-bottom: 10px; }
-        header p { font-size: 1.1em; opacity: 0.9; }
-        
-        /* New Controls Bar styling */
-        .controls-bar {
-            background: white;
-            padding: 15px 20px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            flex-direction: column;
-            width: 100%;
-        }
-
-        .year-tabs { display: flex; gap: 10px; }
-        .year-btn {
-            background: #f1f5f9;
-            border: none;
-            padding: 8px 16px;
-            border-radius: 20px;
-            cursor: pointer;
-            font-weight: bold;
-            color: #475569;
-            transition: all 0.2s;
-        }
-        .year-btn.active {
-            background: #667eea;
-            color: white;
-        }
-
-        .toggle-label {
-            display: flex;
-            align-items: center;
-            cursor: pointer;
-            font-weight: 500;
-            color: #333;
-        }
-        .toggle-label input { margin-right: 8px; width: 16px; height: 16px; }
-
-        .month-group { margin-bottom: 40px; }
-        .month-header {
-            color: white;
-            font-size: 1.8em;
-            margin-bottom: 15px;
-            border-bottom: 2px solid rgba(255,255,255,0.3);
-            padding-bottom: 5px;
-            text-transform: capitalize;
-        }
-        
-        .events-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        
-        .event-card {
-            background: white;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-            border-left: 5px solid #667eea;
-        }
-        .event-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 12px rgba(0,0,0,0.15);
-        }
-        
-        /* Cancelled Event Styling */
-        .event-card.cancelled {
-            border-left: 5px solid #ef4444;
-            background: #fef2f2;
-        }
-        .event-card.cancelled h3 { color: #b91c1c; text-decoration: line-through; }
-        .cancelled-badge {
-            background: #ef4444;
-            color: white;
-            font-size: 0.75em;
-            padding: 2px 6px;
-            border-radius: 4px;
-            margin-left: 8px;
-            vertical-align: middle;
-            text-decoration: none;
-            display: inline-block;
-        }
-
-        .event-card h3 { color: #333; margin-bottom: 10px; word-break: break-word; }
-        .event-card .date, .event-card .location { font-size: 0.9em; color: #666; margin-bottom: 8px; }
-        .event-card .deadline { font-size: 0.9em; color: #d97706; margin-bottom: 15px; font-weight: 500; }
-
-        .category-tags { margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
-        .cat-tag {
-            background: #e2e8f0; color: #475569; font-size: 0.75em;
-            padding: 3px 8px; border-radius: 12px; font-weight: 600;
-        }
-        /* Color coding specific tags */
-        .cat-tag.sm { background: #fee2e2; color: #991b1b; border: 1px solid #f87171; }
-        .cat-tag.yö { background: #1e293b; color: #f8fafc; }
-        .cat-tag.viesti { background: #dcfce7; color: #166534; }
-        
-        .holiday-alert {
-            background: #fef08a; color: #854d0e; padding: 6px 10px;
-            border-radius: 5px; font-size: 0.85em; font-weight: bold;
-            margin-bottom: 10px; border-left: 4px solid #eab308;
-            display: inline-block;
-        }
-        .event-card.holiday { border-left: 5px solid #eab308; }
-
-        .controls-bar { flex-direction: column; align-items: stretch; }
-        /* Ensure the top row of controls wraps when space is tight */
-        .top-controls {
-            display: flex;
-            flex-wrap: wrap; 
-            justify-content: space-between;
-            align-items: center;
-            gap: 15px;
-            width: 100%;
-            margin-bottom: 15px;
-        }
-        /* Group for Year Tabs and Area Select */
-        .left-group {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            align-items: center;
-            flex: 1; /* Allows it to take available space */
-            min-width: 250px; /* Prevents it from getting too squashed */
-        }
-        .category-filters { display: flex; gap: 8px; flex-wrap: wrap; width: 100%; padding-top: 10px; border-top: 1px solid #e2e8f0; }
-        
-        .cat-filter-btn {
-            background: #f8fafc; border: 1px solid #cbd5e1; padding: 6px 12px;
-            border-radius: 15px; cursor: pointer; font-size: 0.85em; color: #475569;
-            white-space: nowrap;
-            transition: all 0.2s;
-        }
-        .cat-filter-btn.active { background: #667eea; color: white; border-color: #667eea; }
-
-        .closing-soon-tag {
-            background: #ef4444; color: white; padding: 3px 8px;
-            border-radius: 12px; font-size: 0.75em; font-weight: bold;
-            margin-left: 10px; vertical-align: middle; animation: pulse 2s infinite;
-        }
-        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.7; } 100% { opacity: 1; } }
-        
-        .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; }
-        .event-link, .download-btn {
-            padding: 8px 15px;
-            border-radius: 5px;
-            text-decoration: none;
-            font-size: 0.9em;
-            transition: background 0.3s;
-            border: none;
-            cursor: pointer;
-            text-align: center;
-            flex: 1;
-        }
-        .event-link { background: #f1f5f9; color: #475569; border: 1px solid #cbd5e1; }
-        .event-link:hover { background: #e2e8f0; }
-        .download-btn { background: #667eea; color: white; }
-        .download-btn:hover { background: #764ba2; }
-
-        /* Make the Area Dropdown grow to fit or wrap */
-        .area-select {
-            padding: 8px 12px;
-            border-radius: 20px;
-            border: 1px solid #cbd5e1;
-            background: white;
-            font-weight: bold;
-            color: #475569;
-            cursor: pointer;
-            flex: 1; /* Allows dropdown to expand on mobile */
-            max-width: 100%;
-            min-width: 150px;
-        }
-        
-        .area-select:focus { border-color: #667eea; }
-        
-        .loading { text-align: center; padding: 20px; color: white; font-size: 1.2em; }
-        .no-events { text-align: center; padding: 40px; color: white; font-size: 1.1em; width: 100%; }
-        footer { text-align: center; color: white; margin-top: 40px; opacity: 0.8; padding-bottom: 20px; }
-
-        body {
-            background-color: #121212 !important;
-            color: #e0e0e0 !important;
-        }
-        
-        /* The main event cards */
-        .event-card {
-            background-color: #1e1e1e !important;
-            border-color: #333333 !important;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4) !important;
-        }
-        
-        /* Text inside the cards */
-        .event-card h3, 
-        .event-card h4 {
-            color: #ffffff !important;
-        }
-        
-        .event-card p, 
-        .event-card div {
-            color: #b0b0b0 !important;
-        }
-        
-        /* The categories / tags */
-        .tag {
-            background-color: #1b3320 !important;
-            color: #a5d6a7 !important;
-            border: 1px solid #2e7d32 !important;
-        }
-        
-        /* Search bar, dropdowns, and checkboxes */
-        select, 
-        input[type="text"], 
-        input[type="checkbox"] {
-            background-color: #2a2a2a !important;
-            color: #e0e0e0 !important;
-            border: 1px solid #444444 !important;
-        }
-        
-        /* Ensure links stand out in the dark */
-        a {
-            color: #81c784 !important;
-        }
-        
-        a:hover {
-            color: #a5d6a7 !important;
-        }
+		
+		body {
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			background: #121412; /* Deep dark background, removed the bright gradient */
+			color: #e0e0e0;
+			min-height: 100vh;
+			padding: 20px;
+		}
+		
+		.container { max-width: 1000px; margin: 0 auto; }
+		
+		header { text-align: center; color: #e0e0e0; margin-bottom: 30px; }
+		header h1 { font-size: 2.5em; margin-bottom: 10px; color: #c5a47e; } /* Earthy gold */
+		header p { font-size: 1.1em; opacity: 0.8; color: #b0b0b0; }
+		
+		/* Controls Bar styling */
+		.controls-bar {
+			background: #1e241e; /* Dark mossy container */
+			padding: 15px 20px;
+			border-radius: 8px;
+			margin-bottom: 30px;
+			box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			flex-wrap: wrap;
+			gap: 15px;
+			flex-direction: column;
+			width: 100%;
+			border: 1px solid #2d362d;
+		}
+		
+		.year-tabs { display: flex; gap: 10px; }
+		.year-btn {
+			background: #2a332a;
+			border: 1px solid #3e4a3e;
+			padding: 8px 16px;
+			border-radius: 20px;
+			cursor: pointer;
+			font-weight: bold;
+			color: #b0b0b0;
+			transition: all 0.2s;
+		}
+		.year-btn.active {
+			background: #4c6b45; /* Muted forest green */
+			color: white;
+			border-color: #4c6b45;
+		}
+		
+		.toggle-label {
+			display: flex;
+			align-items: center;
+			cursor: pointer;
+			font-weight: 500;
+			color: #e0e0e0;
+		}
+		.toggle-label input { margin-right: 8px; width: 16px; height: 16px; accent-color: #4c6b45; }
+		
+		.month-group { margin-bottom: 40px; }
+		.month-header {
+			color: #c5a47e;
+			font-size: 1.8em;
+			margin-bottom: 15px;
+			border-bottom: 2px solid #2d362d;
+			padding-bottom: 5px;
+			text-transform: capitalize;
+		}
+		
+		.events-grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+			gap: 20px;
+		}
+		
+		.event-card {
+			background: #1e241e;
+			border-radius: 8px;
+			padding: 20px;
+			box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+			transition: transform 0.2s, box-shadow 0.2s;
+			border-left: 5px solid #4c6b45;
+			border-top: 1px solid #2d362d;
+			border-right: 1px solid #2d362d;
+			border-bottom: 1px solid #2d362d;
+		}
+		.event-card:hover {
+			transform: translateY(-5px);
+			box-shadow: 0 8px 12px rgba(0,0,0,0.4);
+		}
+		
+		/* Cancelled Event Styling */
+		.event-card.cancelled {
+			border-left: 5px solid #8e3a3a; /* Earthy red */
+			background: #2a1f1f;
+		}
+		.event-card.cancelled h3 { color: #d67a7a; text-decoration: line-through; }
+		.cancelled-badge {
+			background: #8e3a3a;
+			color: white;
+			font-size: 0.75em;
+			padding: 2px 6px;
+			border-radius: 4px;
+			margin-left: 8px;
+			vertical-align: middle;
+			text-decoration: none;
+			display: inline-block;
+		}
+		
+		.event-card h3 { color: #ffffff; margin-bottom: 10px; word-break: break-word; }
+		.event-card .date, .event-card .location { font-size: 0.9em; color: #a0a49b; margin-bottom: 8px; }
+		.event-card .deadline { font-size: 0.9em; color: #d4a373; margin-bottom: 15px; font-weight: 500; }
+		
+		.category-tags { margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+		.cat-tag {
+			background: #2a332a; color: #b0b0b0; font-size: 0.75em;
+			padding: 3px 8px; border-radius: 12px; font-weight: 600;
+			border: 1px solid #3e4a3e;
+		}
+		
+		/* Darkened specific tags */
+		.cat-tag.sm { background: #3d2323; color: #e59898; border-color: #5c3434; }
+		.cat-tag.yö { background: #111827; color: #9ca3af; border-color: #1f2937; }
+		.cat-tag.viesti { background: #1b3320; color: #86efac; border-color: #22543d; }
+		
+		.holiday-alert {
+			background: #332b18; color: #d4b470; padding: 6px 10px;
+			border-radius: 5px; font-size: 0.85em; font-weight: bold;
+			margin-bottom: 10px; border-left: 4px solid #b8860b;
+			display: inline-block;
+		}
+		.event-card.holiday { border-left: 5px solid #b8860b; }
+		
+		.controls-bar { flex-direction: column; align-items: stretch; }
+		.top-controls {
+			display: flex;
+			flex-wrap: wrap; 
+			justify-content: space-between;
+			align-items: center;
+			gap: 15px;
+			width: 100%;
+			margin-bottom: 15px;
+		}
+		
+		.left-group {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 10px;
+			align-items: center;
+			flex: 1; 
+			min-width: 250px;
+		}
+		.category-filters { display: flex; gap: 8px; flex-wrap: wrap; width: 100%; padding-top: 10px; border-top: 1px solid #2d362d; }
+		
+		.cat-filter-btn {
+			background: #2a332a; border: 1px solid #3e4a3e; padding: 6px 12px;
+			border-radius: 15px; cursor: pointer; font-size: 0.85em; color: #b0b0b0;
+			white-space: nowrap;
+			transition: all 0.2s;
+		}
+		.cat-filter-btn.active { background: #4c6b45; color: white; border-color: #4c6b45; }
+		
+		.closing-soon-tag {
+			background: #8e3a3a; color: white; padding: 3px 8px;
+			border-radius: 12px; font-size: 0.75em; font-weight: bold;
+			margin-left: 10px; vertical-align: middle; animation: pulse 2s infinite;
+		}
+		@keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.7; } 100% { opacity: 1; } }
+		
+		.actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px; }
+		.event-link, .download-btn {
+			padding: 8px 15px;
+			border-radius: 5px;
+			text-decoration: none;
+			font-size: 0.9em;
+			transition: background 0.3s;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			flex: 1;
+			font-weight: bold;
+		}
+		.event-link { background: #2a332a; color: #b0b0b0; border: 1px solid #3e4a3e; }
+		.event-link:hover { background: #3e4a3e; color: white; }
+		.download-btn { background: #4c6b45; color: white; border: 1px solid #4c6b45; }
+		.download-btn:hover { background: #5a7d51; }
+		
+		.area-select {
+			padding: 8px 12px;
+			border-radius: 20px;
+			border: 1px solid #3e4a3e;
+			background: #2a332a;
+			font-weight: bold;
+			color: #b0b0b0;
+			cursor: pointer;
+			flex: 1; 
+			max-width: 100%;
+			min-width: 150px;
+		}
+		
+		.area-select:focus { border-color: #4c6b45; outline: none; }
+		
+		.loading { text-align: center; padding: 20px; color: #e0e0e0; font-size: 1.2em; }
+		.no-events { text-align: center; padding: 40px; color: #e0e0e0; font-size: 1.1em; width: 100%; }
+		footer { text-align: center; color: #b0b0b0; margin-top: 40px; opacity: 0.8; padding-bottom: 20px; }
     </style>
 </head>
 <body>
