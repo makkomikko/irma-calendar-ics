@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Kainuun avoin am-keskimatka Kajaani
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260319T073054Z
+DTSTAMP:20260319T114658Z
 UID:irma-27573-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kajaanin Suunnistajat
 LOCATION:Kainuu (Kajaanin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27573
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kainuun avoin am-keskimatka Kajaan
+ i
+TRIGGER:20260516T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

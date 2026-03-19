@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko\, 4. osakilpailu
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-DTSTAMP:20260319T073136Z
+DTSTAMP:20260319T114720Z
 UID:irma-27199-20260709@suunnistusliitto.fi
 DESCRIPTION:Organizer: Sallan Karhut
 LOCATION:Lappi (Sallan Karhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27199
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Fin5-suunnistusviikko\, 4. osakilp
+ ailu
+TRIGGER:20251031T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

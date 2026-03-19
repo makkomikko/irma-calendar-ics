@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Kymen Rastiviesti\, Viestiliigan 3. osakilpailu
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260319T073102Z
+DTSTAMP:20260319T114701Z
 UID:irma-27484-20260531@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kouvolan Suunnistajat
 LOCATION:Kaakko (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27484
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kymen Rastiviesti\, Viestiliigan 3
+ . osakilpailu
+TRIGGER:20260524T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

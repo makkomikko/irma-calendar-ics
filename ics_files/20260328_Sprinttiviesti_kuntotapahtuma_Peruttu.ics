@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Sprinttiviesti\, kuntotapahtuma (Peruttu)
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260319T072938Z
+DTSTAMP:20260319T114610Z
 UID:irma-27589-20260328@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kunnon Suunta Oy
 LOCATION:Varsinais-Suomi (Kunnon Suunta Oy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27589
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Sprinttiviesti\, kuntotapahtuma (P
+ eruttu)
+TRIGGER:20260308T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

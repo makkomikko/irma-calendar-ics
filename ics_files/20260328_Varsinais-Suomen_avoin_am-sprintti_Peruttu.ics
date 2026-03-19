@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Varsinais-Suomen avoin am-sprintti (Peruttu)
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
-DTSTAMP:20260319T072937Z
+DTSTAMP:20260319T114610Z
 UID:irma-27588-20260328@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kunnon Suunta Oy
 LOCATION:Varsinais-Suomi (Kunnon Suunta Oy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27588
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen avoin am-sprintti
+  (Peruttu)
+TRIGGER:20260308T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
