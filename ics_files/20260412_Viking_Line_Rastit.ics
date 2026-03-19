@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Viking Line Rastit
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-DTSTAMP:20260318T185233Z
+DTSTAMP:20260319T044250Z
 UID:irma-27397-20260412@suunnistusliitto.fi
-DESCRIPTION:Organizer: Paimion Rasti\nArea: Varsinais-Suomi\nIRMA Link: ht
- tps://irma.suunnistusliitto.fi/public/competition/view/27397
+DESCRIPTION:Organizer: Paimion Rasti
 LOCATION:Varsinais-Suomi (Paimion Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27397
 END:VEVENT

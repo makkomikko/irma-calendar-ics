@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Kainuun avoin AM-yö
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260318T185510Z
+DTSTAMP:20260319T044558Z
 UID:irma-27622-20260920@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kuhmon Peurat\nArea: Kainuu\nCategories: Yö\, AM/F
- SOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2
- 7622
+DESCRIPTION:Organizer: Kuhmon Peurat
 LOCATION:Kainuu (Kuhmon Peurat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27622
 END:VEVENT

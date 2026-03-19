@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Ice Power -rastit
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T185307Z
+DTSTAMP:20260319T044332Z
 UID:irma-27411-20260523@suunnistusliitto.fi
-DESCRIPTION:Organizer: Tampereen Pyrintö\nArea: Häme\nIRMA Link: https:/
- /irma.suunnistusliitto.fi/public/competition/view/27411
+DESCRIPTION:Organizer: Tampereen Pyrintö
 LOCATION:Häme (Tampereen Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27411
 END:VEVENT

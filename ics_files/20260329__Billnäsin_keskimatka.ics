@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:** Billnäsin keskimatka
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260318T185226Z
+DTSTAMP:20260319T044242Z
 UID:irma-27364-20260329@suunnistusliitto.fi
-DESCRIPTION:Organizer: Karjaan Ura\nArea: Uusimaa\nCategories: Keskimatka\
- nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27364
+DESCRIPTION:Organizer: Karjaan Ura
 LOCATION:Uusimaa (Karjaan Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27364
 END:VEVENT

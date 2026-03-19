@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Salon Seudun Rastiviesti
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20260318T185319Z
+DTSTAMP:20260319T044346Z
 UID:irma-27645-20260526@suunnistusliitto.fi
-DESCRIPTION:Organizer: Someron Esa\nArea: Varsinais-Suomi\nCategories: Vie
- sti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2
- 7645
+DESCRIPTION:Organizer: Someron Esa
 LOCATION:Varsinais-Suomi (Someron Esa)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27645
 END:VEVENT

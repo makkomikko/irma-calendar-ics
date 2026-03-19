@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-keskimatka (WRE)
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260318T185458Z
+DTSTAMP:20260319T044544Z
 UID:irma-26665-20260912@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lynx\nArea: Uusimaa\nCategories: Keskimatka\, SM\nI
- RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/26665
+DESCRIPTION:Organizer: Lynx
 LOCATION:Uusimaa (Lynx)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26665
 END:VEVENT

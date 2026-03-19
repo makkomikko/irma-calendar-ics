@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Rinkelirastit 2026 2. kilpailu
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T185414Z
+DTSTAMP:20260319T044451Z
 UID:irma-27432-20260802@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lappeen Riento\nArea: Kaakko\nIRMA Link: https://ir
- ma.suunnistusliitto.fi/public/competition/view/27432
+DESCRIPTION:Organizer: Lappeen Riento
 LOCATION:Kaakko (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27432
 END:VEVENT

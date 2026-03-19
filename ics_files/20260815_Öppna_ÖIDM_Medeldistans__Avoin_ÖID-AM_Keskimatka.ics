@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Öppna ÖIDM Medeldistans / Avoin ÖID-AM Keskimatka
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T185431Z
+DTSTAMP:20260319T044511Z
 UID:irma-27536-20260815@suunnistusliitto.fi
-DESCRIPTION:Organizer: IF Minken\nArea: FSO\nCategories: Keskimatka\nIRMA 
- Link: https://irma.suunnistusliitto.fi/public/competition/view/27536
+DESCRIPTION:Organizer: IF Minken
 LOCATION:FSO (IF Minken)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27536
 END:VEVENT

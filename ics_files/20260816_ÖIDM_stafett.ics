@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:ÖIDM stafett
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T185437Z
+DTSTAMP:20260319T044518Z
 UID:irma-27603-20260816@suunnistusliitto.fi
-DESCRIPTION:Organizer: OK Kristina\nArea: FSO\nIRMA Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27603
+DESCRIPTION:Organizer: OK Kristina
 LOCATION:FSO (OK Kristina)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27603
 END:VEVENT

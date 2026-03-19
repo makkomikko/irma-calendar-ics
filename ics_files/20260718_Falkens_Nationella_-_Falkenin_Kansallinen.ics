@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Falkens Nationella - Falkenin Kansallinen
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260318T185353Z
+DTSTAMP:20260319T044426Z
 UID:irma-27519-20260718@suunnistusliitto.fi
-DESCRIPTION:Organizer: IK Falken\nArea: FSO\nIRMA Link: https://irma.suunn
- istusliitto.fi/public/competition/view/27519
+DESCRIPTION:Organizer: IK Falken
 LOCATION:FSO (IK Falken)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27519
 END:VEVENT

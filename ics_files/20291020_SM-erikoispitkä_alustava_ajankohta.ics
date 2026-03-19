@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä (alustava ajankohta)
 DTSTART;VALUE=DATE:20291020
 DTEND;VALUE=DATE:20291021
-DTSTAMP:20260318T185600Z
+DTSTAMP:20260319T044657Z
 UID:irma-27428-20291020@suunnistusliitto.fi
-DESCRIPTION:Organizer: Olavin Rasti\nArea: Kaakko\nCategories: Erikoispitk
- ä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
- ew/27428
+DESCRIPTION:Organizer: Olavin Rasti
 LOCATION:Kaakko (Olavin Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27428
 END:VEVENT

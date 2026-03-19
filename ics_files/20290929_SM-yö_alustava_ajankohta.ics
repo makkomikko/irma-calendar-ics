@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-yö (alustava ajankohta)
 DTSTART;VALUE=DATE:20290929
 DTEND;VALUE=DATE:20290930
-DTSTAMP:20260318T185559Z
+DTSTAMP:20260319T044656Z
 UID:irma-27636-20290929@suunnistusliitto.fi
-DESCRIPTION:Organizer: Koovee\nArea: Häme\nCategories: Yö\, SM\nIRMA Lin
- k: https://irma.suunnistusliitto.fi/public/competition/view/27636
+DESCRIPTION:Organizer: Koovee
 LOCATION:Häme (Koovee)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27636
 END:VEVENT

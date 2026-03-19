@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Pielisrastit
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T185403Z
+DTSTAMP:20260319T044438Z
 UID:irma-27576-20260726@suunnistusliitto.fi
-DESCRIPTION:Organizer: Nurmeksen Sepot\nArea: Savo-Karjala\nIRMA Link: htt
- ps://irma.suunnistusliitto.fi/public/competition/view/27576
+DESCRIPTION:Organizer: Nurmeksen Sepot
 LOCATION:Savo-Karjala (Nurmeksen Sepot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27576
 END:VEVENT

@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Nuorten Jukola
 DTSTART;VALUE=DATE:20280819
 DTEND;VALUE=DATE:20280820
-DTSTAMP:20260318T185543Z
+DTSTAMP:20260319T044637Z
 UID:irma-27248-20280819@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lahden Suunnistajat-37\nArea: Päijät-Häme\nIRMA 
- Link: https://irma.suunnistusliitto.fi/public/competition/view/27248
+DESCRIPTION:Organizer: Lahden Suunnistajat-37
 LOCATION:Päijät-Häme (Lahden Suunnistajat-37)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27248
 END:VEVENT

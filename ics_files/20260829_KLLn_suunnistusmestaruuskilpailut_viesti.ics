@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:KLL:n suunnistusmestaruuskilpailut\, viesti
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T185452Z
+DTSTAMP:20260319T044536Z
 UID:irma-27570-20260829@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kuusamon Erä-Veikot\nArea: Pohjois-Pohjanmaa\nCate
- gories: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
- tion/view/27570
+DESCRIPTION:Organizer: Kuusamon Erä-Veikot
 LOCATION:Pohjois-Pohjanmaa (Kuusamon Erä-Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27570
 END:VEVENT

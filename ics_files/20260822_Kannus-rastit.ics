@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Kannus-rastit
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T185445Z
+DTSTAMP:20260319T044527Z
 UID:irma-27634-20260822@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kannuksen Ura\nArea: Keski-Pohjanmaa\nIRMA Link: ht
- tps://irma.suunnistusliitto.fi/public/competition/view/27634
+DESCRIPTION:Organizer: Kannuksen Ura
 LOCATION:Keski-Pohjanmaa (Kannuksen Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27634
 END:VEVENT

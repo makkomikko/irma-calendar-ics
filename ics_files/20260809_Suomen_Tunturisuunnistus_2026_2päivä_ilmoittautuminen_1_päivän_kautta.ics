@@ -6,10 +6,9 @@ SUMMARY:Suomen Tunturisuunnistus 2026\, 2.päivä (ilmoittautuminen 1. pä
  ivän kautta)
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260318T185423Z
+DTSTAMP:20260319T044501Z
 UID:irma-27476-20260809@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lapin Sudet\nArea: Lappi\nIRMA Link: https://irma.s
- uunnistusliitto.fi/public/competition/view/27476
+DESCRIPTION:Organizer: Lapin Sudet
 LOCATION:Lappi (Lapin Sudet)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27476
 END:VEVENT

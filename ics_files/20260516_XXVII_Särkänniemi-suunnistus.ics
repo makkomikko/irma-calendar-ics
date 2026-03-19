@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:XXVII Särkänniemi-suunnistus
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260318T185301Z
+DTSTAMP:20260319T044323Z
 UID:irma-27408-20260516@suunnistusliitto.fi
-DESCRIPTION:Organizer: Koovee\nArea: Häme\nIRMA Link: https://irma.suunni
- stusliitto.fi/public/competition/view/27408
+DESCRIPTION:Organizer: Koovee
 LOCATION:Häme (Koovee)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27408
 END:VEVENT

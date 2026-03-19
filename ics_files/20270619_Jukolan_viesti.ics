@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-DTSTAMP:20260318T185523Z
+DTSTAMP:20260319T044613Z
 UID:irma-26190-20270619@suunnistusliitto.fi
-DESCRIPTION:Organizer: Sotkamon Jymy\nArea: Kainuu\nCategories: Viesti\nIR
- MA Link: https://irma.suunnistusliitto.fi/public/competition/view/26190
+DESCRIPTION:Organizer: Sotkamon Jymy
 LOCATION:Kainuu (Sotkamon Jymy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26190
 END:VEVENT

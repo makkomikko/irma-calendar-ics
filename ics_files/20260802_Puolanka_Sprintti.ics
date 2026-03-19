@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Puolanka Sprintti
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T185417Z
+DTSTAMP:20260319T044454Z
 UID:irma-27628-20260802@suunnistusliitto.fi
-DESCRIPTION:Organizer: Puolangan Ryhti\nArea: Kainuu\nCategories: Sprintti
- \nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/2762
- 8
+DESCRIPTION:Organizer: Puolangan Ryhti
 LOCATION:Kainuu (Puolangan Ryhti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27628
 END:VEVENT

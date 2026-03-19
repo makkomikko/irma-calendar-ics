@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-yö (alustava ajankohta)
 DTSTART;VALUE=DATE:20280929
 DTEND;VALUE=DATE:20280930
-DTSTAMP:20260318T185548Z
+DTSTAMP:20260319T044643Z
 UID:irma-27406-20280929@suunnistusliitto.fi
-DESCRIPTION:Organizer: Rasti-Kurikka\nArea: Etelä-Pohjanmaa\nCategories: 
- Yö\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
- iew/27406
+DESCRIPTION:Organizer: Rasti-Kurikka
 LOCATION:Etelä-Pohjanmaa (Rasti-Kurikka)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27406
 END:VEVENT

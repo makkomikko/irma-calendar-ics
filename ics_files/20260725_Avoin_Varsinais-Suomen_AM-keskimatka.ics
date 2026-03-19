@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Avoin Varsinais-Suomen AM-keskimatka
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260318T185400Z
+DTSTAMP:20260319T044434Z
 UID:irma-27540-20260725@suunnistusliitto.fi
-DESCRIPTION:Organizer: Vakka-Rasti\nArea: Varsinais-Suomi\nCategories: Kes
- kimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/comp
- etition/view/27540
+DESCRIPTION:Organizer: Vakka-Rasti
 LOCATION:Varsinais-Suomi (Vakka-Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27540
 END:VEVENT

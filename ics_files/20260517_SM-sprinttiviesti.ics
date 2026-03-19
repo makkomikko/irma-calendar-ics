@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-sprinttiviesti
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260318T185303Z
+DTSTAMP:20260319T044327Z
 UID:irma-27232-20260517@suunnistusliitto.fi
-DESCRIPTION:Organizer: SK Pohjantähti\nArea: Pohjois-Pohjanmaa\nCategorie
- s: Viesti\, Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/pub
- lic/competition/view/27232
+DESCRIPTION:Organizer: SK Pohjantähti
 LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27232
 END:VEVENT

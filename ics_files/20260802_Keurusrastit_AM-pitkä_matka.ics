@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Keurusrastit (+AM-pitkä matka)
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260318T185415Z
+DTSTAMP:20260319T044452Z
 UID:irma-27491-20260802@suunnistusliitto.fi
-DESCRIPTION:Organizer: Keuruun Kisailijat\nArea: Keski-Suomi\nCategories: 
- Pitkä\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
- tition/view/27491
+DESCRIPTION:Organizer: Keuruun Kisailijat
 LOCATION:Keski-Suomi (Keuruun Kisailijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27491
 END:VEVENT

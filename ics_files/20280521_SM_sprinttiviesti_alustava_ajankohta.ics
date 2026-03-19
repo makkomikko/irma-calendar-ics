@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM sprinttiviesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280521
 DTEND;VALUE=DATE:20280522
-DTSTAMP:20260318T185541Z
+DTSTAMP:20260319T044635Z
 UID:irma-27444-20280521@suunnistusliitto.fi
-DESCRIPTION:Organizer: Jatkuva Liike Oy\, RastiPiikkiö\nArea: Varsinais-S
- uomi\nCategories: Viesti\, Sprintti\nIRMA Link: https://irma.suunnistuslii
- tto.fi/public/competition/view/27444
-LOCATION:Varsinais-Suomi (Jatkuva Liike Oy\, RastiPiikkiö)
+DESCRIPTION:Organizer: Jatkuva Liike Oy RastiPiikkiö
+LOCATION:Tuntematon Alue (Jatkuva Liike Oy RastiPiikkiö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27444
 END:VEVENT
 END:VCALENDAR

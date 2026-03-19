@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Hämeen AM-viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260318T185436Z
+DTSTAMP:20260319T044517Z
 UID:irma-27493-20260816@suunnistusliitto.fi
-DESCRIPTION:Organizer: Oriveden Ponnistus\nArea: Häme\nCategories: Viesti
- \, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
- /view/27493
+DESCRIPTION:Organizer: Oriveden Ponnistus
 LOCATION:Häme (Oriveden Ponnistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27493
 END:VEVENT

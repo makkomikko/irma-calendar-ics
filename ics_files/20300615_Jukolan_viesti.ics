@@ -5,13 +5,12 @@ BEGIN:VEVENT
 SUMMARY:Jukolan viesti
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
-DTSTAMP:20260318T185601Z
+DTSTAMP:20260319T044658Z
 UID:irma-27108-20300615@suunnistusliitto.fi
-DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima\, Kankaanpään Suunnistaj
- at\, Rastikarhut\nArea: Häme\nCategories: Viesti\nIRMA Link: https://irma
- .suunnistusliitto.fi/public/competition/view/27108
-LOCATION:Häme (Ikaalisten Nouseva-Voima\, Kankaanpään Suunnistajat\, Ra
- stikarhut)
+DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima Kankaanpään Suunnistajat
+  Rastikarhut
+LOCATION:Tuntematon Alue (Ikaalisten Nouseva-Voima Kankaanpään Suunnista
+ jat Rastikarhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27108
 END:VEVENT
 END:VCALENDAR

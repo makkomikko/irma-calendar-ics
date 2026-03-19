@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-yö
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
-DTSTAMP:20260318T185535Z
+DTSTAMP:20260319T044628Z
 UID:irma-26770-20270925@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kajaanin Suunnistajat\nArea: Kainuu\nCategories: Y
- ö\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
- ew/26770
+DESCRIPTION:Organizer: Kajaanin Suunnistajat
 LOCATION:Kainuu (Kajaanin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26770
 END:VEVENT

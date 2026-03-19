@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko\, 1. osakilpailu
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-DTSTAMP:20260318T185344Z
+DTSTAMP:20260319T044415Z
 UID:irma-27196-20260705@suunnistusliitto.fi
-DESCRIPTION:Organizer: Sallan Karhut\nArea: Lappi\nIRMA Link: https://irma
- .suunnistusliitto.fi/public/competition/view/27196
+DESCRIPTION:Organizer: Sallan Karhut
 LOCATION:Lappi (Sallan Karhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27196
 END:VEVENT

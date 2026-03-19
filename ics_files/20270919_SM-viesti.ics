@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20260318T185534Z
+DTSTAMP:20260319T044626Z
 UID:irma-26673-20270919@suunnistusliitto.fi
-DESCRIPTION:Organizer: Rastivarsat\nArea: Päijät-Häme\nCategories: Vies
- ti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
- ew/26673
+DESCRIPTION:Organizer: Rastivarsat
 LOCATION:Päijät-Häme (Rastivarsat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26673
 END:VEVENT

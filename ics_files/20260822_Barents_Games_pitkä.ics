@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Barents Games pitkä
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260318T185444Z
+DTSTAMP:20260319T044526Z
 UID:irma-27533-20260822@suunnistusliitto.fi
-DESCRIPTION:Organizer: SK Pohjantähti\nArea: Pohjois-Pohjanmaa\nCategorie
- s: Pitkä\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/
- view/27533
+DESCRIPTION:Organizer: SK Pohjantähti
 LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27533
 END:VEVENT

@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti / stafett-FM (alustava ajankohta)
 DTSTART;VALUE=DATE:20280917
 DTEND;VALUE=DATE:20280918
-DTSTAMP:20260318T185547Z
+DTSTAMP:20260319T044642Z
 UID:irma-27435-20280917@suunnistusliitto.fi
-DESCRIPTION:Organizer: Pargas IF\nArea: FSO\nCategories: Viesti\, SM\nIRMA
-  Link: https://irma.suunnistusliitto.fi/public/competition/view/27435
+DESCRIPTION:Organizer: Pargas IF
 LOCATION:FSO (Pargas IF)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27435
 END:VEVENT

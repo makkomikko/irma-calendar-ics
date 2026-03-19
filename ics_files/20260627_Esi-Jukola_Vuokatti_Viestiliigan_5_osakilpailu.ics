@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Esi-Jukola Vuokatti\, Viestiliigan 5. osakilpailu
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260318T185337Z
+DTSTAMP:20260319T044407Z
 UID:irma-27495-20260627@suunnistusliitto.fi
-DESCRIPTION:Organizer: Sotkamon Jymy\nArea: Kainuu\nCategories: Viestiliig
- a\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/274
- 95
+DESCRIPTION:Organizer: Sotkamon Jymy
 LOCATION:Kainuu (Sotkamon Jymy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27495
 END:VEVENT

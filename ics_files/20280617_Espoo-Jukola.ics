@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Espoo-Jukola
 DTSTART;VALUE=DATE:20280617
 DTEND;VALUE=DATE:20280618
-DTSTAMP:20260318T185542Z
+DTSTAMP:20260319T044636Z
 UID:irma-26186-20280617@suunnistusliitto.fi
-DESCRIPTION:Organizer: Espoon Suunta\nArea: Uusimaa\nIRMA Link: https://ir
- ma.suunnistusliitto.fi/public/competition/view/26186
+DESCRIPTION:Organizer: Espoon Suunta
 LOCATION:Uusimaa (Espoon Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26186
 END:VEVENT

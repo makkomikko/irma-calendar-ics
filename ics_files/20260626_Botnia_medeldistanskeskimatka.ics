@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Botnia medeldistans/keskimatka
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-DTSTAMP:20260318T185335Z
+DTSTAMP:20260319T044405Z
 UID:irma-27506-20260626@suunnistusliitto.fi
-DESCRIPTION:Organizer: OK Botnia\nArea: FSO\nCategories: Keskimatka\nIRMA 
- Link: https://irma.suunnistusliitto.fi/public/competition/view/27506
+DESCRIPTION:Organizer: OK Botnia
 LOCATION:FSO (OK Botnia)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27506
 END:VEVENT

@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-sprintti (WRE)
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260318T185250Z
+DTSTAMP:20260319T044310Z
 UID:irma-26666-20260510@suunnistusliitto.fi
-DESCRIPTION:Organizer: SK Uusi\, Tuusulan Voima-Veikot\nArea: Uusimaa\nCat
- egories: Sprintti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public
- /competition/view/26666
-LOCATION:Uusimaa (SK Uusi\, Tuusulan Voima-Veikot)
+DESCRIPTION:Organizer: SK Uusi Tuusulan Voima-Veikot
+LOCATION:Tuntematon Alue (SK Uusi Tuusulan Voima-Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26666
 END:VEVENT
 END:VCALENDAR

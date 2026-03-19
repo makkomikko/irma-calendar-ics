@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kesälaitumen Rastit
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260318T185350Z
+DTSTAMP:20260319T044422Z
 UID:irma-27329-20260718@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lauttakylän Luja\, Punkalaitumen Kunto\nArea: Sata
- kunta\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
- /27329
-LOCATION:Satakunta (Lauttakylän Luja\, Punkalaitumen Kunto)
+DESCRIPTION:Organizer: Lauttakylän Luja Punkalaitumen Kunto
+LOCATION:Tuntematon Alue (Lauttakylän Luja Punkalaitumen Kunto)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27329
 END:VEVENT
 END:VCALENDAR

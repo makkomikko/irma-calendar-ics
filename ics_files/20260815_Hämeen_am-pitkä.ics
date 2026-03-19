@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Hämeen am-pitkä
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T185429Z
+DTSTAMP:20260319T044509Z
 UID:irma-27492-20260815@suunnistusliitto.fi
-DESCRIPTION:Organizer: Oriveden Ponnistus\nArea: Häme\nCategories: Pitkä
- \, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
- /view/27492
+DESCRIPTION:Organizer: Oriveden Ponnistus
 LOCATION:Häme (Oriveden Ponnistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27492
 END:VEVENT

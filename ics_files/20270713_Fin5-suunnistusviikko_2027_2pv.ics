@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Fin5-suunnistusviikko 2027 2.pv
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
-DTSTAMP:20260318T185525Z
+DTSTAMP:20260319T044616Z
 UID:irma-27614-20270713@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lappeen Riento\nArea: Kaakko\nIRMA Link: https://ir
- ma.suunnistusliitto.fi/public/competition/view/27614
+DESCRIPTION:Organizer: Lappeen Riento
 LOCATION:Kaakko (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27614
 END:VEVENT

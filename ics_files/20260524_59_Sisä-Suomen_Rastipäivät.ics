@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:59. Sisä-Suomen Rastipäivät
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T185315Z
+DTSTAMP:20260319T044341Z
 UID:irma-27416-20260524@suunnistusliitto.fi
-DESCRIPTION:Organizer: Saarijärven Pullistus\nArea: Keski-Suomi\nHoliday:
-  Whit Sunday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competiti
- on/view/27416
+DESCRIPTION:Organizer: Saarijärven Pullistus
 LOCATION:Keski-Suomi (Saarijärven Pullistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27416
 END:VEVENT

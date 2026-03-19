@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Eukkorastit\, avoin Kaakon am-keskimatka
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260318T185252Z
+DTSTAMP:20260319T044312Z
 UID:irma-27448-20260514@suunnistusliitto.fi
-DESCRIPTION:Organizer: SK Vuoksi\nArea: Kaakko\nCategories: Keskimatka\, A
- M/FSOM\nHoliday: Ascension Day\nIRMA Link: https://irma.suunnistusliitto.f
- i/public/competition/view/27448
+DESCRIPTION:Organizer: SK Vuoksi
 LOCATION:Kaakko (SK Vuoksi)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27448
 END:VEVENT

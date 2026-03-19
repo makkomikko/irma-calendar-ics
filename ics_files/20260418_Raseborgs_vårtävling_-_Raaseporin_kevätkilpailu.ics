@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Raseborgs vårtävling - Raaseporin kevätkilpailu
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-DTSTAMP:20260318T185234Z
+DTSTAMP:20260319T044251Z
 UID:irma-27337-20260418@suunnistusliitto.fi
-DESCRIPTION:Organizer: OK Raseborg\nArea: FSO\nIRMA Link: https://irma.suu
- nnistusliitto.fi/public/competition/view/27337
+DESCRIPTION:Organizer: OK Raseborg
 LOCATION:FSO (OK Raseborg)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27337
 END:VEVENT

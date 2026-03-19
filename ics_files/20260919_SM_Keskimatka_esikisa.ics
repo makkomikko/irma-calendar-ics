@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM Keskimatka esikisa
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T185502Z
+DTSTAMP:20260319T044549Z
 UID:irma-27403-20260919@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kankaanpään Suunnistajat\, Rastikarhut\nArea: Sat
- akunta\nCategories: Keskimatka\nIRMA Link: https://irma.suunnistusliitto.f
- i/public/competition/view/27403
-LOCATION:Satakunta (Kankaanpään Suunnistajat\, Rastikarhut)
+DESCRIPTION:Organizer: Kankaanpään Suunnistajat Rastikarhut
+LOCATION:Tuntematon Alue (Kankaanpään Suunnistajat Rastikarhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27403
 END:VEVENT
 END:VCALENDAR

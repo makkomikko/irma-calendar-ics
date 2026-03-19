@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:53. Uudenmaan Rastipäivät
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260318T185316Z
+DTSTAMP:20260319T044342Z
 UID:irma-27427-20260524@suunnistusliitto.fi
-DESCRIPTION:Organizer: Rajamäen Rykmentti\nArea: Uusimaa\nHoliday: Whit S
- unday\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view
- /27427
+DESCRIPTION:Organizer: Rajamäen Rykmentti
 LOCATION:Uusimaa (Rajamäen Rykmentti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27427
 END:VEVENT

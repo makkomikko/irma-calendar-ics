@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-yön H21-karsinta (alustava ajankohta)
 DTSTART;VALUE=DATE:20290928
 DTEND;VALUE=DATE:20290929
-DTSTAMP:20260318T185558Z
+DTSTAMP:20260319T044655Z
 UID:irma-27637-20290928@suunnistusliitto.fi
-DESCRIPTION:Organizer: Koovee\nArea: Häme\nCategories: Yö\, SM\nIRMA Lin
- k: https://irma.suunnistusliitto.fi/public/competition/view/27637
+DESCRIPTION:Organizer: Koovee
 LOCATION:Häme (Koovee)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27637
 END:VEVENT

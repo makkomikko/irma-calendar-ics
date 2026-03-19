@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:ÖID:s Ekorrstigfinal
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-DTSTAMP:20260318T185340Z
+DTSTAMP:20260319T044411Z
 UID:irma-27583-20260701@suunnistusliitto.fi
-DESCRIPTION:Organizer: Närpes OK\nArea: FSO\nIRMA Link: https://irma.suun
- nistusliitto.fi/public/competition/view/27583
+DESCRIPTION:Organizer: Närpes OK
 LOCATION:FSO (Närpes OK)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27583
 END:VEVENT

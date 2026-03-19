@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Uudenmaan Kompassi-viesti 3 os (lähikilpailu\,avoin)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260318T185500Z
+DTSTAMP:20260319T044546Z
 UID:irma-27627-20260914@suunnistusliitto.fi
-DESCRIPTION:Organizer: Espoon Suunta\nArea: Uusimaa\nCategories: Viesti\nI
- RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27627
+DESCRIPTION:Organizer: Espoon Suunta
 LOCATION:Uusimaa (Espoon Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27627
 END:VEVENT

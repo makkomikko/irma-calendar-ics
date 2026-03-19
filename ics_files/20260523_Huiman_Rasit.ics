@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Huiman Rasit
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260318T185311Z
+DTSTAMP:20260319T044336Z
 UID:irma-27555-20260523@suunnistusliitto.fi
-DESCRIPTION:Organizer: Oulaisten Huima\nArea: Pohjois-Pohjanmaa\nIRMA Link
- : https://irma.suunnistusliitto.fi/public/competition/view/27555
+DESCRIPTION:Organizer: Oulaisten Huima
 LOCATION:Pohjois-Pohjanmaa (Oulaisten Huima)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27555
 END:VEVENT

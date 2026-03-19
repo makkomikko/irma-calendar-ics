@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Kotka-Jukola\, Jukolan viesti
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260318T185331Z
+DTSTAMP:20260319T044400Z
 UID:irma-24843-20260614@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kymin Suunnistajat\, Vehkalahden Veikot\nArea: Kaak
- ko\nCategories: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public
- /competition/view/24843
-LOCATION:Kaakko (Kymin Suunnistajat\, Vehkalahden Veikot)
+DESCRIPTION:Organizer: Kymin Suunnistajat Vehkalahden Veikot
+LOCATION:Tuntematon Alue (Kymin Suunnistajat Vehkalahden Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/24843
 END:VEVENT
 END:VCALENDAR

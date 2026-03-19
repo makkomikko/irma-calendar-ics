@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Varsinais-Suomen Kompassi-cup 3. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
-DTSTAMP:20260318T185320Z
+DTSTAMP:20260319T044347Z
 UID:irma-27647-20260526@suunnistusliitto.fi
-DESCRIPTION:Organizer: Pargas IF\nArea: FSO\nIRMA Link: https://irma.suunn
- istusliitto.fi/public/competition/view/27647
+DESCRIPTION:Organizer: Pargas IF
 LOCATION:FSO (Pargas IF)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27647
 END:VEVENT

@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
-DTSTAMP:20260318T185532Z
+DTSTAMP:20260319T044624Z
 UID:irma-26676-20270904@suunnistusliitto.fi
-DESCRIPTION:Organizer: Anttolan Urheilijat\nArea: Kaakko\nCategories: Pitk
- ä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vi
- ew/26676
+DESCRIPTION:Organizer: Anttolan Urheilijat
 LOCATION:Kaakko (Anttolan Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26676
 END:VEVENT

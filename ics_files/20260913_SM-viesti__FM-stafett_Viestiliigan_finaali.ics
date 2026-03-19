@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti / FM-stafett\, Viestiliigan finaali
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260318T185459Z
+DTSTAMP:20260319T044545Z
 UID:irma-26669-20260913@suunnistusliitto.fi
-DESCRIPTION:Organizer: OK Raseborg\nArea: FSO\nCategories: Viestiliiga\, S
- M\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/266
- 69
+DESCRIPTION:Organizer: OK Raseborg
 LOCATION:FSO (OK Raseborg)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26669
 END:VEVENT

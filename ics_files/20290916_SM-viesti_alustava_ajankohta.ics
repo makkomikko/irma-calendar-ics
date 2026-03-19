@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-viesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
-DTSTAMP:20260318T185557Z
+DTSTAMP:20260319T044654Z
 UID:irma-27436-20290916@suunnistusliitto.fi
-DESCRIPTION:Organizer: SK Pohjantähti\nArea: Pohjois-Pohjanmaa\nCategorie
- s: Viesti\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competi
- tion/view/27436
+DESCRIPTION:Organizer: SK Pohjantähti
 LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27436
 END:VEVENT

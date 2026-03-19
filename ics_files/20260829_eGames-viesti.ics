@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:eGames-viesti
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260318T185448Z
+DTSTAMP:20260319T044532Z
 UID:irma-27424-20260829@suunnistusliitto.fi
-DESCRIPTION:Organizer: Espoon Suunta\nArea: Uusimaa\nCategories: Viesti\nI
- RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27424
+DESCRIPTION:Organizer: Espoon Suunta
 LOCATION:Uusimaa (Espoon Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27424
 END:VEVENT

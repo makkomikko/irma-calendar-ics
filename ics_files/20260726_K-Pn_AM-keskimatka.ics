@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:K-P:n AM-keskimatka
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260318T185405Z
+DTSTAMP:20260319T044440Z
 UID:irma-27631-20260726@suunnistusliitto.fi
-DESCRIPTION:Organizer: Kalajoen Junkkarit\nArea: Keski-Pohjanmaa\nCategori
- es: Keskimatka\, AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/publ
- ic/competition/view/27631
+DESCRIPTION:Organizer: Kalajoen Junkkarit
 LOCATION:Keski-Pohjanmaa (Kalajoen Junkkarit)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27631
 END:VEVENT

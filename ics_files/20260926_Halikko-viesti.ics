@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Halikko-viesti
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260318T185514Z
+DTSTAMP:20260319T044603Z
 UID:irma-27390-20260926@suunnistusliitto.fi
-DESCRIPTION:Organizer: Angelniemen Ankkuri\nArea: Varsinais-Suomi\nCategor
- ies: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competitio
- n/view/27390
+DESCRIPTION:Organizer: Angelniemen Ankkuri
 LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27390
 END:VEVENT

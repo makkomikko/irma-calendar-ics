@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280513
 DTEND;VALUE=DATE:20280514
-DTSTAMP:20260318T185539Z
+DTSTAMP:20260319T044632Z
 UID:irma-27382-20280513@suunnistusliitto.fi
-DESCRIPTION:Organizer: Lappeen Riento\nArea: Kaakko\nCategories: Sprintti\
- , SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/
- 27382
+DESCRIPTION:Organizer: Lappeen Riento
 LOCATION:Kaakko (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27382
 END:VEVENT

@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM2027-esikisa\, sprintti\, ip\,
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260318T185430Z
+DTSTAMP:20260319T044510Z
 UID:irma-27497-20260815@suunnistusliitto.fi
-DESCRIPTION:Organizer: Pihkaniskat\nArea: Uusimaa\nCategories: Sprintti\nI
- RMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27497
+DESCRIPTION:Organizer: Pihkaniskat
 LOCATION:Uusimaa (Pihkaniskat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27497
 END:VEVENT

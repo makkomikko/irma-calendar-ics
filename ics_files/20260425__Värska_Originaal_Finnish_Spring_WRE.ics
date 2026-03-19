@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:** Värska Originaal Finnish Spring (WRE)
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260318T185239Z
+DTSTAMP:20260319T044258Z
 UID:irma-26763-20260425@suunnistusliitto.fi
-DESCRIPTION:Organizer: Angelniemen Ankkuri\nArea: Varsinais-Suomi\nIRMA Li
- nk: https://irma.suunnistusliitto.fi/public/competition/view/26763
+DESCRIPTION:Organizer: Angelniemen Ankkuri
 LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26763
 END:VEVENT

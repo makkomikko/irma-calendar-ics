@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
-DTSTAMP:20260318T185536Z
+DTSTAMP:20260319T044629Z
 UID:irma-26680-20271016@suunnistusliitto.fi
-DESCRIPTION:Organizer: Saarijärven Pullistus\nArea: Keski-Suomi\nCategori
- es: Erikoispitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public
- /competition/view/26680
+DESCRIPTION:Organizer: Saarijärven Pullistus
 LOCATION:Keski-Suomi (Saarijärven Pullistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26680
 END:VEVENT

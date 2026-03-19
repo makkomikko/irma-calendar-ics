@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:Merenkurkun Rastipäivät – Kvarkenträffen pv 3
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DTSTAMP:20260318T185358Z
+DTSTAMP:20260319T044432Z
 UID:irma-27468-20260723@suunnistusliitto.fi
-DESCRIPTION:Organizer: IF Femman\, Malax IF\, Vaasan Suunnistajat\nArea: F
- SO\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/view/27
- 468
-LOCATION:FSO (IF Femman\, Malax IF\, Vaasan Suunnistajat)
+DESCRIPTION:Organizer: IF Femman Malax IF Vaasan Suunnistajat
+LOCATION:Tuntematon Alue (IF Femman Malax IF Vaasan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27468
 END:VEVENT
 END:VCALENDAR

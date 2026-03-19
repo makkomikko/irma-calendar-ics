@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:SM-sprintti (alustava ajankohta)
 DTSTART;VALUE=DATE:20290915
 DTEND;VALUE=DATE:20290916
-DTSTAMP:20260318T185556Z
+DTSTAMP:20260319T044652Z
 UID:irma-27434-20290915@suunnistusliitto.fi
-DESCRIPTION:Organizer: Alatornion Pirkat\nArea: Lappi\nCategories: Sprintt
- i\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/vie
- w/27434
+DESCRIPTION:Organizer: Alatornion Pirkat
 LOCATION:Lappi (Alatornion Pirkat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27434
 END:VEVENT

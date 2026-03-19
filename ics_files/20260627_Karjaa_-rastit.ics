@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Karjaa -rastit
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260318T185336Z
+DTSTAMP:20260319T044406Z
 UID:irma-27363-20260627@suunnistusliitto.fi
-DESCRIPTION:Organizer: Karjaan Ura\nArea: Uusimaa\nIRMA Link: https://irma
- .suunnistusliitto.fi/public/competition/view/27363
+DESCRIPTION:Organizer: Karjaan Ura
 LOCATION:Uusimaa (Karjaan Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27363
 END:VEVENT

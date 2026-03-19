@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
-DTSTAMP:20260318T185549Z
+DTSTAMP:20260319T044644Z
 UID:irma-27639-20281015@suunnistusliitto.fi
-DESCRIPTION:Organizer: Hauhon Sisu\, Lammin Säkiä\nArea: Häme\nCategori
- es: Erikoispitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public
- /competition/view/27639
-LOCATION:Häme (Hauhon Sisu\, Lammin Säkiä)
+DESCRIPTION:Organizer: Hauhon Sisu Lammin Säkiä
+LOCATION:Tuntematon Alue (Hauhon Sisu Lammin Säkiä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27639
 END:VEVENT
 END:VCALENDAR

@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:KaaSu:n am-yö
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260318T185512Z
+DTSTAMP:20260319T044600Z
 UID:irma-27561-20260925@suunnistusliitto.fi
-DESCRIPTION:Organizer: Joutsenon Kullervo\nArea: Kaakko\nCategories: Yö\,
-  AM/FSOM\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition/v
- iew/27561
+DESCRIPTION:Organizer: Joutsenon Kullervo
 LOCATION:Kaakko (Joutsenon Kullervo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27561
 END:VEVENT

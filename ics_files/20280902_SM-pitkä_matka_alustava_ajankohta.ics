@@ -5,12 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka (alustava ajankohta)
 DTSTART;VALUE=DATE:20280902
 DTEND;VALUE=DATE:20280903
-DTSTAMP:20260318T185545Z
+DTSTAMP:20260319T044639Z
 UID:irma-27486-20280902@suunnistusliitto.fi
-DESCRIPTION:Organizer: IF Femman\, Vaasan Suunnistajat\nArea: FSO\nCategor
- ies: Pitkä\, SM\nIRMA Link: https://irma.suunnistusliitto.fi/public/compe
- tition/view/27486
-LOCATION:FSO (IF Femman\, Vaasan Suunnistajat)
+DESCRIPTION:Organizer: IF Femman Vaasan Suunnistajat
+LOCATION:Tuntematon Alue (IF Femman Vaasan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27486
 END:VEVENT
 END:VCALENDAR

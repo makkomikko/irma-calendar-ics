@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Stadi-sprintti ap.
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-DTSTAMP:20260318T185229Z
+DTSTAMP:20260319T044246Z
 UID:irma-27373-20260411@suunnistusliitto.fi
-DESCRIPTION:Organizer: Rasti-Jyry\nArea: Uusimaa\nCategories: Sprintti\nIR
- MA Link: https://irma.suunnistusliitto.fi/public/competition/view/27373
+DESCRIPTION:Organizer: Rasti-Jyry
 LOCATION:Uusimaa (Rasti-Jyry)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27373
 END:VEVENT

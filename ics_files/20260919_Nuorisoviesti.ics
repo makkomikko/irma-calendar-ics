@@ -5,11 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Nuorisoviesti
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260318T185507Z
+DTSTAMP:20260319T044555Z
 UID:irma-27563-20260919@suunnistusliitto.fi
-DESCRIPTION:Organizer: Turun Suunnistajat\nArea: Varsinais-Suomi\nCategori
- es: Viesti\nIRMA Link: https://irma.suunnistusliitto.fi/public/competition
- /view/27563
+DESCRIPTION:Organizer: Turun Suunnistajat
 LOCATION:Varsinais-Suomi (Turun Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27563
 END:VEVENT
