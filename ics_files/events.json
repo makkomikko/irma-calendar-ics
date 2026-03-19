@@ -6,7 +6,8 @@
     "area": "Varsinais-Suomi",
     "filename": "20260328_Varsinais-Suomen_avoin_am-sprintti_Peruttu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27588",
-    "deadline": "",
+    "deadline": "9.3.2026",
+    "matka": "Sprintti",
     "cancelled": true,
     "categories": [
       "Sprintti",
@@ -22,7 +23,8 @@
     "area": "Varsinais-Suomi",
     "filename": "20260328_Sprinttiviesti_kuntotapahtuma_Peruttu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27589",
-    "deadline": "",
+    "deadline": "9.3.2026",
+    "matka": "Sprintti",
     "cancelled": true,
     "categories": [
       "Viesti",
@@ -38,7 +40,8 @@
     "area": "Uusimaa",
     "filename": "20260329__Billnäsin_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27364",
-    "deadline": "",
+    "deadline": "25.3.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -53,9 +56,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260404__Åland_2-dagars__Ahvenanmaan_2-päiväiset.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27413",
-    "deadline": "",
+    "deadline": "29.3.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -66,9 +72,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260405__Åland_2-dagars__Ahvenanmaan_2-päiväiset.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27414",
-    "deadline": "",
+    "deadline": "29.3.2026",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": true,
     "holiday_name": "Easter Sunday"
   },
@@ -79,7 +88,8 @@
     "area": "Uusimaa",
     "filename": "20260411_Stadi-sprintti_ap.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27373",
-    "deadline": "",
+    "deadline": "7.4.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -94,10 +104,12 @@
     "area": "Varsinais-Suomi",
     "filename": "20260411_Kevätyönviesti_Viestiliigan_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27447",
-    "deadline": "",
+    "deadline": "5.4.2026",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö",
+      "Viesti",
       "Viestiliiga"
     ],
     "is_holiday": false,
@@ -110,7 +122,8 @@
     "area": "Uusimaa",
     "filename": "20260411_Stadi-sprintti_ip.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27640",
-    "deadline": "",
+    "deadline": "7.4.2026",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -125,9 +138,12 @@
     "area": "Varsinais-Suomi",
     "filename": "20260412_Viking_Line_Rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27397",
-    "deadline": "",
+    "deadline": "5.4.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -138,9 +154,12 @@
     "area": "FSO",
     "filename": "20260418_Raseborgs_vårtävling_-_Raaseporin_kevätkilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27337",
-    "deadline": "",
+    "deadline": "13.4.2026",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -151,9 +170,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260419_XXIV_Saaristorastit__Skärgårdsträffen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27385",
-    "deadline": "",
+    "deadline": "13.4.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -165,6 +187,7 @@
     "filename": "20260419_Visamäki_Tuplasprintti_Peruttu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27438",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": true,
     "categories": [
       "Sprintti"
@@ -180,6 +203,7 @@
     "filename": "20260419_Kuulan_tuplasprintti_1_osa_Keski-Pohjanmaan_am-sprintti_ja_Kompassi-cup_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27531",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -196,6 +220,7 @@
     "filename": "20260419_Kuulan_tuplasprintti_2_osa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27579",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -211,8 +236,11 @@
     "filename": "20260420_Uudenmaan_Kompassi-Cup_1_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27650",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Sprintti"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -223,9 +251,12 @@
     "area": "Varsinais-Suomi",
     "filename": "20260425__Värska_Originaal_Finnish_Spring_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26763",
-    "deadline": "",
+    "deadline": "19.4.2026",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -236,9 +267,11 @@
     "area": "Varsinais-Suomi",
     "filename": "20260426_Värska_Originaal_Finnish_Spring_-viesti_Viestiliigan_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26764",
-    "deadline": "",
+    "deadline": "19.4.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
+      "Viesti",
       "Viestiliiga"
     ],
     "is_holiday": false,
@@ -252,6 +285,7 @@
     "filename": "20260429_Kortesjärvi-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27574",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -266,9 +300,12 @@
     "area": "Uusimaa",
     "filename": "20260501_Vappurastit_2026.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27514",
-    "deadline": "",
+    "deadline": "24.4.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": true,
     "holiday_name": "May Day"
   },
@@ -280,6 +317,7 @@
     "filename": "20260501_Avoin_Satakunnan_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27651",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -296,6 +334,7 @@
     "filename": "20260502_Virkiän_kevätkansalliset_tuplasprintti_ap.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27470",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -311,6 +350,7 @@
     "filename": "20260502_Virkiän_kevätkansalliset_tuplasprintti_ip.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27471",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -325,7 +365,8 @@
     "area": "Häme",
     "filename": "20260503_Hämeen_AM-sprintti_ja_XXVIII_Junnukisat.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27323",
-    "deadline": "",
+    "deadline": "26.4.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -342,6 +383,7 @@
     "filename": "20260503_Virkiän_kevätkansalliset_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27472",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -357,6 +399,7 @@
     "filename": "20260506_Keski-Suomen_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27635",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -372,7 +415,8 @@
     "area": "Tuntematon Alue",
     "filename": "20260510_SM-sprintti_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26666",
-    "deadline": "",
+    "deadline": "30.4.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -389,8 +433,11 @@
     "filename": "20260514_Kisakallio-rastit_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27349",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": true,
     "holiday_name": "Ascension Day"
   },
@@ -402,6 +449,7 @@
     "filename": "20260514_Eukkorastit_avoin_Kaakon_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27448",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -418,8 +466,11 @@
     "filename": "20260514_Helakisa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27462",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": true,
     "holiday_name": "Ascension Day"
   },
@@ -431,6 +482,7 @@
     "filename": "20260514_Öppna_långa_ÖIDM__Avoin_ÖID_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27469",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -447,8 +499,11 @@
     "filename": "20260514_Hela-rastit_aamupäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27625",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": true,
     "holiday_name": "Ascension Day"
   },
@@ -460,8 +515,11 @@
     "filename": "20260514_Hela-rastit_iltapäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27626",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": true,
     "holiday_name": "Ascension Day"
   },
@@ -473,8 +531,11 @@
     "filename": "20260514_Keski-Suomen_Kompassi-cup_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27630",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": true,
     "holiday_name": "Ascension Day"
   },
@@ -486,6 +547,7 @@
     "filename": "20260514_Kaakon_AMviestit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27632",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -500,7 +562,8 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260516_SM-Knock-Out_-sprintti_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27231",
-    "deadline": "",
+    "deadline": "6.5.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -517,8 +580,11 @@
     "filename": "20260516_Karkki-Rastin_40-vuotisjuhlakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27386",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -529,9 +595,12 @@
     "area": "Häme",
     "filename": "20260516_XXVII_Särkänniemi-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27408",
-    "deadline": "",
+    "deadline": "10.5.2026",
+    "matka": "Sprintti",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Sprintti"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -542,9 +611,12 @@
     "area": "Satakunta",
     "filename": "20260516_Karhurastit_2026.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27445",
-    "deadline": "",
+    "deadline": "10.5.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -556,8 +628,11 @@
     "filename": "20260516_Kevät_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27517",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -568,7 +643,8 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260517_SM-sprinttiviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27232",
-    "deadline": "",
+    "deadline": "7.5.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -586,6 +662,7 @@
     "filename": "20260517_Hakan_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27325",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -601,6 +678,7 @@
     "filename": "20260517_AM-Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27407",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -617,8 +695,11 @@
     "filename": "20260517_Kolmen_maakunnanraja-rastit_Pitäjänmäki.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27526",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -630,8 +711,11 @@
     "filename": "20260523_Ice_Power_-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27411",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -643,8 +727,11 @@
     "filename": "20260523_59_Sisä-Suomen_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27415",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -656,8 +743,11 @@
     "filename": "20260523_53_Uudenmaan_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27426",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -669,6 +759,7 @@
     "filename": "20260523_Avoin_E-P_Am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27513",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -685,8 +776,11 @@
     "filename": "20260523_Huiman_Rasit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27555",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -698,6 +792,7 @@
     "filename": "20260523_Kansalinen_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27556",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -713,8 +808,11 @@
     "filename": "20260524_Luumäki-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27405",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": true,
     "holiday_name": "Whit Sunday"
   },
@@ -726,6 +824,7 @@
     "filename": "20260524_Ice_Power_-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27412",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": true,
@@ -739,8 +838,11 @@
     "filename": "20260524_59_Sisä-Suomen_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27416",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": true,
     "holiday_name": "Whit Sunday"
   },
@@ -752,8 +854,11 @@
     "filename": "20260524_53_Uudenmaan_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27427",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": true,
     "holiday_name": "Whit Sunday"
   },
@@ -764,7 +869,8 @@
     "area": "Kainuu",
     "filename": "20260524_Kainuun_avoin_am-keskimatka_Kajaani.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27573",
-    "deadline": "",
+    "deadline": "17.5.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -781,6 +887,7 @@
     "filename": "20260524_EPn_Avoin_AM_Erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27582",
     "deadline": "",
+    "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
       "Erikoispitkä"
@@ -795,7 +902,8 @@
     "area": "Varsinais-Suomi",
     "filename": "20260526_Salon_Seudun_Rastiviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27645",
-    "deadline": "",
+    "deadline": "19.5.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -811,8 +919,11 @@
     "filename": "20260526_Varsinais-Suomen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27647",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -824,8 +935,11 @@
     "filename": "20260527_Ateno-yhteislähtö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27602",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -836,9 +950,12 @@
     "area": "Kaakko",
     "filename": "20260531_KevätSuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27483",
-    "deadline": "",
+    "deadline": "25.5.2026",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -849,9 +966,11 @@
     "area": "Kaakko",
     "filename": "20260531_Kymen_Rastiviesti_Viestiliigan_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27484",
-    "deadline": "",
+    "deadline": "25.5.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
+      "Viesti",
       "Viestiliiga"
     ],
     "is_holiday": false,
@@ -865,8 +984,11 @@
     "filename": "20260606_Helsinki_O-Games.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27367",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -878,8 +1000,11 @@
     "filename": "20260606_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27502",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -891,8 +1016,11 @@
     "filename": "20260607_Helsinki_O-Games.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27368",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -904,8 +1032,11 @@
     "filename": "20260607_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27503",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -917,6 +1048,7 @@
     "filename": "20260607_Lapin_am-keskimatka_avoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27551",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -933,6 +1065,7 @@
     "filename": "20260609_Kuulan_pariviesti_Keski-Pohjanmaan_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27558",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -948,6 +1081,7 @@
     "filename": "20260613_Kotka-Jukola_Venlojen_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/24842",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -963,6 +1097,7 @@
     "filename": "20260614_Kotka-Jukola_Jukolan_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/24843",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -978,8 +1113,11 @@
     "filename": "20260618_Kukkosuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27474",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -991,8 +1129,11 @@
     "filename": "20260624_Suunta-Seppojen_Iltapika.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27605",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1004,9 +1145,11 @@
     "filename": "20260624_Am-partioavoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27633",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
-      "AM/FSOM"
+      "AM/FSOM",
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1019,6 +1162,7 @@
     "filename": "20260626_Botnia_medeldistanskeskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27506",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1034,8 +1178,11 @@
     "filename": "20260627_Karjaa_-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27363",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1047,8 +1194,10 @@
     "filename": "20260627_Esi-Jukola_Vuokatti_Viestiliigan_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27495",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
+      "Viesti",
       "Viestiliiga"
     ],
     "is_holiday": false,
@@ -1061,9 +1210,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260628__58_Kainuun_Rastiviikko_Suomussalmi_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27309",
-    "deadline": "",
+    "deadline": "30.11.2025",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1074,9 +1226,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260630__58_Kainuun_Rastiviikko_Suomussalmi_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27310",
-    "deadline": "",
+    "deadline": "30.11.2025",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1088,6 +1243,7 @@
     "filename": "20260701_ÖIDs_Ekorrstigfinal.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27583",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -1100,9 +1256,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260702__58_Kainuun_Rastiviikko_Suomussalmi_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27311",
-    "deadline": "",
+    "deadline": "30.11.2025",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1113,9 +1272,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260703__58_Kainuun_Rastiviikko_Suomussalmi_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27312",
-    "deadline": "",
+    "deadline": "30.11.2025",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1126,9 +1288,12 @@
     "area": "Lappi",
     "filename": "20260705_Fin5-suunnistusviikko_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27196",
-    "deadline": "",
+    "deadline": "1.11.2025",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1139,9 +1304,12 @@
     "area": "Lappi",
     "filename": "20260706_Fin5-suunnistusviikko_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27197",
-    "deadline": "",
+    "deadline": "1.11.2025",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1152,7 +1320,8 @@
     "area": "Lappi",
     "filename": "20260707_Fin5-suunnistusviikko_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27198",
-    "deadline": "",
+    "deadline": "1.11.2025",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -1165,9 +1334,12 @@
     "area": "Lappi",
     "filename": "20260709_Fin5-suunnistusviikko_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27199",
-    "deadline": "",
+    "deadline": "1.11.2025",
+    "matka": "Sprintti",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Sprintti"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1178,9 +1350,12 @@
     "area": "Lappi",
     "filename": "20260710_Fin5-suunnistusviikko_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27200",
-    "deadline": "",
+    "deadline": "1.11.2025",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1192,8 +1367,11 @@
     "filename": "20260717_Lapin_Rastipäivät_prologi.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27419",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1205,8 +1383,11 @@
     "filename": "20260718_Kesälaitumen_Rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27329",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1218,6 +1399,7 @@
     "filename": "20260718_Lapin_Rastipäivät_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27420",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -1233,8 +1415,11 @@
     "filename": "20260718_Lahti-Suunnistus_1_päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27460",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1246,8 +1431,11 @@
     "filename": "20260718_Falkens_Nationella_-_Falkenin_Kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27519",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1259,6 +1447,7 @@
     "filename": "20260719_Lapin_Rastipäivät_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27421",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1274,8 +1463,11 @@
     "filename": "20260719_Lahti-Suunnistus_2_päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27461",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1286,9 +1478,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260721_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27466",
-    "deadline": "",
+    "deadline": "15.6.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1299,9 +1494,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260722_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_2.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27467",
-    "deadline": "",
+    "deadline": "15.6.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1312,9 +1510,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260723_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_3.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27468",
-    "deadline": "",
+    "deadline": "15.6.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1326,8 +1527,11 @@
     "filename": "20260725_Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27409",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1339,6 +1543,7 @@
     "filename": "20260725_Avoin_Varsinais-Suomen_AM-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27540",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -1355,8 +1560,11 @@
     "filename": "20260725_Pielisrastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27575",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1368,8 +1576,11 @@
     "filename": "20260726_Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27410",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1381,8 +1592,11 @@
     "filename": "20260726_Pielisrastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27576",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1394,6 +1608,7 @@
     "filename": "20260726_Avoin_Varsinais-Suomen_AM-partio.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27629",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "AM/FSOM"
@@ -1408,7 +1623,8 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260726_K-Pn_AM-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27631",
-    "deadline": "",
+    "deadline": "20.7.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -1425,9 +1641,11 @@
     "filename": "20260731_FSOM-sprint.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27509",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
-      "AM/FSOM"
+      "AM/FSOM",
+      "Sprintti"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1440,6 +1658,7 @@
     "filename": "20260801_Hämeen_avoin_AM-keskimatka_-_Tarpian_Suunta_70_V.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27404",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -1456,6 +1675,7 @@
     "filename": "20260801_Vety-sprintti_2026_1_klpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27429",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -1471,6 +1691,7 @@
     "filename": "20260801_Vety-sprintti_2026_2_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27430",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -1486,6 +1707,7 @@
     "filename": "20260801_Keurusrastit_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27490",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1501,9 +1723,11 @@
     "filename": "20260801_FSOM-långdistans.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27510",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
-      "AM/FSOM"
+      "AM/FSOM",
+      "Pitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1516,8 +1740,11 @@
     "filename": "20260802_Peikkorastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27374",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1529,8 +1756,11 @@
     "filename": "20260802_Rinkelirastit_2026_1_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27431",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1542,8 +1772,11 @@
     "filename": "20260802_Rinkelirastit_2026_2_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27432",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1555,6 +1788,7 @@
     "filename": "20260802_Keurusrastit_AM-pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27491",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -1571,9 +1805,11 @@
     "filename": "20260802_FSOM-stafett.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27511",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
-      "AM/FSOM"
+      "AM/FSOM",
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1586,6 +1822,7 @@
     "filename": "20260802_Puolanka_Sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27628",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -1600,9 +1837,12 @@
     "area": "Lappi",
     "filename": "20260808_Suomen_Tunturisuunnistus_2026_1päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27475",
-    "deadline": "",
+    "deadline": "25.7.2026",
+    "matka": "Erikoispitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Erikoispitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1613,9 +1853,12 @@
     "area": "Lappi",
     "filename": "20260808_Suomen_Tunturisuunnistus_2026_henkilökohtaiset_sarjat_1_päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27477",
-    "deadline": "",
+    "deadline": "25.7.2026",
+    "matka": "Erikoispitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Erikoispitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1627,6 +1870,7 @@
     "filename": "20260808_VetUn_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27565",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1642,8 +1886,11 @@
     "filename": "20260809_Rakas-rastit_aamupäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27360",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1655,8 +1902,11 @@
     "filename": "20260809_Rakas-rastit_iltapäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27361",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1667,9 +1917,12 @@
     "area": "Lappi",
     "filename": "20260809_Suomen_Tunturisuunnistus_2026_2päivä_ilmoittautuminen_1_päivän_kautta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27476",
-    "deadline": "",
+    "deadline": "25.7.2026",
+    "matka": "Erikoispitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Erikoispitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1680,9 +1933,12 @@
     "area": "Lappi",
     "filename": "20260809_Suomen_Tunturisuunnistus_2026_henkilökohtaiset_sarjat_2_päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27478",
-    "deadline": "",
+    "deadline": "25.7.2026",
+    "matka": "Erikoispitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Erikoispitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1694,6 +1950,7 @@
     "filename": "20260812_Jalasjärven_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27606",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1709,8 +1966,11 @@
     "filename": "20260814_Öppna_långa_ÅM__ÅSW.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27641",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1722,6 +1982,7 @@
     "filename": "20260815_Etelä-Pohjanmaan_AM_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27344",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -1737,6 +1998,7 @@
     "filename": "20260815_SM2027-esikisa_sprintti_ap.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27464",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -1752,6 +2014,7 @@
     "filename": "20260815_Hämeen_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27492",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -1768,6 +2031,7 @@
     "filename": "20260815_SM2027-esikisa_sprintti_ip.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27497",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -1783,6 +2047,7 @@
     "filename": "20260815_Öppna_ÖIDM_Medeldistans__Avoin_ÖID-AM_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27536",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1798,6 +2063,7 @@
     "filename": "20260815_Savo-Karjalan_am-pitkä_2026.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27567",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -1814,6 +2080,7 @@
     "filename": "20260815_Pohjois-Pohjanmaan_Kompassi-kilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27623",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -1827,6 +2094,7 @@
     "filename": "20260815_AM_pitkä_Satakunta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27643",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -1842,8 +2110,10 @@
     "filename": "20260816_Lakeuden_Viesti_Viestiliigan_6_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27383",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
+      "Viesti",
       "Viestiliiga"
     ],
     "is_holiday": false,
@@ -1857,6 +2127,7 @@
     "filename": "20260816_Hämeen_AM-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27493",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -1873,6 +2144,7 @@
     "filename": "20260816_ÖIDM_stafett.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27603",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -1886,6 +2158,7 @@
     "filename": "20260816_Etelä-Pohjanmaan_AM_Viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27609",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -1901,6 +2174,7 @@
     "filename": "20260816_Pohjois-Pohjanmaan_Kompassi-viesti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27624",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -1916,6 +2190,7 @@
     "filename": "20260816_AM-Viesti_Satakunta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27644",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -1932,6 +2207,7 @@
     "filename": "20260819_Elosprintti_ja_avoin_Uudenmaan_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27437",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -1948,6 +2224,7 @@
     "filename": "20260822_Nuorten_Jukola.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26315",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -1961,6 +2238,7 @@
     "filename": "20260822_R-Suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27487",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -1974,6 +2252,7 @@
     "filename": "20260822_Barents_Games_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27533",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -1989,8 +2268,11 @@
     "filename": "20260822_Kannus-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27634",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2002,8 +2284,11 @@
     "filename": "20260823_Junioriliigan_finaali_ja_valtakunnallinen_Kompassi-tapahtuma.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26316",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2015,6 +2300,7 @@
     "filename": "20260823_Barents_Games_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27534",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -2030,8 +2316,11 @@
     "filename": "20260828_KLLn_suunnistusmestaruuskilpailut_henkilökohtainen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27569",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2043,6 +2332,7 @@
     "filename": "20260829_eGames-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27424",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2058,6 +2348,7 @@
     "filename": "20260829_Hakan_tupla_-_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27450",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -2073,6 +2364,7 @@
     "filename": "20260829_Kärppäjahti_ja_avoin_K-Pn_pitkä_matka_K-Pn_Kompassi-cupin_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27543",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -2088,6 +2380,7 @@
     "filename": "20260829_KLLn_suunnistusmestaruuskilpailut_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27570",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2103,6 +2396,7 @@
     "filename": "20260830_eGames_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27425",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -2118,6 +2412,7 @@
     "filename": "20260830_Hakan_tupla_-_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27451",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -2133,6 +2428,7 @@
     "filename": "20260830_Keski-Pohjanmaan_maakuntasuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27544",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -2146,6 +2442,7 @@
     "filename": "20260830_Nuijamies-rastit_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27596",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -2162,6 +2459,7 @@
     "filename": "20260905_SM-pitkä_matka_karsinta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26703",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -2178,6 +2476,7 @@
     "filename": "20260906_SM-pitkä_matka_finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27501",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -2194,6 +2493,7 @@
     "filename": "20260912_SM-keskimatka_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26665",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -2210,8 +2510,10 @@
     "filename": "20260913_SM-viesti__FM-stafett_Viestiliigan_finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26669",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
+      "Viesti",
       "Viestiliiga",
       "SM"
     ],
@@ -2226,6 +2528,7 @@
     "filename": "20260914_Uudenmaan_Kompassi-viesti_3_os_lähikilpailuavoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27627",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2241,6 +2544,7 @@
     "filename": "20260918_AM-yö_Uusimaa_avoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27619",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2257,6 +2561,7 @@
     "filename": "20260919_SM_Keskimatka_esikisa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27403",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -2272,6 +2577,7 @@
     "filename": "20260919_Avoin_K-Pn_ja_ÖIDn_AM-yöÖppen_K-P_och_ÖIDM_Natt.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27518",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2288,6 +2594,7 @@
     "filename": "20260919_ÖIDM_Sprint_-_Avoin_AM_sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27520",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -2303,6 +2610,7 @@
     "filename": "20260919_Savo-Karjalan_avoin_AM-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27559",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -2319,6 +2627,7 @@
     "filename": "20260919_Savo-Karjalan_avoin_AM-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27560",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2335,6 +2644,7 @@
     "filename": "20260919_Nuorisoviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27563",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2350,8 +2660,11 @@
     "filename": "20260920_Hollola-rastit_Peruttu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27485",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": true,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2363,8 +2676,11 @@
     "filename": "20260920_XXXXI_Oravatonni.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27505",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2376,6 +2692,7 @@
     "filename": "20260920_Kainuun_avoin_AM-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27622",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2392,6 +2709,7 @@
     "filename": "20260923_Avoin_Satakunnan_ja_Varsinais-Suomen_am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27598",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2408,6 +2726,7 @@
     "filename": "20260925_KaaSun_am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27561",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2424,6 +2743,7 @@
     "filename": "20260926_Lasten_Halikko-juoksu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27389",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -2437,6 +2757,7 @@
     "filename": "20260926_Halikko-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27390",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2452,6 +2773,7 @@
     "filename": "20260927_Karjaa_metsä-_ja_puistosprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27365",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -2467,6 +2789,7 @@
     "filename": "20260927_GIFs_75te_Tvåmila_ÖIDM_ultra.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27537",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -2479,7 +2802,8 @@
     "area": "Tuntematon Alue",
     "filename": "20261003_Lumonite_SM-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26670",
-    "deadline": "",
+    "deadline": "24.9.2026",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2496,6 +2820,7 @@
     "filename": "20261017_SM-erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26707",
     "deadline": "",
+    "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
       "Erikoispitkä",
@@ -2512,8 +2837,11 @@
     "filename": "20261025_XX_Jämi_Suunnistusmaraton.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27463",
     "deadline": "",
+    "matka": "Erikoispitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Erikoispitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2525,8 +2853,11 @@
     "filename": "20270424_Finnish_Spring.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27157",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2538,6 +2869,7 @@
     "filename": "20270425_Finnish_Spring_-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27158",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2553,6 +2885,7 @@
     "filename": "20270530_SM-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26694",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -2569,6 +2902,7 @@
     "filename": "20270619_Jukolan_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26190",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2584,8 +2918,11 @@
     "filename": "20270712_Fin5-suunnistusviikko_2027_1pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27613",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2597,8 +2934,11 @@
     "filename": "20270713_Fin5-suunnistusviikko_2027_2pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27614",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2610,8 +2950,11 @@
     "filename": "20270714_Fin5-suunnistusviikko_2027_3pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27615",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Sprintti"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2623,8 +2966,11 @@
     "filename": "20270716_Fin5-suunnistusviikko_2027_4pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27616",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2636,8 +2982,11 @@
     "filename": "20270717_Fin5-suunnistusviikko_2027_5pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27617",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2649,6 +2998,7 @@
     "filename": "20270814_Nuorten_Jukola.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26297",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -2662,8 +3012,11 @@
     "filename": "20270815_INOV-8_liigan_finaali_ja_valtakunnallinen_Kompassitapahtuma.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26298",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2675,6 +3028,7 @@
     "filename": "20270829_SM-Knock-Out-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27479",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -2691,6 +3045,7 @@
     "filename": "20270904_SM-pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26676",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -2707,6 +3062,7 @@
     "filename": "20270918_SM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26697",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -2723,6 +3079,7 @@
     "filename": "20270919_SM-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26673",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -2739,6 +3096,7 @@
     "filename": "20270925_SM-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26770",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2755,6 +3113,7 @@
     "filename": "20271016_SM-erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26680",
     "deadline": "",
+    "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
       "Erikoispitkä",
@@ -2771,8 +3130,11 @@
     "filename": "20280422_Finnish_Spring_2028_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27393",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2784,6 +3146,7 @@
     "filename": "20280423_Finnish_Spring_2028_viesti_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27394",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2799,6 +3162,7 @@
     "filename": "20280513_SM-sprintti_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27382",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -2815,6 +3179,7 @@
     "filename": "20280520_SM-Knock-Out-sprintti_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27443",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -2831,6 +3196,7 @@
     "filename": "20280521_SM_sprinttiviesti_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27444",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -2847,6 +3213,7 @@
     "filename": "20280617_Espoo-Jukola.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26186",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -2860,6 +3227,7 @@
     "filename": "20280819_Nuorten_Jukola.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27248",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -2873,8 +3241,11 @@
     "filename": "20280820_INOV-8_Finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27249",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -2886,6 +3257,7 @@
     "filename": "20280902_SM-pitkä_matka_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27486",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -2902,6 +3274,7 @@
     "filename": "20280916_SM-keskimatka_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27398",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
@@ -2918,6 +3291,7 @@
     "filename": "20280917_SM-viesti__stafett-FM_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27435",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -2934,6 +3308,7 @@
     "filename": "20280929_SM-yö_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27406",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -2950,6 +3325,7 @@
     "filename": "20281015_SM-erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27639",
     "deadline": "",
+    "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
       "Erikoispitkä",
@@ -2966,6 +3342,7 @@
     "filename": "20290526_SM_keskimatka_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27330",
     "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -2981,6 +3358,7 @@
     "filename": "20290616_Pelimanni-Jukola_Venlojen_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27096",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -2996,6 +3374,7 @@
     "filename": "20290616_Pelimanni-Jukola_Jukolan_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27097",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
@@ -3011,6 +3390,7 @@
     "filename": "20290818_Nuorten_Jukola.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27238",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -3024,6 +3404,7 @@
     "filename": "20290819_Kompassifinaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27239",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [],
     "is_holiday": false,
@@ -3037,6 +3418,7 @@
     "filename": "20290901_SM-pitkä_matka_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27446",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -3053,6 +3435,7 @@
     "filename": "20290915_SM-sprintti_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27434",
     "deadline": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -3069,6 +3452,7 @@
     "filename": "20290916_SM-viesti_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27436",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -3085,6 +3469,7 @@
     "filename": "20290928_SM-yön_H21-karsinta_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27637",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -3101,6 +3486,7 @@
     "filename": "20290929_SM-yö_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27636",
     "deadline": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Yö",
@@ -3117,6 +3503,7 @@
     "filename": "20291020_SM-erikoispitkä_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27428",
     "deadline": "",
+    "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
       "Erikoispitkä",
@@ -3133,6 +3520,7 @@
     "filename": "20300615_Jukolan_viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27108",
     "deadline": "",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti"
