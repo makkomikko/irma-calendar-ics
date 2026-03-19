@@ -25,18 +25,22 @@ def clean_filename(name):
 def clean_text(text):
     if not text: return ""
     text = text.replace('\u00a0', ' ')
-    text = text.replace('\n', ' ').replace('\r', '') # Removed commas from replacement just to be safe
+    text = text.replace('\n', ' ').replace('\r', '')
     return re.sub(r'\s+', ' ', text).strip()
 
-def extract_categories(name):
+def extract_categories(text):
     cat = []
-    nl = name.lower()
+    if not text: return cat
+    nl = text.lower()
     if "keskimatka" in nl: cat.append("Keskimatka")
     if "pitkä" in nl and "erikoispitkä" not in nl: cat.append("Pitkä")
     if "yö" in nl: cat.append("Yö")
     if "erikoispitkä" in nl: cat.append("Erikoispitkä")
-    if "viesti" in nl and "viestiliiga" not in nl: cat.append("Viesti")
+    
+    # FIX: Every Viestiliiga is now also a Viesti
+    if "viesti" in nl: cat.append("Viesti")
     if "viestiliiga" in nl: cat.append("Viestiliiga")
+    
     if "sprintti" in nl: cat.append("Sprintti")
     if "sm-" in nl: cat.append("SM")
     if "am-" in nl or "fsom" in nl: cat.append("AM/FSOM")
@@ -51,15 +55,19 @@ def main():
         with open(clubs_file, 'r', encoding='utf-8') as f:
             clubs_data = json.load(f)
 
-    deadlines_cache = {}
+    # UPGRADED CACHE: Now stores 'matka' to prevent unnecessary page visits
+    events_cache = {}
     events_file = os.path.join(OUTPUT_DIR, 'events.json')
     if os.path.exists(events_file):
         try:
             with open(events_file, 'r', encoding='utf-8') as f:
                 old_events = json.load(f)
                 for e in old_events:
-                    if e.get("link") and e.get("deadline"):
-                        deadlines_cache[e["link"]] = e["deadline"]
+                    if e.get("link"):
+                        events_cache[e["link"]] = {
+                            "deadline": e.get("deadline", ""),
+                            "matka": e.get("matka", "")
+                        }
         except Exception: pass
 
     events_json = []
@@ -103,21 +111,62 @@ def main():
 
         for evt in scraped_events:
             deadline_str = ""
+            matka_str = ""
+            
+            # 1. Primary Category Extraction (from Title)
+            event_categories = extract_categories(evt["name"])
+            has_distance = any(c in event_categories for c in ["Keskimatka", "Pitkä", "Sprintti", "Yö", "Erikoispitkä", "Viesti"])
+
             if evt["link"]:
-                if evt["link"] in deadlines_cache:
-                    deadline_str = deadlines_cache[evt["link"]]
+                cache_hit = events_cache.get(evt["link"], {})
+                cached_deadline = cache_hit.get("deadline", "")
+                cached_matka = cache_hit.get("matka", "")
+
+                # If we have the deadline cached, and we either already have a distance OR we have 'matka' cached, skip page visit
+                if cached_deadline and (has_distance or cached_matka):
+                    deadline_str = cached_deadline
+                    matka_str = cached_matka
                 else:
                     try:
                         page.goto(evt["link"], wait_until="networkidle", timeout=15000)
-                        tier1_row = page.locator("tr", has_text="Ilmoittautumisporras #1")
-                        if tier1_row.count() > 0:
-                            match = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', tier1_row.first.inner_text())
-                            if match: deadline_str = match.group(1)
-                    except Exception: pass
+                        page.wait_for_selector("span", timeout=5000) # Wait for Vaadin spans to load
+                        
+                        # Fetch both Deadline and Matka via JS
+                        fetched_data = page.evaluate("""
+                            () => {
+                                const spans = Array.from(document.querySelectorAll('span'));
+                                
+                                let deadline = "";
+                                const dlLabel = spans.find(s => s.innerText.includes('Ilmoittautumisporras #1'));
+                                if (dlLabel && dlLabel.nextElementSibling) {
+                                    const match = dlLabel.nextElementSibling.innerText.match(/(\d{1,2}\.\d{1,2}\.\d{4})/);
+                                    if (match) deadline = match[1];
+                                }
+                                
+                                let matka = "";
+                                const matkaLabel = spans.find(s => s.innerText.trim() === 'Matka' || s.innerText.includes('Matka'));
+                                if (matkaLabel && matkaLabel.nextElementSibling) {
+                                    matka = matkaLabel.nextElementSibling.innerText.trim();
+                                }
+                                
+                                return { deadline: deadline, matka: matka };
+                            }
+                        """)
+                        if fetched_data:
+                            deadline_str = fetched_data.get("deadline", "")
+                            matka_str = fetched_data.get("matka", "")
+                    except Exception: 
+                        pass
+
+            # 2. Secondary Category Extraction (Fallback to Matka)
+            if matka_str and not has_distance:
+                fallback_cats = extract_categories(matka_str)
+                for c in fallback_cats:
+                    if c not in event_categories:
+                        event_categories.append(c)
 
             is_holiday = evt["start_date"] in fi_holidays or evt["end_date"] in fi_holidays
             holiday_name = fi_holidays.get(evt["start_date"]) or fi_holidays.get(evt["end_date"]) or ""
-            event_categories = extract_categories(evt["name"])
 
             cal = Calendar()
             cal.add('prodid', '-//makkomikko//IRMA Calendar//FI')
@@ -127,15 +176,11 @@ def main():
             irma_id = evt["link"].split('/')[-1] if evt["link"] else clean_filename(evt["name"])
             event.add('uid', f"irma-{irma_id}-{evt['start_date'].strftime('%Y%m%d')}@suunnistusliitto.fi")
             
-            # --- SUPER CLEAN ICS DATA ---
             event.add('summary', evt["name"])
             event.add('dtstart', evt["start_date"])
             event.add('dtend', evt["end_date"] + datetime.timedelta(days=1))
-            
-            # DESCRIPTION: Just the organizer. No newlines, no URLs.
             event.add('description', f"Organizer: {evt['organizer']}")
             
-            # LOCATION: Stripped of commas to avoid strict parser issues
             safe_location = f"{evt['area']} ({evt['organizer']})".replace(',', ' ')
             event.add('location', safe_location)
             
@@ -153,6 +198,7 @@ def main():
                 "date": evt["start_date"].strftime('%Y-%m-%d'),
                 "name": evt["name"], "location": evt["organizer"], "area": evt["area"],
                 "filename": filename, "link": evt["link"], "deadline": deadline_str,
+                "matka": matka_str, # Save to JSON to maintain cache
                 "cancelled": "peruttu" in evt["name"].lower(), "categories": event_categories,
                 "is_holiday": is_holiday, "holiday_name": holiday_name
             })
