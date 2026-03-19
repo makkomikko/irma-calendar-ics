@@ -25,7 +25,7 @@ def clean_filename(name):
 def clean_text(text):
     if not text: return ""
     text = text.replace('\u00a0', ' ')
-    text = text.replace('\n', ', ').replace('\r', '')
+    text = text.replace('\n', ' ').replace('\r', '') # Removed commas from replacement just to be safe
     return re.sub(r'\s+', ' ', text).strip()
 
 def extract_categories(name):
@@ -124,23 +124,21 @@ def main():
             cal.add('version', '2.0')
             event = Event()
             
-            # MANDATORY: Add a Unique Identifier (UID)
-            # We use the IRMA competition ID from the link to keep it unique
             irma_id = evt["link"].split('/')[-1] if evt["link"] else clean_filename(evt["name"])
             event.add('uid', f"irma-{irma_id}-{evt['start_date'].strftime('%Y%m%d')}@suunnistusliitto.fi")
             
+            # --- SUPER CLEAN ICS DATA ---
             event.add('summary', evt["name"])
             event.add('dtstart', evt["start_date"])
             event.add('dtend', evt["end_date"] + datetime.timedelta(days=1))
             
-            desc = f"Organizer: {evt['organizer']}\nArea: {evt['area']}"
-            if event_categories: desc += f"\nCategories: {', '.join(event_categories)}"
-            if is_holiday: desc += f"\nHoliday: {holiday_name}"
-            if deadline_str: desc += f"\nSign-up Deadline: {deadline_str}"
-            if evt["link"]: desc += f"\nIRMA Link: {evt['link']}"
-                
-            event.add('description', desc)
-            event.add('location', f"{evt['area']} ({evt['organizer']})")
+            # DESCRIPTION: Just the organizer. No newlines, no URLs.
+            event.add('description', f"Organizer: {evt['organizer']}")
+            
+            # LOCATION: Stripped of commas to avoid strict parser issues
+            safe_location = f"{evt['area']} ({evt['organizer']})".replace(',', ' ')
+            event.add('location', safe_location)
+            
             event.add('dtstamp', datetime.datetime.now(datetime.timezone.utc))
             if evt["link"]: event.add('url', evt["link"])
             
