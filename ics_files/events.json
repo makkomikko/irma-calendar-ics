@@ -392,6 +392,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-05-05",
+    "name": "Kainuun Kompassi-cup 1. osakilpailu",
+    "location": "Kuhmon Peurat",
+    "area": "Kainuu",
+    "filename": "20260505_Kainuun_Kompassi-cup_1_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27642",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-05-06",
     "name": "Keski-Suomen AM-sprintti",
     "location": "Muuramen Rasti",
@@ -1112,6 +1128,22 @@
     "area": "Varsinais-Suomi",
     "filename": "20260618_Kukkosuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27474",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-23",
+    "name": "Kainuun Kompassi-cup 3. osakilpailu (lähikilpailu)",
+    "location": "Kajaanin Suunnistajat",
+    "area": "Kainuu",
+    "filename": "20260623_Kainuun_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27649",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kainuun Kompassi-cup 3. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+DTSTAMP:20260322T054243Z
+UID:irma-27649-20260623@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kajaanin Suunnistajat
+LOCATION:Kainuu (Kajaanin Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27649
+END:VEVENT
+END:VCALENDAR
