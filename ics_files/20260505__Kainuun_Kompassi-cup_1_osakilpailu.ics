@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Kainuun Kompassi-cup 1. osakilpailu
+SUMMARY:** Kainuun Kompassi-cup 1. osakilpailu
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260325T054912Z
+DTSTAMP:20260326T061747Z
 UID:irma-27642-20260505@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kuhmon Peurat
 LOCATION:Kainuu (Kuhmon Peurat)

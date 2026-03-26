@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset\, keskimatka
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260325T054911Z
+DTSTAMP:20260326T061746Z
 UID:irma-27472-20260503@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapuan Virkiä
 LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27472
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Virkiän kevätkansalliset\, keski
+ matka
+TRIGGER:20260426T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

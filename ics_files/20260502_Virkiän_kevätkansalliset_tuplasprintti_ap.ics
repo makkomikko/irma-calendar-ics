@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Virkiän kevätkansalliset tuplasprintti ap.
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-DTSTAMP:20260325T054909Z
+DTSTAMP:20260326T061744Z
 UID:irma-27470-20260502@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lapuan Virkiä
 LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27470
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Virkiän kevätkansalliset tuplasp
+ rintti ap.
+TRIGGER:20260426T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
