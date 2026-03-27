@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:E-P:n am-partio
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+DTSTAMP:20260327T061947Z
+UID:irma-27661-20260624@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rastiketut
+LOCATION:Etelä-Pohjanmaa (Rastiketut)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27661
+END:VEVENT
+END:VCALENDAR

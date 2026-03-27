@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Suunnistuslukio 40 vuotta
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DTSTAMP:20260327T062024Z
+UID:irma-27663-20260808@suunnistusliitto.fi
+DESCRIPTION:Organizer: Suonenjoen Vasama
+LOCATION:Savo-Karjala (Suonenjoen Vasama)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27663
+END:VEVENT
+END:VCALENDAR

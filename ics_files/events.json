@@ -595,7 +595,7 @@
     "area": "Uusimaa",
     "filename": "20260516_Karkki-Rastin_40-vuotisjuhlakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27386",
-    "deadline": "",
+    "deadline": "11.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -716,6 +716,36 @@
     "categories": [
       "Keskimatka"
     ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-05-19",
+    "name": "Uudenmaan Kompassi-viesti 1",
+    "location": "Lynx",
+    "area": "Uusimaa",
+    "filename": "20260519_Uudenmaan_Kompassi-viesti_1.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27658",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-05-20",
+    "name": "Etelä-Pohjanmaan Kompassi-cup",
+    "location": "Rasti-Jussit",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20260520_Etelä-Pohjanmaan_Kompassi-cup.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27662",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -934,7 +964,7 @@
     "area": "FSO",
     "filename": "20260526_Varsinais-Suomen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27647",
-    "deadline": "",
+    "deadline": "23.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1182,6 +1212,22 @@
     "categories": [
       "AM/FSOM",
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-24",
+    "name": "E-P:n am-partio",
+    "location": "Rastiketut",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20260624_E-Pn_am-partio.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27661",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1901,6 +1947,22 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260808_VetUn_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27565",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-08",
+    "name": "Suunnistuslukio 40 vuotta",
+    "location": "Suonenjoen Vasama",
+    "area": "Savo-Karjala",
+    "filename": "20260808_Suunnistuslukio_40_vuotta.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27663",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,
@@ -2824,6 +2886,22 @@
     "matka": "",
     "cancelled": false,
     "categories": [],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-10-02",
+    "name": "Kissojen yö",
+    "location": "Lynx",
+    "area": "Uusimaa",
+    "filename": "20261002_Kissojen_yö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27659",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Yö"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },

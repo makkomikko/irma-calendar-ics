@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kissojen yö
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260327T062126Z
+UID:irma-27659-20261002@suunnistusliitto.fi
+DESCRIPTION:Organizer: Lynx
+LOCATION:Uusimaa (Lynx)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27659
+END:VEVENT
+END:VCALENDAR
