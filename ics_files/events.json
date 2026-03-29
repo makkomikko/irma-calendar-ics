@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-03-28",
-    "name": "Varsinais-Suomen avoin am-sprintti (Peruttu)",
-    "location": "Kunnon Suunta Oy",
-    "area": "Varsinais-Suomi",
-    "filename": "20260328_Varsinais-Suomen_avoin_am-sprintti_Peruttu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27588",
-    "deadline": "9.3.2026",
-    "matka": "Sprintti",
-    "cancelled": true,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-03-28",
-    "name": "Sprinttiviesti, kuntotapahtuma (Peruttu)",
-    "location": "Kunnon Suunta Oy",
-    "area": "Varsinais-Suomi",
-    "filename": "20260328_Sprinttiviesti_kuntotapahtuma_Peruttu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27589",
-    "deadline": "9.3.2026",
-    "matka": "Sprintti",
-    "cancelled": true,
-    "categories": [
-      "Viesti",
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-03-29",
     "name": "** Billnäsin keskimatka",
     "location": "Karjaan Ura",
