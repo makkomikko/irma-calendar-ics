@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-03-29",
-    "name": "** Billnäsin keskimatka",
-    "location": "Karjaan Ura",
-    "area": "Uusimaa",
-    "filename": "20260329__Billnäsin_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27364",
-    "deadline": "25.3.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-04",
     "name": "** Åland 2-dagars / Ahvenanmaan 2-päiväiset",
     "location": "IF Åland Tampereen Pyrintö",
@@ -380,7 +364,7 @@
     "area": "Keski-Suomi",
     "filename": "20260506_Keski-Suomen_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27635",
-    "deadline": "",
+    "deadline": "27.4.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -3395,10 +3379,10 @@
   },
   {
     "date": "2028-10-15",
-    "name": "SM-erikoispitkä",
+    "name": "SM-erikoispitkä (alustava ajankohta)",
     "location": "Hauhon Sisu Lammin Säkiä",
     "area": "Tuntematon Alue",
-    "filename": "20281015_SM-erikoispitkä.ics",
+    "filename": "20281015_SM-erikoispitkä_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27639",
     "deadline": "",
     "matka": "Erikoispitkä",
@@ -3572,11 +3556,11 @@
     "holiday_name": ""
   },
   {
-    "date": "2029-10-20",
+    "date": "2029-10-21",
     "name": "SM-erikoispitkä (alustava ajankohta)",
     "location": "Olavin Rasti",
     "area": "Kaakko",
-    "filename": "20291020_SM-erikoispitkä_alustava_ajankohta.ics",
+    "filename": "20291021_SM-erikoispitkä_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27428",
     "deadline": "",
     "matka": "Erikoispitkä",
