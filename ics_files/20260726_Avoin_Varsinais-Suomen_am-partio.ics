@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Avoin Varsinais-Suomen AM-partio
+SUMMARY:Avoin Varsinais-Suomen am-partio
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260331T062429Z
+DTSTAMP:20260401T070524Z
 UID:irma-27629-20260726@suunnistusliitto.fi
 DESCRIPTION:Organizer: Maarian Mahti
 LOCATION:Varsinais-Suomi (Maarian Mahti)

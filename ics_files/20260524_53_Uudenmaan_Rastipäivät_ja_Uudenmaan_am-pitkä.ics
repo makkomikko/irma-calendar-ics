@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:53. Uudenmaan Rastipäivät
+SUMMARY:53. Uudenmaan Rastipäivät ja Uudenmaan am-pitkä
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260331T062334Z
+DTSTAMP:20260401T070442Z
 UID:irma-27427-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rajamäen Rykmentti
 LOCATION:Uusimaa (Rajamäen Rykmentti)

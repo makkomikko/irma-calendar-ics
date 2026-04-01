@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Hämeen AM-sprintti ja XXVIII Junnukisat
+SUMMARY:Hämeen am-sprintti ja XXVIII Junnukisat
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-DTSTAMP:20260331T062301Z
+DTSTAMP:20260401T070415Z
 UID:irma-27323-20260503@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rasti-Nokia
 LOCATION:Häme (Rasti-Nokia)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27323
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Hämeen AM-sprintti ja XXVIII Junn
+DESCRIPTION:Ilmoittautuminen päättyy: Hämeen am-sprintti ja XXVIII Junn
  ukisat
 TRIGGER:20260425T090000Z
 END:VALARM
