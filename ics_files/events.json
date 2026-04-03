@@ -3304,9 +3304,11 @@
     "filename": "20280820_INOV-8_Finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27249",
     "deadline": "",
-    "matka": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -3318,7 +3320,7 @@
     "filename": "20280902_SM-pitkä_matka_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27486",
     "deadline": "",
-    "matka": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä",
@@ -3335,7 +3337,7 @@
     "filename": "20280916_SM-keskimatka_alustava_ajankohta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27398",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka",
