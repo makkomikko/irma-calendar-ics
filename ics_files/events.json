@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-04-04",
-    "name": "** Åland 2-dagars / Ahvenanmaan 2-päiväiset",
-    "location": "IF Åland Tampereen Pyrintö",
-    "area": "Tuntematon Alue",
-    "filename": "20260404__Åland_2-dagars__Ahvenanmaan_2-päiväiset.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27413",
-    "deadline": "29.3.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-05",
     "name": "** Åland 2-dagars / Ahvenanmaan 2-päiväiset",
     "location": "IF Åland Tampereen Pyrintö",
@@ -755,7 +739,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260523_Avoin_E-P_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27513",
-    "deadline": "",
+    "deadline": "18.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
