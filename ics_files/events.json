@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-04-05",
-    "name": "** Åland 2-dagars / Ahvenanmaan 2-päiväiset",
-    "location": "IF Åland Tampereen Pyrintö",
-    "area": "Tuntematon Alue",
-    "filename": "20260405__Åland_2-dagars__Ahvenanmaan_2-päiväiset.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27414",
-    "deadline": "29.3.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Easter Sunday"
-  },
-  {
     "date": "2026-04-11",
     "name": "Stadi-sprintti ap.",
     "location": "Rasti-Jyry",
@@ -431,7 +415,7 @@
     "area": "FSO",
     "filename": "20260514_Öppna_långa_ÖIDM__Avoin_ÖID_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27469",
-    "deadline": "",
+    "deadline": "11.5.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
