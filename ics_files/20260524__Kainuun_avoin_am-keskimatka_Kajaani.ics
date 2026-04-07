@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Kainuun avoin am-keskimatka Kajaani
+SUMMARY:** Kainuun avoin am-keskimatka Kajaani
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260406T071306Z
+DTSTAMP:20260407T065555Z
 UID:irma-27573-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kajaanin Suunnistajat
 LOCATION:Kainuu (Kajaanin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27573
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Kainuun avoin am-keskimatka Kajaan
- i
+DESCRIPTION:Ilmoittautuminen päättyy: ** Kainuun avoin am-keskimatka Kaj
+ aani
 TRIGGER:20260516T090000Z
 END:VALARM
 END:VEVENT
