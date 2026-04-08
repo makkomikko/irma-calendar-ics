@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Etelä-Pohjanmaan Kompassi-cup 2. osakilpailu
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+DTSTAMP:20260408T070143Z
+UID:irma-27672-20260608@suunnistusliitto.fi
+DESCRIPTION:Organizer: Laihian Luja
+LOCATION:Etelä-Pohjanmaa (Laihian Luja)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27672
+END:VEVENT
+END:VCALENDAR

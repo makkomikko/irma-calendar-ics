@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:** Kainuun Kompassi-cup 1. osakilpailu
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260407T065536Z
+DTSTAMP:20260408T070108Z
 UID:irma-27642-20260505@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kuhmon Peurat
 LOCATION:Kainuu (Kuhmon Peurat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27642
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: ** Kainuun Kompassi-cup 1. osakilp
+ ailu
+TRIGGER:20260430T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

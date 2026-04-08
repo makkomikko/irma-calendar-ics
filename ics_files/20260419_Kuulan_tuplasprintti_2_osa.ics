@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Kuulan tuplasprintti 2. osa
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260407T065531Z
+DTSTAMP:20260408T070103Z
 UID:irma-27579-20260419@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ylivieskan Kuula
 LOCATION:Keski-Pohjanmaa (Ylivieskan Kuula)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27579
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kuulan tuplasprintti 2. osa
+TRIGGER:20260414T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
