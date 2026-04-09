@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Avoin Satakunnan am-sprintti
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-DTSTAMP:20260408T070106Z
+DTSTAMP:20260409T070416Z
 UID:irma-27651-20260501@suunnistusliitto.fi
 DESCRIPTION:Organizer: Musta Mango Oy
 LOCATION:Satakunta (Musta Mango Oy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27651
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Avoin Satakunnan am-sprintti
+TRIGGER:20260424T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
