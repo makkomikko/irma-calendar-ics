@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-04-11",
-    "name": "Stadi-sprintti ap.",
-    "location": "Rasti-Jyry",
-    "area": "Uusimaa",
-    "filename": "20260411_Stadi-sprintti_ap.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27373",
-    "deadline": "7.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-04-11",
-    "name": "Kevätyönviesti, Viestiliigan 1. osakilpailu",
-    "location": "Paimion Rasti",
-    "area": "Varsinais-Suomi",
-    "filename": "20260411_Kevätyönviesti_Viestiliigan_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27447",
-    "deadline": "5.4.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "Viesti",
-      "Viestiliiga"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-04-11",
-    "name": "Stadi-sprintti ip.",
-    "location": "Rasti-Jyry",
-    "area": "Uusimaa",
-    "filename": "20260411_Stadi-sprintti_ip.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27640",
-    "deadline": "7.4.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-12",
     "name": "** Viking Line Rastit",
     "location": "Paimion Rasti",
@@ -2791,7 +2741,7 @@
     "filename": "20260923_Avoin_Satakunnan_ja_Varsinais-Suomen_am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27598",
     "deadline": "",
-    "matka": "Pitkä",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö",

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-erikoispitkä (alustava ajankohta)
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
-DTSTAMP:20260411T055225Z
+DTSTAMP:20260412T065819Z
 UID:irma-27639-20281015@suunnistusliitto.fi
 DESCRIPTION:Organizer: Hauhon Sisu Lammin Säkiä
 LOCATION:Tuntematon Alue (Hauhon Sisu Lammin Säkiä)
