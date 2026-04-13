@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-04-12",
-    "name": "** Viking Line Rastit",
-    "location": "Paimion Rasti",
-    "area": "Varsinais-Suomi",
-    "filename": "20260412__Viking_Line_Rastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27397",
-    "deadline": "5.4.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-18",
     "name": "** Raseborgs vårtävling - Raaseporin kevätkilpailu",
     "location": "OK Raseborg",
@@ -152,7 +136,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260429_Kortesjärvi-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27574",
-    "deadline": "",
+    "deadline": "26.4.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -738,7 +722,7 @@
     "area": "Kaakko",
     "filename": "20260524_Luumäki-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27405",
-    "deadline": "",
+    "deadline": "18.5.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -2741,7 +2725,7 @@
     "filename": "20260923_Avoin_Satakunnan_ja_Varsinais-Suomen_am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27598",
     "deadline": "",
-    "matka": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Yö",

@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Kortesjärvi-sprintti
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260412T065454Z
+DTSTAMP:20260413T091513Z
 UID:irma-27574-20260429@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot
 LOCATION:Etelä-Pohjanmaa (Kortesjärven Järvi-Veikot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27574
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kortesjärvi-sprintti
+TRIGGER:20260425T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
