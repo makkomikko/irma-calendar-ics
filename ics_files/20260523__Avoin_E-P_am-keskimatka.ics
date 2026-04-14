@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Avoin E-P am-keskimatka
+SUMMARY:** Avoin E-P am-keskimatka
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260413T091530Z
+DTSTAMP:20260414T071144Z
 UID:irma-27513-20260523@suunnistusliitto.fi
 DESCRIPTION:Organizer: Vaasan Suunnistajat
 LOCATION:Etelä-Pohjanmaa (Vaasan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27513
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Avoin E-P am-keskimatka
+DESCRIPTION:Ilmoittautuminen päättyy: ** Avoin E-P am-keskimatka
 TRIGGER:20260517T090000Z
 END:VALARM
 END:VEVENT
