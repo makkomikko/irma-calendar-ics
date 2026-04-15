@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Öppna långa ÖIDM / Avoin ÖID am-pitkä
+SUMMARY:** Öppna långa ÖIDM / Avoin ÖID am-pitkä
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260414T071134Z
+DTSTAMP:20260415T071310Z
 UID:irma-27469-20260514@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Femman
 LOCATION:FSO (IF Femman)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27469
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Öppna långa ÖIDM / Avoin ÖID a
- m-pitkä
+DESCRIPTION:Ilmoittautuminen päättyy: ** Öppna långa ÖIDM / Avoin ÖI
+ D am-pitkä
 TRIGGER:20260510T090000Z
 END:VALARM
 END:VEVENT
