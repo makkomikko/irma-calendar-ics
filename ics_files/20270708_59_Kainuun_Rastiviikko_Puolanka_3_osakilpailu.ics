@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:59. Kainuun Rastiviikko\, Puolanka\, 3. osakilpailu
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260416T071651Z
+UID:irma-27666-20270708@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kainuun Rastiviikko ry Puolangan Ryhti
+LOCATION:Tuntematon Alue (Kainuun Rastiviikko ry Puolangan Ryhti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27666
+END:VEVENT
+END:VCALENDAR

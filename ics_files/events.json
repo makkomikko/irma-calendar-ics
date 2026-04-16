@@ -579,7 +579,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260517_Kolmen_maakunnanraja-rastit_Pitäjänmäki.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27526",
-    "deadline": "",
+    "deadline": "12.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -658,9 +658,11 @@
     "filename": "20260523_53_Uudenmaan_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27426",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1963,9 +1965,11 @@
     "filename": "20260814_Öppna_långa_ÅM__ÅSW.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27641",
     "deadline": "",
-    "matka": "",
+    "matka": "Pitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Pitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1977,7 +1981,7 @@
     "filename": "20260815_Etelä-Pohjanmaan_AM_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27344",
     "deadline": "",
-    "matka": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -2573,7 +2577,7 @@
     "filename": "20260919_SM_Keskimatka_esikisa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27403",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -2606,7 +2610,7 @@
     "filename": "20260919_ÖIDM_Sprint_-_Avoin_AM_sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27520",
     "deadline": "",
-    "matka": "",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -2934,6 +2938,70 @@
     "cancelled": false,
     "categories": [
       "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-04",
+    "name": "59. Kainuun Rastiviikko, Puolanka, 1. osakilpailu",
+    "location": "Kainuun Rastiviikko ry Puolangan Ryhti",
+    "area": "Tuntematon Alue",
+    "filename": "20270704_59_Kainuun_Rastiviikko_Puolanka_1_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27664",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-06",
+    "name": "59. Kainuun Rastiviikko, Puolanka, 2. osakilpailu",
+    "location": "Kainuun Rastiviikko ry Puolangan Ryhti",
+    "area": "Tuntematon Alue",
+    "filename": "20270706_59_Kainuun_Rastiviikko_Puolanka_2_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27665",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-08",
+    "name": "59. Kainuun Rastiviikko, Puolanka, 3. osakilpailu",
+    "location": "Kainuun Rastiviikko ry Puolangan Ryhti",
+    "area": "Tuntematon Alue",
+    "filename": "20270708_59_Kainuun_Rastiviikko_Puolanka_3_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27666",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-09",
+    "name": "59. Kainuun Rastiviikko, Puolanka, 4. osakilpailu",
+    "location": "Kainuun Rastiviikko ry Puolangan Ryhti",
+    "area": "Tuntematon Alue",
+    "filename": "20270709_59_Kainuun_Rastiviikko_Puolanka_4_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27667",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""
