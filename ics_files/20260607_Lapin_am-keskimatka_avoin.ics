@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Lapin am-keskimatka (avoin)
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260416T071425Z
+DTSTAMP:20260417T071358Z
 UID:irma-27551-20260607@suunnistusliitto.fi
 DESCRIPTION:Organizer: Alatornion Pirkat
 LOCATION:Lappi (Alatornion Pirkat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27551
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Lapin am-keskimatka (avoin)
+TRIGGER:20260531T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

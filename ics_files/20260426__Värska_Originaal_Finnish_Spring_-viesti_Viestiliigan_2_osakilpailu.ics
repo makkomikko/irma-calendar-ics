@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Värska Originaal Finnish Spring -viesti\, Viestiliigan 2. osakilp
- ailu
+SUMMARY:** Värska Originaal Finnish Spring -viesti\, Viestiliigan 2. osak
+ ilpailu
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260416T071353Z
+DTSTAMP:20260417T071328Z
 UID:irma-26764-20260426@suunnistusliitto.fi
 DESCRIPTION:Organizer: Angelniemen Ankkuri
 LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26764
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Värska Originaal Finnish Spring -
- viesti\, Viestiliigan 2. osakilpailu
+DESCRIPTION:Ilmoittautuminen päättyy: ** Värska Originaal Finnish Sprin
+ g -viesti\, Viestiliigan 2. osakilpailu
 TRIGGER:20260418T090000Z
 END:VALARM
 END:VEVENT

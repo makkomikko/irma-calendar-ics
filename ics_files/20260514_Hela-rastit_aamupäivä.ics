@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Hela-rastit\, aamupäivä
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260416T071359Z
+DTSTAMP:20260417T071333Z
 UID:irma-27625-20260514@suunnistusliitto.fi
 DESCRIPTION:Organizer: Perämeren Rasti
 LOCATION:Pohjois-Pohjanmaa (Perämeren Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27625
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Hela-rastit\, aamupäivä
+TRIGGER:20260507T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

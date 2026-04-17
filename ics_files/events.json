@@ -114,10 +114,10 @@
   },
   {
     "date": "2026-04-26",
-    "name": "Värska Originaal Finnish Spring -viesti, Viestiliigan 2. osakilpailu",
+    "name": "** Värska Originaal Finnish Spring -viesti, Viestiliigan 2. osakilpailu",
     "location": "Angelniemen Ankkuri",
     "area": "Varsinais-Suomi",
-    "filename": "20260426_Värska_Originaal_Finnish_Spring_-viesti_Viestiliigan_2_osakilpailu.ics",
+    "filename": "20260426__Värska_Originaal_Finnish_Spring_-viesti_Viestiliigan_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26764",
     "deadline": "19.4.2026",
     "matka": "Keskimatka",
@@ -332,7 +332,7 @@
     "area": "Kaakko",
     "filename": "20260514_Eukkorastit_avoin_Kaakon_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27448",
-    "deadline": "",
+    "deadline": "10.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -382,7 +382,7 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260514_Hela-rastit_aamupäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27625",
-    "deadline": "",
+    "deadline": "8.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -398,7 +398,7 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260514_Hela-rastit_iltapäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27626",
-    "deadline": "",
+    "deadline": "8.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -430,7 +430,7 @@
     "area": "Kaakko",
     "filename": "20260514_Kaakon_am-viestit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27632",
-    "deadline": "",
+    "deadline": "10.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -982,7 +982,7 @@
     "area": "Lappi",
     "filename": "20260607_Lapin_am-keskimatka_avoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27551",
-    "deadline": "",
+    "deadline": "1.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
