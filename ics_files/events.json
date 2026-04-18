@@ -276,6 +276,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-05-05",
+    "name": "Varsinais-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)",
+    "location": "Paimion Rasti",
+    "area": "Varsinais-Suomi",
+    "filename": "20260505_Varsinais-Suomen_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27682",
+    "deadline": "3.5.2026",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-05-06",
     "name": "Keski-Suomen am-sprintti",
     "location": "Muuramen Rasti",
@@ -305,6 +321,22 @@
     "categories": [
       "Sprintti",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-05-12",
+    "name": "Varsinais-Suomen Kompassi-cup 2. osakilpailu",
+    "location": "Angelniemen Ankkuri",
+    "area": "Varsinais-Suomi",
+    "filename": "20260512_Varsinais-Suomen_Kompassi-cup_2_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27674",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -414,7 +446,7 @@
     "area": "Keski-Suomi",
     "filename": "20260514__Keski-Suomen_Kompassi-cup_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27630",
-    "deadline": "",
+    "deadline": "10.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -3316,11 +3348,11 @@
     "holiday_name": ""
   },
   {
-    "date": "2028-08-19",
+    "date": "2028-08-12",
     "name": "Nuorten Jukola",
     "location": "Lahden Suunnistajat-37",
     "area": "Päijät-Häme",
-    "filename": "20280819_Nuorten_Jukola.ics",
+    "filename": "20280812_Nuorten_Jukola.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27248",
     "deadline": "",
     "matka": "",
@@ -3330,11 +3362,11 @@
     "holiday_name": ""
   },
   {
-    "date": "2028-08-20",
-    "name": "INOV-8 Finaali",
+    "date": "2028-08-13",
+    "name": "Valtakunnallinen Kompassi-tapahtuma ja Junioriliigan finaali",
     "location": "Lahden Suunnistajat-37",
     "area": "Päijät-Häme",
-    "filename": "20280820_INOV-8_Finaali.ics",
+    "filename": "20280813_Valtakunnallinen_Kompassi-tapahtuma_ja_Junioriliigan_finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27249",
     "deadline": "",
     "matka": "Pitkä",

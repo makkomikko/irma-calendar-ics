@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM Keskimatka esikisa
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260417T071551Z
+DTSTAMP:20260418T042810Z
 UID:irma-27403-20260919@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kankaanpään Suunnistajat Rastikarhut
 LOCATION:Tuntematon Alue (Kankaanpään Suunnistajat Rastikarhut)

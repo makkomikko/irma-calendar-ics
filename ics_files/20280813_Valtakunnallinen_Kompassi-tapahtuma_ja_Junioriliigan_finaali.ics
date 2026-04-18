@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:INOV-8 Finaali
-DTSTART;VALUE=DATE:20280820
-DTEND;VALUE=DATE:20280821
-DTSTAMP:20260417T071650Z
-UID:irma-27249-20280820@suunnistusliitto.fi
+SUMMARY:Valtakunnallinen Kompassi-tapahtuma ja Junioriliigan finaali
+DTSTART;VALUE=DATE:20280813
+DTEND;VALUE=DATE:20280814
+DTSTAMP:20260418T042903Z
+UID:irma-27249-20280813@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lahden Suunnistajat-37
 LOCATION:Päijät-Häme (Lahden Suunnistajat-37)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27249
