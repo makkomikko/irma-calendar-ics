@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-04-19",
-    "name": "** XXIV Saaristorastit – Skärgårdsträffen",
-    "location": "Kimito SF Pargas IF",
-    "area": "Tuntematon Alue",
-    "filename": "20260419__XXIV_Saaristorastit__Skärgårdsträffen.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27385",
-    "deadline": "13.4.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-04-19",
-    "name": "Visamäki Tuplasprintti (Peruttu)",
-    "location": "Hämeenlinnan Suunnistajat",
-    "area": "Häme",
-    "filename": "20260419_Visamäki_Tuplasprintti_Peruttu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27438",
-    "deadline": "",
-    "matka": "Sprintti",
-    "cancelled": true,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-04-19",
-    "name": "Kuulan tuplasprintti 1. osa, Keski-Pohjanmaan am-sprintti ja Kompassi-cup 1. osakilpailu",
-    "location": "Ylivieskan Kuula",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20260419_Kuulan_tuplasprintti_1_osa_Keski-Pohjanmaan_am-sprintti_ja_Kompassi-cup_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27531",
-    "deadline": "15.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-04-19",
-    "name": "Kuulan tuplasprintti 2. osa",
-    "location": "Ylivieskan Kuula",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20260419_Kuulan_tuplasprintti_2_osa.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27579",
-    "deadline": "15.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-20",
     "name": "** Uudenmaan Kompassi-Cup 1. osakilpailu (lähikilpailu)",
     "location": "Hyvinkään Rasti",
@@ -326,6 +261,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-05-13",
+    "name": "Päijät-Hämeen Kompassi-cup 1. osakilpailu",
+    "location": "Lahden Suunnistajat-37",
+    "area": "Päijät-Häme",
+    "filename": "20260513_Päijät-Hämeen_Kompassi-cup_1_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27683",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-05-14",
     "name": "** Kisakallio-rastit (WRE)",
     "location": "Hiidenkiertäjät",
@@ -365,7 +316,7 @@
     "area": "Häme",
     "filename": "20260514_Helakisa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27462",
-    "deadline": "",
+    "deadline": "10.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -837,7 +788,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260525_Etelä-Pohjanmaan_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27673",
-    "deadline": "",
+    "deadline": "20.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -923,6 +874,22 @@
     "categories": [
       "Viesti",
       "Viestiliiga"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-02",
+    "name": "AM erikoispitkä Uusimaa",
+    "location": "Leppävaaran Sisu Raisu Lumous",
+    "area": "Tuntematon Alue",
+    "filename": "20260602_AM_erikoispitkä_Uusimaa.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27679",
+    "deadline": "",
+    "matka": "Erikoispitkä",
+    "cancelled": false,
+    "categories": [
+      "Erikoispitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1031,6 +998,22 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260609_Kuulan_pariviesti_Samuli_Törmälän_muistokilpailu_Keski-Pohjanmaan_Kompassi-viesti_1_Samuli_Törmälän_muistokilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27558",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-10",
+    "name": "Päijät-Hämeen Kompassi-viesti 1",
+    "location": "Hollolan Urheilijat -46",
+    "area": "Päijät-Häme",
+    "filename": "20260610_Päijät-Hämeen_Kompassi-viesti_1.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27687",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,

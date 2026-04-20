@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Etelä-Pohjanmaan Kompassi-viesti 1
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-DTSTAMP:20260419T044606Z
+DTSTAMP:20260420T045254Z
 UID:irma-27673-20260525@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rasti-Kurikka
 LOCATION:Etelä-Pohjanmaa (Rasti-Kurikka)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27673
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Pohjanmaan Kompassi-viesti 
+ 1
+TRIGGER:20260519T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

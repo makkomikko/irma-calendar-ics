@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Päijät-Hämeen Kompassi-viesti 1
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+DTSTAMP:20260420T045306Z
+UID:irma-27687-20260610@suunnistusliitto.fi
+DESCRIPTION:Organizer: Hollolan Urheilijat -46
+LOCATION:Päijät-Häme (Hollolan Urheilijat -46)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27687
+END:VEVENT
+END:VCALENDAR

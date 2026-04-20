@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Päijät-Hämeen Kompassi-cup 1. osakilpailu
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+DTSTAMP:20260420T045242Z
+UID:irma-27683-20260513@suunnistusliitto.fi
+DESCRIPTION:Organizer: Lahden Suunnistajat-37
+LOCATION:Päijät-Häme (Lahden Suunnistajat-37)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27683
+END:VEVENT
+END:VCALENDAR
