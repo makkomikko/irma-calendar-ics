@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:EP:n avoin am-erikoispitkä
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260420T045252Z
+DTSTAMP:20260421T044316Z
 UID:irma-27582-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kauhajoen Karhu
 LOCATION:Etelä-Pohjanmaa (Kauhajoen Karhu)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27582
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: EP:n avoin am-erikoispitkä
+TRIGGER:20260516T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

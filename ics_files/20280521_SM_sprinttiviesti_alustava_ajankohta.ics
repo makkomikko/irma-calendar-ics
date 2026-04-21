@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM sprinttiviesti (alustava ajankohta)
 DTSTART;VALUE=DATE:20280521
 DTEND;VALUE=DATE:20280522
-DTSTAMP:20260420T045546Z
+DTSTAMP:20260421T044549Z
 UID:irma-27444-20280521@suunnistusliitto.fi
 DESCRIPTION:Organizer: Jatkuva Liike Oy RastiPiikkiö
 LOCATION:Tuntematon Alue (Jatkuva Liike Oy RastiPiikkiö)

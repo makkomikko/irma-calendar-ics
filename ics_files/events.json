@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-04-20",
-    "name": "** Uudenmaan Kompassi-Cup 1. osakilpailu (lähikilpailu)",
-    "location": "Hyvinkään Rasti",
-    "area": "Uusimaa",
-    "filename": "20260420__Uudenmaan_Kompassi-Cup_1_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27650",
-    "deadline": "15.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-25",
     "name": "** Värska Originaal Finnish Spring (WRE)",
     "location": "Angelniemen Ankkuri",
@@ -479,7 +463,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260516_Kevätkansallinen_ja_Keski-Pohjanmaan_Kompassi-cupin_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27517",
-    "deadline": "",
+    "deadline": "11.5.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -771,7 +755,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260524_EPn_avoin_am-erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27582",
-    "deadline": "",
+    "deadline": "17.5.2026",
     "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
