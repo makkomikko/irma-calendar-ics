@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:53. Uudenmaan Rastipäivät
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260421T044314Z
+DTSTAMP:20260422T044101Z
 UID:irma-27426-20260523@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rajamäen Rykmentti
 LOCATION:Uusimaa (Rajamäen Rykmentti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27426
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: 53. Uudenmaan Rastipäivät
+TRIGGER:20260517T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

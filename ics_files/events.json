@@ -148,10 +148,10 @@
   },
   {
     "date": "2026-05-04",
-    "name": "Uudenmaan Kompassi-cup 2. osakilpailu (lähikilpailu)",
+    "name": "** Uudenmaan Kompassi-cup 2. osakilpailu (lähikilpailu)",
     "location": "Espoon Suunta",
     "area": "Uusimaa",
-    "filename": "20260504_Uudenmaan_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
+    "filename": "20260504__Uudenmaan_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27668",
     "deadline": "29.4.2026",
     "matka": "Keskimatka",
@@ -230,10 +230,10 @@
   },
   {
     "date": "2026-05-12",
-    "name": "Varsinais-Suomen Kompassi-cup 2. osakilpailu",
+    "name": "** Varsinais-Suomen Kompassi-cup 2. osakilpailu",
     "location": "Angelniemen Ankkuri",
     "area": "Varsinais-Suomi",
-    "filename": "20260512_Varsinais-Suomen_Kompassi-cup_2_osakilpailu.ics",
+    "filename": "20260512__Varsinais-Suomen_Kompassi-cup_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27674",
     "deadline": "",
     "matka": "Keskimatka",
@@ -246,12 +246,12 @@
   },
   {
     "date": "2026-05-13",
-    "name": "Päijät-Hämeen Kompassi-cup 1. osakilpailu",
+    "name": "** Päijät-Hämeen Kompassi-cup 1. osakilpailu",
     "location": "Lahden Suunnistajat-37",
     "area": "Päijät-Häme",
-    "filename": "20260513_Päijät-Hämeen_Kompassi-cup_1_osakilpailu.ics",
+    "filename": "20260513__Päijät-Hämeen_Kompassi-cup_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27683",
-    "deadline": "",
+    "deadline": "11.5.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -508,10 +508,10 @@
   },
   {
     "date": "2026-05-17",
-    "name": "Uudenmaan am-keskimatka",
+    "name": "** Uudenmaan am-keskimatka",
     "location": "Espoon Akilles",
     "area": "Uusimaa",
-    "filename": "20260517_Uudenmaan_am-keskimatka.ics",
+    "filename": "20260517__Uudenmaan_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27407",
     "deadline": "10.5.2026",
     "matka": "Keskimatka",
@@ -608,7 +608,7 @@
     "area": "Uusimaa",
     "filename": "20260523_53_Uudenmaan_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27426",
-    "deadline": "",
+    "deadline": "18.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -721,7 +721,7 @@
     "area": "Uusimaa",
     "filename": "20260524_53_Uudenmaan_Rastipäivät_ja_Uudenmaan_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27427",
-    "deadline": "",
+    "deadline": "18.5.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -1160,7 +1160,7 @@
     "filename": "20260627_Esi-Jukola_Vuokatti_Viestiliigan_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27495",
     "deadline": "",
-    "matka": "Keskimatka",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -1349,11 +1349,9 @@
     "filename": "20260718__Kesälaitumen_Rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27329",
     "deadline": "",
-    "matka": "Keskimatka",
+    "matka": "",
     "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1365,7 +1363,7 @@
     "filename": "20260718_Lapin_Rastipäivät_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27420",
     "deadline": "",
-    "matka": "Pitkä",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Pitkä"
