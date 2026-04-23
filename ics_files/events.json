@@ -245,6 +245,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-05-12",
+    "name": "US-1",
+    "location": "OK 77",
+    "area": "FSO",
+    "filename": "20260512_US-1.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27688",
+    "deadline": "10.5.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-05-13",
     "name": "** Päijät-Hämeen Kompassi-cup 1. osakilpailu",
     "location": "Lahden Suunnistajat-37",
@@ -551,6 +567,22 @@
     "cancelled": false,
     "categories": [
       "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-05-19",
+    "name": "Nylands ungdomsserietävling US2/Nuorisosarjakilpailu 2",
+    "location": "IF Sibbo-Vargarna",
+    "area": "FSO",
+    "filename": "20260519_Nylands_ungdomsserietävling_US2Nuorisosarjakilpailu_2.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27678",
+    "deadline": "17.5.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -885,7 +917,7 @@
     "area": "Uusimaa",
     "filename": "20260606_Helsinki_O-Games.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27367",
-    "deadline": "",
+    "deadline": "31.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -917,7 +949,7 @@
     "area": "Uusimaa",
     "filename": "20260607_Helsinki_O-Games_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27368",
-    "deadline": "",
+    "deadline": "31.5.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -966,6 +998,22 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260608_Etelä-Pohjanmaan_Kompassi-cup_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27672",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-08",
+    "name": "Keski-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)",
+    "location": "Suunta Jyväskylä",
+    "area": "Keski-Suomi",
+    "filename": "20260608_Keski-Suomen_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27690",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,
@@ -1160,7 +1208,7 @@
     "filename": "20260627_Esi-Jukola_Vuokatti_Viestiliigan_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27495",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Viesti",
@@ -1348,10 +1396,12 @@
     "area": "Tuntematon Alue",
     "filename": "20260718__Kesälaitumen_Rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27329",
-    "deadline": "",
-    "matka": "",
+    "deadline": "12.7.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1363,7 +1413,7 @@
     "filename": "20260718_Lapin_Rastipäivät_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27420",
     "deadline": "",
-    "matka": "",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
       "Pitkä"
@@ -2279,6 +2329,22 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260823_Barents_Games_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27534",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-25",
+    "name": "US-4",
+    "location": "OK 77",
+    "area": "FSO",
+    "filename": "20260825_US-4.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27689",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,

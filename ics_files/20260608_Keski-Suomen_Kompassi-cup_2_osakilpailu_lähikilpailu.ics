@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Keski-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+DTSTAMP:20260423T044548Z
+UID:irma-27690-20260608@suunnistusliitto.fi
+DESCRIPTION:Organizer: Suunta Jyväskylä
+LOCATION:Keski-Suomi (Suunta Jyväskylä)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27690
+END:VEVENT
+END:VCALENDAR
