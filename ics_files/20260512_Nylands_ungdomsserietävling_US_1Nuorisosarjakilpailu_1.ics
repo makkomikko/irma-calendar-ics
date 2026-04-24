@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:US-1
+SUMMARY:Nylands ungdomsserietävling US 1/Nuorisosarjakilpailu 1
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260423T044535Z
+DTSTAMP:20260424T044918Z
 UID:irma-27688-20260512@suunnistusliitto.fi
 DESCRIPTION:Organizer: OK 77
 LOCATION:FSO (OK 77)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27688
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: US-1
+DESCRIPTION:Ilmoittautuminen päättyy: Nylands ungdomsserietävling US 1/
+ Nuorisosarjakilpailu 1
 TRIGGER:20260509T090000Z
 END:VALARM
 END:VEVENT
