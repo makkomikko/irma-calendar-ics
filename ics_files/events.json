@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-04-25",
-    "name": "** Värska Originaal Finnish Spring (WRE)",
-    "location": "Angelniemen Ankkuri",
-    "area": "Varsinais-Suomi",
-    "filename": "20260425__Värska_Originaal_Finnish_Spring_WRE.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26763",
-    "deadline": "19.4.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-26",
     "name": "** Värska Originaal Finnish Spring -viesti, Viestiliigan 2. osakilpailu",
     "location": "Angelniemen Ankkuri",
