@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-04-26",
-    "name": "** Värska Originaal Finnish Spring -viesti, Viestiliigan 2. osakilpailu",
-    "location": "Angelniemen Ankkuri",
-    "area": "Varsinais-Suomi",
-    "filename": "20260426__Värska_Originaal_Finnish_Spring_-viesti_Viestiliigan_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26764",
-    "deadline": "19.4.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "Viestiliiga"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-04-29",
     "name": "Kortesjärvi-sprintti",
     "location": "Kortesjärven Järvi-Veikot",
@@ -497,7 +480,7 @@
     "area": "Häme",
     "filename": "20260517_Hakan_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27325",
-    "deadline": "",
+    "deadline": "11.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
