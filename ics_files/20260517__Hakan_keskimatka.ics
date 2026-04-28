@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Hakan keskimatka
+SUMMARY:** Hakan keskimatka
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-DTSTAMP:20260427T051727Z
+DTSTAMP:20260428T052413Z
 UID:irma-27325-20260517@suunnistusliitto.fi
 DESCRIPTION:Organizer: Valkeakosken Haka
 LOCATION:Häme (Valkeakosken Haka)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27325
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Hakan keskimatka
+DESCRIPTION:Ilmoittautuminen päättyy: ** Hakan keskimatka
 TRIGGER:20260510T090000Z
 END:VALARM
 END:VEVENT

@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:** Varsinais-Suomen Kompassi-cup 2. osakilpailu
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-DTSTAMP:20260427T051726Z
+DTSTAMP:20260428T052413Z
 UID:irma-27674-20260512@suunnistusliitto.fi
 DESCRIPTION:Organizer: Angelniemen Ankkuri
 LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27674
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: ** Varsinais-Suomen Kompassi-cup 2
+ . osakilpailu
+TRIGGER:20260507T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

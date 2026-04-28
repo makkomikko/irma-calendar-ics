@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:XXVII Särkänniemi-suunnistus
+SUMMARY:** XXVII Särkänniemi-suunnistus
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260427T051726Z
+DTSTAMP:20260428T052413Z
 UID:irma-27408-20260516@suunnistusliitto.fi
 DESCRIPTION:Organizer: Koovee
 LOCATION:Häme (Koovee)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27408
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: XXVII Särkänniemi-suunnistus
+DESCRIPTION:Ilmoittautuminen päättyy: ** XXVII Särkänniemi-suunnistus
 TRIGGER:20260509T090000Z
 END:VALARM
 END:VEVENT

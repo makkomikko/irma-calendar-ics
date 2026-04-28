@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Kaakon am-viestit
+SUMMARY:** Eukkorastit\, avoin Kaakon am-keskimatka
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-DTSTAMP:20260427T051726Z
-UID:irma-27632-20260514@suunnistusliitto.fi
+DTSTAMP:20260428T052413Z
+UID:irma-27448-20260514@suunnistusliitto.fi
 DESCRIPTION:Organizer: SK Vuoksi
 LOCATION:Kaakko (SK Vuoksi)
-URL:https://irma.suunnistusliitto.fi/public/competition/view/27632
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27448
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Kaakon am-viestit
+DESCRIPTION:Ilmoittautuminen päättyy: ** Eukkorastit\, avoin Kaakon am-k
+ eskimatka
 TRIGGER:20260509T090000Z
 END:VALARM
 END:VEVENT
