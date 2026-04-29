@@ -1142,7 +1142,7 @@
     "area": "FSO",
     "filename": "20260626_Botnia_medeldistanskeskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27506",
-    "deadline": "",
+    "deadline": "22.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -2204,7 +2204,7 @@
     "filename": "20260819_Elosprintti_ja_avoin_Uudenmaan_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27437",
     "deadline": "",
-    "matka": "Sprintti",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -2435,15 +2435,17 @@
   },
   {
     "date": "2026-08-30",
-    "name": "Keski-Pohjanmaan maakuntasuunnistus",
+    "name": "Keski-Pohjanmaan maakuntasuunnistus ja Kompassi-viesti 2",
     "location": "Kokkolan Suunnistajat",
     "area": "Keski-Pohjanmaa",
-    "filename": "20260830_Keski-Pohjanmaan_maakuntasuunnistus.ics",
+    "filename": "20260830_Keski-Pohjanmaan_maakuntasuunnistus_ja_Kompassi-viesti_2.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27544",
     "deadline": "",
     "matka": "",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Viesti"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
