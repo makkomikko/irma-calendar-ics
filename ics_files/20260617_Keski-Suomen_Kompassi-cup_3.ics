@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Keski-Suomen Kompassi-cup 3.
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+DTSTAMP:20260430T052420Z
+UID:irma-27680-20260617@suunnistusliitto.fi
+DESCRIPTION:Organizer: Itä-Päijänteen Rasti
+LOCATION:Keski-Suomi (Itä-Päijänteen Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27680
+END:VEVENT
+END:VCALENDAR

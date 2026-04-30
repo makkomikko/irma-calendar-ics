@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Varsinais-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)
+SUMMARY:** Varsinais-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-DTSTAMP:20260429T052047Z
+DTSTAMP:20260430T052359Z
 UID:irma-27682-20260505@suunnistusliitto.fi
 DESCRIPTION:Organizer: Paimion Rasti
 LOCATION:Varsinais-Suomi (Paimion Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27682
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen Kompassi-cup 2. o
- sakilpailu (lähikilpailu)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Varsinais-Suomen Kompassi-cup 2
+ . osakilpailu (lähikilpailu)
 TRIGGER:20260502T090000Z
 END:VALARM
 END:VEVENT

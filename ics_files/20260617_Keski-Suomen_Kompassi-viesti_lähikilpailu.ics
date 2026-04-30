@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Keski-Suomen Kompassi-viesti (lähikilpailu)
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+DTSTAMP:20260430T052421Z
+UID:irma-27691-20260617@suunnistusliitto.fi
+DESCRIPTION:Organizer: Itä-Päijänteen Rasti
+LOCATION:Keski-Suomi (Itä-Päijänteen Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27691
+END:VEVENT
+END:VCALENDAR

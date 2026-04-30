@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Ice Power -rastit
+SUMMARY:Ice Power -rastit\, Hämeen Kompassi-cup 2. osakilpailu
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260429T052049Z
+DTSTAMP:20260430T052401Z
 UID:irma-27411-20260523@suunnistusliitto.fi
 DESCRIPTION:Organizer: Tampereen Pyrintö
 LOCATION:Häme (Tampereen Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27411
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Ice Power -rastit
+DESCRIPTION:Ilmoittautuminen päättyy: Ice Power -rastit\, Hämeen Kompas
+ si-cup 2. osakilpailu
 TRIGGER:20260517T090000Z
 END:VALARM
 END:VEVENT
