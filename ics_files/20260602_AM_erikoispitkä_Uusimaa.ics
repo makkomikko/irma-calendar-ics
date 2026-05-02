@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:AM erikoispitkä Uusimaa
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-DTSTAMP:20260501T053612Z
+DTSTAMP:20260502T045359Z
 UID:irma-27679-20260602@suunnistusliitto.fi
 DESCRIPTION:Organizer: Leppävaaran Sisu Raisu Lumous
 LOCATION:Tuntematon Alue (Leppävaaran Sisu Raisu Lumous)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27679
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: AM erikoispitkä Uusimaa
+TRIGGER:20260525T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

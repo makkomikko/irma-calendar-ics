@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-05-01",
-    "name": "** Vappurastit 2026",
-    "location": "SK Uusi",
-    "area": "Uusimaa",
-    "filename": "20260501__Vappurastit_2026.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27514",
-    "deadline": "24.4.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": true,
-    "holiday_name": "May Day"
-  },
-  {
-    "date": "2026-05-01",
-    "name": "Avoin Satakunnan am-sprintti",
-    "location": "Musta Mango Oy",
-    "area": "Satakunta",
-    "filename": "20260501_Avoin_Satakunnan_am-sprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27651",
-    "deadline": "25.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "May Day"
-  },
-  {
     "date": "2026-05-02",
     "name": "** Virkiän kevätkansalliset tuplasprintti ap.",
     "location": "Lapuan Virkiä",
@@ -852,7 +819,7 @@
     "area": "Tuntematon Alue",
     "filename": "20260602_AM_erikoispitkä_Uusimaa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27679",
-    "deadline": "",
+    "deadline": "26.5.2026",
     "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
