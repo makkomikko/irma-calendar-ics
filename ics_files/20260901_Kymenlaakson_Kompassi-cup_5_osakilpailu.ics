@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kymenlaakson Kompassi-cup 5. osakilpailu
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+DTSTAMP:20260503T052646Z
+UID:irma-27693-20260901@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kymin Suunnistajat
+LOCATION:Kaakko (Kymin Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27693
+END:VEVENT
+END:VCALENDAR

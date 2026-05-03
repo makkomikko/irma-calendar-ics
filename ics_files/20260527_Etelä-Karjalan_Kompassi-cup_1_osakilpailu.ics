@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Etelä-Karjalan Kompassi-cup 1. osakilpailu
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+DTSTAMP:20260503T052417Z
+UID:irma-27700-20260527@suunnistusliitto.fi
+DESCRIPTION:Organizer: SK Vuoksi
+LOCATION:Kaakko (SK Vuoksi)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27700
+END:VEVENT
+END:VCALENDAR
