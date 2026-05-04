@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "name": "** Hämeen am-sprintti ja XXVIII Junnukisat, Hämeen Kompassi-cup 1. osakilpailu",
-    "location": "Rasti-Nokia",
-    "area": "Häme",
-    "filename": "20260503__Hämeen_am-sprintti_ja_XXVIII_Junnukisat_Hämeen_Kompassi-cup_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27323",
-    "deadline": "26.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-03",
-    "name": "** Virkiän kevätkansalliset, keskimatka",
-    "location": "Lapuan Virkiä",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260503__Virkiän_kevätkansalliset_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27472",
-    "deadline": "27.4.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-04",
     "name": "** Uudenmaan Kompassi-cup 2. osakilpailu (lähikilpailu)",
     "location": "Espoon Suunta",
@@ -312,10 +279,10 @@
   },
   {
     "date": "2026-05-16",
-    "name": "Karkki-Rastin 40-vuotisjuhlakilpailu",
+    "name": "** Karkki-Rastin 40-vuotisjuhlakilpailu",
     "location": "Karkki-Rasti",
     "area": "Uusimaa",
-    "filename": "20260516_Karkki-Rastin_40-vuotisjuhlakilpailu.ics",
+    "filename": "20260516__Karkki-Rastin_40-vuotisjuhlakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27386",
     "deadline": "11.5.2026",
     "matka": "Keskimatka",
@@ -836,11 +803,9 @@
     "filename": "20260606_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27502",
     "deadline": "",
-    "matka": "Keskimatka",
+    "matka": "",
     "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1655,7 +1620,7 @@
     "filename": "20260801_Keurusrastit_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27490",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1834,9 +1799,11 @@
     "filename": "20260808_Suunnistuslukio_40_vuotta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27663",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
