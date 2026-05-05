@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-05-04",
-    "name": "** Uudenmaan Kompassi-cup 2. osakilpailu (lähikilpailu)",
-    "location": "Espoon Suunta",
-    "area": "Uusimaa",
-    "filename": "20260504__Uudenmaan_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27668",
-    "deadline": "29.4.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-05",
     "name": "** Kainuun Kompassi-cup 1. osakilpailu",
     "location": "Kuhmon Peurat",
@@ -311,10 +295,10 @@
   },
   {
     "date": "2026-05-16",
-    "name": "Karhurastit 2026",
+    "name": "** Karhurastit 2026",
     "location": "Rastikarhut",
     "area": "Satakunta",
-    "filename": "20260516_Karhurastit_2026.ics",
+    "filename": "20260516__Karhurastit_2026.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27445",
     "deadline": "10.5.2026",
     "matka": "Keskimatka",
@@ -426,10 +410,10 @@
   },
   {
     "date": "2026-05-19",
-    "name": "Nylands ungdomsserietävling US2/Nuorisosarjakilpailu 2",
+    "name": "** Nylands ungdomsserietävling US2/Nuorisosarjakilpailu 2",
     "location": "IF Sibbo-Vargarna",
     "area": "FSO",
-    "filename": "20260519_Nylands_ungdomsserietävling_US2Nuorisosarjakilpailu_2.ics",
+    "filename": "20260519__Nylands_ungdomsserietävling_US2Nuorisosarjakilpailu_2.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27678",
     "deadline": "17.5.2026",
     "matka": "Keskimatka",
@@ -803,9 +787,11 @@
     "filename": "20260606_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27502",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },

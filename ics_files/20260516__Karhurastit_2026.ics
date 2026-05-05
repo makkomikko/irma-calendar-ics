@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Karhurastit 2026
+SUMMARY:** Karhurastit 2026
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DTSTAMP:20260504T052743Z
+DTSTAMP:20260505T045602Z
 UID:irma-27445-20260516@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rastikarhut
 LOCATION:Satakunta (Rastikarhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27445
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Karhurastit 2026
+DESCRIPTION:Ilmoittautuminen päättyy: ** Karhurastit 2026
 TRIGGER:20260509T090000Z
 END:VALARM
 END:VEVENT
