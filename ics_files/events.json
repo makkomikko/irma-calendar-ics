@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-05-05",
-    "name": "** Kainuun Kompassi-cup 1. osakilpailu",
-    "location": "Kuhmon Peurat",
-    "area": "Kainuu",
-    "filename": "20260505__Kainuun_Kompassi-cup_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27642",
-    "deadline": "1.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-05",
-    "name": "** Varsinais-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)",
-    "location": "Paimion Rasti",
-    "area": "Varsinais-Suomi",
-    "filename": "20260505__Varsinais-Suomen_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27682",
-    "deadline": "3.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-06",
     "name": "Keski-Suomen am-sprintti",
     "location": "Muuramen Rasti",
@@ -393,13 +361,29 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-05-18",
+    "name": "Kymenlaakson Kompassi-cup 1. osakilpailu",
+    "location": "Kouvolan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20260518_Kymenlaakson_Kompassi-cup_1_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27701",
+    "deadline": "11.5.2026",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-05-19",
     "name": "Uudenmaan Kompassi-viesti 1",
     "location": "Lynx",
     "area": "Uusimaa",
     "filename": "20260519_Uudenmaan_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27658",
-    "deadline": "",
+    "deadline": "12.5.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -431,7 +415,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260520__Etelä-Pohjanmaan_Kompassi-cup.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27662",
-    "deadline": "",
+    "deadline": "14.5.2026",
     "matka": "",
     "cancelled": false,
     "categories": [],
@@ -456,10 +440,10 @@
   },
   {
     "date": "2026-05-23",
-    "name": "59. Sisä-Suomen Rastipäivät",
+    "name": "** 59. Sisä-Suomen Rastipäivät",
     "location": "Saarijärven Pullistus",
     "area": "Keski-Suomi",
-    "filename": "20260523_59_Sisä-Suomen_Rastipäivät.ics",
+    "filename": "20260523__59_Sisä-Suomen_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27415",
     "deadline": "20.5.2026",
     "matka": "Keskimatka",
@@ -569,10 +553,10 @@
   },
   {
     "date": "2026-05-24",
-    "name": "59. Sisä-Suomen Rastipäivät",
+    "name": "** 59. Sisä-Suomen Rastipäivät",
     "location": "Saarijärven Pullistus",
     "area": "Keski-Suomi",
-    "filename": "20260524_59_Sisä-Suomen_Rastipäivät.ics",
+    "filename": "20260524__59_Sisä-Suomen_Rastipäivät.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27416",
     "deadline": "20.5.2026",
     "matka": "Pitkä",
@@ -636,10 +620,10 @@
   },
   {
     "date": "2026-05-25",
-    "name": "Etelä-Pohjanmaan Kompassi-viesti 1",
+    "name": "** Etelä-Pohjanmaan Kompassi-viesti 1",
     "location": "Rasti-Kurikka",
     "area": "Etelä-Pohjanmaa",
-    "filename": "20260525_Etelä-Pohjanmaan_Kompassi-viesti_1.ics",
+    "filename": "20260525__Etelä-Pohjanmaan_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27673",
     "deadline": "20.5.2026",
     "matka": "Keskimatka",
@@ -710,6 +694,22 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Uudenmaan Kompassi-cup 3. osakilpailu (lähikilpailu)",
+    "location": "Rastihaukat",
+    "area": "Uusimaa",
+    "filename": "20260528_Uudenmaan_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27675",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
     ],
     "is_holiday": false,
     "holiday_name": ""

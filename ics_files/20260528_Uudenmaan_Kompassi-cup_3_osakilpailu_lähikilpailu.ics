@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Uudenmaan Kompassi-cup 3. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DTSTAMP:20260506T052250Z
+UID:irma-27675-20260528@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rastihaukat
+LOCATION:Uusimaa (Rastihaukat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27675
+END:VEVENT
+END:VCALENDAR

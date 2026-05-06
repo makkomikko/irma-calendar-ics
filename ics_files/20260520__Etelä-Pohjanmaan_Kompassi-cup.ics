@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:** Etelä-Pohjanmaan Kompassi-cup
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-DTSTAMP:20260505T045605Z
+DTSTAMP:20260506T052245Z
 UID:irma-27662-20260520@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rasti-Jussit
 LOCATION:Etelä-Pohjanmaa (Rasti-Jussit)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27662
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: ** Etelä-Pohjanmaan Kompassi-cup
+TRIGGER:20260513T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

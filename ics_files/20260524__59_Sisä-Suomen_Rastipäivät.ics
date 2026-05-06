@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:59. Sisä-Suomen Rastipäivät
+SUMMARY:** 59. Sisä-Suomen Rastipäivät
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260505T045605Z
+DTSTAMP:20260506T052245Z
 UID:irma-27416-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Saarijärven Pullistus
 LOCATION:Keski-Suomi (Saarijärven Pullistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27416
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: 59. Sisä-Suomen Rastipäivät
+DESCRIPTION:Ilmoittautuminen päättyy: ** 59. Sisä-Suomen Rastipäivät
 TRIGGER:20260519T090000Z
 END:VALARM
 END:VEVENT
