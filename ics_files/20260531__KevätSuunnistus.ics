@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:KevätSuunnistus
+SUMMARY:** KevätSuunnistus
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-DTSTAMP:20260506T052250Z
+DTSTAMP:20260507T052504Z
 UID:irma-27483-20260531@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kouvolan Suunnistajat
 LOCATION:Kaakko (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27483
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: KevätSuunnistus
+DESCRIPTION:Ilmoittautuminen päättyy: ** KevätSuunnistus
 TRIGGER:20260524T090000Z
 END:VALARM
 END:VEVENT

@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Ice Power -rastit
+SUMMARY:** Ice Power -rastit
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260506T052245Z
+DTSTAMP:20260507T052457Z
 UID:irma-27412-20260524@suunnistusliitto.fi
 DESCRIPTION:Organizer: Tampereen Pyrintö
 LOCATION:Häme (Tampereen Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27412
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Ice Power -rastit
+DESCRIPTION:Ilmoittautuminen päättyy: ** Ice Power -rastit
 TRIGGER:20260517T090000Z
 END:VALARM
 END:VEVENT

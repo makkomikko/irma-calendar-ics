@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-05-06",
-    "name": "Keski-Suomen am-sprintti",
-    "location": "Muuramen Rasti",
-    "area": "Keski-Suomi",
-    "filename": "20260506_Keski-Suomen_am-sprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27635",
-    "deadline": "27.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-10",
     "name": "SM-sprintti (WRE)",
     "location": "SK Uusi Tuusulan Voima-Veikot",
@@ -378,10 +361,10 @@
   },
   {
     "date": "2026-05-19",
-    "name": "Uudenmaan Kompassi-viesti 1",
+    "name": "** Uudenmaan Kompassi-viesti 1",
     "location": "Lynx",
     "area": "Uusimaa",
-    "filename": "20260519_Uudenmaan_Kompassi-viesti_1.ics",
+    "filename": "20260519__Uudenmaan_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27658",
     "deadline": "12.5.2026",
     "matka": "",
@@ -424,10 +407,10 @@
   },
   {
     "date": "2026-05-23",
-    "name": "Ice Power -rastit, Hämeen Kompassi-cup 2. osakilpailu",
+    "name": "** Ice Power -rastit, Hämeen Kompassi-cup 2. osakilpailu",
     "location": "Tampereen Pyrintö",
     "area": "Häme",
-    "filename": "20260523_Ice_Power_-rastit_Hämeen_Kompassi-cup_2_osakilpailu.ics",
+    "filename": "20260523__Ice_Power_-rastit_Hämeen_Kompassi-cup_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27411",
     "deadline": "18.5.2026",
     "matka": "Keskimatka",
@@ -537,10 +520,10 @@
   },
   {
     "date": "2026-05-24",
-    "name": "Ice Power -rastit",
+    "name": "** Ice Power -rastit",
     "location": "Tampereen Pyrintö",
     "area": "Häme",
-    "filename": "20260524_Ice_Power_-rastit.ics",
+    "filename": "20260524__Ice_Power_-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27412",
     "deadline": "18.5.2026",
     "matka": "Pitkä",
@@ -716,10 +699,10 @@
   },
   {
     "date": "2026-05-31",
-    "name": "KevätSuunnistus",
+    "name": "** KevätSuunnistus",
     "location": "Kouvolan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20260531_KevätSuunnistus.ics",
+    "filename": "20260531__KevätSuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27483",
     "deadline": "25.5.2026",
     "matka": "Pitkä",
@@ -947,7 +930,7 @@
     "area": "Keski-Suomi",
     "filename": "20260617_Keski-Suomen_Kompassi-cup_3.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27680",
-    "deadline": "",
+    "deadline": "11.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -963,7 +946,7 @@
     "area": "Keski-Suomi",
     "filename": "20260617_Keski-Suomen_Kompassi-viesti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27691",
-    "deadline": "",
+    "deadline": "11.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

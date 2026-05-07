@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Keski-Suomen Kompassi-viesti (lähikilpailu)
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260506T052301Z
+DTSTAMP:20260507T052517Z
 UID:irma-27691-20260617@suunnistusliitto.fi
 DESCRIPTION:Organizer: Itä-Päijänteen Rasti
 LOCATION:Keski-Suomi (Itä-Päijänteen Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27691
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Keski-Suomen Kompassi-viesti (läh
+ ikilpailu)
+TRIGGER:20260610T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
