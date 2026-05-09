@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Uudenmaan Kompassi-cup 3. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-DTSTAMP:20260508T044915Z
+DTSTAMP:20260509T051603Z
 UID:irma-27675-20260528@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rastihaukat
 LOCATION:Uusimaa (Rastihaukat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27675
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Uudenmaan Kompassi-cup 3. osakilpa
+ ilu (lähikilpailu)
+TRIGGER:20260524T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

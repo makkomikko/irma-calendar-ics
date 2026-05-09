@@ -329,10 +329,10 @@
   },
   {
     "date": "2026-05-17",
-    "name": "Kolmen maakunnanraja-rastit, Pitäjänmäki",
+    "name": "** Kolmen maakunnanraja-rastit, Pitäjänmäki",
     "location": "RasTiimi",
     "area": "Keski-Pohjanmaa",
-    "filename": "20260517_Kolmen_maakunnanraja-rastit_Pitäjänmäki.ics",
+    "filename": "20260517__Kolmen_maakunnanraja-rastit_Pitäjänmäki.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27526",
     "deadline": "12.5.2026",
     "matka": "Keskimatka",
@@ -688,7 +688,7 @@
     "area": "Uusimaa",
     "filename": "20260528_Uudenmaan_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27675",
-    "deadline": "",
+    "deadline": "25.5.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -1059,7 +1059,7 @@
     "area": "Uusimaa",
     "filename": "20260627_Karjaa_-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27363",
-    "deadline": "",
+    "deadline": "22.6.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
