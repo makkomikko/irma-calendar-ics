@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-05-10",
-    "name": "SM-sprintti (WRE)",
-    "location": "SK Uusi Tuusulan Voima-Veikot",
-    "area": "Tuntematon Alue",
-    "filename": "20260510_SM-sprintti_WRE.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26666",
-    "deadline": "30.4.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-12",
     "name": "** Varsinais-Suomen Kompassi-cup 2. osakilpailu",
     "location": "Angelniemen Ankkuri",
@@ -656,6 +639,22 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260527_Ateno-yhteislähtö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27602",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Päijät-Hämeen Kompassi-cup 2. osakilpailu",
+    "location": "Nastolan Terä",
+    "area": "Päijät-Häme",
+    "filename": "20260527_Päijät-Hämeen_Kompassi-cup_2_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27692",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,
