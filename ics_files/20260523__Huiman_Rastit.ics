@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Huiman Rastit
+SUMMARY:** Huiman Rastit
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-DTSTAMP:20260511T055246Z
+DTSTAMP:20260512T053254Z
 UID:irma-27555-20260523@suunnistusliitto.fi
 DESCRIPTION:Organizer: Oulaisten Huima
 LOCATION:Pohjois-Pohjanmaa (Oulaisten Huima)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27555
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Huiman Rastit
+DESCRIPTION:Ilmoittautuminen päättyy: ** Huiman Rastit
 TRIGGER:20260517T090000Z
 END:VALARM
 END:VEVENT
