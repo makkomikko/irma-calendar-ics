@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "name": "** Varsinais-Suomen Kompassi-cup 2. osakilpailu",
-    "location": "Angelniemen Ankkuri",
-    "area": "Varsinais-Suomi",
-    "filename": "20260512__Varsinais-Suomen_Kompassi-cup_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27674",
-    "deadline": "8.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-12",
-    "name": "Nylands ungdomsserietävling US 1/Nuorisosarjakilpailu 1",
-    "location": "OK 77",
-    "area": "FSO",
-    "filename": "20260512_Nylands_ungdomsserietävling_US_1Nuorisosarjakilpailu_1.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27688",
-    "deadline": "10.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-13",
     "name": "** Päijät-Hämeen Kompassi-cup 1. osakilpailu",
     "location": "Lahden Suunnistajat-37",
@@ -618,10 +586,10 @@
   },
   {
     "date": "2026-05-26",
-    "name": "Varsinais-Suomen Kompassi-cup 3. osakilpailu (lähikilpailu)",
+    "name": "** Varsinais-Suomen Kompassi-cup 3. osakilpailu (lähikilpailu)",
     "location": "Pargas IF",
     "area": "FSO",
-    "filename": "20260526_Varsinais-Suomen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
+    "filename": "20260526__Varsinais-Suomen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27647",
     "deadline": "23.5.2026",
     "matka": "Keskimatka",
@@ -876,10 +844,10 @@
   },
   {
     "date": "2026-06-10",
-    "name": "Päijät-Hämeen Kompassi-viesti 1",
+    "name": "Päijät-Hämeen, Kymenlaakson ja Etelä-Savon Kompassi-viesti 1",
     "location": "Hollolan Urheilijat -46",
     "area": "Päijät-Häme",
-    "filename": "20260610_Päijät-Hämeen_Kompassi-viesti_1.ics",
+    "filename": "20260610_Päijät-Hämeen_Kymenlaakson_ja_Etelä-Savon_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27687",
     "deadline": "",
     "matka": "Keskimatka",
@@ -1201,7 +1169,7 @@
     "area": "Lappi",
     "filename": "20260707_Fin5-suunnistusviikko_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27198",
-    "deadline": "",
+    "deadline": "1.11.2025",
     "matka": "",
     "cancelled": false,
     "categories": [],
@@ -2352,10 +2320,10 @@
   },
   {
     "date": "2026-08-30",
-    "name": "Nuijamies-rastit, am-keskimatka",
+    "name": "Nuijamies-rastit, avoin Pohjois-Pohjanmaan am-keskimatka",
     "location": "Ylikiimingin Nuijamiehet",
     "area": "Pohjois-Pohjanmaa",
-    "filename": "20260830_Nuijamies-rastit_am-keskimatka.ics",
+    "filename": "20260830_Nuijamies-rastit_avoin_Pohjois-Pohjanmaan_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27596",
     "deadline": "",
     "matka": "Keskimatka",
