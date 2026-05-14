@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-05-13",
-    "name": "** Päijät-Hämeen Kompassi-cup 1. osakilpailu",
-    "location": "Lahden Suunnistajat-37",
-    "area": "Päijät-Häme",
-    "filename": "20260513__Päijät-Hämeen_Kompassi-cup_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27683",
-    "deadline": "11.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-14",
     "name": "** Kisakallio-rastit (WRE)",
     "location": "Hiidenkiertäjät",
@@ -618,10 +602,10 @@
   },
   {
     "date": "2026-05-27",
-    "name": "Päijät-Hämeen Kompassi-cup 2. osakilpailu",
+    "name": "** Päijät-Hämeen Kompassi-cup 2. osakilpailu",
     "location": "Nastolan Terä",
     "area": "Päijät-Häme",
-    "filename": "20260527_Päijät-Hämeen_Kompassi-cup_2_osakilpailu.ics",
+    "filename": "20260527__Päijät-Hämeen_Kompassi-cup_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27692",
     "deadline": "25.5.2026",
     "matka": "Keskimatka",
@@ -715,10 +699,10 @@
   },
   {
     "date": "2026-06-06",
-    "name": "Helsinki O-Games",
+    "name": "** Helsinki O-Games",
     "location": "Helsingin Suunnistajat",
     "area": "Uusimaa",
-    "filename": "20260606_Helsinki_O-Games.ics",
+    "filename": "20260606__Helsinki_O-Games.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27367",
     "deadline": "31.5.2026",
     "matka": "Keskimatka",
@@ -747,10 +731,10 @@
   },
   {
     "date": "2026-06-07",
-    "name": "Helsinki O-Games (WRE)",
+    "name": "** Helsinki O-Games (WRE)",
     "location": "Helsingin Suunnistajat",
     "area": "Uusimaa",
-    "filename": "20260607_Helsinki_O-Games_WRE.ics",
+    "filename": "20260607__Helsinki_O-Games_WRE.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27368",
     "deadline": "31.5.2026",
     "matka": "Pitkä",
@@ -779,10 +763,10 @@
   },
   {
     "date": "2026-06-07",
-    "name": "Lapin am-keskimatka (avoin)",
+    "name": "** Lapin am-keskimatka (avoin)",
     "location": "Alatornion Pirkat",
     "area": "Lappi",
-    "filename": "20260607_Lapin_am-keskimatka_avoin.ics",
+    "filename": "20260607__Lapin_am-keskimatka_avoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27551",
     "deadline": "1.6.2026",
     "matka": "Keskimatka",
@@ -822,6 +806,22 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-08",
+    "name": "Varsinais-Suomen Kompassi-viesti",
+    "location": "Turun Suunnistajat",
+    "area": "Varsinais-Suomi",
+    "filename": "20260608_Varsinais-Suomen_Kompassi-viesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27708",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -930,6 +930,22 @@
     "filename": "20260618_Kukkosuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27474",
     "deadline": "15.6.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-18",
+    "name": "Etelä-Pohjanmaan Kompassi-cup 3. osakilpailu (lähikilpailu)",
+    "location": "Suunta Jurva",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20260618_Etelä-Pohjanmaan_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27702",
+    "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

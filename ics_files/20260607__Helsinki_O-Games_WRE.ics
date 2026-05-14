@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Helsinki O-Games (WRE)
+SUMMARY:** Helsinki O-Games (WRE)
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-DTSTAMP:20260513T054231Z
+DTSTAMP:20260514T054140Z
 UID:irma-27368-20260607@suunnistusliitto.fi
 DESCRIPTION:Organizer: Helsingin Suunnistajat
 LOCATION:Uusimaa (Helsingin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27368
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Helsinki O-Games (WRE)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Helsinki O-Games (WRE)
 TRIGGER:20260530T090000Z
 END:VALARM
 END:VEVENT

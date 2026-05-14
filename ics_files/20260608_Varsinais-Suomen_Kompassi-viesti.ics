@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Varsinais-Suomen Kompassi-viesti
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+DTSTAMP:20260514T054144Z
+UID:irma-27708-20260608@suunnistusliitto.fi
+DESCRIPTION:Organizer: Turun Suunnistajat
+LOCATION:Varsinais-Suomi (Turun Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27708
+END:VEVENT
+END:VCALENDAR

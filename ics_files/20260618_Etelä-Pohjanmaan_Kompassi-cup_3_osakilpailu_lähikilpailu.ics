@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Etelä-Pohjanmaan Kompassi-cup 3. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+DTSTAMP:20260514T054153Z
+UID:irma-27702-20260618@suunnistusliitto.fi
+DESCRIPTION:Organizer: Suunta Jurva
+LOCATION:Etelä-Pohjanmaa (Suunta Jurva)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27702
+END:VEVENT
+END:VCALENDAR
