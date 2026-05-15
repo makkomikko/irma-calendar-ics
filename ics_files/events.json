@@ -1,136 +1,5 @@
 [
   {
-    "date": "2026-05-14",
-    "name": "** Kisakallio-rastit (WRE)",
-    "location": "Hiidenkiertäjät",
-    "area": "Uusimaa",
-    "filename": "20260514__Kisakallio-rastit_WRE.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27349",
-    "deadline": "7.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "** Eukkorastit, avoin Kaakon am-keskimatka",
-    "location": "SK Vuoksi",
-    "area": "Kaakko",
-    "filename": "20260514__Eukkorastit_avoin_Kaakon_am-keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27448",
-    "deadline": "10.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "Helakisa",
-    "location": "Kyrös-Rasti",
-    "area": "Häme",
-    "filename": "20260514_Helakisa.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27462",
-    "deadline": "10.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "** Öppna långa ÖIDM / Avoin ÖID am-pitkä",
-    "location": "IF Femman",
-    "area": "FSO",
-    "filename": "20260514__Öppna_långa_ÖIDM__Avoin_ÖID_am-pitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27469",
-    "deadline": "11.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "Hela-rastit, aamupäivä",
-    "location": "Perämeren Rasti",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260514_Hela-rastit_aamupäivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27625",
-    "deadline": "8.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "Hela-rastit, iltapäivä",
-    "location": "Perämeren Rasti",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260514_Hela-rastit_iltapäivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27626",
-    "deadline": "8.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "** Keski-Suomen Kompassi-cup 1",
-    "location": "Jämsän Retki-Veikot",
-    "area": "Keski-Suomi",
-    "filename": "20260514__Keski-Suomen_Kompassi-cup_1.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27630",
-    "deadline": "10.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
-    "date": "2026-05-14",
-    "name": "** Kaakon am-viestit",
-    "location": "SK Vuoksi",
-    "area": "Kaakko",
-    "filename": "20260514__Kaakon_am-viestit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27632",
-    "deadline": "10.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Ascension Day"
-  },
-  {
     "date": "2026-05-16",
     "name": "SM-Knock-Out -sprintti (WRE)",
     "location": "SK Pohjantähti",
@@ -720,7 +589,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260606_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27502",
-    "deadline": "",
+    "deadline": "1.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -752,7 +621,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260607_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27503",
-    "deadline": "",
+    "deadline": "1.6.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -833,7 +702,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260609_Kuulan_pariviesti_Samuli_Törmälän_muistokilpailu_Keski-Pohjanmaan_Kompassi-viesti_1_Samuli_Törmälän_muistokilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27558",
-    "deadline": "",
+    "deadline": "4.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1735,7 +1604,7 @@
     "filename": "20260808_VetUn_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27565",
     "deadline": "",
-    "matka": "Keskimatka",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Keskimatka"
