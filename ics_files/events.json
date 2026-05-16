@@ -492,7 +492,7 @@
     "area": "Kaakko",
     "filename": "20260527_Etelä-Karjalan_Kompassi-cup_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27700",
-    "deadline": "",
+    "deadline": "24.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -686,7 +686,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260608_Varsinais-Suomen_Kompassi-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27708",
-    "deadline": "",
+    "deadline": "4.6.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -1604,7 +1604,7 @@
     "filename": "20260808_VetUn_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27565",
     "deadline": "",
-    "matka": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Keskimatka"
@@ -1715,7 +1715,7 @@
     "area": "FSO",
     "filename": "20260814_Öppna_långa_ÅM__ÅSW.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27641",
-    "deadline": "",
+    "deadline": "7.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [

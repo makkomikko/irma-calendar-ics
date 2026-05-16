@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Varsinais-Suomen Kompassi-viesti
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-DTSTAMP:20260515T054809Z
+DTSTAMP:20260516T052133Z
 UID:irma-27708-20260608@suunnistusliitto.fi
 DESCRIPTION:Organizer: Turun Suunnistajat
 LOCATION:Varsinais-Suomi (Turun Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27708
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen Kompassi-viesti
+TRIGGER:20260603T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
