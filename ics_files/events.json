@@ -1,86 +1,5 @@
 [
   {
-    "date": "2026-05-16",
-    "name": "SM-Knock-Out -sprintti (WRE)",
-    "location": "SK Pohjantähti",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260516_SM-Knock-Out_-sprintti_WRE.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27231",
-    "deadline": "6.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-16",
-    "name": "** Karkki-Rastin 40-vuotisjuhlakilpailu",
-    "location": "Karkki-Rasti",
-    "area": "Uusimaa",
-    "filename": "20260516__Karkki-Rastin_40-vuotisjuhlakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27386",
-    "deadline": "11.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-16",
-    "name": "** XXVII Särkänniemi-suunnistus",
-    "location": "Koovee",
-    "area": "Häme",
-    "filename": "20260516__XXVII_Särkänniemi-suunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27408",
-    "deadline": "10.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-16",
-    "name": "** Karhurastit 2026",
-    "location": "Rastikarhut",
-    "area": "Satakunta",
-    "filename": "20260516__Karhurastit_2026.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27445",
-    "deadline": "10.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-16",
-    "name": "** Kevätkansallinen ja Keski-Pohjanmaan Kompassi-cupin 2. osakilpailu",
-    "location": "Kaustisen Pohjan-Veikot",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20260516__Kevätkansallinen_ja_Keski-Pohjanmaan_Kompassi-cupin_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27517",
-    "deadline": "11.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-17",
     "name": "SM-sprinttiviesti",
     "location": "SK Pohjantähti",
@@ -460,7 +379,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260527_Ateno-yhteislähtö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27602",
-    "deadline": "",
+    "deadline": "24.5.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1561,6 +1480,20 @@
     "categories": [
       "Sprintti"
     ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-06",
+    "name": "Sevetin Rastipäivä",
+    "location": "Holvastin Tana",
+    "area": "Tuntematon Alue",
+    "filename": "20260806_Sevetin_Rastipäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27704",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Sevetin Rastipäivä
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+DTSTAMP:20260517T054303Z
+UID:irma-27704-20260806@suunnistusliitto.fi
+DESCRIPTION:Organizer: Holvastin Tana
+LOCATION:Tuntematon Alue (Holvastin Tana)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27704
+END:VEVENT
+END:VCALENDAR
