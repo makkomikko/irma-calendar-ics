@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-05-18",
-    "name": "Kymenlaakson Kompassi-cup 1. osakilpailu",
-    "location": "Kouvolan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260518_Kymenlaakson_Kompassi-cup_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27701",
-    "deadline": "11.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-19",
     "name": "** Uudenmaan Kompassi-viesti 1",
     "location": "Lynx",
