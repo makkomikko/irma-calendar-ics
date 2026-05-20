@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-05-19",
-    "name": "** Uudenmaan Kompassi-viesti 1",
-    "location": "Lynx",
-    "area": "Uusimaa",
-    "filename": "20260519__Uudenmaan_Kompassi-viesti_1.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27658",
-    "deadline": "12.5.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-19",
-    "name": "** Nylands ungdomsserietävling US2/Nuorisosarjakilpailu 2",
-    "location": "IF Sibbo-Vargarna",
-    "area": "FSO",
-    "filename": "20260519__Nylands_ungdomsserietävling_US2Nuorisosarjakilpailu_2.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27678",
-    "deadline": "17.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-20",
     "name": "** Etelä-Pohjanmaan Kompassi-cup",
     "location": "Rasti-Jussit",
@@ -698,7 +666,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260624_Am-partioavoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27633",
-    "deadline": "",
+    "deadline": "20.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
