@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-05-20",
-    "name": "** Etelä-Pohjanmaan Kompassi-cup",
-    "location": "Rasti-Jussit",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260520__Etelä-Pohjanmaan_Kompassi-cup.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27662",
-    "deadline": "14.5.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-23",
     "name": "** Ice Power -rastit, Hämeen Kompassi-cup 2. osakilpailu",
     "location": "Tampereen Pyrintö",
@@ -522,8 +508,8 @@
     "area": "Päijät-Häme",
     "filename": "20260610_Päijät-Hämeen_Kymenlaakson_ja_Etelä-Savon_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27687",
-    "deadline": "",
-    "matka": "Keskimatka",
+    "deadline": "7.6.2026",
+    "matka": "Tarkkuus/normaali",
     "cancelled": false,
     "categories": [
       "Viesti"
