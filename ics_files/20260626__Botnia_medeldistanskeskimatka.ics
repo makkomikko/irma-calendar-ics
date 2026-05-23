@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Botnia medeldistans/keskimatka
+SUMMARY:** Botnia medeldistans/keskimatka
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-DTSTAMP:20260522T055937Z
+DTSTAMP:20260523T053407Z
 UID:irma-27506-20260626@suunnistusliitto.fi
 DESCRIPTION:Organizer: OK Botnia
 LOCATION:FSO (OK Botnia)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27506
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Botnia medeldistans/keskimatka
+DESCRIPTION:Ilmoittautuminen päättyy: ** Botnia medeldistans/keskimatka
 TRIGGER:20260621T090000Z
 END:VALARM
 END:VEVENT

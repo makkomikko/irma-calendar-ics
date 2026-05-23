@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Keski-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)
+SUMMARY:** Keski-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-DTSTAMP:20260522T055928Z
+DTSTAMP:20260523T053402Z
 UID:irma-27690-20260608@suunnistusliitto.fi
 DESCRIPTION:Organizer: Suunta Jyväskylä
 LOCATION:Keski-Suomi (Suunta Jyväskylä)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27690
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Keski-Suomen Kompassi-cup 2. osaki
- lpailu (lähikilpailu)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Keski-Suomen Kompassi-cup 2. os
+ akilpailu (lähikilpailu)
 TRIGGER:20260604T090000Z
 END:VALARM
 END:VEVENT
