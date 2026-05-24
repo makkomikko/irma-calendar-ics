@@ -1,102 +1,5 @@
 [
   {
-    "date": "2026-05-23",
-    "name": "** Ice Power -rastit, Hämeen Kompassi-cup 2. osakilpailu",
-    "location": "Tampereen Pyrintö",
-    "area": "Häme",
-    "filename": "20260523__Ice_Power_-rastit_Hämeen_Kompassi-cup_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27411",
-    "deadline": "18.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-23",
-    "name": "** 59. Sisä-Suomen Rastipäivät",
-    "location": "Saarijärven Pullistus",
-    "area": "Keski-Suomi",
-    "filename": "20260523__59_Sisä-Suomen_Rastipäivät.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27415",
-    "deadline": "20.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-23",
-    "name": "53. Uudenmaan Rastipäivät",
-    "location": "Rajamäen Rykmentti",
-    "area": "Uusimaa",
-    "filename": "20260523_53_Uudenmaan_Rastipäivät.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27426",
-    "deadline": "18.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-23",
-    "name": "** Avoin E-P am-keskimatka",
-    "location": "Vaasan Suunnistajat",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260523__Avoin_E-P_am-keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27513",
-    "deadline": "18.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-23",
-    "name": "** Huiman Rastit",
-    "location": "Oulaisten Huima",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260523__Huiman_Rastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27555",
-    "deadline": "18.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-23",
-    "name": "** Kansalinen keskimatka",
-    "location": "Kalevan Rasti",
-    "area": "Savo-Karjala",
-    "filename": "20260523__Kansalinen_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27556",
-    "deadline": "18.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-24",
     "name": "** Luumäki-rastit",
     "location": "Luumäen Rasti",
@@ -1439,7 +1342,7 @@
     "area": "Kaakko",
     "filename": "20260809_Rakas-rastit_aamupäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27360",
-    "deadline": "",
+    "deadline": "3.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1455,7 +1358,7 @@
     "area": "Kaakko",
     "filename": "20260809_Rakas-rastit_iltapäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27361",
-    "deadline": "",
+    "deadline": "3.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
