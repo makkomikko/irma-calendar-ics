@@ -1,104 +1,5 @@
 [
   {
-    "date": "2026-05-24",
-    "name": "** Luumäki-rastit",
-    "location": "Luumäen Rasti",
-    "area": "Kaakko",
-    "filename": "20260524__Luumäki-rastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27405",
-    "deadline": "18.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Whit Sunday"
-  },
-  {
-    "date": "2026-05-24",
-    "name": "** Ice Power -rastit",
-    "location": "Tampereen Pyrintö",
-    "area": "Häme",
-    "filename": "20260524__Ice_Power_-rastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27412",
-    "deadline": "18.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Whit Sunday"
-  },
-  {
-    "date": "2026-05-24",
-    "name": "** 59. Sisä-Suomen Rastipäivät",
-    "location": "Saarijärven Pullistus",
-    "area": "Keski-Suomi",
-    "filename": "20260524__59_Sisä-Suomen_Rastipäivät.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27416",
-    "deadline": "20.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Whit Sunday"
-  },
-  {
-    "date": "2026-05-24",
-    "name": "53. Uudenmaan Rastipäivät ja Uudenmaan am-pitkä",
-    "location": "Rajamäen Rykmentti",
-    "area": "Uusimaa",
-    "filename": "20260524_53_Uudenmaan_Rastipäivät_ja_Uudenmaan_am-pitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27427",
-    "deadline": "18.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Whit Sunday"
-  },
-  {
-    "date": "2026-05-24",
-    "name": "** Kainuun avoin am-keskimatka Kajaani",
-    "location": "Kajaanin Suunnistajat",
-    "area": "Kainuu",
-    "filename": "20260524__Kainuun_avoin_am-keskimatka_Kajaani.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27573",
-    "deadline": "17.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Whit Sunday"
-  },
-  {
-    "date": "2026-05-24",
-    "name": "EP:n avoin am-erikoispitkä",
-    "location": "Kauhajoen Karhu",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260524_EPn_avoin_am-erikoispitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27582",
-    "deadline": "17.5.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä",
-      "AM/FSOM"
-    ],
-    "is_holiday": true,
-    "holiday_name": "Whit Sunday"
-  },
-  {
     "date": "2026-05-25",
     "name": "** Etelä-Pohjanmaan Kompassi-viesti 1",
     "location": "Rasti-Kurikka",
@@ -374,6 +275,20 @@
   },
   {
     "date": "2026-06-08",
+    "name": "Kaakon Kompassi-cup 2. osakilpailu",
+    "location": "Lappeen Riento",
+    "area": "Kaakko",
+    "filename": "20260608_Kaakon_Kompassi-cup_2_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27699",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-08",
     "name": "Varsinais-Suomen Kompassi-viesti",
     "location": "Turun Suunnistajat",
     "area": "Varsinais-Suomi",
@@ -528,6 +443,22 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-06-23",
+    "name": "Hämeen Kompassi-viesti 1",
+    "location": "Pälkäneen Luja-Lukko",
+    "area": "Häme",
+    "filename": "20260623_Hämeen_Kompassi-viesti_1.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27707",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1400,6 +1331,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-11",
+    "name": "Hämeen Kompassi-Cup 4. osakilpailu (lähikilpailu)",
+    "location": "Kangasala SK",
+    "area": "Häme",
+    "filename": "20260811_Hämeen_Kompassi-Cup_4_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27677",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-12",
     "name": "Jalasjärven keskimatka",
     "location": "Jalasjärven Jalas",
@@ -1741,10 +1688,10 @@
     "filename": "20260823_Junioriliigan_finaali_ja_valtakunnallinen_Kompassi-tapahtuma.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26316",
     "deadline": "",
-    "matka": "Pitkä",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
-      "Pitkä"
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -2311,6 +2258,22 @@
     "area": "Uusimaa",
     "filename": "20261002_Kissojen_yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27659",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Yö"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-10-02",
+    "name": "Seikkailujen yö (lähikilpailu)",
+    "location": "Kangasala SK",
+    "area": "Häme",
+    "filename": "20261002_Seikkailujen_yö_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27686",
     "deadline": "",
     "matka": "",
     "cancelled": false,

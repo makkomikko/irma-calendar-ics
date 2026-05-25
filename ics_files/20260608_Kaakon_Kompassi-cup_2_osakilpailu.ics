@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kaakon Kompassi-cup 2. osakilpailu
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+DTSTAMP:20260525T061900Z
+UID:irma-27699-20260608@suunnistusliitto.fi
+DESCRIPTION:Organizer: Lappeen Riento
+LOCATION:Kaakko (Lappeen Riento)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27699
+END:VEVENT
+END:VCALENDAR

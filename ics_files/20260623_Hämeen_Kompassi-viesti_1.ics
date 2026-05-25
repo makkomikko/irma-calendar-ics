@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Hämeen Kompassi-viesti 1
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+DTSTAMP:20260525T061904Z
+UID:irma-27707-20260623@suunnistusliitto.fi
+DESCRIPTION:Organizer: Pälkäneen Luja-Lukko
+LOCATION:Häme (Pälkäneen Luja-Lukko)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27707
+END:VEVENT
+END:VCALENDAR
