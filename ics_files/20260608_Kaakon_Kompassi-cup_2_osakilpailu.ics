@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Kaakon Kompassi-cup 2. osakilpailu
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-DTSTAMP:20260525T061900Z
+DTSTAMP:20260526T055942Z
 UID:irma-27699-20260608@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lappeen Riento
 LOCATION:Kaakko (Lappeen Riento)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27699
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kaakon Kompassi-cup 2. osakilpailu
+TRIGGER:20260605T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

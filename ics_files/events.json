@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-05-25",
-    "name": "** Etelä-Pohjanmaan Kompassi-viesti 1",
-    "location": "Rasti-Kurikka",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260525__Etelä-Pohjanmaan_Kompassi-viesti_1.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27673",
-    "deadline": "20.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-26",
     "name": "Salon Seudun Rastiviesti",
     "location": "Someron Esa",
@@ -280,7 +264,7 @@
     "area": "Kaakko",
     "filename": "20260608_Kaakon_Kompassi-cup_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27699",
-    "deadline": "",
+    "deadline": "6.6.2026",
     "matka": "",
     "cancelled": false,
     "categories": [],
