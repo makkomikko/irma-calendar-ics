@@ -2,18 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Päijät-Hämeen\, Kymenlaakson ja Etelä-Savon Kompassi-viesti 1
+SUMMARY:** Päijät-Hämeen\, Kymenlaakson ja Etelä-Savon Kompassi-viesti
+  1
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-DTSTAMP:20260526T055942Z
+DTSTAMP:20260527T061107Z
 UID:irma-27687-20260610@suunnistusliitto.fi
 DESCRIPTION:Organizer: Hollolan Urheilijat -46
 LOCATION:Päijät-Häme (Hollolan Urheilijat -46)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27687
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Päijät-Hämeen\, Kymenlaakson ja
-  Etelä-Savon Kompassi-viesti 1
+DESCRIPTION:Ilmoittautuminen päättyy: ** Päijät-Hämeen\, Kymenlaakson
+  ja Etelä-Savon Kompassi-viesti 1
 TRIGGER:20260606T090000Z
 END:VALARM
 END:VEVENT

@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-05-26",
-    "name": "Salon Seudun Rastiviesti",
-    "location": "Someron Esa",
-    "area": "Varsinais-Suomi",
-    "filename": "20260526_Salon_Seudun_Rastiviesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27645",
-    "deadline": "19.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-26",
-    "name": "** Varsinais-Suomen Kompassi-cup 3. osakilpailu (lähikilpailu)",
-    "location": "Pargas IF",
-    "area": "FSO",
-    "filename": "20260526__Varsinais-Suomen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27647",
-    "deadline": "23.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-27",
     "name": "Ateno-yhteislähtö",
     "location": "Kortesjärven Järvi-Veikot",
@@ -273,10 +241,10 @@
   },
   {
     "date": "2026-06-08",
-    "name": "Varsinais-Suomen Kompassi-viesti",
+    "name": "** Varsinais-Suomen Kompassi-viesti",
     "location": "Turun Suunnistajat",
     "area": "Varsinais-Suomi",
-    "filename": "20260608_Varsinais-Suomen_Kompassi-viesti.ics",
+    "filename": "20260608__Varsinais-Suomen_Kompassi-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27708",
     "deadline": "4.6.2026",
     "matka": "",
@@ -305,10 +273,10 @@
   },
   {
     "date": "2026-06-10",
-    "name": "Päijät-Hämeen, Kymenlaakson ja Etelä-Savon Kompassi-viesti 1",
+    "name": "** Päijät-Hämeen, Kymenlaakson ja Etelä-Savon Kompassi-viesti 1",
     "location": "Hollolan Urheilijat -46",
     "area": "Päijät-Häme",
-    "filename": "20260610_Päijät-Hämeen_Kymenlaakson_ja_Etelä-Savon_Kompassi-viesti_1.ics",
+    "filename": "20260610__Päijät-Hämeen_Kymenlaakson_ja_Etelä-Savon_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27687",
     "deadline": "7.6.2026",
     "matka": "Tarkkuus/normaali",
