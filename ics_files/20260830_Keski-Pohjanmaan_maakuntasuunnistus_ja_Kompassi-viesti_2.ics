@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Keski-Pohjanmaan maakuntasuunnistus ja Kompassi-viesti 2
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260527T061236Z
+DTSTAMP:20260528T060430Z
 UID:irma-27544-20260830@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kokkolan Suunnistajat
 LOCATION:Keski-Pohjanmaa (Kokkolan Suunnistajat)
