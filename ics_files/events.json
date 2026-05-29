@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "name": "** Uudenmaan Kompassi-cup 3. osakilpailu (lähikilpailu)",
-    "location": "Rastihaukat",
-    "area": "Uusimaa",
-    "filename": "20260528__Uudenmaan_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27675",
-    "deadline": "25.5.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-05-31",
     "name": "** KevätSuunnistus",
     "location": "Kouvolan Suunnistajat",
