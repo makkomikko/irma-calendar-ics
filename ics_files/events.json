@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-05-31",
-    "name": "** KevätSuunnistus",
-    "location": "Kouvolan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260531__KevätSuunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27483",
-    "deadline": "25.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-05-31",
-    "name": "Kymen Rastiviesti, Viestiliigan 3. osakilpailu",
-    "location": "Kouvolan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260531_Kymen_Rastiviesti_Viestiliigan_3_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27484",
-    "deadline": "25.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "Viestiliiga"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-02",
     "name": "AM erikoispitkä Uusimaa",
     "location": "Leppävaaran Sisu Raisu Lumous",
