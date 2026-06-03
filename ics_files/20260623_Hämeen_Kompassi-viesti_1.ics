@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Hämeen Kompassi-viesti 1
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-DTSTAMP:20260602T062856Z
+DTSTAMP:20260603T064540Z
 UID:irma-27707-20260623@suunnistusliitto.fi
 DESCRIPTION:Organizer: Pälkäneen Luja-Lukko
 LOCATION:Häme (Pälkäneen Luja-Lukko)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27707
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Hämeen Kompassi-viesti 1
+TRIGGER:20260617T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-06-02",
-    "name": "AM erikoispitkä Uusimaa",
-    "location": "Leppävaaran Sisu Raisu Lumous",
-    "area": "Tuntematon Alue",
-    "filename": "20260602_AM_erikoispitkä_Uusimaa.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27679",
-    "deadline": "26.5.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-06",
     "name": "** Helsinki O-Games",
     "location": "Helsingin Suunnistajat",
@@ -309,7 +293,7 @@
     "area": "Häme",
     "filename": "20260623_Hämeen_Kompassi-viesti_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27707",
-    "deadline": "",
+    "deadline": "18.6.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -455,7 +439,7 @@
     "area": "FSO",
     "filename": "20260701_ÖIDs_Ekorrstigfinal.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27583",
-    "deadline": "",
+    "deadline": "26.6.2026",
     "matka": "",
     "cancelled": false,
     "categories": [],
@@ -740,10 +724,10 @@
     "filename": "20260725_Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27409",
     "deadline": "",
-    "matka": "Keskimatka",
+    "matka": "Pitkä",
     "cancelled": false,
     "categories": [
-      "Keskimatka"
+      "Pitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -789,10 +773,10 @@
     "filename": "20260726_Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27410",
     "deadline": "",
-    "matka": "Pitkä",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
-      "Pitkä"
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1574,6 +1558,22 @@
     "area": "FSO",
     "filename": "20260825_Nylands_ungdomsserietävling_US_4Nuorisosarjakilpailu_4.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27689",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-26",
+    "name": "Kaakon Kompassi-cup 4. osakilpailu",
+    "location": "Joutsenon Kullervo",
+    "area": "Kaakko",
+    "filename": "20260826_Kaakon_Kompassi-cup_4_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27671",
     "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,
