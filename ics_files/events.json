@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-06-06",
-    "name": "** Helsinki O-Games",
-    "location": "Helsingin Suunnistajat",
-    "area": "Uusimaa",
-    "filename": "20260606__Helsinki_O-Games.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27367",
-    "deadline": "31.5.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-06",
-    "name": "Nuorten EM- ja MM-katsastus ja kansallinen",
-    "location": "Lapuan Virkiä",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260606_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27502",
-    "deadline": "1.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-07",
     "name": "** Helsinki O-Games (WRE)",
     "location": "Helsingin Suunnistajat",
@@ -480,10 +448,10 @@
   },
   {
     "date": "2026-07-05",
-    "name": "Fin5-suunnistusviikko, 1. osakilpailu",
+    "name": "** Fin5-suunnistusviikko, 1. osakilpailu",
     "location": "Sallan Karhut",
     "area": "Lappi",
-    "filename": "20260705_Fin5-suunnistusviikko_1_osakilpailu.ics",
+    "filename": "20260705__Fin5-suunnistusviikko_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27196",
     "deadline": "1.11.2025",
     "matka": "Pitkä",
@@ -496,10 +464,10 @@
   },
   {
     "date": "2026-07-06",
-    "name": "Fin5-suunnistusviikko, 2. osakilpailu",
+    "name": "** Fin5-suunnistusviikko, 2. osakilpailu",
     "location": "Sallan Karhut",
     "area": "Lappi",
-    "filename": "20260706_Fin5-suunnistusviikko_2_osakilpailu.ics",
+    "filename": "20260706__Fin5-suunnistusviikko_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27197",
     "deadline": "1.11.2025",
     "matka": "Keskimatka",
@@ -512,10 +480,10 @@
   },
   {
     "date": "2026-07-07",
-    "name": "Fin5-suunnistusviikko, 3. osakilpailu",
+    "name": "** Fin5-suunnistusviikko, 3. osakilpailu",
     "location": "Sallan Karhut",
     "area": "Lappi",
-    "filename": "20260707_Fin5-suunnistusviikko_3_osakilpailu.ics",
+    "filename": "20260707__Fin5-suunnistusviikko_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27198",
     "deadline": "1.11.2025",
     "matka": "",
@@ -526,10 +494,10 @@
   },
   {
     "date": "2026-07-09",
-    "name": "Fin5-suunnistusviikko, 4. osakilpailu",
+    "name": "** Fin5-suunnistusviikko, 4. osakilpailu",
     "location": "Sallan Karhut",
     "area": "Lappi",
-    "filename": "20260709_Fin5-suunnistusviikko_4_osakilpailu.ics",
+    "filename": "20260709__Fin5-suunnistusviikko_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27199",
     "deadline": "1.11.2025",
     "matka": "Sprintti",
@@ -542,10 +510,10 @@
   },
   {
     "date": "2026-07-10",
-    "name": "Fin5-suunnistusviikko, 5. osakilpailu",
+    "name": "** Fin5-suunnistusviikko, 5. osakilpailu",
     "location": "Sallan Karhut",
     "area": "Lappi",
-    "filename": "20260710_Fin5-suunnistusviikko_5_osakilpailu.ics",
+    "filename": "20260710__Fin5-suunnistusviikko_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27200",
     "deadline": "1.11.2025",
     "matka": "Keskimatka",
