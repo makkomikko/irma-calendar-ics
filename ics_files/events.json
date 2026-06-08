@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-06-07",
-    "name": "** Helsinki O-Games (WRE)",
-    "location": "Helsingin Suunnistajat",
-    "area": "Uusimaa",
-    "filename": "20260607__Helsinki_O-Games_WRE.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27368",
-    "deadline": "31.5.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-07",
-    "name": "Nuorten EM- ja MM-katsastus ja kansallinen",
-    "location": "Lapuan Virkiä",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260607_Nuorten_EM-_ja_MM-katsastus_ja_kansallinen.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27503",
-    "deadline": "1.6.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-07",
-    "name": "** Lapin am-keskimatka (avoin)",
-    "location": "Alatornion Pirkat",
-    "area": "Lappi",
-    "filename": "20260607__Lapin_am-keskimatka_avoin.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27551",
-    "deadline": "1.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-08",
     "name": "** Etelä-Pohjanmaan Kompassi-cup 2. osakilpailu",
     "location": "Laihian Luja",
@@ -277,7 +228,7 @@
     "area": "Satakunta",
     "filename": "20260624_Suunta-Seppojen_Iltapika.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27605",
-    "deadline": "",
+    "deadline": "19.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -800,10 +751,10 @@
   },
   {
     "date": "2026-07-31",
-    "name": "FSOM-sprint",
+    "name": "Avoin FSOM-sprint",
     "location": "Solf IK",
     "area": "FSO",
-    "filename": "20260731_FSOM-sprint.ics",
+    "filename": "20260731_Avoin_FSOM-sprint.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27509",
     "deadline": "26.7.2026",
     "matka": "Sprintti",
@@ -839,7 +790,7 @@
     "area": "Kaakko",
     "filename": "20260801_Vety-sprintti_2026_1_klpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27429",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -855,7 +806,7 @@
     "area": "Kaakko",
     "filename": "20260801_Vety-sprintti_2026_2_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27430",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
