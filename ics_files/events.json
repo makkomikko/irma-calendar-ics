@@ -1,67 +1,5 @@
 [
   {
-    "date": "2026-06-08",
-    "name": "** Etelä-Pohjanmaan Kompassi-cup 2. osakilpailu",
-    "location": "Laihian Luja",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260608__Etelä-Pohjanmaan_Kompassi-cup_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27672",
-    "deadline": "4.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-08",
-    "name": "** Keski-Suomen Kompassi-cup 2. osakilpailu (lähikilpailu)",
-    "location": "Suunta Jyväskylä",
-    "area": "Keski-Suomi",
-    "filename": "20260608__Keski-Suomen_Kompassi-cup_2_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27690",
-    "deadline": "5.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-08",
-    "name": "Kaakon Kompassi-cup 2. osakilpailu",
-    "location": "Lappeen Riento",
-    "area": "Kaakko",
-    "filename": "20260608_Kaakon_Kompassi-cup_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27699",
-    "deadline": "6.6.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-08",
-    "name": "** Varsinais-Suomen Kompassi-viesti",
-    "location": "Turun Suunnistajat",
-    "area": "Varsinais-Suomi",
-    "filename": "20260608__Varsinais-Suomen_Kompassi-viesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27708",
-    "deadline": "4.6.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-09",
     "name": "Kuulan pariviesti (Samuli Törmälän muistokilpailu), Keski-Pohjanmaan Kompassi-viesti 1, Samuli Törmälän muistokilpailu",
     "location": "Ylivieskan Kuula",
@@ -180,7 +118,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260618__Etelä-Pohjanmaan_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27702",
-    "deadline": "",
+    "deadline": "15.6.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -723,7 +661,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260726_Avoin_Varsinais-Suomen_am-partio.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27629",
-    "deadline": "",
+    "deadline": "19.7.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
