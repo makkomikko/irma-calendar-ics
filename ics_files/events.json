@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-06-10",
-    "name": "** Päijät-Hämeen, Kymenlaakson ja Etelä-Savon Kompassi-viesti 1",
-    "location": "Hollolan Urheilijat -46",
-    "area": "Päijät-Häme",
-    "filename": "20260610__Päijät-Hämeen_Kymenlaakson_ja_Etelä-Savon_Kompassi-viesti_1.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27687",
-    "deadline": "7.6.2026",
-    "matka": "Tarkkuus/normaali",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-13",
     "name": "Kotka-Jukola, Venlojen viesti",
     "location": "Kymin Suunnistajat Vehkalahden Veikot",
