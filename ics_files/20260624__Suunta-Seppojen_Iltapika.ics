@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Suunta-Seppojen Iltapika
+SUMMARY:** Suunta-Seppojen Iltapika
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-DTSTAMP:20260611T064148Z
+DTSTAMP:20260612T062634Z
 UID:irma-27605-20260624@suunnistusliitto.fi
 DESCRIPTION:Organizer: Suunta-Sepot
 LOCATION:Satakunta (Suunta-Sepot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27605
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Suunta-Seppojen Iltapika
+DESCRIPTION:Ilmoittautuminen päättyy: ** Suunta-Seppojen Iltapika
 TRIGGER:20260618T090000Z
 END:VALARM
 END:VEVENT
