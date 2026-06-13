@@ -1268,6 +1268,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-17",
+    "name": "Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)",
+    "location": "Rasti-Vihti",
+    "area": "Uusimaa",
+    "filename": "20260817_Uudenmaan_Kompassi-cup_4_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27716",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-19",
     "name": "Elosprintti ja avoin Uudenmaan AM-sprintti",
     "location": "Järvenpään Palo",
@@ -1571,6 +1587,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-09-03",
+    "name": "Uudenmaan Kompassi-cup 5. osakilpailu (lähikilpailu)",
+    "location": "Espoon Akilles",
+    "area": "Uusimaa",
+    "filename": "20260903_Uudenmaan_Kompassi-cup_5_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27719",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-09-05",
     "name": "SM-pitkä matka, karsinta",
     "location": "Posion Pyrintö",
@@ -1628,7 +1660,7 @@
     "area": "FSO",
     "filename": "20260913_SM-viesti__FM-stafett_Viestiliigan_finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26669",
-    "deadline": "",
+    "deadline": "3.9.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
