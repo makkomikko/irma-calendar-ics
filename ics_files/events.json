@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-06-14",
-    "name": "Kotka-Jukola, Jukolan viesti",
-    "location": "Kymin Suunnistajat Vehkalahden Veikot",
-    "area": "Tuntematon Alue",
-    "filename": "20260614_Kotka-Jukola_Jukolan_viesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/24843",
-    "deadline": "",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-17",
     "name": "Keski-Suomen Kompassi-cup 3.",
     "location": "Itä-Päijänteen Rasti",
