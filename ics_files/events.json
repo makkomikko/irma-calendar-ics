@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-06-17",
-    "name": "Keski-Suomen Kompassi-cup 3.",
-    "location": "Itä-Päijänteen Rasti",
-    "area": "Keski-Suomi",
-    "filename": "20260617_Keski-Suomen_Kompassi-cup_3.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27680",
-    "deadline": "11.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-17",
-    "name": "Keski-Suomen Kompassi-viesti (lähikilpailu)",
-    "location": "Itä-Päijänteen Rasti",
-    "area": "Keski-Suomi",
-    "filename": "20260617_Keski-Suomen_Kompassi-viesti_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27691",
-    "deadline": "11.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-18",
     "name": "Kukkosuunnistus",
     "location": "Laitilan Jyske",
@@ -356,7 +324,7 @@
     "area": "Lappi",
     "filename": "20260717_Lapin_Rastipäivät_prologi.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27419",
-    "deadline": "",
+    "deadline": "12.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -388,7 +356,7 @@
     "area": "Lappi",
     "filename": "20260718_Lapin_Rastipäivät_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27420",
-    "deadline": "",
+    "deadline": "12.7.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -436,7 +404,7 @@
     "area": "Lappi",
     "filename": "20260719_Lapin_Rastipäivät_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27421",
-    "deadline": "",
+    "deadline": "12.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -516,7 +484,7 @@
     "area": "Häme",
     "filename": "20260725_Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27409",
-    "deadline": "",
+    "deadline": "19.7.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -565,7 +533,7 @@
     "area": "Häme",
     "filename": "20260726_Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27410",
-    "deadline": "",
+    "deadline": "19.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -647,7 +615,7 @@
     "area": "Häme",
     "filename": "20260801_Hämeen_avoin_am-keskimatka_-_Tarpian_Suunta_70_V.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27404",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
