@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "name": "Kukkosuunnistus",
-    "location": "Laitilan Jyske",
-    "area": "Varsinais-Suomi",
-    "filename": "20260618_Kukkosuunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27474",
-    "deadline": "15.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-18",
-    "name": "** Etelä-Pohjanmaan Kompassi-cup 3. osakilpailu (lähikilpailu)",
-    "location": "Suunta Jurva",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260618__Etelä-Pohjanmaan_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27702",
-    "deadline": "15.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-23",
     "name": "Kainuun Kompassi-cup 3. osakilpailu (lähikilpailu)",
     "location": "Kajaanin Suunnistajat",
@@ -195,10 +163,10 @@
   },
   {
     "date": "2026-07-01",
-    "name": "ÖID:s Ekorrstigfinal",
+    "name": "** ÖID:s Ekorrstigfinal",
     "location": "Närpes OK",
     "area": "FSO",
-    "filename": "20260701_ÖIDs_Ekorrstigfinal.ics",
+    "filename": "20260701__ÖIDs_Ekorrstigfinal.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27583",
     "deadline": "26.6.2026",
     "matka": "",
@@ -383,10 +351,10 @@
   },
   {
     "date": "2026-07-18",
-    "name": "Falkens Nationella - Falkenin Kansallinen",
+    "name": "** Falkens Nationella - Falkenin Kansallinen",
     "location": "IK Falken",
     "area": "FSO",
-    "filename": "20260718_Falkens_Nationella_-_Falkenin_Kansallinen.ics",
+    "filename": "20260718__Falkens_Nationella_-_Falkenin_Kansallinen.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27519",
     "deadline": "14.7.2026",
     "matka": "Keskimatka",

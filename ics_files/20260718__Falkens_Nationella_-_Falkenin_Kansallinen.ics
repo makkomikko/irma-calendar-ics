@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Falkens Nationella - Falkenin Kansallinen
+SUMMARY:** Falkens Nationella - Falkenin Kansallinen
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260618T064504Z
+DTSTAMP:20260619T065740Z
 UID:irma-27519-20260718@suunnistusliitto.fi
 DESCRIPTION:Organizer: IK Falken
 LOCATION:FSO (IK Falken)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27519
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Falkens Nationella - Falkenin Kans
- allinen
+DESCRIPTION:Ilmoittautuminen päättyy: ** Falkens Nationella - Falkenin K
+ ansallinen
 TRIGGER:20260713T090000Z
 END:VALARM
 END:VEVENT
