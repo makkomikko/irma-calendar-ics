@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-06-23",
-    "name": "Kainuun Kompassi-cup 3. osakilpailu (lähikilpailu)",
-    "location": "Kajaanin Suunnistajat",
-    "area": "Kainuu",
-    "filename": "20260623_Kainuun_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27649",
-    "deadline": "21.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-23",
-    "name": "Hämeen Kompassi-viesti 1",
-    "location": "Pälkäneen Luja-Lukko",
-    "area": "Häme",
-    "filename": "20260623_Hämeen_Kompassi-viesti_1.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27707",
-    "deadline": "18.6.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-24",
     "name": "** Suunta-Seppojen Iltapika",
     "location": "Suunta-Sepot",
@@ -485,7 +453,7 @@
     "area": "Savo-Karjala",
     "filename": "20260725_Pielisrastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27575",
-    "deadline": "",
+    "deadline": "19.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -517,7 +485,7 @@
     "area": "Savo-Karjala",
     "filename": "20260726_Pielisrastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27576",
-    "deadline": "",
+    "deadline": "19.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
