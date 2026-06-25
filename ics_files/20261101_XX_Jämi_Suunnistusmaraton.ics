@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:XX Jämi Suunnistusmaraton
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260624T060127Z
-UID:irma-27463-20261025@suunnistusliitto.fi
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260625T060016Z
+UID:irma-27463-20261101@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima
 LOCATION:Häme (Ikaalisten Nouseva-Voima)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27463

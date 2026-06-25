@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "name": "** Suunta-Seppojen Iltapika",
-    "location": "Suunta-Sepot",
-    "area": "Satakunta",
-    "filename": "20260624__Suunta-Seppojen_Iltapika.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27605",
-    "deadline": "19.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-24",
-    "name": "Am-partio/avoin",
-    "location": "Kannuksen Ura",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20260624_Am-partioavoin.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27633",
-    "deadline": "20.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "AM/FSOM",
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-24",
-    "name": "E-P:n am-partio",
-    "location": "Rastiketut",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260624_E-Pn_am-partio.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27661",
-    "deadline": "21.6.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-26",
     "name": "** Botnia medeldistans/keskimatka",
     "location": "OK Botnia",
@@ -681,7 +632,7 @@
     "area": "Keski-Suomi",
     "filename": "20260802_Keurusrastit_AM-pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27491",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -953,7 +904,7 @@
     "area": "Häme",
     "filename": "20260815_Hämeen_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27492",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -1066,7 +1017,7 @@
     "area": "Häme",
     "filename": "20260816_Hämeen_AM-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27493",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -1465,7 +1416,7 @@
     "area": "Uusimaa",
     "filename": "20260903_Uudenmaan_Kompassi-cup_5_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27719",
-    "deadline": "",
+    "deadline": "30.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1902,11 +1853,11 @@
     "holiday_name": ""
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-11-01",
     "name": "XX Jämi Suunnistusmaraton",
     "location": "Ikaalisten Nouseva-Voima",
     "area": "Häme",
-    "filename": "20261025_XX_Jämi_Suunnistusmaraton.ics",
+    "filename": "20261101_XX_Jämi_Suunnistusmaraton.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27463",
     "deadline": "",
     "matka": "Erikoispitkä",
