@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Lasten Raatojuoksu
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260626T060355Z
+UID:irma-27723-20261031@suunnistusliitto.fi
+DESCRIPTION:Organizer: IF Sibbo-Vargarna
+LOCATION:FSO (IF Sibbo-Vargarna)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27723
+END:VEVENT
+END:VCALENDAR

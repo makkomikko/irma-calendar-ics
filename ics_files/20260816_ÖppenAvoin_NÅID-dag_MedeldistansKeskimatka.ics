@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Öppen/Avoin NÅID-dag Medeldistans/Keskimatka
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260626T060304Z
+UID:irma-27724-20260816@suunnistusliitto.fi
+DESCRIPTION:Organizer: IF Sibbo-Vargarna
+LOCATION:FSO (IF Sibbo-Vargarna)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27724
+END:VEVENT
+END:VCALENDAR

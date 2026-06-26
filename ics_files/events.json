@@ -600,7 +600,7 @@
     "area": "Kaakko",
     "filename": "20260802_Rinkelirastit_2026_1_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27431",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -616,7 +616,7 @@
     "area": "Kaakko",
     "filename": "20260802_Rinkelirastit_2026_2_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27432",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -932,10 +932,10 @@
   },
   {
     "date": "2026-08-15",
-    "name": "Öppna ÖIDM Medeldistans / Avoin ÖID-AM Keskimatka",
+    "name": "** Öppna ÖIDM Medeldistans / Avoin ÖID-AM Keskimatka",
     "location": "IF Minken",
     "area": "FSO",
-    "filename": "20260815_Öppna_ÖIDM_Medeldistans__Avoin_ÖID-AM_Keskimatka.ics",
+    "filename": "20260815__Öppna_ÖIDM_Medeldistans__Avoin_ÖID-AM_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27536",
     "deadline": "10.8.2026",
     "matka": "Keskimatka",
@@ -1091,6 +1091,38 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-16",
+    "name": "Öppen/Avoin NÅID-dag Medeldistans/Keskimatka",
+    "location": "IF Sibbo-Vargarna",
+    "area": "FSO",
+    "filename": "20260816_ÖppenAvoin_NÅID-dag_MedeldistansKeskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27724",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-16",
+    "name": "Öppen/Avoin NÅID-dag Stafett/Viesti",
+    "location": "IF Sibbo-Vargarna",
+    "area": "FSO",
+    "filename": "20260816_ÖppenAvoin_NÅID-dag_StafettViesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27725",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-17",
     "name": "Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)",
     "location": "Rasti-Vihti",
@@ -1190,7 +1222,7 @@
     "area": "Tuntematon Alue",
     "filename": "20260823_Junioriliigan_finaali_ja_valtakunnallinen_Kompassi-tapahtuma.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26316",
-    "deadline": "",
+    "deadline": "16.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1851,6 +1883,38 @@
     ],
     "is_holiday": false,
     "holiday_name": ""
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Raatojuoksu",
+    "location": "IF Sibbo-Vargarna",
+    "area": "FSO",
+    "filename": "20261031_Raatojuoksu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27722",
+    "deadline": "",
+    "matka": "Erikoispitkä",
+    "cancelled": false,
+    "categories": [
+      "Erikoispitkä"
+    ],
+    "is_holiday": true,
+    "holiday_name": "All Saints' Day"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Lasten Raatojuoksu",
+    "location": "IF Sibbo-Vargarna",
+    "area": "FSO",
+    "filename": "20261031_Lasten_Raatojuoksu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27723",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": true,
+    "holiday_name": "All Saints' Day"
   },
   {
     "date": "2026-11-01",
