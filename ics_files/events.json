@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-06-26",
-    "name": "** Botnia medeldistans/keskimatka",
-    "location": "OK Botnia",
-    "area": "FSO",
-    "filename": "20260626__Botnia_medeldistanskeskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27506",
-    "deadline": "22.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-27",
     "name": "** Karjaa -rastit",
     "location": "Karjaan Ura",
