@@ -1,38 +1,5 @@
 [
   {
-    "date": "2026-06-27",
-    "name": "** Karjaa -rastit",
-    "location": "Karjaan Ura",
-    "area": "Uusimaa",
-    "filename": "20260627__Karjaa_-rastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27363",
-    "deadline": "22.6.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-06-27",
-    "name": "Esi-Jukola Vuokatti, Viestiliigan 5. osakilpailu",
-    "location": "Sotkamon Jymy",
-    "area": "Kainuu",
-    "filename": "20260627_Esi-Jukola_Vuokatti_Viestiliigan_5_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27495",
-    "deadline": "22.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "Viestiliiga"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-28",
     "name": "** 58. Kainuun Rastiviikko, Suomussalmi, 1. osakilpailu",
     "location": "Kainuun Rastiviikko ry Suomussalmen Rasti",
@@ -856,7 +823,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260815_Etelä-Pohjanmaan_AM_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27344",
-    "deadline": "",
+    "deadline": "10.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
