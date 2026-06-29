@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-06-28",
-    "name": "** 58. Kainuun Rastiviikko, Suomussalmi, 1. osakilpailu",
-    "location": "Kainuun Rastiviikko ry Suomussalmen Rasti",
-    "area": "Tuntematon Alue",
-    "filename": "20260628__58_Kainuun_Rastiviikko_Suomussalmi_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27309",
-    "deadline": "30.11.2025",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-06-30",
     "name": "** 58. Kainuun Rastiviikko, Suomussalmi, 2. osakilpailu",
     "location": "Kainuun Rastiviikko ry Suomussalmen Rasti",
@@ -535,7 +519,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260802_Peikkorastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27374",
-    "deadline": "",
+    "deadline": "27.7.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -633,7 +617,7 @@
     "area": "Tuntematon Alue",
     "filename": "20260806_Sevetin_Rastipäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27704",
-    "deadline": "",
+    "deadline": "2.8.2026",
     "matka": "",
     "cancelled": false,
     "categories": [],
@@ -1080,7 +1064,7 @@
     "area": "Uusimaa",
     "filename": "20260817_Uudenmaan_Kompassi-cup_4_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27716",
-    "deadline": "",
+    "deadline": "12.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1534,7 +1518,7 @@
     "area": "Tuntematon Alue",
     "filename": "20260919_SM_Keskimatka_esikisa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27403",
-    "deadline": "",
+    "deadline": "13.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

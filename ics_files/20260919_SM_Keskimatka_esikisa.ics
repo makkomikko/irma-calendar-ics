@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:SM Keskimatka esikisa
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260628T061147Z
+DTSTAMP:20260629T063036Z
 UID:irma-27403-20260919@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kankaanpään Suunnistajat Rastikarhut
 LOCATION:Tuntematon Alue (Kankaanpään Suunnistajat Rastikarhut)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27403
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: SM Keskimatka esikisa
+TRIGGER:20260912T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
