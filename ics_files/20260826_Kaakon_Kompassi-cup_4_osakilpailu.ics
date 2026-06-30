@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Kaakon Kompassi-cup 4. osakilpailu
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260629T063018Z
+DTSTAMP:20260630T060348Z
 UID:irma-27671-20260826@suunnistusliitto.fi
 DESCRIPTION:Organizer: Joutsenon Kullervo
 LOCATION:Kaakko (Joutsenon Kullervo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27671
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kaakon Kompassi-cup 4. osakilpailu
+TRIGGER:20260822T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

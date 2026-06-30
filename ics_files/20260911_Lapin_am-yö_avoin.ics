@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Lapin am-yö (avoin)
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20260630T060410Z
+UID:irma-27729-20260911@suunnistusliitto.fi
+DESCRIPTION:Organizer: Länsi-Rajan Rasti
+LOCATION:Lappi (Länsi-Rajan Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27729
+END:VEVENT
+END:VCALENDAR

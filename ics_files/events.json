@@ -611,6 +611,23 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-03",
+    "name": "Varsinais-Suomen am-sprintti",
+    "location": "Jatkuva Liike Oy",
+    "area": "Varsinais-Suomi",
+    "filename": "20260803_Varsinais-Suomen_am-sprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27731",
+    "deadline": "29.7.2026",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-06",
     "name": "Sevetin Rastipäivä",
     "location": "Holvastin Tana",
@@ -823,7 +840,7 @@
     "area": "Uusimaa",
     "filename": "20260815_SM2027-esikisa_sprintti_ap.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27464",
-    "deadline": "",
+    "deadline": "10.8.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -856,8 +873,8 @@
     "area": "Uusimaa",
     "filename": "20260815_SM2027-esikisa_sprintti_ip.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27497",
-    "deadline": "",
-    "matka": "",
+    "deadline": "10.8.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti"
@@ -935,7 +952,7 @@
     "area": "Tuntematon Alue",
     "filename": "20260816_Lakeuden_Viesti_Viestiliigan_6_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27383",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1205,7 +1222,7 @@
     "area": "Kaakko",
     "filename": "20260826_Kaakon_Kompassi-cup_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27671",
-    "deadline": "",
+    "deadline": "23.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1422,6 +1439,23 @@
     "categories": [
       "Pitkä",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-11",
+    "name": "Lapin am-yö (avoin)",
+    "location": "Länsi-Rajan Rasti",
+    "area": "Lappi",
+    "filename": "20260911_Lapin_am-yö_avoin.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27729",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""

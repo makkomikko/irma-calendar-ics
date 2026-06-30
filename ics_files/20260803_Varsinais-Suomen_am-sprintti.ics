@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Varsinais-Suomen am-sprintti
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260630T060316Z
+UID:irma-27731-20260803@suunnistusliitto.fi
+DESCRIPTION:Organizer: Jatkuva Liike Oy
+LOCATION:Varsinais-Suomi (Jatkuva Liike Oy)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27731
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen am-sprintti
+TRIGGER:20260728T090000Z
+END:VALARM
+END:VEVENT
+END:VCALENDAR
