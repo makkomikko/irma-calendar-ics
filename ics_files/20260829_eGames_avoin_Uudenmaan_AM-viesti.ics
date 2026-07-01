@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:eGames\, avoin Uudenmaan AM-viesti
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260630T060400Z
+DTSTAMP:20260701T061839Z
 UID:irma-27424-20260829@suunnistusliitto.fi
 DESCRIPTION:Organizer: Espoon Suunta
 LOCATION:Uusimaa (Espoon Suunta)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27424
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: eGames\, avoin Uudenmaan AM-viesti
+TRIGGER:20260822T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

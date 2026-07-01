@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-06-30",
-    "name": "** 58. Kainuun Rastiviikko, Suomussalmi, 2. osakilpailu",
-    "location": "Kainuun Rastiviikko ry Suomussalmen Rasti",
-    "area": "Tuntematon Alue",
-    "filename": "20260630__58_Kainuun_Rastiviikko_Suomussalmi_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27310",
-    "deadline": "30.11.2025",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-01",
     "name": "** ÖID:s Ekorrstigfinal",
     "location": "Närpes OK",
@@ -1049,7 +1033,7 @@
     "area": "FSO",
     "filename": "20260816_ÖppenAvoin_NÅID-dag_MedeldistansKeskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27724",
-    "deadline": "",
+    "deadline": "10.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1065,7 +1049,7 @@
     "area": "FSO",
     "filename": "20260816_ÖppenAvoin_NÅID-dag_StafettViesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27725",
-    "deadline": "",
+    "deadline": "10.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1254,7 +1238,7 @@
     "area": "Uusimaa",
     "filename": "20260829_eGames_avoin_Uudenmaan_AM-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27424",
-    "deadline": "",
+    "deadline": "23.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1439,23 +1423,6 @@
     "categories": [
       "Pitkä",
       "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-11",
-    "name": "Lapin am-yö (avoin)",
-    "location": "Länsi-Rajan Rasti",
-    "area": "Lappi",
-    "filename": "20260911_Lapin_am-yö_avoin.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27729",
-    "deadline": "",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1719,6 +1686,23 @@
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27561",
     "deadline": "",
     "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-25",
+    "name": "Lapin am-yö (avoin)",
+    "location": "Länsi-Rajan Rasti",
+    "area": "Lappi",
+    "filename": "20260925_Lapin_am-yö_avoin.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27729",
+    "deadline": "",
+    "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
       "Yö",
