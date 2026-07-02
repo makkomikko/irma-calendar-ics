@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-07-01",
-    "name": "** ÖID:s Ekorrstigfinal",
-    "location": "Närpes OK",
-    "area": "FSO",
-    "filename": "20260701__ÖIDs_Ekorrstigfinal.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27583",
-    "deadline": "26.6.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-02",
     "name": "** 58. Kainuun Rastiviikko, Suomussalmi, 3. osakilpailu",
     "location": "Kainuun Rastiviikko ry Suomussalmen Rasti",
@@ -1142,7 +1128,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260822_Kannus-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27634",
-    "deadline": "",
+    "deadline": "17.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1303,7 +1289,7 @@
     "area": "Uusimaa",
     "filename": "20260830_eGames_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27425",
-    "deadline": "",
+    "deadline": "23.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
