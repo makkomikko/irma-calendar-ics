@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "name": "** 58. Kainuun Rastiviikko, Suomussalmi, 4. osakilpailu",
-    "location": "Kainuun Rastiviikko ry Suomussalmen Rasti",
-    "area": "Tuntematon Alue",
-    "filename": "20260703__58_Kainuun_Rastiviikko_Suomussalmi_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27312",
-    "deadline": "30.11.2025",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-05",
     "name": "** Fin5-suunnistusviikko, 1. osakilpailu",
     "location": "Sallan Karhut",
@@ -1572,7 +1556,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260919_Nuorisoviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27563",
-    "deadline": "",
+    "deadline": "13.9.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
