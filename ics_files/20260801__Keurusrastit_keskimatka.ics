@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Keurusrastit (keskimatka)
+SUMMARY:** Keurusrastit (keskimatka)
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260705T055646Z
+DTSTAMP:20260706T062006Z
 UID:irma-27490-20260801@suunnistusliitto.fi
 DESCRIPTION:Organizer: Keuruun Kisailijat
 LOCATION:Keski-Suomi (Keuruun Kisailijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27490
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Keurusrastit (keskimatka)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Keurusrastit (keskimatka)
 TRIGGER:20260726T090000Z
 END:VALARM
 END:VEVENT

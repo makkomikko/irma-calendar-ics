@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-05",
-    "name": "** Fin5-suunnistusviikko, 1. osakilpailu",
-    "location": "Sallan Karhut",
-    "area": "Lappi",
-    "filename": "20260705__Fin5-suunnistusviikko_1_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27196",
-    "deadline": "1.11.2025",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-06",
     "name": "** Fin5-suunnistusviikko, 2. osakilpailu",
     "location": "Sallan Karhut",
@@ -127,10 +111,10 @@
   },
   {
     "date": "2026-07-18",
-    "name": "Lahti-Suunnistus 1. päivä",
+    "name": "** Lahti-Suunnistus 1. päivä",
     "location": "Lahden Suunnistajat-37",
     "area": "Päijät-Häme",
-    "filename": "20260718_Lahti-Suunnistus_1_päivä.ics",
+    "filename": "20260718__Lahti-Suunnistus_1_päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27460",
     "deadline": "12.7.2026",
     "matka": "Keskimatka",
@@ -175,10 +159,10 @@
   },
   {
     "date": "2026-07-19",
-    "name": "Lahti-Suunnistus 2. päivä",
+    "name": "** Lahti-Suunnistus 2. päivä",
     "location": "Lahden Suunnistajat-37",
     "area": "Päijät-Häme",
-    "filename": "20260719_Lahti-Suunnistus_2_päivä.ics",
+    "filename": "20260719__Lahti-Suunnistus_2_päivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27461",
     "deadline": "12.7.2026",
     "matka": "Pitkä",
@@ -419,10 +403,10 @@
   },
   {
     "date": "2026-08-01",
-    "name": "Keurusrastit (keskimatka)",
+    "name": "** Keurusrastit (keskimatka)",
     "location": "Keuruun Kisailijat",
     "area": "Keski-Suomi",
-    "filename": "20260801_Keurusrastit_keskimatka.ics",
+    "filename": "20260801__Keurusrastit_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27490",
     "deadline": "27.7.2026",
     "matka": "Keskimatka",
@@ -500,10 +484,10 @@
   },
   {
     "date": "2026-08-02",
-    "name": "Keurusrastit (+AM-pitkä matka)",
+    "name": "** Keurusrastit (+AM-pitkä matka)",
     "location": "Keuruun Kisailijat",
     "area": "Keski-Suomi",
-    "filename": "20260802_Keurusrastit_AM-pitkä_matka.ics",
+    "filename": "20260802__Keurusrastit_AM-pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27491",
     "deadline": "27.7.2026",
     "matka": "Pitkä",
