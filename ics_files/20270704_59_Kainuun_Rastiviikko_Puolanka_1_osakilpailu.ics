@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:59. Kainuun Rastiviikko\, Puolanka\, 1. osakilpailu
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20260706T062105Z
+DTSTAMP:20260707T060123Z
 UID:irma-27664-20270704@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kainuun Rastiviikko ry Puolangan Ryhti
 LOCATION:Tuntematon Alue (Kainuun Rastiviikko ry Puolangan Ryhti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27664
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: 59. Kainuun Rastiviikko\, Puolanka
+ \, 1. osakilpailu
+TRIGGER:20261129T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-06",
-    "name": "** Fin5-suunnistusviikko, 2. osakilpailu",
-    "location": "Sallan Karhut",
-    "area": "Lappi",
-    "filename": "20260706__Fin5-suunnistusviikko_2_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27197",
-    "deadline": "1.11.2025",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-07",
     "name": "** Fin5-suunnistusviikko, 3. osakilpailu",
     "location": "Sallan Karhut",
@@ -1895,7 +1879,7 @@
     "area": "Tuntematon Alue",
     "filename": "20270704_59_Kainuun_Rastiviikko_Puolanka_1_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27664",
-    "deadline": "",
+    "deadline": "30.11.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -1911,7 +1895,7 @@
     "area": "Tuntematon Alue",
     "filename": "20270706_59_Kainuun_Rastiviikko_Puolanka_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27665",
-    "deadline": "",
+    "deadline": "30.11.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -1927,7 +1911,7 @@
     "area": "Tuntematon Alue",
     "filename": "20270708_59_Kainuun_Rastiviikko_Puolanka_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27666",
-    "deadline": "",
+    "deadline": "30.11.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1943,7 +1927,7 @@
     "area": "Tuntematon Alue",
     "filename": "20270709_59_Kainuun_Rastiviikko_Puolanka_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27667",
-    "deadline": "",
+    "deadline": "30.11.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
