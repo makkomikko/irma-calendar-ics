@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Hämeen Kompassi-Cup 3. osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DTSTAMP:20260709T055657Z
+UID:irma-27743-20260728@suunnistusliitto.fi
+DESCRIPTION:Organizer: Valkeakosken Haka
+LOCATION:Häme (Valkeakosken Haka)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27743
+END:VEVENT
+END:VCALENDAR

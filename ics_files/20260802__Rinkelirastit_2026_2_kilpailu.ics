@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Rinkelirastit 2026 1. kilpailu
+SUMMARY:** Rinkelirastit 2026 2. kilpailu
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260708T051301Z
-UID:irma-27431-20260802@suunnistusliitto.fi
+DTSTAMP:20260709T055657Z
+UID:irma-27432-20260802@suunnistusliitto.fi
 DESCRIPTION:Organizer: Lappeen Riento
 LOCATION:Kaakko (Lappeen Riento)
-URL:https://irma.suunnistusliitto.fi/public/competition/view/27431
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27432
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Rinkelirastit 2026 1. kilpailu
+DESCRIPTION:Ilmoittautuminen päättyy: ** Rinkelirastit 2026 2. kilpailu
 TRIGGER:20260726T090000Z
 END:VALARM
 END:VEVENT

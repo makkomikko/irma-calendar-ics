@@ -306,6 +306,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-07-28",
+    "name": "Hämeen Kompassi-Cup 3. osakilpailu (lähikilpailu)",
+    "location": "Valkeakosken Haka",
+    "area": "Häme",
+    "filename": "20260728_Hämeen_Kompassi-Cup_3_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27743",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-07-31",
     "name": "** Avoin FSOM-sprint",
     "location": "Solf IK",
@@ -422,10 +438,10 @@
   },
   {
     "date": "2026-08-02",
-    "name": "Rinkelirastit 2026 1. kilpailu",
+    "name": "** Rinkelirastit 2026 1. kilpailu",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20260802_Rinkelirastit_2026_1_kilpailu.ics",
+    "filename": "20260802__Rinkelirastit_2026_1_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27431",
     "deadline": "27.7.2026",
     "matka": "Keskimatka",
@@ -438,10 +454,10 @@
   },
   {
     "date": "2026-08-02",
-    "name": "Rinkelirastit 2026 2. kilpailu",
+    "name": "** Rinkelirastit 2026 2. kilpailu",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20260802_Rinkelirastit_2026_2_kilpailu.ics",
+    "filename": "20260802__Rinkelirastit_2026_2_kilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27432",
     "deadline": "27.7.2026",
     "matka": "Keskimatka",
@@ -493,7 +509,7 @@
     "area": "Kainuu",
     "filename": "20260802_Puolanka_Sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27628",
-    "deadline": "",
+    "deadline": "29.7.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -658,6 +674,20 @@
     "categories": [
       "Erikoispitkä"
     ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-09",
+    "name": "Kainuun Kompassicup (lähikilpailu)",
+    "location": "Sotkamon Jymy",
+    "area": "Kainuu",
+    "filename": "20260809_Kainuun_Kompassicup_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27737",
+    "deadline": "5.8.2026",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1020,10 +1050,12 @@
     "area": "Uusimaa",
     "filename": "20260822_R-Suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27487",
-    "deadline": "",
-    "matka": "",
+    "deadline": "16.8.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kainuun Kompassicup (lähikilpailu)
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+DTSTAMP:20260709T055707Z
+UID:irma-27737-20260809@suunnistusliitto.fi
+DESCRIPTION:Organizer: Sotkamon Jymy
+LOCATION:Kainuu (Sotkamon Jymy)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27737
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kainuun Kompassicup (lähikilpailu
+ )
+TRIGGER:20260804T090000Z
+END:VALARM
+END:VEVENT
+END:VCALENDAR
