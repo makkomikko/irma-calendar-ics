@@ -5,10 +5,12 @@ BEGIN:VEVENT
 SUMMARY:Merenkurkun Rastipäivät – Kvarkenträffen pv 1
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-DTSTAMP:20260709T055655Z
+DTSTAMP:20260710T055613Z
 UID:irma-27466-20260721@suunnistusliitto.fi
-DESCRIPTION:Organizer: IF Femman Malax IF Vaasan Suunnistajat
-LOCATION:Tuntematon Alue (IF Femman Malax IF Vaasan Suunnistajat)
+DESCRIPTION:Organizer: Alahärmän Kisa IF Femman Malax IF Vaasan Suunnist
+ ajat
+LOCATION:Tuntematon Alue (Alahärmän Kisa IF Femman Malax IF Vaasan Suunn
+ istajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27466
 BEGIN:VALARM
 ACTION:DISPLAY

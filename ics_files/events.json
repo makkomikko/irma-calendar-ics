@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-09",
-    "name": "** Fin5-suunnistusviikko, 4. osakilpailu",
-    "location": "Sallan Karhut",
-    "area": "Lappi",
-    "filename": "20260709__Fin5-suunnistusviikko_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27199",
-    "deadline": "1.11.2025",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-10",
     "name": "** Fin5-suunnistusviikko, 5. osakilpailu",
     "location": "Sallan Karhut",
@@ -146,7 +130,7 @@
   {
     "date": "2026-07-21",
     "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 1",
-    "location": "IF Femman Malax IF Vaasan Suunnistajat",
+    "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
     "area": "Tuntematon Alue",
     "filename": "20260721_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_1.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27466",
@@ -162,7 +146,7 @@
   {
     "date": "2026-07-22",
     "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 2",
-    "location": "IF Femman Malax IF Vaasan Suunnistajat",
+    "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
     "area": "Tuntematon Alue",
     "filename": "20260722_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_2.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27467",
@@ -178,7 +162,7 @@
   {
     "date": "2026-07-23",
     "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 3",
-    "location": "IF Femman Malax IF Vaasan Suunnistajat",
+    "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
     "area": "Tuntematon Alue",
     "filename": "20260723_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_3.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27468",
