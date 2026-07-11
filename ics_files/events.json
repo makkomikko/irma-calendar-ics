@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-10",
-    "name": "** Fin5-suunnistusviikko, 5. osakilpailu",
-    "location": "Sallan Karhut",
-    "area": "Lappi",
-    "filename": "20260710__Fin5-suunnistusviikko_5_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27200",
-    "deadline": "1.11.2025",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-17",
     "name": "Lapin Rastipäivät prologi",
     "location": "Tmi Omataivainen",
@@ -177,10 +161,10 @@
   },
   {
     "date": "2026-07-25",
-    "name": "Tampere-suunnistus",
+    "name": "** Tampere-suunnistus",
     "location": "Koovee",
     "area": "Häme",
-    "filename": "20260725_Tampere-suunnistus.ics",
+    "filename": "20260725__Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27409",
     "deadline": "19.7.2026",
     "matka": "Pitkä",
@@ -226,10 +210,10 @@
   },
   {
     "date": "2026-07-26",
-    "name": "Tampere-suunnistus",
+    "name": "** Tampere-suunnistus",
     "location": "Koovee",
     "area": "Häme",
-    "filename": "20260726_Tampere-suunnistus.ics",
+    "filename": "20260726__Tampere-suunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27410",
     "deadline": "19.7.2026",
     "matka": "Keskimatka",
@@ -291,12 +275,12 @@
   },
   {
     "date": "2026-07-28",
-    "name": "Hämeen Kompassi-Cup 3. osakilpailu (lähikilpailu)",
+    "name": "** Hämeen Kompassi-Cup 3. osakilpailu (lähikilpailu)",
     "location": "Valkeakosken Haka",
     "area": "Häme",
-    "filename": "20260728_Hämeen_Kompassi-Cup_3_osakilpailu_lähikilpailu.ics",
+    "filename": "20260728__Hämeen_Kompassi-Cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27743",
-    "deadline": "",
+    "deadline": "24.7.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -677,10 +661,10 @@
   },
   {
     "date": "2026-08-11",
-    "name": "Hämeen Kompassi-Cup 4. osakilpailu (lähikilpailu)",
+    "name": "** Hämeen Kompassi-Cup 4. osakilpailu (lähikilpailu)",
     "location": "Kangasala SK",
     "area": "Häme",
-    "filename": "20260811_Hämeen_Kompassi-Cup_4_osakilpailu_lähikilpailu.ics",
+    "filename": "20260811__Hämeen_Kompassi-Cup_4_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27677",
     "deadline": "",
     "matka": "Sprintti",
@@ -698,7 +682,7 @@
     "area": "Etelä-Pohjanmaa",
     "filename": "20260812_Jalasjärven_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27606",
-    "deadline": "",
+    "deadline": "7.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

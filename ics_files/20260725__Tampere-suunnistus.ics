@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Tampere-suunnistus
+SUMMARY:** Tampere-suunnistus
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260710T055613Z
+DTSTAMP:20260711T045615Z
 UID:irma-27409-20260725@suunnistusliitto.fi
 DESCRIPTION:Organizer: Koovee
 LOCATION:Häme (Koovee)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27409
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Tampere-suunnistus
+DESCRIPTION:Ilmoittautuminen päättyy: ** Tampere-suunnistus
 TRIGGER:20260718T090000Z
 END:VALARM
 END:VEVENT
