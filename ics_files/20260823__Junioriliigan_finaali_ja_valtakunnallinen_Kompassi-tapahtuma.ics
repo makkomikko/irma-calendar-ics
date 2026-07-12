@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Junioriliigan finaali ja valtakunnallinen Kompassi-tapahtuma
+SUMMARY:** Junioriliigan finaali ja valtakunnallinen Kompassi-tapahtuma
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260711T045639Z
+DTSTAMP:20260712T051939Z
 UID:irma-26316-20260823@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kalevan Rasti Kontiolahden Urheilijat
 LOCATION:Tuntematon Alue (Kalevan Rasti Kontiolahden Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/26316
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Junioriliigan finaali ja valtakunn
- allinen Kompassi-tapahtuma
+DESCRIPTION:Ilmoittautuminen päättyy: ** Junioriliigan finaali ja valtak
+ unnallinen Kompassi-tapahtuma
 TRIGGER:20260815T090000Z
 END:VALARM
 END:VEVENT
