@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Pielisrastit
+SUMMARY:** Pielisrastit 2. päivä
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DTSTAMP:20260712T051922Z
+DTSTAMP:20260713T052854Z
 UID:irma-27576-20260726@suunnistusliitto.fi
 DESCRIPTION:Organizer: Nurmeksen Sepot
 LOCATION:Savo-Karjala (Nurmeksen Sepot)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27576
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Pielisrastit
+DESCRIPTION:Ilmoittautuminen päättyy: ** Pielisrastit 2. päivä
 TRIGGER:20260718T090000Z
 END:VALARM
 END:VEVENT
