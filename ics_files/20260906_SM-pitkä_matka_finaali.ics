@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka\, finaali
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260715T044256Z
+DTSTAMP:20260716T045303Z
 UID:irma-27501-20260906@suunnistusliitto.fi
 DESCRIPTION:Organizer: Posion Pyrintö
 LOCATION:Lappi (Posion Pyrintö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27501
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: SM-pitkä matka\, finaali
+TRIGGER:20260826T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

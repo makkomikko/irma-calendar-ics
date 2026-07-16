@@ -692,6 +692,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-13",
+    "name": "Etelä-Karjalan ja Kymenlaakson Kompassi-cup osakilpailu (lähikilpailu)",
+    "location": "Luumäen Rasti",
+    "area": "Kaakko",
+    "filename": "20260813_Etelä-Karjalan_ja_Kymenlaakson_Kompassi-cup_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27745",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-14",
     "name": "Öppna långa ÅM / ÅSW",
     "location": "IF Åland",
@@ -876,7 +892,7 @@
     "area": "FSO",
     "filename": "20260816_ÖIDM_stafett.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27603",
-    "deadline": "10.8.2026",
+    "deadline": "9.8.2026",
     "matka": "",
     "cancelled": false,
     "categories": [],
@@ -1286,6 +1302,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-09-01",
+    "name": "Varsinais-Suomen Kompassi-Cup 5.osakilpailu",
+    "location": "RastiPiikkiö",
+    "area": "Varsinais-Suomi",
+    "filename": "20260901_Varsinais-Suomen_Kompassi-Cup_5osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27735",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-09-03",
     "name": "Uudenmaan Kompassi-cup 5. osakilpailu (lähikilpailu)",
     "location": "Espoon Akilles",
@@ -1303,10 +1335,10 @@
   },
   {
     "date": "2026-09-05",
-    "name": "SM-pitkä matka, karsinta",
+    "name": "SM-pitkä matka, karsinta (ilmoittautuminen kaikkiin sarjoihin finaalin kautta)",
     "location": "Posion Pyrintö",
     "area": "Lappi",
-    "filename": "20260905_SM-pitkä_matka_karsinta.ics",
+    "filename": "20260905_SM-pitkä_matka_karsinta_ilmoittautuminen_kaikkiin_sarjoihin_finaalin_kautta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26703",
     "deadline": "",
     "matka": "Pitkä",
@@ -1325,7 +1357,7 @@
     "area": "Lappi",
     "filename": "20260906_SM-pitkä_matka_finaali.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27501",
-    "deadline": "",
+    "deadline": "27.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [

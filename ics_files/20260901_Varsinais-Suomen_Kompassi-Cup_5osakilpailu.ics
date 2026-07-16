@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Varsinais-Suomen Kompassi-Cup 5.osakilpailu
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+DTSTAMP:20260716T045301Z
+UID:irma-27735-20260901@suunnistusliitto.fi
+DESCRIPTION:Organizer: RastiPiikkiö
+LOCATION:Varsinais-Suomi (RastiPiikkiö)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27735
+END:VEVENT
+END:VCALENDAR
