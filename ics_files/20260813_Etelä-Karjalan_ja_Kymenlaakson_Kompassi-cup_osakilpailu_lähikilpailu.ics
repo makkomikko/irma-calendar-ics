@@ -6,10 +6,16 @@ SUMMARY:Etelä-Karjalan ja Kymenlaakson Kompassi-cup osakilpailu (lähikil
  pailu)
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260716T045239Z
+DTSTAMP:20260717T045629Z
 UID:irma-27745-20260813@suunnistusliitto.fi
 DESCRIPTION:Organizer: Luumäen Rasti
 LOCATION:Kaakko (Luumäen Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27745
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Karjalan ja Kymenlaakson Ko
+ mpassi-cup osakilpailu (lähikilpailu)
+TRIGGER:20260809T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
