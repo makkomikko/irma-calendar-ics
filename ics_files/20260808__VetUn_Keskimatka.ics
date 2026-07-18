@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:** VetUn Keskimatka
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260717T045623Z
+DTSTAMP:20260718T044051Z
 UID:irma-27565-20260808@suunnistusliitto.fi
 DESCRIPTION:Organizer: Vetelin Urheilijat
 LOCATION:Keski-Pohjanmaa (Vetelin Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27565
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: ** VetUn Keskimatka
+TRIGGER:20260801T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

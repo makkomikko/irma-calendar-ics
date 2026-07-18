@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Kärppäjahti ja avoin K-P.n pitkä matka\, K-P:n Kompassi-cupin 4
- . osakilpailu
+SUMMARY:** Kärppäjahti ja avoin K-P.n pitkä matka\, K-P:n Kompassi-cupi
+ n 4. osakilpailu
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260717T045648Z
+DTSTAMP:20260718T044114Z
 UID:irma-27543-20260829@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kokkolan Suunnistajat
 LOCATION:Keski-Pohjanmaa (Kokkolan Suunnistajat)

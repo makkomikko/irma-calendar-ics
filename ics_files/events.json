@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-17",
-    "name": "Lapin Rastipäivät prologi",
-    "location": "Tmi Omataivainen",
-    "area": "Lappi",
-    "filename": "20260717_Lapin_Rastipäivät_prologi.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27419",
-    "deadline": "12.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-18",
     "name": "** Kesälaitumen Rastit",
     "location": "Lauttakylän Luja Punkalaitumen Kunto",
@@ -308,10 +292,10 @@
   },
   {
     "date": "2026-08-01",
-    "name": "Hämeen avoin am-keskimatka - Tarpian Suunta 70 V",
+    "name": "** Hämeen avoin am-keskimatka - Tarpian Suunta 70 V",
     "location": "Tarpian Suunta",
     "area": "Häme",
-    "filename": "20260801_Hämeen_avoin_am-keskimatka_-_Tarpian_Suunta_70_V.ics",
+    "filename": "20260801__Hämeen_avoin_am-keskimatka_-_Tarpian_Suunta_70_V.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27404",
     "deadline": "27.7.2026",
     "matka": "Keskimatka",
@@ -556,7 +540,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260808__VetUn_Keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27565",
-    "deadline": "",
+    "deadline": "2.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -660,13 +644,29 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-10",
+    "name": "Kaakon, Päijät-Hämeen ja Etelä-Karjalan Kompassicup pariviesti",
+    "location": "Kouvolan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20260810_Kaakon_Päijät-Hämeen_ja_Etelä-Karjalan_Kompassicup_pariviesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27747",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-11",
     "name": "** Hämeen Kompassi-Cup 4. osakilpailu (lähikilpailu)",
     "location": "Kangasala SK",
     "area": "Häme",
     "filename": "20260811__Hämeen_Kompassi-Cup_4_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27677",
-    "deadline": "",
+    "deadline": "5.8.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -725,10 +725,10 @@
   },
   {
     "date": "2026-08-15",
-    "name": "Etelä-Pohjanmaan AM pitkä matka",
+    "name": "** Etelä-Pohjanmaan AM pitkä matka",
     "location": "Järviseudun Rasti",
     "area": "Etelä-Pohjanmaa",
-    "filename": "20260815_Etelä-Pohjanmaan_AM_pitkä_matka.ics",
+    "filename": "20260815__Etelä-Pohjanmaan_AM_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27344",
     "deadline": "10.8.2026",
     "matka": "Pitkä",
@@ -757,10 +757,10 @@
   },
   {
     "date": "2026-08-15",
-    "name": "Hämeen am-pitkä",
+    "name": "** Hämeen am-pitkä",
     "location": "Oriveden Ponnistus",
     "area": "Häme",
-    "filename": "20260815_Hämeen_am-pitkä.ics",
+    "filename": "20260815__Hämeen_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27492",
     "deadline": "9.8.2026",
     "matka": "Pitkä",
@@ -870,10 +870,10 @@
   },
   {
     "date": "2026-08-16",
-    "name": "Hämeen AM-viesti",
+    "name": "** Hämeen AM-viesti",
     "location": "Oriveden Ponnistus",
     "area": "Häme",
-    "filename": "20260816_Hämeen_AM-viesti.ics",
+    "filename": "20260816__Hämeen_AM-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27493",
     "deadline": "9.8.2026",
     "matka": "",
@@ -1061,10 +1061,10 @@
   },
   {
     "date": "2026-08-22",
-    "name": "Kannus-rastit",
+    "name": "** Kannus-rastit",
     "location": "Kannuksen Ura",
     "area": "Keski-Pohjanmaa",
-    "filename": "20260822_Kannus-rastit.ics",
+    "filename": "20260822__Kannus-rastit.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27634",
     "deadline": "17.8.2026",
     "matka": "Keskimatka",
@@ -1190,10 +1190,10 @@
   },
   {
     "date": "2026-08-29",
-    "name": "Kärppäjahti ja avoin K-P.n pitkä matka, K-P:n Kompassi-cupin 4. osakilpailu",
+    "name": "** Kärppäjahti ja avoin K-P.n pitkä matka, K-P:n Kompassi-cupin 4. osakilpailu",
     "location": "Kokkolan Suunnistajat",
     "area": "Keski-Pohjanmaa",
-    "filename": "20260829_Kärppäjahti_ja_avoin_K-Pn_pitkä_matka_K-Pn_Kompassi-cupin_4_osakilpailu.ics",
+    "filename": "20260829__Kärppäjahti_ja_avoin_K-Pn_pitkä_matka_K-Pn_Kompassi-cupin_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27543",
     "deadline": "",
     "matka": "Pitkä",
@@ -1254,10 +1254,10 @@
   },
   {
     "date": "2026-08-30",
-    "name": "Keski-Pohjanmaan maakuntasuunnistus ja Kompassi-viesti 2",
+    "name": "** Keski-Pohjanmaan maakuntasuunnistus ja Kompassi-viesti 2",
     "location": "Kokkolan Suunnistajat",
     "area": "Keski-Pohjanmaa",
-    "filename": "20260830_Keski-Pohjanmaan_maakuntasuunnistus_ja_Kompassi-viesti_2.ics",
+    "filename": "20260830__Keski-Pohjanmaan_maakuntasuunnistus_ja_Kompassi-viesti_2.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27544",
     "deadline": "",
     "matka": "",
@@ -1704,10 +1704,12 @@
     "area": "FSO",
     "filename": "20260927_GIFs_75te_Tvåmila_ÖIDM_ultra.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27537",
-    "deadline": "",
-    "matka": "",
+    "deadline": "22.9.2026",
+    "matka": "Erikoispitkä",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Erikoispitkä"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
