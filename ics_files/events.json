@@ -1,69 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "name": "** Kesälaitumen Rastit",
-    "location": "Lauttakylän Luja Punkalaitumen Kunto",
-    "area": "Tuntematon Alue",
-    "filename": "20260718__Kesälaitumen_Rastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27329",
-    "deadline": "12.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-18",
-    "name": "Lapin Rastipäivät pitkä",
-    "location": "Tmi Omataivainen",
-    "area": "Lappi",
-    "filename": "20260718_Lapin_Rastipäivät_pitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27420",
-    "deadline": "12.7.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-18",
-    "name": "** Lahti-Suunnistus 1. päivä",
-    "location": "Lahden Suunnistajat-37",
-    "area": "Päijät-Häme",
-    "filename": "20260718__Lahti-Suunnistus_1_päivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27460",
-    "deadline": "12.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-18",
-    "name": "** Falkens Nationella - Falkenin Kansallinen",
-    "location": "IK Falken",
-    "area": "FSO",
-    "filename": "20260718__Falkens_Nationella_-_Falkenin_Kansallinen.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27519",
-    "deadline": "14.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-19",
     "name": "Lapin Rastipäivät keskimatka",
     "location": "Tmi Omataivainen",
@@ -650,7 +586,7 @@
     "area": "Kaakko",
     "filename": "20260810_Kaakon_Päijät-Hämeen_ja_Etelä-Karjalan_Kompassicup_pariviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27747",
-    "deadline": "",
+    "deadline": "6.8.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -842,7 +778,7 @@
     "area": "Satakunta",
     "filename": "20260815_AM_pitkä_Satakunta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27643",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -938,7 +874,7 @@
     "area": "Satakunta",
     "filename": "20260816_AM-Viesti_Satakunta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27644",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
