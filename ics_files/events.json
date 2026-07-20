@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-07-19",
-    "name": "Lapin Rastipäivät keskimatka",
-    "location": "Tmi Omataivainen",
-    "area": "Lappi",
-    "filename": "20260719_Lapin_Rastipäivät_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27421",
-    "deadline": "12.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-19",
-    "name": "** Lahti-Suunnistus 2. päivä",
-    "location": "Lahden Suunnistajat-37",
-    "area": "Päijät-Häme",
-    "filename": "20260719__Lahti-Suunnistus_2_päivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27461",
-    "deadline": "12.7.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-21",
     "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 1",
     "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
@@ -619,6 +587,22 @@
     "filename": "20260812__Jalasjärven_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27606",
     "deadline": "7.8.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-12",
+    "name": "Keski-Suomen Kompassi-cup 4",
+    "location": "Rasti E4",
+    "area": "Keski-Suomi",
+    "filename": "20260812_Keski-Suomen_Kompassi-cup_4.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27736",
+    "deadline": "",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

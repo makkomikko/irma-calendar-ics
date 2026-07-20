@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Keski-Suomen Kompassi-cup 4
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260720T053152Z
+UID:irma-27736-20260812@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rasti E4
+LOCATION:Keski-Suomi (Rasti E4)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27736
+END:VEVENT
+END:VCALENDAR
