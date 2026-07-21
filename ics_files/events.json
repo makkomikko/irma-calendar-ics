@@ -807,10 +807,10 @@
   },
   {
     "date": "2026-08-16",
-    "name": "ÖIDM stafett",
+    "name": "** ÖIDM stafett",
     "location": "OK Kristina",
     "area": "FSO",
-    "filename": "20260816_ÖIDM_stafett.ics",
+    "filename": "20260816__ÖIDM_stafett.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27603",
     "deadline": "9.8.2026",
     "matka": "",
@@ -821,10 +821,10 @@
   },
   {
     "date": "2026-08-16",
-    "name": "Etelä-Pohjanmaan AM Viesti",
+    "name": "** Etelä-Pohjanmaan AM Viesti",
     "location": "Kauhajoen Karhu",
     "area": "Etelä-Pohjanmaa",
-    "filename": "20260816_Etelä-Pohjanmaan_AM_Viesti.ics",
+    "filename": "20260816__Etelä-Pohjanmaan_AM_Viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27609",
     "deadline": "9.8.2026",
     "matka": "Keskimatka",
@@ -1329,7 +1329,7 @@
     "area": "Uusimaa",
     "filename": "20260914_Uudenmaan_Kompassi-viesti_3_os_lähikilpailuavoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27627",
-    "deadline": "",
+    "deadline": "8.9.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -1619,16 +1619,17 @@
   },
   {
     "date": "2026-09-27",
-    "name": "GIF:s 75:te Tvåmila, ÖIDM ultra",
+    "name": "GIF:s 75:te Tvåmila, ÖIDM ultra ja Keski-Pohjanmaan am-erikoispitkä",
     "location": "Gamlakarleby IF",
     "area": "FSO",
-    "filename": "20260927_GIFs_75te_Tvåmila_ÖIDM_ultra.ics",
+    "filename": "20260927_GIFs_75te_Tvåmila_ÖIDM_ultra_ja_Keski-Pohjanmaan_am-erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27537",
     "deadline": "22.9.2026",
     "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
-      "Erikoispitkä"
+      "Erikoispitkä",
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""

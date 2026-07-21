@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Etelä-Pohjanmaan AM Viesti
+SUMMARY:** Etelä-Pohjanmaan AM Viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260720T053202Z
+DTSTAMP:20260721T051239Z
 UID:irma-27609-20260816@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kauhajoen Karhu
 LOCATION:Etelä-Pohjanmaa (Kauhajoen Karhu)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27609
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Pohjanmaan AM Viesti
+DESCRIPTION:Ilmoittautuminen päättyy: ** Etelä-Pohjanmaan AM Viesti
 TRIGGER:20260808T090000Z
 END:VALARM
 END:VEVENT
