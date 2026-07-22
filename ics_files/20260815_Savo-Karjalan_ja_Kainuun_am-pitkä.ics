@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Savo-Karjalan ja Kainuun am-pitkä
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260721T051235Z
+DTSTAMP:20260722T051127Z
 UID:irma-27567-20260815@suunnistusliitto.fi
 DESCRIPTION:Organizer: Liperin Taimi Suunnistus
 LOCATION:Savo-Karjala (Liperin Taimi Suunnistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27567
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Savo-Karjalan ja Kainuun am-pitkä
+TRIGGER:20260808T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

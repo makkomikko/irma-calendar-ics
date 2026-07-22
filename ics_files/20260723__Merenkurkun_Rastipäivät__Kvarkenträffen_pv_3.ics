@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Merenkurkun Rastipäivät – Kvarkenträffen pv 3
+SUMMARY:** Merenkurkun Rastipäivät – Kvarkenträffen pv 3
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DTSTAMP:20260721T051227Z
+DTSTAMP:20260722T051118Z
 UID:irma-27468-20260723@suunnistusliitto.fi
 DESCRIPTION:Organizer: Alahärmän Kisa IF Femman Malax IF Vaasan Suunnist
  ajat
@@ -14,8 +14,8 @@ LOCATION:Tuntematon Alue (Alahärmän Kisa IF Femman Malax IF Vaasan Suunn
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27468
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Merenkurkun Rastipäivät – Kvar
- kenträffen pv 3
+DESCRIPTION:Ilmoittautuminen päättyy: ** Merenkurkun Rastipäivät – K
+ varkenträffen pv 3
 TRIGGER:20260614T090000Z
 END:VALARM
 END:VEVENT
