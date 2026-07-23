@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Varsinais-Suomen Kompassi-Cup 5.osakilpailu
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20260722T051155Z
+DTSTAMP:20260723T051825Z
 UID:irma-27735-20260901@suunnistusliitto.fi
 DESCRIPTION:Organizer: RastiPiikkiö
 LOCATION:Varsinais-Suomi (RastiPiikkiö)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27735
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen Kompassi-Cup 5.os
+ akilpailu
+TRIGGER:20260827T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

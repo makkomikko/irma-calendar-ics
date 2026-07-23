@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "name": "** Merenkurkun Rastipäivät – Kvarkenträffen pv 2",
-    "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
-    "area": "Tuntematon Alue",
-    "filename": "20260722__Merenkurkun_Rastipäivät__Kvarkenträffen_pv_2.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27467",
-    "deadline": "15.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-23",
     "name": "** Merenkurkun Rastipäivät – Kvarkenträffen pv 3",
     "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
@@ -1212,7 +1196,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260901_Varsinais-Suomen_Kompassi-Cup_5osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27735",
-    "deadline": "",
+    "deadline": "28.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
