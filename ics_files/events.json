@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "name": "** Merenkurkun Rastipäivät – Kvarkenträffen pv 3",
-    "location": "Alahärmän Kisa IF Femman Malax IF Vaasan Suunnistajat",
-    "area": "Tuntematon Alue",
-    "filename": "20260723__Merenkurkun_Rastipäivät__Kvarkenträffen_pv_3.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27468",
-    "deadline": "15.6.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-25",
     "name": "** Tampere-suunnistus",
     "location": "Koovee",
@@ -570,7 +554,7 @@
     "area": "Keski-Suomi",
     "filename": "20260812_Keski-Suomen_Kompassi-cup_4.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27736",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -891,12 +875,28 @@
     "area": "Uusimaa",
     "filename": "20260819_Elosprintti_ja_avoin_Uudenmaan_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27437",
-    "deadline": "",
+    "deadline": "13.8.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
       "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-19",
+    "name": "Etelä-Pohjanmaan Kompassi-cup 4. osakilpailu",
+    "location": "Ähtärin Urheilijat",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20260819_Etelä-Pohjanmaan_Kompassi-cup_4_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27748",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -1308,6 +1308,23 @@
   },
   {
     "date": "2026-09-18",
+    "name": "KaaSu:n am-yö",
+    "location": "Joutsenon Kullervo",
+    "area": "Kaakko",
+    "filename": "20260918_KaaSun_am-yö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27561",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-18",
     "name": "AM-yö Uusimaa, avoin",
     "location": "Helsingin Suunnistajat",
     "area": "Uusimaa",
@@ -1495,23 +1512,6 @@
     "area": "Tuntematon Alue",
     "filename": "20260923_Avoin_Satakunnan_ja_Varsinais-Suomen_am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27598",
-    "deadline": "",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-25",
-    "name": "KaaSu:n am-yö",
-    "location": "Joutsenon Kullervo",
-    "area": "Kaakko",
-    "filename": "20260925_KaaSun_am-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27561",
     "deadline": "",
     "matka": "Pitkä",
     "cancelled": false,

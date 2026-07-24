@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:KaaSu:n am-yö
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DTSTAMP:20260723T051839Z
-UID:irma-27561-20260925@suunnistusliitto.fi
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260724T051331Z
+UID:irma-27561-20260918@suunnistusliitto.fi
 DESCRIPTION:Organizer: Joutsenon Kullervo
 LOCATION:Kaakko (Joutsenon Kullervo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27561
