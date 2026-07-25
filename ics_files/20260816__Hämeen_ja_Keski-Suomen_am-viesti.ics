@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:** Hämeen AM-viesti
+SUMMARY:** Hämeen ja Keski-Suomen am-viesti
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260724T051309Z
+DTSTAMP:20260725T045807Z
 UID:irma-27493-20260816@suunnistusliitto.fi
 DESCRIPTION:Organizer: Oriveden Ponnistus
 LOCATION:Häme (Oriveden Ponnistus)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27493
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: ** Hämeen AM-viesti
+DESCRIPTION:Ilmoittautuminen päättyy: ** Hämeen ja Keski-Suomen am-vies
+ ti
 TRIGGER:20260808T090000Z
 END:VALARM
 END:VEVENT

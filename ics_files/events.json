@@ -423,10 +423,10 @@
   },
   {
     "date": "2026-08-09",
-    "name": "Rakas-rastit aamupäivä",
+    "name": "** Rakas-rastit aamupäivä",
     "location": "Raja-Karjalan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20260809_Rakas-rastit_aamupäivä.ics",
+    "filename": "20260809__Rakas-rastit_aamupäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27360",
     "deadline": "3.8.2026",
     "matka": "Keskimatka",
@@ -439,10 +439,10 @@
   },
   {
     "date": "2026-08-09",
-    "name": "Rakas-rastit iltapäivä",
+    "name": "** Rakas-rastit iltapäivä",
     "location": "Raja-Karjalan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20260809_Rakas-rastit_iltapäivä.ics",
+    "filename": "20260809__Rakas-rastit_iltapäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27361",
     "deadline": "3.8.2026",
     "matka": "Keskimatka",
@@ -678,10 +678,10 @@
   },
   {
     "date": "2026-08-15",
-    "name": "Savo-Karjalan ja Kainuun am-pitkä",
+    "name": "** Savo-Karjalan ja Kainuun am-pitkä",
     "location": "Liperin Taimi Suunnistus",
     "area": "Savo-Karjala",
-    "filename": "20260815_Savo-Karjalan_ja_Kainuun_am-pitkä.ics",
+    "filename": "20260815__Savo-Karjalan_ja_Kainuun_am-pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27567",
     "deadline": "9.8.2026",
     "matka": "Pitkä",
@@ -742,10 +742,10 @@
   },
   {
     "date": "2026-08-16",
-    "name": "** Hämeen AM-viesti",
+    "name": "** Hämeen ja Keski-Suomen am-viesti",
     "location": "Oriveden Ponnistus",
     "area": "Häme",
-    "filename": "20260816__Hämeen_AM-viesti.ics",
+    "filename": "20260816__Hämeen_ja_Keski-Suomen_am-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27493",
     "deadline": "9.8.2026",
     "matka": "",
@@ -870,10 +870,10 @@
   },
   {
     "date": "2026-08-19",
-    "name": "Elosprintti ja avoin Uudenmaan AM-sprintti",
+    "name": "** Elosprintti ja avoin Uudenmaan AM-sprintti",
     "location": "Järvenpään Palo",
     "area": "Uusimaa",
-    "filename": "20260819_Elosprintti_ja_avoin_Uudenmaan_AM-sprintti.ics",
+    "filename": "20260819__Elosprintti_ja_avoin_Uudenmaan_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27437",
     "deadline": "13.8.2026",
     "matka": "Sprintti",
@@ -1342,6 +1342,23 @@
   },
   {
     "date": "2026-09-18",
+    "name": "Kainuun avoin AM-yö",
+    "location": "Kuhmon Peurat",
+    "area": "Kainuu",
+    "filename": "20260918_Kainuun_avoin_AM-yö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27622",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-18",
     "name": "Avoin Ep:n am-yösuunnistus",
     "location": "Kauhavan Wisa",
     "area": "Etelä-Pohjanmaa",
@@ -1484,23 +1501,6 @@
     "cancelled": false,
     "categories": [
       "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-20",
-    "name": "Kainuun avoin AM-yö",
-    "location": "Kuhmon Peurat",
-    "area": "Kainuu",
-    "filename": "20260920_Kainuun_avoin_AM-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27622",
-    "deadline": "",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
