@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "name": "** Tampere-suunnistus",
-    "location": "Koovee",
-    "area": "Häme",
-    "filename": "20260725__Tampere-suunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27409",
-    "deadline": "19.7.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-25",
-    "name": "Avoin Varsinais-Suomen am-keskimatka",
-    "location": "Vakka-Rasti",
-    "area": "Varsinais-Suomi",
-    "filename": "20260725_Avoin_Varsinais-Suomen_am-keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27540",
-    "deadline": "19.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-25",
-    "name": "** Pielisrastit 1. päivä",
-    "location": "Nurmeksen Sepot",
-    "area": "Savo-Karjala",
-    "filename": "20260725__Pielisrastit_1_päivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27575",
-    "deadline": "19.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-26",
     "name": "** Tampere-suunnistus",
     "location": "Koovee",
