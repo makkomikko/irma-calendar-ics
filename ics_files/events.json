@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "name": "** Tampere-suunnistus",
-    "location": "Koovee",
-    "area": "Häme",
-    "filename": "20260726__Tampere-suunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27410",
-    "deadline": "19.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-26",
-    "name": "** Pielisrastit 2. päivä",
-    "location": "Nurmeksen Sepot",
-    "area": "Savo-Karjala",
-    "filename": "20260726__Pielisrastit_2_päivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27576",
-    "deadline": "19.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-26",
-    "name": "Avoin Varsinais-Suomen am-partio",
-    "location": "Maarian Mahti",
-    "area": "Varsinais-Suomi",
-    "filename": "20260726_Avoin_Varsinais-Suomen_am-partio.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27629",
-    "deadline": "19.7.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-07-26",
-    "name": "K-P:n AM-keskimatka",
-    "location": "Kalajoen Junkkarit",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20260726_K-Pn_AM-keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27631",
-    "deadline": "20.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-28",
     "name": "** Hämeen Kompassi-Cup 3. osakilpailu (lähikilpailu)",
     "location": "Valkeakosken Haka",
@@ -564,10 +499,10 @@
   },
   {
     "date": "2026-08-15",
-    "name": "SM2027-esikisa, sprintti, ap,",
+    "name": "** SM2027-esikisa, sprintti, ap,",
     "location": "Pihkaniskat",
     "area": "Uusimaa",
-    "filename": "20260815_SM2027-esikisa_sprintti_ap.ics",
+    "filename": "20260815__SM2027-esikisa_sprintti_ap.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27464",
     "deadline": "10.8.2026",
     "matka": "Sprintti",
@@ -597,10 +532,10 @@
   },
   {
     "date": "2026-08-15",
-    "name": "SM2027-esikisa, sprintti, ip,",
+    "name": "** SM2027-esikisa, sprintti, ip,",
     "location": "Pihkaniskat",
     "area": "Uusimaa",
-    "filename": "20260815_SM2027-esikisa_sprintti_ip.ics",
+    "filename": "20260815__SM2027-esikisa_sprintti_ip.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27497",
     "deadline": "10.8.2026",
     "matka": "Sprintti",
@@ -740,10 +675,10 @@
   },
   {
     "date": "2026-08-16",
-    "name": "Pohjois-Pohjanmaan Kompassi-viesti (lähikilpailu)",
+    "name": "** Pohjois-Pohjanmaan Kompassi-viesti (lähikilpailu)",
     "location": "SK Pohjantähti",
     "area": "Pohjois-Pohjanmaa",
-    "filename": "20260816_Pohjois-Pohjanmaan_Kompassi-viesti_lähikilpailu.ics",
+    "filename": "20260816__Pohjois-Pohjanmaan_Kompassi-viesti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27624",
     "deadline": "",
     "matka": "",
@@ -953,7 +888,7 @@
     "area": "FSO",
     "filename": "20260825_Nylands_ungdomsserietävling_US_4Nuorisosarjakilpailu_4.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27689",
-    "deadline": "",
+    "deadline": "23.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1410,10 +1345,10 @@
   },
   {
     "date": "2026-09-19",
-    "name": "Nuorisoviesti",
+    "name": "** Nuorisoviesti",
     "location": "Turun Suunnistajat",
     "area": "Varsinais-Suomi",
-    "filename": "20260919_Nuorisoviesti.ics",
+    "filename": "20260919__Nuorisoviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27563",
     "deadline": "13.9.2026",
     "matka": "",
