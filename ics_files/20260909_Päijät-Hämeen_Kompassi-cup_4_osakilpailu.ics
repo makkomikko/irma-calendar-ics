@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Päijät-Hämeen Kompassi-cup 4. osakilpailu
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+DTSTAMP:20260728T045634Z
+UID:irma-27710-20260909@suunnistusliitto.fi
+DESCRIPTION:Organizer: Asikkalan Raikas
+LOCATION:Päijät-Häme (Asikkalan Raikas)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27710
+END:VEVENT
+END:VCALENDAR

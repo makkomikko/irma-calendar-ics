@@ -1142,6 +1142,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-09-09",
+    "name": "Päijät-Hämeen Kompassi-cup 4. osakilpailu",
+    "location": "Asikkalan Raikas",
+    "area": "Päijät-Häme",
+    "filename": "20260909_Päijät-Hämeen_Kompassi-cup_4_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27710",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-09-12",
     "name": "SM-keskimatka (WRE)",
     "location": "Lynx",
