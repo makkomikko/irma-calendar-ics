@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "name": "** Hämeen Kompassi-Cup 3. osakilpailu (lähikilpailu)",
-    "location": "Valkeakosken Haka",
-    "area": "Häme",
-    "filename": "20260728__Hämeen_Kompassi-Cup_3_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27743",
-    "deadline": "24.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-07-31",
     "name": "** Avoin FSOM-sprint",
     "location": "Solf IK",
@@ -277,10 +261,10 @@
   },
   {
     "date": "2026-08-08",
-    "name": "** VetUn Keskimatka",
+    "name": "** VetUn Keskimatka ja Keski-Pohjanmaan Kompassi-cupin 3. osakilpailu",
     "location": "Vetelin Urheilijat",
     "area": "Keski-Pohjanmaa",
-    "filename": "20260808__VetUn_Keskimatka.ics",
+    "filename": "20260808__VetUn_Keskimatka_ja_Keski-Pohjanmaan_Kompassi-cupin_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27565",
     "deadline": "2.8.2026",
     "matka": "Keskimatka",
