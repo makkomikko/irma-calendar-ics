@@ -450,6 +450,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-13",
+    "name": "Varsinais-Suomen Kompassi-cup 4.osakilpailu (lähikilpailu)",
+    "location": "Turun Suunnistajat",
+    "area": "Varsinais-Suomi",
+    "filename": "20260813_Varsinais-Suomen_Kompassi-cup_4osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27753",
+    "deadline": "9.8.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-14",
     "name": "Öppna långa ÅM / ÅSW",
     "location": "IF Åland",
@@ -1137,6 +1153,22 @@
     "cancelled": false,
     "categories": [
       "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-09",
+    "name": "Varsinais-Suomen 2. Kompassi-viesti",
+    "location": "Loimaan Jankko",
+    "area": "Varsinais-Suomi",
+    "filename": "20260909_Varsinais-Suomen_2_Kompassi-viesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27734",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
     ],
     "is_holiday": false,
     "holiday_name": ""

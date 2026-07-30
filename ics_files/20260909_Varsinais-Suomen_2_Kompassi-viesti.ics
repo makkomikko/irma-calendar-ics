@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Varsinais-Suomen 2. Kompassi-viesti
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+DTSTAMP:20260730T045015Z
+UID:irma-27734-20260909@suunnistusliitto.fi
+DESCRIPTION:Organizer: Loimaan Jankko
+LOCATION:Varsinais-Suomi (Loimaan Jankko)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27734
+END:VEVENT
+END:VCALENDAR

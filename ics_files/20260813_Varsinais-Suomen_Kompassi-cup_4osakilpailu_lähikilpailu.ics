@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Varsinais-Suomen Kompassi-cup 4.osakilpailu (lähikilpailu)
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20260730T044952Z
+UID:irma-27753-20260813@suunnistusliitto.fi
+DESCRIPTION:Organizer: Turun Suunnistajat
+LOCATION:Varsinais-Suomi (Turun Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27753
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen Kompassi-cup 4.os
+ akilpailu (lähikilpailu)
+TRIGGER:20260808T090000Z
+END:VALARM
+END:VEVENT
+END:VCALENDAR
