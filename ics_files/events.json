@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-07-31",
-    "name": "** Avoin FSOM-sprint",
-    "location": "Solf IK",
-    "area": "FSO",
-    "filename": "20260731__Avoin_FSOM-sprint.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27509",
-    "deadline": "26.7.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "AM/FSOM",
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-01",
     "name": "** Hämeen avoin am-keskimatka - Tarpian Suunta 70 V",
     "location": "Tarpian Suunta",
@@ -586,10 +569,12 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260815__Pohjois-Pohjanmaan_Kompassi-kilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27623",
-    "deadline": "",
-    "matka": "",
+    "deadline": "9.8.2026",
+    "matka": "Keskimatka",
     "cancelled": false,
-    "categories": [],
+    "categories": [
+      "Keskimatka"
+    ],
     "is_holiday": false,
     "holiday_name": ""
   },
