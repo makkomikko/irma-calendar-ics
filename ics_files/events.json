@@ -1,103 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "name": "Peikkorastit",
-    "location": "Perttelin Peikot",
-    "area": "Varsinais-Suomi",
-    "filename": "20260802_Peikkorastit.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27374",
-    "deadline": "27.7.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-02",
-    "name": "** Rinkelirastit 2026 1. kilpailu",
-    "location": "Lappeen Riento",
-    "area": "Kaakko",
-    "filename": "20260802__Rinkelirastit_2026_1_kilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27431",
-    "deadline": "27.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-02",
-    "name": "** Rinkelirastit 2026 2. kilpailu",
-    "location": "Lappeen Riento",
-    "area": "Kaakko",
-    "filename": "20260802__Rinkelirastit_2026_2_kilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27432",
-    "deadline": "27.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-02",
-    "name": "** Keurusrastit (+AM-pitkä matka)",
-    "location": "Keuruun Kisailijat",
-    "area": "Keski-Suomi",
-    "filename": "20260802__Keurusrastit_AM-pitkä_matka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27491",
-    "deadline": "27.7.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-02",
-    "name": "** FSOM-stafett",
-    "location": "Solf IK",
-    "area": "FSO",
-    "filename": "20260802__FSOM-stafett.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27511",
-    "deadline": "26.7.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "AM/FSOM",
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-02",
-    "name": "Puolanka Sprintti",
-    "location": "Puolangan Ryhti",
-    "area": "Kainuu",
-    "filename": "20260802_Puolanka_Sprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27628",
-    "deadline": "29.7.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-03",
     "name": "Varsinais-Suomen am-sprintti",
     "location": "Jatkuva Liike Oy",
@@ -856,7 +758,7 @@
     "area": "Häme",
     "filename": "20260829_Hakan_tupla_-_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27450",
-    "deadline": "",
+    "deadline": "24.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -920,7 +822,7 @@
     "area": "Häme",
     "filename": "20260830_Hakan_tupla_-_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27451",
-    "deadline": "",
+    "deadline": "24.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
