@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Kaakon\, Päijät-Hämeen ja Etelä-Karjalan Kompassicup pariviest
- i
+SUMMARY:Kymenlaakson\, Päijät-Hämeen ja Etelä-Karjalan Kompassicup par
+ iviesti
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260803T053403Z
+DTSTAMP:20260804T045539Z
 UID:irma-27747-20260810@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kouvolan Suunnistajat
 LOCATION:Kaakko (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27747
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Kaakon\, Päijät-Hämeen ja Etel
- ä-Karjalan Kompassicup pariviesti
+DESCRIPTION:Ilmoittautuminen päättyy: Kymenlaakson\, Päijät-Hämeen ja
+  Etelä-Karjalan Kompassicup pariviesti
 TRIGGER:20260805T090000Z
 END:VALARM
 END:VEVENT

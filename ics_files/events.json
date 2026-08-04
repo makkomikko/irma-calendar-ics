@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-08-03",
-    "name": "Varsinais-Suomen am-sprintti",
-    "location": "Jatkuva Liike Oy",
-    "area": "Varsinais-Suomi",
-    "filename": "20260803_Varsinais-Suomen_am-sprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27731",
-    "deadline": "29.7.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-06",
     "name": "Sevetin Rastipäivä",
     "location": "Holvastin Tana",
@@ -174,10 +157,10 @@
   },
   {
     "date": "2026-08-10",
-    "name": "Kaakon, Päijät-Hämeen ja Etelä-Karjalan Kompassicup pariviesti",
+    "name": "Kymenlaakson, Päijät-Hämeen ja Etelä-Karjalan Kompassicup pariviesti",
     "location": "Kouvolan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20260810_Kaakon_Päijät-Hämeen_ja_Etelä-Karjalan_Kompassicup_pariviesti.ics",
+    "filename": "20260810_Kymenlaakson_Päijät-Hämeen_ja_Etelä-Karjalan_Kompassicup_pariviesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27747",
     "deadline": "6.8.2026",
     "matka": "",
@@ -485,7 +468,7 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260816__Pohjois-Pohjanmaan_Kompassi-viesti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27624",
-    "deadline": "",
+    "deadline": "9.8.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -593,6 +576,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-19",
+    "name": "Hämeen Kompassiviesti 2",
+    "location": "Hauhon Sisu",
+    "area": "Häme",
+    "filename": "20260819_Hämeen_Kompassiviesti_2.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27754",
+    "deadline": "16.8.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-22",
     "name": "** Nuorten Jukola",
     "location": "Kalevan Rasti Kontiolahden Urheilijat",
@@ -629,7 +628,7 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260822_Barents_Games_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27533",
-    "deadline": "",
+    "deadline": "17.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -677,7 +676,7 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260823_Barents_Games_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27534",
-    "deadline": "",
+    "deadline": "17.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -704,10 +703,10 @@
   },
   {
     "date": "2026-08-26",
-    "name": "Kaakon Kompassi-cup 4. osakilpailu",
+    "name": "Etelä-Karjalan Kompassi-cup 4. osakilpailu",
     "location": "Joutsenon Kullervo",
     "area": "Kaakko",
-    "filename": "20260826_Kaakon_Kompassi-cup_4_osakilpailu.ics",
+    "filename": "20260826_Etelä-Karjalan_Kompassi-cup_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27671",
     "deadline": "23.8.2026",
     "matka": "Keskimatka",
@@ -969,7 +968,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260909_Varsinais-Suomen_2_Kompassi-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27734",
-    "deadline": "",
+    "deadline": "5.9.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -1036,7 +1035,7 @@
     "area": "Kaakko",
     "filename": "20260918_KaaSun_am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27561",
-    "deadline": "",
+    "deadline": "13.9.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -1153,7 +1152,7 @@
     "area": "Savo-Karjala",
     "filename": "20260919_Savo-Karjalan_avoin_AM-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27559",
-    "deadline": "",
+    "deadline": "15.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -1170,7 +1169,7 @@
     "area": "Savo-Karjala",
     "filename": "20260919_Savo-Karjalan_avoin_AM-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27560",
-    "deadline": "",
+    "deadline": "15.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

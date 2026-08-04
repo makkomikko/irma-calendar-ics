@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Varsinais-Suomen 2. Kompassi-viesti
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-DTSTAMP:20260803T053423Z
+DTSTAMP:20260804T045600Z
 UID:irma-27734-20260909@suunnistusliitto.fi
 DESCRIPTION:Organizer: Loimaan Jankko
 LOCATION:Varsinais-Suomi (Loimaan Jankko)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27734
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Varsinais-Suomen 2. Kompassi-viest
+ i
+TRIGGER:20260904T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:** Pohjois-Pohjanmaan Kompassi-viesti (lähikilpailu)
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260803T053405Z
+DTSTAMP:20260804T045543Z
 UID:irma-27624-20260816@suunnistusliitto.fi
 DESCRIPTION:Organizer: SK Pohjantähti
 LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27624
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: ** Pohjois-Pohjanmaan Kompassi-vie
+ sti (lähikilpailu)
+TRIGGER:20260808T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

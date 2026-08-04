@@ -2,17 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Kaakon Kompassi-cup 4. osakilpailu
+SUMMARY:Etelä-Karjalan Kompassi-cup 4. osakilpailu
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260803T053409Z
+DTSTAMP:20260804T045550Z
 UID:irma-27671-20260826@suunnistusliitto.fi
 DESCRIPTION:Organizer: Joutsenon Kullervo
 LOCATION:Kaakko (Joutsenon Kullervo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27671
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Kaakon Kompassi-cup 4. osakilpailu
+DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Karjalan Kompassi-cup 4. os
+ akilpailu
 TRIGGER:20260822T090000Z
 END:VALARM
 END:VEVENT
