@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Avoin K-P:n ja ÖID:n AM-yö/Öppen K-P och ÖIDM Natt
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260804T045609Z
+DTSTAMP:20260805T045745Z
 UID:irma-27518-20260919@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot OK Botnia
 LOCATION:Tuntematon Alue (Kaustisen Pohjan-Veikot OK Botnia)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27518
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Avoin K-P:n ja ÖID:n AM-yö/Öppe
+ n K-P och ÖIDM Natt
+TRIGGER:20260913T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
