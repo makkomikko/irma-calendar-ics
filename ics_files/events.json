@@ -543,6 +543,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-18",
+    "name": "Nylands ungdomsserietävling US 3/Nuorisosarjakilpailu 3",
+    "location": "OK Trian",
+    "area": "FSO",
+    "filename": "20260818_Nylands_ungdomsserietävling_US_3Nuorisosarjakilpailu_3.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27765",
+    "deadline": "16.8.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-19",
     "name": "** Elosprintti ja avoin Uudenmaan AM-sprintti",
     "location": "Järvenpään Palo",
@@ -588,6 +604,20 @@
     "categories": [
       "Viesti"
     ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-08-19",
+    "name": "Kymenlaakson Kompassi-Cup, 3. osakilpailu",
+    "location": "Kouvolan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20260819_Kymenlaakson_Kompassi-Cup_3_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27756",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -773,7 +803,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260829__Kärppäjahti_ja_avoin_K-Pn_pitkä_matka_K-Pn_Kompassi-cupin_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27543",
-    "deadline": "",
+    "deadline": "24.8.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -870,6 +900,22 @@
     "area": "Kaakko",
     "filename": "20260901_Kymenlaakson_Kompassi-cup_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27693",
+    "deadline": "30.8.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-01",
+    "name": "Nylands ungdomsserietävling US5/Nuorisosarjakilpailu 5",
+    "location": "IF Sibbo-Vargarna",
+    "area": "FSO",
+    "filename": "20260901_Nylands_ungdomsserietävling_US5Nuorisosarjakilpailu_5.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27730",
     "deadline": "30.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
@@ -1228,6 +1274,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-09-20",
+    "name": "Åboland-Åland 2026",
+    "location": "IF Åland Kimito SF Nagu IF Pargas IF",
+    "area": "Tuntematon Alue",
+    "filename": "20260920_Åboland-Åland_2026.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27746",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-09-23",
     "name": "Avoin Satakunnan ja Varsinais-Suomen am-yö",
     "location": "Hiisirasti Köyliön Lallit Yläneen Kiri",
@@ -1268,7 +1330,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260926_Lasten_Halikko-juoksu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27389",
-    "deadline": "",
+    "deadline": "20.9.2026",
     "matka": "",
     "cancelled": false,
     "categories": [],
@@ -1282,7 +1344,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260926_Halikko-viesti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27390",
-    "deadline": "",
+    "deadline": "20.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

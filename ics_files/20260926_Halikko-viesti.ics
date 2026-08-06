@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Halikko-viesti
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260805T045753Z
+DTSTAMP:20260806T045811Z
 UID:irma-27390-20260926@suunnistusliitto.fi
 DESCRIPTION:Organizer: Angelniemen Ankkuri
 LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27390
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Halikko-viesti
+TRIGGER:20260919T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
