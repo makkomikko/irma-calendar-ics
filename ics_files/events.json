@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-08-06",
-    "name": "Sevetin Rastipäivä",
-    "location": "Holvastin Tana",
-    "area": "Tuntematon Alue",
-    "filename": "20260806_Sevetin_Rastipäivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27704",
-    "deadline": "2.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-08",
     "name": "Suomen Tunturisuunnistus 2026, 1.päivä",
     "location": "Lapin Sudet",
