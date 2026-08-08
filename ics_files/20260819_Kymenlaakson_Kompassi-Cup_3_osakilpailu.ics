@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Kymenlaakson Kompassi-Cup\, 3. osakilpailu
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260807T042005Z
+DTSTAMP:20260808T031723Z
 UID:irma-27756-20260819@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kouvolan Suunnistajat
 LOCATION:Kaakko (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27756
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kymenlaakson Kompassi-Cup\, 3. osa
+ kilpailu
+TRIGGER:20260816T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
