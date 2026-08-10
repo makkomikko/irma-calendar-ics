@@ -1,83 +1,5 @@
 [
   {
-    "date": "2026-08-09",
-    "name": "** Rakas-rastit aamupäivä",
-    "location": "Raja-Karjalan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260809__Rakas-rastit_aamupäivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27360",
-    "deadline": "3.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-09",
-    "name": "** Rakas-rastit iltapäivä",
-    "location": "Raja-Karjalan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260809__Rakas-rastit_iltapäivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27361",
-    "deadline": "3.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-09",
-    "name": "Suomen Tunturisuunnistus 2026, 2.päivä (ilmoittautuminen 1. päivän kautta)",
-    "location": "Lapin Sudet",
-    "area": "Lappi",
-    "filename": "20260809_Suomen_Tunturisuunnistus_2026_2päivä_ilmoittautuminen_1_päivän_kautta.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27476",
-    "deadline": "25.7.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-09",
-    "name": "Suomen Tunturisuunnistus 2026, henkilökohtaiset sarjat 2. päivä",
-    "location": "Lapin Sudet",
-    "area": "Lappi",
-    "filename": "20260809_Suomen_Tunturisuunnistus_2026_henkilökohtaiset_sarjat_2_päivä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27478",
-    "deadline": "25.7.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-09",
-    "name": "** Kainuun Kompassicup (lähikilpailu)",
-    "location": "Sotkamon Jymy",
-    "area": "Kainuu",
-    "filename": "20260809__Kainuun_Kompassicup_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27737",
-    "deadline": "5.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-10",
     "name": "Kymenlaakson, Päijät-Hämeen ja Etelä-Karjalan Kompassicup pariviesti",
     "location": "Kouvolan Suunnistajat",
@@ -660,7 +582,7 @@
     "area": "Kaakko",
     "filename": "20260825_Kymenlaakson_Kompassi-cup_2_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27771",
-    "deadline": "",
+    "deadline": "22.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -821,7 +743,7 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260830_Nuijamies-rastit_avoin_Pohjois-Pohjanmaan_am-keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27596",
-    "deadline": "",
+    "deadline": "24.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
