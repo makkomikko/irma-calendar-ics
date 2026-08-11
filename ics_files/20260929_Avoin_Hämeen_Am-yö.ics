@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Avoin Hämeen Am-yö
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260811T032709Z
+UID:irma-27770-20260929@suunnistusliitto.fi
+DESCRIPTION:Organizer: Koovee
+LOCATION:Häme (Koovee)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27770
+END:VEVENT
+END:VCALENDAR

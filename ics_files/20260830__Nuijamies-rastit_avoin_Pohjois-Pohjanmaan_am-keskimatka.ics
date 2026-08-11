@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Nuijamies-rastit\, avoin Pohjois-Pohjanmaan am-keskimatka
+SUMMARY:** Nuijamies-rastit\, avoin Pohjois-Pohjanmaan am-keskimatka
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260810T034429Z
+DTSTAMP:20260811T032654Z
 UID:irma-27596-20260830@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ylikiimingin Nuijamiehet
 LOCATION:Pohjois-Pohjanmaa (Ylikiimingin Nuijamiehet)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27596
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Nuijamies-rastit\, avoin Pohjois-P
- ohjanmaan am-keskimatka
+DESCRIPTION:Ilmoittautuminen päättyy: ** Nuijamies-rastit\, avoin Pohjoi
+ s-Pohjanmaan am-keskimatka
 TRIGGER:20260823T090000Z
 END:VALARM
 END:VEVENT

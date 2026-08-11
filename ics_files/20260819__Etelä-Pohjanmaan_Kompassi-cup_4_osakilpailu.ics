@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Etelä-Pohjanmaan Kompassi-cup 4. osakilpailu
+SUMMARY:** Etelä-Pohjanmaan Kompassi-cup 4. osakilpailu
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260810T034421Z
+DTSTAMP:20260811T032649Z
 UID:irma-27748-20260819@suunnistusliitto.fi
 DESCRIPTION:Organizer: Ähtärin Urheilijat
 LOCATION:Etelä-Pohjanmaa (Ähtärin Urheilijat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27748
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Pohjanmaan Kompassi-cup 4. 
- osakilpailu
+DESCRIPTION:Ilmoittautuminen päättyy: ** Etelä-Pohjanmaan Kompassi-cup 
+ 4. osakilpailu
 TRIGGER:20260814T090000Z
 END:VALARM
 END:VEVENT

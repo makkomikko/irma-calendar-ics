@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:SM-sprinttiviesti
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+DTSTAMP:20260811T032717Z
+UID:irma-27789-20270529@suunnistusliitto.fi
+DESCRIPTION:Organizer: Koovee
+LOCATION:Häme (Koovee)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27789
+END:VEVENT
+END:VCALENDAR
