@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "name": "** Hämeen Kompassi-Cup 4. osakilpailu (lähikilpailu)",
-    "location": "Kangasala SK",
-    "area": "Häme",
-    "filename": "20260811__Hämeen_Kompassi-Cup_4_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27677",
-    "deadline": "5.8.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-12",
     "name": "** Jalasjärven keskimatka",
     "location": "Jalasjärven Jalas",
@@ -561,10 +545,10 @@
   },
   {
     "date": "2026-08-25",
-    "name": "** Kymenlaakson Kompassi-cup 2. osakilpailu",
+    "name": "** Kymenlaakson Kompassi-cup 4. osakilpailu",
     "location": "Vehkalahden Veikot",
     "area": "Kaakko",
-    "filename": "20260825__Kymenlaakson_Kompassi-cup_2_osakilpailu.ics",
+    "filename": "20260825__Kymenlaakson_Kompassi-cup_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27771",
     "deadline": "22.8.2026",
     "matka": "Keskimatka",
