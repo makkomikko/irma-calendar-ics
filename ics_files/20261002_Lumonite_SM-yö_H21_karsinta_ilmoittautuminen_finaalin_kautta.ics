@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Lumonite SM-yö\, H21 karsinta (ilmoittautuminen finaalin kautta)
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260813T040204Z
+UID:irma-27809-20261002@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rasti 88 Yläneen Kiri
+LOCATION:Tuntematon Alue (Rasti 88 Yläneen Kiri)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27809
+END:VEVENT
+END:VCALENDAR

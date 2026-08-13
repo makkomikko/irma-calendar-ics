@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)
+SUMMARY:** Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260812T035716Z
+DTSTAMP:20260813T040141Z
 UID:irma-27716-20260817@suunnistusliitto.fi
 DESCRIPTION:Organizer: Rasti-Vihti
 LOCATION:Uusimaa (Rasti-Vihti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27716
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Uudenmaan Kompassi-cup 4. osakilpa
- ilu (lähikilpailu)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Uudenmaan Kompassi-cup 4. osaki
+ lpailu (lähikilpailu)
 TRIGGER:20260811T090000Z
 END:VALARM
 END:VEVENT

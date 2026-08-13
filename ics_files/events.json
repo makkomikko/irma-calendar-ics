@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "name": "** Jalasjärven keskimatka",
-    "location": "Jalasjärven Jalas",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260812__Jalasjärven_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27606",
-    "deadline": "7.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-12",
-    "name": "** Keski-Suomen Kompassi-cup 4",
-    "location": "Rasti E4",
-    "area": "Keski-Suomi",
-    "filename": "20260812__Keski-Suomen_Kompassi-cup_4.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27736",
-    "deadline": "9.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-13",
     "name": "Etelä-Karjalan ja Kymenlaakson Kompassi-cup osakilpailu (lähikilpailu)",
     "location": "Luumäen Rasti",
@@ -340,10 +308,10 @@
   },
   {
     "date": "2026-08-17",
-    "name": "Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)",
+    "name": "** Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)",
     "location": "Rasti-Vihti",
     "area": "Uusimaa",
-    "filename": "20260817_Uudenmaan_Kompassi-cup_4_osakilpailu_lähikilpailu.ics",
+    "filename": "20260817__Uudenmaan_Kompassi-cup_4_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27716",
     "deadline": "12.8.2026",
     "matka": "Keskimatka",
@@ -421,10 +389,10 @@
   },
   {
     "date": "2026-08-19",
-    "name": "Kymenlaakson Kompassi-Cup, 3. osakilpailu",
+    "name": "** Kymenlaakson Kompassi-Cup, 3. osakilpailu",
     "location": "Kouvolan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20260819_Kymenlaakson_Kompassi-Cup_3_osakilpailu.ics",
+    "filename": "20260819__Kymenlaakson_Kompassi-Cup_3_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27756",
     "deadline": "17.8.2026",
     "matka": "",
@@ -465,10 +433,10 @@
   },
   {
     "date": "2026-08-22",
-    "name": "Barents Games pitkä",
+    "name": "** Barents Games pitkä",
     "location": "SK Pohjantähti",
     "area": "Pohjois-Pohjanmaa",
-    "filename": "20260822_Barents_Games_pitkä.ics",
+    "filename": "20260822__Barents_Games_pitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27533",
     "deadline": "17.8.2026",
     "matka": "Pitkä",
@@ -513,10 +481,10 @@
   },
   {
     "date": "2026-08-23",
-    "name": "Barents Games keskimatka",
+    "name": "** Barents Games keskimatka",
     "location": "SK Pohjantähti",
     "area": "Pohjois-Pohjanmaa",
-    "filename": "20260823_Barents_Games_keskimatka.ics",
+    "filename": "20260823__Barents_Games_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27534",
     "deadline": "17.8.2026",
     "matka": "Keskimatka",
@@ -695,7 +663,7 @@
     "area": "Keski-Pohjanmaa",
     "filename": "20260830__Keski-Pohjanmaan_maakuntasuunnistus_ja_Kompassi-viesti_2.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27544",
-    "deadline": "",
+    "deadline": "24.8.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -723,10 +691,10 @@
   },
   {
     "date": "2026-09-01",
-    "name": "Kymenlaakson Kompassi-cup 5. osakilpailu",
+    "name": "** Kymenlaakson Kompassi-cup 5. osakilpailu",
     "location": "Kymin Suunnistajat",
     "area": "Kaakko",
-    "filename": "20260901_Kymenlaakson_Kompassi-cup_5_osakilpailu.ics",
+    "filename": "20260901__Kymenlaakson_Kompassi-cup_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27693",
     "deadline": "30.8.2026",
     "matka": "Keskimatka",
@@ -1221,7 +1189,7 @@
     "area": "Häme",
     "filename": "20260929_Avoin_Hämeen_Am-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27770",
-    "deadline": "",
+    "deadline": "24.9.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -1259,6 +1227,23 @@
     "cancelled": false,
     "categories": [
       "Yö"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-10-02",
+    "name": "Lumonite SM-yö, H21 karsinta (ilmoittautuminen finaalin kautta)",
+    "location": "Rasti 88 Yläneen Kiri",
+    "area": "Tuntematon Alue",
+    "filename": "20261002_Lumonite_SM-yö_H21_karsinta_ilmoittautuminen_finaalin_kautta.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27809",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "SM"
     ],
     "is_holiday": false,
     "holiday_name": ""
