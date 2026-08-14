@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "name": "Etelä-Karjalan ja Kymenlaakson Kompassi-cup osakilpailu (lähikilpailu)",
-    "location": "Luumäen Rasti",
-    "area": "Kaakko",
-    "filename": "20260813_Etelä-Karjalan_ja_Kymenlaakson_Kompassi-cup_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27745",
-    "deadline": "10.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-13",
-    "name": "** Varsinais-Suomen Kompassi-cup 4.osakilpailu (lähikilpailu)",
-    "location": "Turun Suunnistajat",
-    "area": "Varsinais-Suomi",
-    "filename": "20260813__Varsinais-Suomen_Kompassi-cup_4osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27753",
-    "deadline": "9.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-14",
     "name": "Öppna långa ÅM / ÅSW",
     "location": "IF Åland",
@@ -544,6 +512,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-08-26",
+    "name": "Päijät-Hämeen Kompassi-cup 3. osakilpailu (lähikilpailu)",
+    "location": "Rastivarsat",
+    "area": "Päijät-Häme",
+    "filename": "20260826_Päijät-Hämeen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27810",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-08-28",
     "name": "** KLL:n suunnistusmestaruuskilpailut, henkilökohtainen",
     "location": "Kuusamon Erä-Veikot",
@@ -911,7 +895,7 @@
     "area": "Kainuu",
     "filename": "20260918_Kainuun_avoin_AM-yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27622",
-    "deadline": "",
+    "deadline": "13.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -934,6 +918,22 @@
     "categories": [
       "Yö",
       "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-18",
+    "name": "Avoin Pohjois-Pohjanmaan AM Yö",
+    "location": "Laitasaaren Veto",
+    "area": "Pohjois-Pohjanmaa",
+    "filename": "20260918_Avoin_Pohjois-Pohjanmaan_AM_Yö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27799",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Yö"
     ],
     "is_holiday": false,
     "holiday_name": ""

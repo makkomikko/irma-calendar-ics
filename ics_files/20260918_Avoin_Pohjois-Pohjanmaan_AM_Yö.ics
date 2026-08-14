@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Avoin Pohjois-Pohjanmaan AM Yö
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260814T035731Z
+UID:irma-27799-20260918@suunnistusliitto.fi
+DESCRIPTION:Organizer: Laitasaaren Veto
+LOCATION:Pohjois-Pohjanmaa (Laitasaaren Veto)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27799
+END:VEVENT
+END:VCALENDAR
