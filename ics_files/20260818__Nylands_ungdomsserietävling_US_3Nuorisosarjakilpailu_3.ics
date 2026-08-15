@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Nylands ungdomsserietävling US 3/Nuorisosarjakilpailu 3
+SUMMARY:** Nylands ungdomsserietävling US 3/Nuorisosarjakilpailu 3
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260814T035718Z
+DTSTAMP:20260815T024425Z
 UID:irma-27765-20260818@suunnistusliitto.fi
 DESCRIPTION:Organizer: OK Trian
 LOCATION:FSO (OK Trian)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27765
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Nylands ungdomsserietävling US 3/
- Nuorisosarjakilpailu 3
+DESCRIPTION:Ilmoittautuminen päättyy: ** Nylands ungdomsserietävling US
+  3/Nuorisosarjakilpailu 3
 TRIGGER:20260815T090000Z
 END:VALARM
 END:VEVENT

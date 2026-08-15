@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Karjaa metsä- ja puistosprintti
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260814T035737Z
+DTSTAMP:20260815T024446Z
 UID:irma-27365-20260927@suunnistusliitto.fi
 DESCRIPTION:Organizer: Karjaan Ura
 LOCATION:Uusimaa (Karjaan Ura)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27365
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Karjaa metsä- ja puistosprintti
+TRIGGER:20260922T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

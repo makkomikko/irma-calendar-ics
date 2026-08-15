@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Uudenmaan Kompassi-cup 5. osakilpailu (lähikilpailu)
+SUMMARY:** Uudenmaan Kompassi-cup 5. osakilpailu (lähikilpailu)
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260814T035723Z
+DTSTAMP:20260815T024432Z
 UID:irma-27719-20260903@suunnistusliitto.fi
 DESCRIPTION:Organizer: Espoon Akilles
 LOCATION:Uusimaa (Espoon Akilles)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27719
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Uudenmaan Kompassi-cup 5. osakilpa
- ilu (lähikilpailu)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Uudenmaan Kompassi-cup 5. osaki
+ lpailu (lähikilpailu)
 TRIGGER:20260829T090000Z
 END:VALARM
 END:VEVENT
