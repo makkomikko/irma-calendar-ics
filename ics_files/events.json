@@ -1,134 +1,5 @@
 [
   {
-    "date": "2026-08-16",
-    "name": "Lakeuden Viesti, Viestiliigan 6. osakilpailu",
-    "location": "Kauhajoen Karhu OK Kristina",
-    "area": "Tuntematon Alue",
-    "filename": "20260816_Lakeuden_Viesti_Viestiliigan_6_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27383",
-    "deadline": "9.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "Viestiliiga"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "** Hämeen ja Keski-Suomen am-viesti",
-    "location": "Oriveden Ponnistus",
-    "area": "Häme",
-    "filename": "20260816__Hämeen_ja_Keski-Suomen_am-viesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27493",
-    "deadline": "9.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "** ÖIDM stafett",
-    "location": "OK Kristina",
-    "area": "FSO",
-    "filename": "20260816__ÖIDM_stafett.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27603",
-    "deadline": "9.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "** Etelä-Pohjanmaan AM Viesti",
-    "location": "Kauhajoen Karhu",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260816__Etelä-Pohjanmaan_AM_Viesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27609",
-    "deadline": "9.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "** Pohjois-Pohjanmaan Kompassi-viesti (lähikilpailu)",
-    "location": "SK Pohjantähti",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260816__Pohjois-Pohjanmaan_Kompassi-viesti_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27624",
-    "deadline": "9.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "AM-Viesti, Satakunta",
-    "location": "Vallan Suunta",
-    "area": "Satakunta",
-    "filename": "20260816_AM-Viesti_Satakunta.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27644",
-    "deadline": "9.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "** Öppen/Avoin NÅID-dag Medeldistans/Keskimatka",
-    "location": "IF Sibbo-Vargarna",
-    "area": "FSO",
-    "filename": "20260816__ÖppenAvoin_NÅID-dag_MedeldistansKeskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27724",
-    "deadline": "10.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-16",
-    "name": "** Öppen/Avoin NÅID-dag Stafett/Viesti",
-    "location": "IF Sibbo-Vargarna",
-    "area": "FSO",
-    "filename": "20260816__ÖppenAvoin_NÅID-dag_StafettViesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27725",
-    "deadline": "10.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-17",
     "name": "** Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)",
     "location": "Rasti-Vihti",
@@ -372,7 +243,7 @@
     "area": "Päijät-Häme",
     "filename": "20260826_Päijät-Hämeen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27810",
-    "deadline": "",
+    "deadline": "24.8.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
@@ -783,8 +654,8 @@
     "area": "Pohjois-Pohjanmaa",
     "filename": "20260918_Avoin_Pohjois-Pohjanmaan_AM_Yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27799",
-    "deadline": "",
-    "matka": "Keskimatka",
+    "deadline": "13.9.2026",
+    "matka": "",
     "cancelled": false,
     "categories": [
       "Yö"
@@ -832,7 +703,7 @@
     "area": "FSO",
     "filename": "20260919_ÖIDM_Sprint_-_Avoin_AM_sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27520",
-    "deadline": "",
+    "deadline": "14.9.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -914,7 +785,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20260920_XXXXI_Oravatonni.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27505",
-    "deadline": "",
+    "deadline": "13.9.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
