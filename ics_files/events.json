@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "name": "** Uudenmaan Kompassi-cup 4. osakilpailu (lähikilpailu)",
-    "location": "Rasti-Vihti",
-    "area": "Uusimaa",
-    "filename": "20260817__Uudenmaan_Kompassi-cup_4_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27716",
-    "deadline": "12.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-18",
     "name": "** Nylands ungdomsserietävling US 3/Nuorisosarjakilpailu 3",
     "location": "OK Trian",
@@ -1003,6 +987,22 @@
     "categories": [
       "Erikoispitkä",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Metsäsprintti (lähikilpailu)",
+    "location": "Paimion Rasti",
+    "area": "Varsinais-Suomi",
+    "filename": "20261025_Metsäsprintti_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27800",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
     ],
     "is_holiday": false,
     "holiday_name": ""
