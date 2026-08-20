@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Etelä-Pohjanmaan Kompassi-cup 5. osakilpailu
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260820T024944Z
+UID:irma-27892-20260908@suunnistusliitto.fi
+DESCRIPTION:Organizer: Lapuan Virkiä
+LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27892
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Pohjanmaan Kompassi-cup 5. 
+ osakilpailu
+TRIGGER:20260905T090000Z
+END:VALARM
+END:VEVENT
+END:VCALENDAR

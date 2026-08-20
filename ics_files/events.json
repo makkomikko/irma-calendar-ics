@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "name": "** Elosprintti ja avoin Uudenmaan AM-sprintti",
-    "location": "Järvenpään Palo",
-    "area": "Uusimaa",
-    "filename": "20260819__Elosprintti_ja_avoin_Uudenmaan_AM-sprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27437",
-    "deadline": "13.8.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-19",
-    "name": "** Etelä-Pohjanmaan Kompassi-cup 4. osakilpailu",
-    "location": "Ähtärin Urheilijat",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260819__Etelä-Pohjanmaan_Kompassi-cup_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27748",
-    "deadline": "15.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-19",
-    "name": "Hämeen Kompassiviesti 2",
-    "location": "Hauhon Sisu",
-    "area": "Häme",
-    "filename": "20260819_Hämeen_Kompassiviesti_2.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27754",
-    "deadline": "16.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-19",
-    "name": "** Kymenlaakson Kompassi-Cup, 3. osakilpailu",
-    "location": "Kouvolan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260819__Kymenlaakson_Kompassi-Cup_3_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27756",
-    "deadline": "17.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-22",
     "name": "** Nuorten Jukola",
     "location": "Kalevan Rasti Kontiolahden Urheilijat",
@@ -384,10 +321,10 @@
   },
   {
     "date": "2026-09-01",
-    "name": "Nylands ungdomsserietävling US5/Nuorisosarjakilpailu 5",
+    "name": "** Nylands ungdomsserietävling US5/Nuorisosarjakilpailu 5",
     "location": "IF Sibbo-Vargarna",
     "area": "FSO",
-    "filename": "20260901_Nylands_ungdomsserietävling_US5Nuorisosarjakilpailu_5.ics",
+    "filename": "20260901__Nylands_ungdomsserietävling_US5Nuorisosarjakilpailu_5.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27730",
     "deadline": "30.8.2026",
     "matka": "Keskimatka",
@@ -460,6 +397,22 @@
     "categories": [
       "Pitkä",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-08",
+    "name": "Etelä-Pohjanmaan Kompassi-cup 5. osakilpailu",
+    "location": "Lapuan Virkiä",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20260908_Etelä-Pohjanmaan_Kompassi-cup_5_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27892",
+    "deadline": "6.9.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -571,7 +524,7 @@
     "area": "Uusimaa",
     "filename": "20260918_AM-yö_Uusimaa_avoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27619",
-    "deadline": "",
+    "deadline": "13.9.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -876,6 +829,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-09-27",
+    "name": "Kainuun Kompassi-cup 4. osakilpailu",
+    "location": "Suomussalmen Rasti",
+    "area": "Kainuu",
+    "filename": "20260927_Kainuun_Kompassi-cup_4_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27891",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-09-29",
     "name": "Avoin Hämeen Am-yö",
     "location": "Koovee",
@@ -1077,7 +1046,7 @@
     "location": "Koovee",
     "area": "Häme",
     "filename": "20270529_SM-sprinttiviesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27789",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27833",
     "deadline": "",
     "matka": "Sprintti",
     "cancelled": false,

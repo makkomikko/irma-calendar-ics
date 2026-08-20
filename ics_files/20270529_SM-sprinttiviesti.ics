@@ -5,10 +5,10 @@ BEGIN:VEVENT
 SUMMARY:SM-sprinttiviesti
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-DTSTAMP:20260819T025242Z
-UID:irma-27789-20270529@suunnistusliitto.fi
+DTSTAMP:20260820T025005Z
+UID:irma-27833-20270529@suunnistusliitto.fi
 DESCRIPTION:Organizer: Koovee
 LOCATION:Häme (Koovee)
-URL:https://irma.suunnistusliitto.fi/public/competition/view/27789
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27833
 END:VEVENT
 END:VCALENDAR

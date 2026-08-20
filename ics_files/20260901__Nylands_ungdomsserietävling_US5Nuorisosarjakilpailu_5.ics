@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Nylands ungdomsserietävling US5/Nuorisosarjakilpailu 5
+SUMMARY:** Nylands ungdomsserietävling US5/Nuorisosarjakilpailu 5
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20260819T025220Z
+DTSTAMP:20260820T024942Z
 UID:irma-27730-20260901@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Sibbo-Vargarna
 LOCATION:FSO (IF Sibbo-Vargarna)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27730
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Nylands ungdomsserietävling US5/N
- uorisosarjakilpailu 5
+DESCRIPTION:Ilmoittautuminen päättyy: ** Nylands ungdomsserietävling US
+ 5/Nuorisosarjakilpailu 5
 TRIGGER:20260829T090000Z
 END:VALARM
 END:VEVENT
