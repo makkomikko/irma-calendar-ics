@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Avoin Satakunnan ja Varsinais-Suomen am-yö
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260821T025524Z
+DTSTAMP:20260822T024720Z
 UID:irma-27598-20260923@suunnistusliitto.fi
 DESCRIPTION:Organizer: Hiisirasti Köyliön Lallit Yläneen Kiri
 LOCATION:Tuntematon Alue (Hiisirasti Köyliön Lallit Yläneen Kiri)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27598
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Avoin Satakunnan ja Varsinais-Suom
+ en am-yö
+TRIGGER:20260916T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
