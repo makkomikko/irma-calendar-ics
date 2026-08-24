@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "name": "** Junioriliigan finaali ja valtakunnallinen Kompassi-tapahtuma",
-    "location": "Kalevan Rasti Kontiolahden Urheilijat",
-    "area": "Tuntematon Alue",
-    "filename": "20260823__Junioriliigan_finaali_ja_valtakunnallinen_Kompassi-tapahtuma.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26316",
-    "deadline": "16.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-23",
-    "name": "** Barents Games keskimatka",
-    "location": "SK Pohjantähti",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260823__Barents_Games_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27534",
-    "deadline": "17.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-25",
     "name": "Nylands ungdomsserietävling US 4/Nuorisosarjakilpailu 4",
     "location": "OK 77",
@@ -130,10 +98,10 @@
   },
   {
     "date": "2026-08-29",
-    "name": "Hakan tupla - keskimatka",
+    "name": "** Hakan tupla - keskimatka",
     "location": "Valkeakosken Haka",
     "area": "Häme",
-    "filename": "20260829_Hakan_tupla_-_keskimatka.ics",
+    "filename": "20260829__Hakan_tupla_-_keskimatka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27450",
     "deadline": "24.8.2026",
     "matka": "Keskimatka",
@@ -194,10 +162,10 @@
   },
   {
     "date": "2026-08-30",
-    "name": "Hakan tupla - pitkä matka",
+    "name": "** Hakan tupla - pitkä matka",
     "location": "Valkeakosken Haka",
     "area": "Häme",
-    "filename": "20260830_Hakan_tupla_-_pitkä_matka.ics",
+    "filename": "20260830__Hakan_tupla_-_pitkä_matka.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27451",
     "deadline": "24.8.2026",
     "matka": "Pitkä",
@@ -357,10 +325,10 @@
   },
   {
     "date": "2026-09-09",
-    "name": "Päijät-Hämeen Kompassi-cup 4. osakilpailu",
+    "name": "** Päijät-Hämeen Kompassi-cup 4. osakilpailu",
     "location": "Asikkalan Raikas",
     "area": "Päijät-Häme",
-    "filename": "20260909_Päijät-Hämeen_Kompassi-cup_4_osakilpailu.ics",
+    "filename": "20260909__Päijät-Hämeen_Kompassi-cup_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27710",
     "deadline": "",
     "matka": "Sprintti",
@@ -383,6 +351,22 @@
     "cancelled": false,
     "categories": [
       "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-10",
+    "name": "Etelä-Karjalan Kompassi-cup 5. osakilpailu",
+    "location": "Raja-Karjalan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20260910_Etelä-Karjalan_Kompassi-cup_5_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27888",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -665,6 +649,38 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-20",
+    "name": "Keski-Suomen Kompassi-cup 5. osakilpailu (lähikilpailu)",
+    "location": "Vihtavuoren Pamaus",
+    "area": "Keski-Suomi",
+    "filename": "20260920_Keski-Suomen_Kompassi-cup_5_osakilpailu_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27885",
+    "deadline": "17.9.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-09-20",
+    "name": "Keski-Suomen Kompassi-viesti 2. (lähikilpailu)",
+    "location": "Vihtavuoren Pamaus",
+    "area": "Keski-Suomi",
+    "filename": "20260920_Keski-Suomen_Kompassi-viesti_2_lähikilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27886",
+    "deadline": "17.9.2026",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
     ],
     "is_holiday": false,
     "holiday_name": ""
