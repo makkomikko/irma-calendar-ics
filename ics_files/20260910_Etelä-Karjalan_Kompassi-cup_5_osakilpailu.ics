@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Etelä-Karjalan Kompassi-cup 5. osakilpailu
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260825T025124Z
+DTSTAMP:20260826T025732Z
 UID:irma-27888-20260910@suunnistusliitto.fi
 DESCRIPTION:Organizer: Raja-Karjalan Suunnistajat
 LOCATION:Kaakko (Raja-Karjalan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27888
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Etelä-Karjalan Kompassi-cup 5. os
+ akilpailu
+TRIGGER:20260906T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

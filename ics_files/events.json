@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "name": "Nylands ungdomsserietävling US 4/Nuorisosarjakilpailu 4",
-    "location": "OK 77",
-    "area": "FSO",
-    "filename": "20260825_Nylands_ungdomsserietävling_US_4Nuorisosarjakilpailu_4.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27689",
-    "deadline": "23.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-25",
-    "name": "** Kymenlaakson Kompassi-cup 4. osakilpailu",
-    "location": "Vehkalahden Veikot",
-    "area": "Kaakko",
-    "filename": "20260825__Kymenlaakson_Kompassi-cup_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27771",
-    "deadline": "22.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-26",
     "name": "Etelä-Karjalan Kompassi-cup 4. osakilpailu",
     "location": "Joutsenon Kullervo",
@@ -362,7 +330,7 @@
     "area": "Kaakko",
     "filename": "20260910_Etelä-Karjalan_Kompassi-cup_5_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27888",
-    "deadline": "",
+    "deadline": "7.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
