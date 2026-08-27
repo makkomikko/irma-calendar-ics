@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Avoin Ep:n am-yösuunnistus
+SUMMARY:** Avoin Ep:n am-yösuunnistus
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260826T025732Z
+DTSTAMP:20260827T121054Z
 UID:irma-27670-20260918@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kauhavan Wisa
 LOCATION:Etelä-Pohjanmaa (Kauhavan Wisa)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27670
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Avoin Ep:n am-yösuunnistus
+DESCRIPTION:Ilmoittautuminen päättyy: ** Avoin Ep:n am-yösuunnistus
 TRIGGER:20280913T090000Z
 END:VALARM
 END:VEVENT

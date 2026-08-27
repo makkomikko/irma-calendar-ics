@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:** Päijät-Hämeen Kompassi-cup 4. osakilpailu
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-DTSTAMP:20260826T025730Z
+DTSTAMP:20260827T121054Z
 UID:irma-27710-20260909@suunnistusliitto.fi
 DESCRIPTION:Organizer: Asikkalan Raikas
 LOCATION:Päijät-Häme (Asikkalan Raikas)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27710
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: ** Päijät-Hämeen Kompassi-cup 4
+ . osakilpailu
+TRIGGER:20260906T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "name": "Etelä-Karjalan Kompassi-cup 4. osakilpailu",
-    "location": "Joutsenon Kullervo",
-    "area": "Kaakko",
-    "filename": "20260826_Etelä-Karjalan_Kompassi-cup_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27671",
-    "deadline": "23.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-26",
-    "name": "Päijät-Hämeen Kompassi-cup 3. osakilpailu (lähikilpailu)",
-    "location": "Rastivarsat",
-    "area": "Päijät-Häme",
-    "filename": "20260826_Päijät-Hämeen_Kompassi-cup_3_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27810",
-    "deadline": "24.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-08-28",
     "name": "** KLL:n suunnistusmestaruuskilpailut, henkilökohtainen",
     "location": "Kuusamon Erä-Veikot",
@@ -298,7 +266,7 @@
     "area": "Päijät-Häme",
     "filename": "20260909__Päijät-Hämeen_Kompassi-cup_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27710",
-    "deadline": "",
+    "deadline": "7.9.2026",
     "matka": "Sprintti",
     "cancelled": false,
     "categories": [
@@ -376,10 +344,10 @@
   },
   {
     "date": "2026-09-14",
-    "name": "Uudenmaan Kompassi-viesti 3 os (lähikilpailu,avoin)",
+    "name": "** Uudenmaan Kompassi-viesti 3 os (lähikilpailu,avoin)",
     "location": "Espoon Suunta",
     "area": "Uusimaa",
-    "filename": "20260914_Uudenmaan_Kompassi-viesti_3_os_lähikilpailuavoin.ics",
+    "filename": "20260914__Uudenmaan_Kompassi-viesti_3_os_lähikilpailuavoin.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27627",
     "deadline": "8.9.2026",
     "matka": "Sprintti",
@@ -443,10 +411,10 @@
   },
   {
     "date": "2026-09-18",
-    "name": "Avoin Ep:n am-yösuunnistus",
+    "name": "** Avoin Ep:n am-yösuunnistus",
     "location": "Kauhavan Wisa",
     "area": "Etelä-Pohjanmaa",
-    "filename": "20260918_Avoin_Epn_am-yösuunnistus.ics",
+    "filename": "20260918__Avoin_Epn_am-yösuunnistus.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27670",
     "deadline": "14.9.2028",
     "matka": "Keskimatka",
@@ -757,7 +725,7 @@
     "area": "Kainuu",
     "filename": "20260927_Kainuun_Kompassi-cup_4_osakilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27891",
-    "deadline": "",
+    "deadline": "24.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [

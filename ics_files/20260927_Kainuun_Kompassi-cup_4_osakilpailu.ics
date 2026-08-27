@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Kainuun Kompassi-cup 4. osakilpailu
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260826T025735Z
+DTSTAMP:20260827T121058Z
 UID:irma-27891-20260927@suunnistusliitto.fi
 DESCRIPTION:Organizer: Suomussalmen Rasti
 LOCATION:Kainuu (Suomussalmen Rasti)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27891
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Kainuun Kompassi-cup 4. osakilpail
+ u
+TRIGGER:20260923T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
