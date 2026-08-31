@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "name": "eGames keskimatka",
-    "location": "Espoon Suunta",
-    "area": "Uusimaa",
-    "filename": "20260830_eGames_keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27425",
-    "deadline": "23.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-30",
-    "name": "** Hakan tupla - pitkä matka",
-    "location": "Valkeakosken Haka",
-    "area": "Häme",
-    "filename": "20260830__Hakan_tupla_-_pitkä_matka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27451",
-    "deadline": "24.8.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-30",
-    "name": "** Keski-Pohjanmaan maakuntasuunnistus ja Kompassi-viesti 2",
-    "location": "Kokkolan Suunnistajat",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20260830__Keski-Pohjanmaan_maakuntasuunnistus_ja_Kompassi-viesti_2.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27544",
-    "deadline": "24.8.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-08-30",
-    "name": "** Nuijamies-rastit, avoin Pohjois-Pohjanmaan am-keskimatka",
-    "location": "Ylikiimingin Nuijamiehet",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260830__Nuijamies-rastit_avoin_Pohjois-Pohjanmaan_am-keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27596",
-    "deadline": "24.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-01",
     "name": "** Kymenlaakson Kompassi-cup 5. osakilpailu",
     "location": "Kymin Suunnistajat",
@@ -130,10 +65,10 @@
   },
   {
     "date": "2026-09-05",
-    "name": "SM-pitkä matka, karsinta (ilmoittautuminen kaikkiin sarjoihin finaalin kautta)",
+    "name": "SM-pitkä matka, karsinta",
     "location": "Posion Pyrintö",
     "area": "Lappi",
-    "filename": "20260905_SM-pitkä_matka_karsinta_ilmoittautuminen_kaikkiin_sarjoihin_finaalin_kautta.ics",
+    "filename": "20260905_SM-pitkä_matka_karsinta.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26703",
     "deadline": "",
     "matka": "Pitkä",
@@ -693,7 +628,7 @@
     "area": "Häme",
     "filename": "20261002_Seikkailujen_yö_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27686",
-    "deadline": "",
+    "deadline": "28.9.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -743,7 +678,7 @@
     "area": "Keski-Suomi",
     "filename": "20261017_SM-erikoispitkä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/26707",
-    "deadline": "",
+    "deadline": "8.10.2026",
     "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
