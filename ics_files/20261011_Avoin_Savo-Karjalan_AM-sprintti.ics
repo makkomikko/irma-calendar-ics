@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Avoin Savo-Karjalan AM-sprintti
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260901T070029Z
+UID:irma-27899-20261011@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kuopion Suunnistajat
+LOCATION:Savo-Karjala (Kuopion Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27899
+END:VEVENT
+END:VCALENDAR

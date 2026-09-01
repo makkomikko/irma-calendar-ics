@@ -672,6 +672,23 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-10-11",
+    "name": "Avoin Savo-Karjalan AM-sprintti",
+    "location": "Kuopion Suunnistajat",
+    "area": "Savo-Karjala",
+    "filename": "20261011_Avoin_Savo-Karjalan_AM-sprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27899",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Sprintti",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-10-17",
     "name": "SM-erikoispitkä",
     "location": "Suunta Jyväskylä",
