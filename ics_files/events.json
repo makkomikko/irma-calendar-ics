@@ -1,53 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "name": "** Kymenlaakson Kompassi-cup 5. osakilpailu",
-    "location": "Kymin Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260901__Kymenlaakson_Kompassi-cup_5_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27693",
-    "deadline": "30.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-01",
-    "name": "** Nylands ungdomsserietävling US5/Nuorisosarjakilpailu 5",
-    "location": "IF Sibbo-Vargarna",
-    "area": "FSO",
-    "filename": "20260901__Nylands_ungdomsserietävling_US5Nuorisosarjakilpailu_5.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27730",
-    "deadline": "30.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-01",
-    "name": "** Varsinais-Suomen Kompassi-Cup 5.osakilpailu",
-    "location": "RastiPiikkiö",
-    "area": "Varsinais-Suomi",
-    "filename": "20260901__Varsinais-Suomen_Kompassi-Cup_5osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27735",
-    "deadline": "28.8.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-03",
     "name": "** Uudenmaan Kompassi-cup 5. osakilpailu (lähikilpailu)",
     "location": "Espoon Akilles",
