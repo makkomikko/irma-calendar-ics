@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:KaaSu:n am-yö
+SUMMARY:Avoin KaaSu:n am-yö
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260904T064611Z
+DTSTAMP:20260905T063144Z
 UID:irma-27561-20260918@suunnistusliitto.fi
 DESCRIPTION:Organizer: Joutsenon Kullervo
 LOCATION:Kaakko (Joutsenon Kullervo)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27561
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: KaaSu:n am-yö
+DESCRIPTION:Ilmoittautuminen päättyy: Avoin KaaSu:n am-yö
 TRIGGER:20260912T090000Z
 END:VALARM
 END:VEVENT
