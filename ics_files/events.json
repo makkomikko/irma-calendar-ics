@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "name": "SM-pitkä matka, karsinta",
-    "location": "Posion Pyrintö",
-    "area": "Lappi",
-    "filename": "20260905_SM-pitkä_matka_karsinta.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26703",
-    "deadline": "",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-06",
     "name": "SM-pitkä matka, finaali",
     "location": "Posion Pyrintö",
