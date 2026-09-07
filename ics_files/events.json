@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "name": "SM-pitkä matka, finaali",
-    "location": "Posion Pyrintö",
-    "area": "Lappi",
-    "filename": "20260906_SM-pitkä_matka_finaali.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27501",
-    "deadline": "27.8.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-08",
     "name": "Etelä-Pohjanmaan Kompassi-cup 5. osakilpailu",
     "location": "Lapuan Virkiä",
