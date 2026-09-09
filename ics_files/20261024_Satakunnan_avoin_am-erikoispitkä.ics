@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Satakunnan avoin am-erikoispitkä
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260909T065438Z
+UID:irma-27903-20261024@suunnistusliitto.fi
+DESCRIPTION:Organizer: Suosmeren Salpa
+LOCATION:Satakunta (Suosmeren Salpa)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27903
+END:VEVENT
+END:VCALENDAR

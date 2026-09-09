@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "name": "Etelä-Pohjanmaan Kompassi-cup 5. osakilpailu",
-    "location": "Lapuan Virkiä",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260908_Etelä-Pohjanmaan_Kompassi-cup_5_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27892",
-    "deadline": "6.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-09",
     "name": "** Päijät-Hämeen Kompassi-cup 4. osakilpailu",
     "location": "Asikkalan Raikas",
@@ -216,10 +200,10 @@
   },
   {
     "date": "2026-09-19",
-    "name": "Avoin K-P:n ja ÖID:n AM-yö/Öppen K-P och ÖIDM Natt",
+    "name": "** Avoin K-P:n ja ÖID:n AM-yö/Öppen K-P och ÖIDM Natt",
     "location": "Kaustisen Pohjan-Veikot OK Botnia",
     "area": "Tuntematon Alue",
-    "filename": "20260919_Avoin_K-Pn_ja_ÖIDn_AM-yöÖppen_K-P_och_ÖIDM_Natt.ics",
+    "filename": "20260919__Avoin_K-Pn_ja_ÖIDn_AM-yöÖppen_K-P_och_ÖIDM_Natt.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27518",
     "deadline": "14.9.2026",
     "matka": "",
@@ -603,6 +587,23 @@
     "categories": [
       "Erikoispitkä",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-10-24",
+    "name": "Satakunnan avoin am-erikoispitkä",
+    "location": "Suosmeren Salpa",
+    "area": "Satakunta",
+    "filename": "20261024_Satakunnan_avoin_am-erikoispitkä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27903",
+    "deadline": "",
+    "matka": "Erikoispitkä",
+    "cancelled": false,
+    "categories": [
+      "Erikoispitkä",
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
