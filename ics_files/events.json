@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "name": "** Päijät-Hämeen Kompassi-cup 4. osakilpailu",
-    "location": "Asikkalan Raikas",
-    "area": "Päijät-Häme",
-    "filename": "20260909__Päijät-Hämeen_Kompassi-cup_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27710",
-    "deadline": "7.9.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-09",
-    "name": "** Varsinais-Suomen 2. Kompassi-viesti",
-    "location": "Loimaan Jankko",
-    "area": "Varsinais-Suomi",
-    "filename": "20260909__Varsinais-Suomen_2_Kompassi-viesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27734",
-    "deadline": "5.9.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-10",
     "name": "Etelä-Karjalan Kompassi-cup 5. osakilpailu",
     "location": "Raja-Karjalan Suunnistajat",
