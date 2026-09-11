@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "name": "Etelä-Karjalan Kompassi-cup 5. osakilpailu",
-    "location": "Raja-Karjalan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20260910_Etelä-Karjalan_Kompassi-cup_5_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27888",
-    "deadline": "7.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-12",
     "name": "SM-keskimatka (WRE)",
     "location": "Lynx",
