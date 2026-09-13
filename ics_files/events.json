@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "name": "SM-keskimatka (WRE)",
-    "location": "Lynx",
-    "area": "Uusimaa",
-    "filename": "20260912_SM-keskimatka_WRE.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26665",
-    "deadline": "3.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-13",
     "name": "SM-viesti / FM-stafett, Viestiliigan finaali",
     "location": "OK Raseborg",
