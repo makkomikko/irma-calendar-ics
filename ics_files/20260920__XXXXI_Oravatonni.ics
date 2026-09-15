@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:XXXXI Oravatonni
+SUMMARY:** XXXXI Oravatonni
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260914T072237Z
+DTSTAMP:20260915T065911Z
 UID:irma-27505-20260920@suunnistusliitto.fi
 DESCRIPTION:Organizer: Mynämäen Suunnistajat -52
 LOCATION:Varsinais-Suomi (Mynämäen Suunnistajat -52)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27505
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: XXXXI Oravatonni
+DESCRIPTION:Ilmoittautuminen päättyy: ** XXXXI Oravatonni
 TRIGGER:20260912T090000Z
 END:VALARM
 END:VEVENT

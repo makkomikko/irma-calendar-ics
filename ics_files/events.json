@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "name": "** Uudenmaan Kompassi-viesti 3 os (lähikilpailu,avoin)",
-    "location": "Espoon Suunta",
-    "area": "Uusimaa",
-    "filename": "20260914__Uudenmaan_Kompassi-viesti_3_os_lähikilpailuavoin.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27627",
-    "deadline": "8.9.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-18",
     "name": "Avoin KaaSu:n am-yö",
     "location": "Joutsenon Kullervo",
@@ -216,10 +200,10 @@
   },
   {
     "date": "2026-09-20",
-    "name": "XXXXI Oravatonni",
+    "name": "** XXXXI Oravatonni",
     "location": "Mynämäen Suunnistajat -52",
     "area": "Varsinais-Suomi",
-    "filename": "20260920_XXXXI_Oravatonni.ics",
+    "filename": "20260920__XXXXI_Oravatonni.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27505",
     "deadline": "13.9.2026",
     "matka": "Pitkä",
