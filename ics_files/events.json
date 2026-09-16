@@ -493,6 +493,23 @@
     "holiday_name": ""
   },
   {
+    "date": "2026-10-20",
+    "name": "Uudenmaan Kompassi sprinttiviesti",
+    "location": "Helsingin Suunnistajat",
+    "area": "Uusimaa",
+    "filename": "20261020_Uudenmaan_Kompassi_sprinttiviesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27914",
+    "deadline": "14.10.2026",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Viesti",
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2026-10-24",
     "name": "Satakunnan avoin am-erikoispitkä",
     "location": "Suosmeren Salpa",
