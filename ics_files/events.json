@@ -494,10 +494,10 @@
   },
   {
     "date": "2026-10-20",
-    "name": "Uudenmaan Kompassi sprinttiviesti",
+    "name": "Avoin Uudenmaan Kompassi sprinttiviesti (lähikilpailu)",
     "location": "Helsingin Suunnistajat",
     "area": "Uusimaa",
-    "filename": "20261020_Uudenmaan_Kompassi_sprinttiviesti.ics",
+    "filename": "20261020_Avoin_Uudenmaan_Kompassi_sprinttiviesti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27914",
     "deadline": "14.10.2026",
     "matka": "Sprintti",
@@ -565,7 +565,7 @@
     "area": "FSO",
     "filename": "20261031_Lasten_Raatojuoksu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27723",
-    "deadline": "",
+    "deadline": "25.10.2026",
     "matka": "Pitkä",
     "cancelled": false,
     "categories": [
@@ -581,7 +581,7 @@
     "area": "Häme",
     "filename": "20261101_XX_Jämi_Suunnistusmaraton.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27463",
-    "deadline": "",
+    "deadline": "26.10.2026",
     "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
