@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Oravatonni
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20260918T065556Z
+UID:irma-27815-20271003@suunnistusliitto.fi
+DESCRIPTION:Organizer: Mynämäen Suunnistajat -52
+LOCATION:Varsinais-Suomi (Mynämäen Suunnistajat -52)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27815
+END:VEVENT
+END:VCALENDAR

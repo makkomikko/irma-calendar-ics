@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Nuorten EM- ja MM-näyttökilpailu - Konttilan koukerot
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20260918T065424Z
+UID:irma-27865-20270522@suunnistusliitto.fi
+DESCRIPTION:Organizer: Hämeenlinnan Suunnistajat
+LOCATION:Häme (Hämeenlinnan Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27865
+END:VEVENT
+END:VCALENDAR

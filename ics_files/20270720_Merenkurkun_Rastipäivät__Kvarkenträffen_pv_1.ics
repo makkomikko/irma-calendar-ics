@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Merenkurkun Rastipäivät – Kvarkenträffen pv 1
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+DTSTAMP:20260918T065503Z
+UID:irma-27880-20270720@suunnistusliitto.fi
+DESCRIPTION:Organizer: IF Femman Malax IF Vaasan Suunnistajat
+LOCATION:Tuntematon Alue (IF Femman Malax IF Vaasan Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27880
+END:VEVENT
+END:VCALENDAR

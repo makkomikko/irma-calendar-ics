@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Pasi Ikosen rastit 1. pv ja avoin Pohjois-Pohjanmaan AM-keskimatka
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260918T065435Z
+UID:irma-27761-20270612@suunnistusliitto.fi
+DESCRIPTION:Organizer: SK Pohjantähti
+LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27761
+END:VEVENT
+END:VCALENDAR

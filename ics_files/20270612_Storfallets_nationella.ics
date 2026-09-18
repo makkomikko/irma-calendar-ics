@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Storfallets nationella
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260918T065437Z
+UID:irma-27816-20270612@suunnistusliitto.fi
+DESCRIPTION:Organizer: Solf IK
+LOCATION:FSO (Solf IK)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27816
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Nuorisoviesti 2027
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+DTSTAMP:20260918T065553Z
+UID:irma-27796-20271002@suunnistusliitto.fi
+DESCRIPTION:Organizer: Turun Suunnistajat
+LOCATION:Varsinais-Suomi (Turun Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27796
+END:VEVENT
+END:VCALENDAR

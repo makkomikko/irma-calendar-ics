@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:VetUn pitkä matka
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+DTSTAMP:20260918T065517Z
+UID:irma-27874-20270807@suunnistusliitto.fi
+DESCRIPTION:Organizer: Vetelin Urheilijat
+LOCATION:Keski-Pohjanmaa (Vetelin Urheilijat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27874
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Rajarastit\, tuplasprintti\, iltapäivä
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20260918T065523Z
+UID:irma-27864-20270808@suunnistusliitto.fi
+DESCRIPTION:Organizer: Joutsenon Kullervo
+LOCATION:Kaakko (Joutsenon Kullervo)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27864
+END:VEVENT
+END:VCALENDAR

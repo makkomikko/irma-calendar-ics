@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kärppäjahti
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+DTSTAMP:20260918T065410Z
+UID:irma-27828-20270514@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kokkolan Suunnistajat
+LOCATION:Keski-Pohjanmaa (Kokkolan Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27828
+END:VEVENT
+END:VCALENDAR

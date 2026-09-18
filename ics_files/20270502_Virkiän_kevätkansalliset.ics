@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Virkiän kevätkansalliset
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20260918T065357Z
+UID:irma-27868-20270502@suunnistusliitto.fi
+DESCRIPTION:Organizer: Lapuan Virkiä
+LOCATION:Etelä-Pohjanmaa (Lapuan Virkiä)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27868
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Vakka keskimatka
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+DTSTAMP:20260918T065518Z
+UID:irma-27906-20270807@suunnistusliitto.fi
+DESCRIPTION:Organizer: Vakka-Rasti
+LOCATION:Varsinais-Suomi (Vakka-Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27906
+END:VEVENT
+END:VCALENDAR

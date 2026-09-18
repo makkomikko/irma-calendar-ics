@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Hämeen AM-sprintti + Avoin Tampere Sprintti
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20260918T065519Z
+UID:irma-27817-20270808@suunnistusliitto.fi
+DESCRIPTION:Organizer: Tampereen Pyrintö
+LOCATION:Häme (Tampereen Pyrintö)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27817
+END:VEVENT
+END:VCALENDAR

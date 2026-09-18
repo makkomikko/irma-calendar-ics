@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Lynx-keskimatka
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20260918T065537Z
+UID:irma-27749-20270911@suunnistusliitto.fi
+DESCRIPTION:Organizer: Lynx
+LOCATION:Uusimaa (Lynx)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27749
+END:VEVENT
+END:VCALENDAR

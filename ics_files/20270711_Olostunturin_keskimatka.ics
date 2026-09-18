@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Olostunturin keskimatka
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+DTSTAMP:20260918T065455Z
+UID:irma-27801-20270711@suunnistusliitto.fi
+DESCRIPTION:Organizer: Tmi Omataivainen
+LOCATION:Lappi (Tmi Omataivainen)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27801
+END:VEVENT
+END:VCALENDAR

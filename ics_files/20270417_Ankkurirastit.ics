@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Ankkurirastit
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+DTSTAMP:20260918T065350Z
+UID:irma-27793-20270417@suunnistusliitto.fi
+DESCRIPTION:Organizer: Angelniemen Ankkuri
+LOCATION:Varsinais-Suomi (Angelniemen Ankkuri)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27793
+END:VEVENT
+END:VCALENDAR

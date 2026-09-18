@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Esi-Jukola eGames-viesti (Viestiliigan 5. osakilpailu)
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+DTSTAMP:20260918T065528Z
+UID:irma-27813-20270821@suunnistusliitto.fi
+DESCRIPTION:Organizer: Espoon Suunta
+LOCATION:Uusimaa (Espoon Suunta)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27813
+END:VEVENT
+END:VCALENDAR

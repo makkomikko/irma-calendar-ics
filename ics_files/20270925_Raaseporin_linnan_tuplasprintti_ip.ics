@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Raaseporin linnan tuplasprintti\, ip.
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+DTSTAMP:20260918T065550Z
+UID:irma-27916-20270925@suunnistusliitto.fi
+DESCRIPTION:Organizer: Karjaan Ura
+LOCATION:Uusimaa (Karjaan Ura)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27916
+END:VEVENT
+END:VCALENDAR

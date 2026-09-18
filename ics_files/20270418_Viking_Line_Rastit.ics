@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Viking Line Rastit
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20260918T065352Z
+UID:irma-27857-20270418@suunnistusliitto.fi
+DESCRIPTION:Organizer: Paimion Rasti
+LOCATION:Varsinais-Suomi (Paimion Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27857
+END:VEVENT
+END:VCALENDAR

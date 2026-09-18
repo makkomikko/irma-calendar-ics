@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:XXV Saaristorastit - Skärgårdsträffen
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20260918T065349Z
+UID:irma-27798-20270411@suunnistusliitto.fi
+DESCRIPTION:Organizer: Pargas IF
+LOCATION:FSO (Pargas IF)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27798
+END:VEVENT
+END:VCALENDAR

@@ -85,16 +85,17 @@
   },
   {
     "date": "2026-09-19",
-    "name": "** SM Keskimatka esikisa",
+    "name": "** SM-keskimatka esikisa",
     "location": "Kankaanpään Suunnistajat Rastikarhut",
     "area": "Tuntematon Alue",
-    "filename": "20260919__SM_Keskimatka_esikisa.ics",
+    "filename": "20260919__SM-keskimatka_esikisa.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27403",
     "deadline": "13.9.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
-      "Keskimatka"
+      "Keskimatka",
+      "SM"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -410,10 +411,10 @@
   },
   {
     "date": "2026-10-02",
-    "name": "Seikkailujen yö (lähikilpailu)",
+    "name": "** Seikkailujen yö (lähikilpailu)",
     "location": "Kangasala SK",
     "area": "Häme",
-    "filename": "20261002_Seikkailujen_yö_lähikilpailu.ics",
+    "filename": "20261002__Seikkailujen_yö_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27686",
     "deadline": "28.9.2026",
     "matka": "",
@@ -575,6 +576,68 @@
     "holiday_name": "All Saints' Day"
   },
   {
+    "date": "2026-10-31",
+    "name": "Salaperäinen seurataistelu 3.3 - maasto",
+    "location": "Kokemäen Kova-Väki Suunnistus Musta Mango Oy",
+    "area": "Tuntematon Alue",
+    "filename": "20261031_Salaperäinen_seurataistelu_33_-_maasto.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27907",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "All Saints' Day"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Salaperäinen seurataistelu 3.3 - sprintti",
+    "location": "Kokemäen Kova-Väki Suunnistus Musta Mango Oy",
+    "area": "Tuntematon Alue",
+    "filename": "20261031_Salaperäinen_seurataistelu_33_-_sprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27908",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": true,
+    "holiday_name": "All Saints' Day"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Salaperäinen seurataistelu 3.3 - sisäsuunnistus",
+    "location": "Kokemäen Kova-Väki Suunnistus Musta Mango Oy",
+    "area": "Tuntematon Alue",
+    "filename": "20261031_Salaperäinen_seurataistelu_33_-_sisäsuunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27909",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
+    "is_holiday": true,
+    "holiday_name": "All Saints' Day"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Salaperäinen seurataistelu 3.3 - yö",
+    "location": "Kokemäen Kova-Väki Suunnistus Musta Mango Oy",
+    "area": "Tuntematon Alue",
+    "filename": "20261031_Salaperäinen_seurataistelu_33_-_yö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27910",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Yö"
+    ],
+    "is_holiday": true,
+    "holiday_name": "All Saints' Day"
+  },
+  {
     "date": "2026-11-01",
     "name": "XX Jämi Suunnistusmaraton",
     "location": "Ikaalisten Nouseva-Voima",
@@ -586,6 +649,152 @@
     "cancelled": false,
     "categories": [
       "Erikoispitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Billnäsin keskimatka",
+    "location": "Karjaan Ura",
+    "area": "Uusimaa",
+    "filename": "20270327_Billnäsin_keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27757",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-03",
+    "name": "Stadi-sprintti ap",
+    "location": "Rasti-Jyry",
+    "area": "Uusimaa",
+    "filename": "20270403_Stadi-sprintti_ap.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27766",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-03",
+    "name": "Stadi-sprintti ip",
+    "location": "Rasti-Jyry",
+    "area": "Uusimaa",
+    "filename": "20270403_Stadi-sprintti_ip.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27767",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-04",
+    "name": "Kevätkansalliset",
+    "location": "Rasti-Lukko",
+    "area": "Satakunta",
+    "filename": "20270404_Kevätkansalliset.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27759",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-04",
+    "name": "Raaseporin kevätkilpailu - Raseborgs vårtävling",
+    "location": "OK Raseborg",
+    "area": "FSO",
+    "filename": "20270404_Raaseporin_kevätkilpailu_-_Raseborgs_vårtävling.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27786",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-10",
+    "name": "Kevätyön viesti 2027 (Viestiliigan 1. osakilpailu)",
+    "location": "Turun Suunnistajat",
+    "area": "Varsinais-Suomi",
+    "filename": "20270410_Kevätyön_viesti_2027_Viestiliigan_1_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27797",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "Viesti",
+      "Viestiliiga"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-11",
+    "name": "XXV Saaristorastit - Skärgårdsträffen",
+    "location": "Pargas IF",
+    "area": "FSO",
+    "filename": "20270411_XXV_Saaristorastit_-_Skärgårdsträffen.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27798",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-17",
+    "name": "Ankkurirastit",
+    "location": "Angelniemen Ankkuri",
+    "area": "Varsinais-Suomi",
+    "filename": "20270417_Ankkurirastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27793",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-04-18",
+    "name": "Viking Line Rastit",
+    "location": "Paimion Rasti",
+    "area": "Varsinais-Suomi",
+    "filename": "20270418_Viking_Line_Rastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27857",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -618,6 +827,491 @@
     "cancelled": false,
     "categories": [
       "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Virkiän kevätkansalliset",
+    "location": "Lapuan Virkiä",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270501_Virkiän_kevätkansalliset.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27867",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "May Day"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Vappurastit 2027",
+    "location": "SK Uusi",
+    "area": "Uusimaa",
+    "filename": "20270501_Vappurastit_2027.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27893",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "May Day"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Virkiän kevätkansalliset",
+    "location": "Lapuan Virkiä",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270502_Virkiän_kevätkansalliset.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27868",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Kisakallio-rastit",
+    "location": "Hiidenkiertäjät",
+    "area": "Uusimaa",
+    "filename": "20270506_Kisakallio-rastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27792",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Ascension Day"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Hela-Suunnistus",
+    "location": "Ikaalisten Nouseva-Voima",
+    "area": "Häme",
+    "filename": "20270506_Hela-Suunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27826",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Ascension Day"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Karstula-rastit",
+    "location": "Karstulan Kiva",
+    "area": "Keski-Suomi",
+    "filename": "20270506_Karstula-rastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27862",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Ascension Day"
+  },
+  {
+    "date": "2027-05-08",
+    "name": "54. Uudenmaan Rastipäivät",
+    "location": "Rajamäen Rykmentti",
+    "area": "Uusimaa",
+    "filename": "20270508_54_Uudenmaan_Rastipäivät.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27850",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-08",
+    "name": "KevätSuunnistus",
+    "location": "Kouvolan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20270508_KevätSuunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27853",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-08",
+    "name": "Avoin Etelä-Pohjanmaan am-pitkä",
+    "location": "Rasti-Jussit",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270508_Avoin_Etelä-Pohjanmaan_am-pitkä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27871",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-08",
+    "name": "Hakan keskimatka",
+    "location": "Valkeakosken Haka",
+    "area": "Häme",
+    "filename": "20270508_Hakan_keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27883",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Rakas-rastit sprintti aamupäivä",
+    "location": "Raja-Karjalan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20270509_Rakas-rastit_sprintti_aamupäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27842",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Rakas-rastit sprintti iltapäivä",
+    "location": "Raja-Karjalan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20270509_Rakas-rastit_sprintti_iltapäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27843",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-09",
+    "name": "54. Uudenmaan Rastipäivät",
+    "location": "Rajamäen Rykmentti",
+    "area": "Uusimaa",
+    "filename": "20270509_54_Uudenmaan_Rastipäivät.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27851",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-14",
+    "name": "Kärppäjahti",
+    "location": "Kokkolan Suunnistajat",
+    "area": "Keski-Pohjanmaa",
+    "filename": "20270514_Kärppäjahti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27828",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-15",
+    "name": "Alun toukotupla 1, päivä",
+    "location": "Järviseudun Rasti",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270515_Alun_toukotupla_1_päivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27772",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-15",
+    "name": "Voipiovuoren 10k€skimatka",
+    "location": "Suunta Jyväskylä",
+    "area": "Keski-Suomi",
+    "filename": "20270515_Voipiovuoren_10kskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27790",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-15",
+    "name": "28. Särkänniemi-suunnistus",
+    "location": "Koovee",
+    "area": "Häme",
+    "filename": "20270515_28_Särkänniemi-suunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27830",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-15",
+    "name": "Vehkalahden Veikkojen kevätkansalliset ja kaakon AM-keskimatka",
+    "location": "Vehkalahden Veikot",
+    "area": "Kaakko",
+    "filename": "20270515_Vehkalahden_Veikkojen_kevätkansalliset_ja_kaakon_AM-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27875",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-15",
+    "name": "Kaakon AM-viesti",
+    "location": "Vehkalahden Veikot",
+    "area": "Kaakko",
+    "filename": "20270515_Kaakon_AM-viesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27876",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Karkkirastit 2027, Uudenmaan am-keskimatka",
+    "location": "Karkki-Rasti",
+    "area": "Uusimaa",
+    "filename": "20270516_Karkkirastit_2027_Uudenmaan_am-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27764",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka",
+      "AM/FSOM"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Pentecost"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Alun toukotupla 2. päivä",
+    "location": "Järviseudun Rasti",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270516_Alun_toukotupla_2_päivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27773",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Pentecost"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "MC-näyttökilpailu H/D21",
+    "location": "Suunta Jyväskylä",
+    "area": "Keski-Suomi",
+    "filename": "20270516_MC-näyttökilpailu_HD21.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27791",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Pentecost"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Hämeen AM-keskimatka",
+    "location": "Oriveden Ponnistus",
+    "area": "Häme",
+    "filename": "20270516_Hämeen_AM-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27896",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka",
+      "AM/FSOM"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Pentecost"
+  },
+  {
+    "date": "2027-05-19",
+    "name": "XXIX Junnukisat",
+    "location": "Rasti-Nokia",
+    "area": "Häme",
+    "filename": "20270519_XXIX_Junnukisat.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27852",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-22",
+    "name": "Pahkan 120v. juhlakisa keskimatkalla",
+    "location": "Sonkajärven Pahka",
+    "area": "Savo-Karjala",
+    "filename": "20270522_Pahkan_120v_juhlakisa_keskimatkalla.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27752",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-22",
+    "name": "Luumäki-rastit 1. päivä",
+    "location": "Luumäen Rasti",
+    "area": "Kaakko",
+    "filename": "20270522_Luumäki-rastit_1_päivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27847",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-22",
+    "name": "Nuorten EM- ja MM-näyttökilpailu - Konttilan koukerot",
+    "location": "Hämeenlinnan Suunnistajat",
+    "area": "Häme",
+    "filename": "20270522_Nuorten_EM-_ja_MM-näyttökilpailu_-_Konttilan_koukerot.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27865",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-22",
+    "name": "Kirkkoharjun keskimatka",
+    "location": "Kaustisen Pohjan-Veikot",
+    "area": "Keski-Pohjanmaa",
+    "filename": "20270522_Kirkkoharjun_keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27879",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-23",
+    "name": "Luumäki-rastit 2. päivä",
+    "location": "Luumäen Rasti",
+    "area": "Kaakko",
+    "filename": "20270523_Luumäki-rastit_2_päivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27848",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-23",
+    "name": "Nuorten EM- ja MM-näyttökilpailu - Konttilan koukerot",
+    "location": "Hämeenlinnan Suunnistajat",
+    "area": "Häme",
+    "filename": "20270523_Nuorten_EM-_ja_MM-näyttökilpailu_-_Konttilan_koukerot.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27866",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -658,6 +1352,214 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-06-06",
+    "name": "Kuopion Viestiliiga (Viestiliigan 3. osakilpailu)",
+    "location": "Kuopion Suunnistajat",
+    "area": "Savo-Karjala",
+    "filename": "20270606_Kuopion_Viestiliiga_Viestiliigan_3_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27898",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti",
+      "Viestiliiga"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-09",
+    "name": "Ateno-yhteislähtö",
+    "location": "Kortesjärven Järvi-Veikot",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270609_Ateno-yhteislähtö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27844",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Pasi Ikosen rastit 1. pv ja avoin Pohjois-Pohjanmaan AM-keskimatka",
+    "location": "SK Pohjantähti",
+    "area": "Pohjois-Pohjanmaa",
+    "filename": "20270612_Pasi_Ikosen_rastit_1_pv_ja_avoin_Pohjois-Pohjanmaan_AM-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27761",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Helsinki O-Games",
+    "location": "Helsingin Suunnistajat",
+    "area": "Uusimaa",
+    "filename": "20270612_Helsinki_O-Games.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27811",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Storfallets nationella",
+    "location": "Solf IK",
+    "area": "FSO",
+    "filename": "20270612_Storfallets_nationella.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27816",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Ice Power -rastit 1. päivä",
+    "location": "Tampereen Pyrintö",
+    "area": "Häme",
+    "filename": "20270612_Ice_Power_-rastit_1_päivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27818",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-12",
+    "name": "60. Sisä-Suomen rastipäivät",
+    "location": "Rasti E4",
+    "area": "Keski-Suomi",
+    "filename": "20270612_60_Sisä-Suomen_rastipäivät.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27839",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-13",
+    "name": "Pasi Ikosen rastit 2. pv",
+    "location": "SK Pohjantähti",
+    "area": "Pohjois-Pohjanmaa",
+    "filename": "20270613_Pasi_Ikosen_rastit_2_pv.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27762",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-13",
+    "name": "Helsinki O-Games",
+    "location": "Helsingin Suunnistajat",
+    "area": "Uusimaa",
+    "filename": "20270613_Helsinki_O-Games.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27812",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-13",
+    "name": "Ice Power -rastit 2. päivä",
+    "location": "Tampereen Pyrintö",
+    "area": "Häme",
+    "filename": "20270613_Ice_Power_-rastit_2_päivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27819",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-13",
+    "name": "60 Sisä-Suomen rastipäivät",
+    "location": "Rasti E4",
+    "area": "Keski-Suomi",
+    "filename": "20270613_60_Sisä-Suomen_rastipäivät.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27840",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-13",
+    "name": "Sampan pariviesti",
+    "location": "Ylivieskan Kuula",
+    "area": "Keski-Pohjanmaa",
+    "filename": "20270613_Sampan_pariviesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27905",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-17",
+    "name": "Kajaanin keskimatka M21/W21",
+    "location": "Kajaanin Suunnistajat",
+    "area": "Kainuu",
+    "filename": "20270617_Kajaanin_keskimatka_M21W21.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27911",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-06-19",
     "name": "Jukolan viesti",
     "location": "Sotkamon Jymy",
@@ -674,6 +1576,38 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-06-24",
+    "name": "Kukkosuunnistus",
+    "location": "Laitilan Jyske",
+    "area": "Varsinais-Suomi",
+    "filename": "20270624_Kukkosuunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27904",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-03",
+    "name": "Karjaa-rastit",
+    "location": "Karjaan Ura",
+    "area": "Uusimaa",
+    "filename": "20270703_Karjaa-rastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27758",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-07-04",
     "name": "59. Kainuun Rastiviikko, Puolanka, 1. osakilpailu",
     "location": "Kainuun Rastiviikko ry Puolangan Ryhti",
@@ -685,6 +1619,22 @@
     "cancelled": false,
     "categories": [
       "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-04",
+    "name": "Ruukkirastit - Fiskarin Urheilijat 80 vuotta",
+    "location": "Fiskarin Urheilijat -47 OK Raseborg",
+    "area": "Tuntematon Alue",
+    "filename": "20270704_Ruukkirastit_-_Fiskarin_Urheilijat_80_vuotta.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27787",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -733,6 +1683,102 @@
     "cancelled": false,
     "categories": [
       "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-10",
+    "name": "Kesälaitumen Rastit",
+    "location": "Punkalaitumen Kunto",
+    "area": "Satakunta",
+    "filename": "20270710_Kesälaitumen_Rastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27841",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-10",
+    "name": "Lahti-Hollola Sprintti 1. kisa ap.",
+    "location": "Hollolan Urheilijat -46 Lahden Suunnistajat-37",
+    "area": "Tuntematon Alue",
+    "filename": "20270710_Lahti-Hollola_Sprintti_1_kisa_ap.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27858",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-10",
+    "name": "Lahti-Hollola Sprintti 2. kisa ip.",
+    "location": "Hollolan Urheilijat -46 Lahden Suunnistajat-37",
+    "area": "Tuntematon Alue",
+    "filename": "20270710_Lahti-Hollola_Sprintti_2_kisa_ip.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27859",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-11",
+    "name": "Olostunturin keskimatka",
+    "location": "Tmi Omataivainen",
+    "area": "Lappi",
+    "filename": "20270711_Olostunturin_keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27801",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-11",
+    "name": "Lahti-Hollola Sprintti 3. kisa ap.",
+    "location": "Hollolan Urheilijat -46 Lahden Suunnistajat-37",
+    "area": "Tuntematon Alue",
+    "filename": "20270711_Lahti-Hollola_Sprintti_3_kisa_ap.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27860",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-11",
+    "name": "Lahti-Hollola Sprintti 4. kisa ip.",
+    "location": "Hollolan Urheilijat -46 Lahden Suunnistajat-37",
+    "area": "Tuntematon Alue",
+    "filename": "20270711_Lahti-Hollola_Sprintti_4_kisa_ip.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27861",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -818,6 +1864,316 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-07-20",
+    "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 1",
+    "location": "IF Femman Malax IF Vaasan Suunnistajat",
+    "area": "Tuntematon Alue",
+    "filename": "20270720_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_1.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27880",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-21",
+    "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 2",
+    "location": "IF Femman Malax IF Vaasan Suunnistajat",
+    "area": "Tuntematon Alue",
+    "filename": "20270721_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_2.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27881",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-22",
+    "name": "Merenkurkun Rastipäivät – Kvarkenträffen pv 3",
+    "location": "IF Femman Malax IF Vaasan Suunnistajat",
+    "area": "Tuntematon Alue",
+    "filename": "20270722_Merenkurkun_Rastipäivät__Kvarkenträffen_pv_3.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27882",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-31",
+    "name": "Uudenmaan am-pitkä",
+    "location": "Rasti-Jyry",
+    "area": "Uusimaa",
+    "filename": "20270731_Uudenmaan_am-pitkä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27768",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-31",
+    "name": "Suomen Tunturisuunnistus 1. päivä, henkilökohtaiset sarjat",
+    "location": "Tmi Omataivainen",
+    "area": "Lappi",
+    "filename": "20270731_Suomen_Tunturisuunnistus_1_päivä_henkilökohtaiset_sarjat.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27802",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-31",
+    "name": "Suomen Tunturisuunnistus 2. päivä, parisarjat",
+    "location": "Tmi Omataivainen",
+    "area": "Lappi",
+    "filename": "20270731_Suomen_Tunturisuunnistus_2_päivä_parisarjat.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27804",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-31",
+    "name": "Tampere-suunnistus",
+    "location": "Koovee",
+    "area": "Häme",
+    "filename": "20270731_Tampere-suunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27831",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Uudenmaan am-viesti",
+    "location": "Rasti-Jyry",
+    "area": "Uusimaa",
+    "filename": "20270801_Uudenmaan_am-viesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27769",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Suomen Tunturisuunnistus 2. päivä, henkilökohtaiset sarjat",
+    "location": "Tmi Omataivainen",
+    "area": "Lappi",
+    "filename": "20270801_Suomen_Tunturisuunnistus_2_päivä_henkilökohtaiset_sarjat.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27803",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Suomen Tunturisuunnistus 2. päivä, parisarjat",
+    "location": "Tmi Omataivainen",
+    "area": "Lappi",
+    "filename": "20270801_Suomen_Tunturisuunnistus_2_päivä_parisarjat.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27805",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Tampere-suunnistus",
+    "location": "Koovee",
+    "area": "Häme",
+    "filename": "20270801_Tampere-suunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27832",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-06",
+    "name": "Avoin FSOM-sprint",
+    "location": "OK 77",
+    "area": "FSO",
+    "filename": "20270806_Avoin_FSOM-sprint.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27854",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "AM/FSOM",
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-07",
+    "name": "FSOM-långdistans",
+    "location": "OK 77",
+    "area": "FSO",
+    "filename": "20270807_FSOM-långdistans.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27855",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "AM/FSOM",
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-07",
+    "name": "VetUn pitkä matka",
+    "location": "Vetelin Urheilijat",
+    "area": "Keski-Pohjanmaa",
+    "filename": "20270807_VetUn_pitkä_matka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27874",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-07",
+    "name": "Vakka keskimatka",
+    "location": "Vakka-Rasti",
+    "area": "Varsinais-Suomi",
+    "filename": "20270807_Vakka_keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27906",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-08",
+    "name": "Hämeen AM-sprintti + Avoin Tampere Sprintti",
+    "location": "Tampereen Pyrintö",
+    "area": "Häme",
+    "filename": "20270808_Hämeen_AM-sprintti__Avoin_Tampere_Sprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27817",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-08",
+    "name": "FSOM-stafett",
+    "location": "OK 77",
+    "area": "FSO",
+    "filename": "20270808_FSOM-stafett.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27856",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "AM/FSOM",
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-08",
+    "name": "Rajarastit, tuplasprintti, aamupäivä",
+    "location": "Joutsenon Kullervo",
+    "area": "Kaakko",
+    "filename": "20270808_Rajarastit_tuplasprintti_aamupäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27863",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-08",
+    "name": "Rajarastit, tuplasprintti, iltapäivä",
+    "location": "Joutsenon Kullervo",
+    "area": "Kaakko",
+    "filename": "20270808_Rajarastit_tuplasprintti_iltapäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27864",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-08-14",
     "name": "Nuorten Jukola",
     "location": "Lapuan Virkiä",
@@ -843,6 +2199,153 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-15",
+    "name": "TUPLASPRINTTI 2027",
+    "location": "SK Uusi",
+    "area": "Uusimaa",
+    "filename": "20270815_TUPLASPRINTTI_2027.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27889",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-15",
+    "name": "TUPLASPRINTTI 2027, ip.",
+    "location": "SK Uusi",
+    "area": "Uusimaa",
+    "filename": "20270815_TUPLASPRINTTI_2027_ip.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27915",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-21",
+    "name": "Esi-Jukola eGames-viesti (Viestiliigan 5. osakilpailu)",
+    "location": "Espoon Suunta",
+    "area": "Uusimaa",
+    "filename": "20270821_Esi-Jukola_eGames-viesti_Viestiliigan_5_osakilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27813",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti",
+      "Viestiliiga"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-21",
+    "name": "Öppen ÖIDM medeldistans / Avoin ÖID keskimatka / OK Terjärv 50 år",
+    "location": "OK Botnia OK Terjärv",
+    "area": "Tuntematon Alue",
+    "filename": "20270821_Öppen_ÖIDM_medeldistans__Avoin_ÖID_keskimatka__OK_Terjärv_50_år.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27829",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-21",
+    "name": "Hämeen am-pitkä matka",
+    "location": "Valkeakosken Haka",
+    "area": "Häme",
+    "filename": "20270821_Hämeen_am-pitkä_matka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27884",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-22",
+    "name": "eGames",
+    "location": "Espoon Suunta",
+    "area": "Uusimaa",
+    "filename": "20270822_eGames.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27814",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-22",
+    "name": "Keski-Pohjanmaan maakuntaviesti / Mellersta Österbottens landskapsstafett",
+    "location": "OK Botnia OK Terjärv",
+    "area": "Tuntematon Alue",
+    "filename": "20270822_Keski-Pohjanmaan_maakuntaviesti__Mellersta_Österbottens_landskapsstafett.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27846",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-22",
+    "name": "Hämeen am-viesti",
+    "location": "Valkeakosken Haka",
+    "area": "Häme",
+    "filename": "20270822_Hämeen_am-viesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27887",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-25",
+    "name": "Lappajärvi-sprintti",
+    "location": "Kortesjärven Järvi-Veikot",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270825_Lappajärvi-sprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27845",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -877,6 +2380,135 @@
     "categories": [
       "Pitkä",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-11",
+    "name": "Lynx-keskimatka",
+    "location": "Lynx",
+    "area": "Uusimaa",
+    "filename": "20270911_Lynx-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27749",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-11",
+    "name": "Pohjantähti-sprintti aamupäivä",
+    "location": "SK Pohjantähti",
+    "area": "Pohjois-Pohjanmaa",
+    "filename": "20270911_Pohjantähti-sprintti_aamupäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27824",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-11",
+    "name": "Pohjantähti-sprintti iltapäivä",
+    "location": "SK Pohjantähti",
+    "area": "Pohjois-Pohjanmaa",
+    "filename": "20270911_Pohjantähti-sprintti_iltapäivä.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27825",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-12",
+    "name": "Espoosprintti 1. kilpailu",
+    "location": "Espoon Akilles Leppävaaran Sisu",
+    "area": "Tuntematon Alue",
+    "filename": "20270912_Espoosprintti_1_kilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27750",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-12",
+    "name": "Espoosprintti 2. kilpailu",
+    "location": "Espoon Akilles Leppävaaran Sisu",
+    "area": "Tuntematon Alue",
+    "filename": "20270912_Espoosprintti_2_kilpailu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27751",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-12",
+    "name": "RaJun tuplasprint ap.",
+    "location": "Rasti-Jussit",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270912_RaJun_tuplasprint_ap.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27872",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-12",
+    "name": "RaJun tuplasprint ip.",
+    "location": "Rasti-Jussit",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270912_RaJun_tuplasprint_ip.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27873",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-12",
+    "name": "Öppen ÖIDM sprint-Avoin am-sprintti",
+    "location": "IF Brahe",
+    "area": "FSO",
+    "filename": "20270912_Öppen_ÖIDM_sprint-Avoin_am-sprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27878",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti",
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -933,6 +2565,116 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-09-25",
+    "name": "Raaseporin linnan tuplasprintti",
+    "location": "Karjaan Ura",
+    "area": "Uusimaa",
+    "filename": "20270925_Raaseporin_linnan_tuplasprintti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27760",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-09-25",
+    "name": "Raaseporin linnan tuplasprintti, ip.",
+    "location": "Karjaan Ura",
+    "area": "Uusimaa",
+    "filename": "20270925_Raaseporin_linnan_tuplasprintti_ip.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27916",
+    "deadline": "",
+    "matka": "Sprintti",
+    "cancelled": false,
+    "categories": [
+      "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-02",
+    "name": "Nuorisoviesti 2027",
+    "location": "Turun Suunnistajat",
+    "area": "Varsinais-Suomi",
+    "filename": "20271002_Nuorisoviesti_2027.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27796",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-02",
+    "name": "Nordic Junior Cup, day 1 - Middle",
+    "location": "Tampereen Pyrintö",
+    "area": "Häme",
+    "filename": "20271002_Nordic_Junior_Cup_day_1_-_Middle.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27820",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-02",
+    "name": "Nordic Junior Cup, day 1 - Night Chase",
+    "location": "Tampereen Pyrintö",
+    "area": "Häme",
+    "filename": "20271002_Nordic_Junior_Cup_day_1_-_Night_Chase.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27821",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-03",
+    "name": "Oravatonni",
+    "location": "Mynämäen Suunnistajat -52",
+    "area": "Varsinais-Suomi",
+    "filename": "20271003_Oravatonni.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27815",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-03",
+    "name": "Nordic Junior Cup, day 2 - Relay",
+    "location": "Tampereen Pyrintö",
+    "area": "Häme",
+    "filename": "20271003_Nordic_Junior_Cup_day_2_-_Relay.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27822",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-10-16",
     "name": "SM-erikoispitkä",
     "location": "Saarijärven Pullistus",
@@ -945,6 +2687,54 @@
     "categories": [
       "Erikoispitkä",
       "SM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-23",
+    "name": "Halikko Viesti",
+    "location": "Angelniemen Ankkuri",
+    "area": "Varsinais-Suomi",
+    "filename": "20271023_Halikko_Viesti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27794",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Viesti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-23",
+    "name": "Lasten Halikko Juoksu",
+    "location": "Angelniemen Ankkuri",
+    "area": "Varsinais-Suomi",
+    "filename": "20271023_Lasten_Halikko_Juoksu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27795",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-24",
+    "name": "XXI Jämi Suunnistusmaraton",
+    "location": "Ikaalisten Nouseva-Voima",
+    "area": "Häme",
+    "filename": "20271024_XXI_Jämi_Suunnistusmaraton.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27827",
+    "deadline": "",
+    "matka": "Erikoispitkä",
+    "cancelled": false,
+    "categories": [
+      "Erikoispitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""

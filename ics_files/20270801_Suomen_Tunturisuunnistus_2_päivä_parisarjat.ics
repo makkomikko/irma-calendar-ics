@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Suomen Tunturisuunnistus 2. päivä\, parisarjat
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+DTSTAMP:20260918T065513Z
+UID:irma-27805-20270801@suunnistusliitto.fi
+DESCRIPTION:Organizer: Tmi Omataivainen
+LOCATION:Lappi (Tmi Omataivainen)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27805
+END:VEVENT
+END:VCALENDAR

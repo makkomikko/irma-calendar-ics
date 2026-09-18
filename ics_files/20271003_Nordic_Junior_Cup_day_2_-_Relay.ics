@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Nordic Junior Cup\, day 2 - Relay
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+DTSTAMP:20260918T065558Z
+UID:irma-27822-20271003@suunnistusliitto.fi
+DESCRIPTION:Organizer: Tampereen Pyrintö
+LOCATION:Häme (Tampereen Pyrintö)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27822
+END:VEVENT
+END:VCALENDAR

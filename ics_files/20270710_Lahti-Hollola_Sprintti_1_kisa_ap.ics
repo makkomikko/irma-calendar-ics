@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Lahti-Hollola Sprintti 1. kisa ap.
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+DTSTAMP:20260918T065453Z
+UID:irma-27858-20270710@suunnistusliitto.fi
+DESCRIPTION:Organizer: Hollolan Urheilijat -46 Lahden Suunnistajat-37
+LOCATION:Tuntematon Alue (Hollolan Urheilijat -46 Lahden Suunnistajat-37)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27858
+END:VEVENT
+END:VCALENDAR

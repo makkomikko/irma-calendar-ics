@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Sampan pariviesti
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+DTSTAMP:20260918T065445Z
+UID:irma-27905-20270613@suunnistusliitto.fi
+DESCRIPTION:Organizer: Ylivieskan Kuula
+LOCATION:Keski-Pohjanmaa (Ylivieskan Kuula)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27905
+END:VEVENT
+END:VCALENDAR

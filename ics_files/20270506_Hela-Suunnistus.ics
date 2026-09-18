@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Hela-Suunnistus
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260918T065401Z
+UID:irma-27826-20270506@suunnistusliitto.fi
+DESCRIPTION:Organizer: Ikaalisten Nouseva-Voima
+LOCATION:Häme (Ikaalisten Nouseva-Voima)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27826
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Keski-Pohjanmaan maakuntaviesti / Mellersta Österbottens landskap
+ sstafett
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+DTSTAMP:20260918T065532Z
+UID:irma-27846-20270822@suunnistusliitto.fi
+DESCRIPTION:Organizer: OK Botnia OK Terjärv
+LOCATION:Tuntematon Alue (OK Botnia OK Terjärv)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27846
+END:VEVENT
+END:VCALENDAR

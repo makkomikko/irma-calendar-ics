@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Salaperäinen seurataistelu 3.3 - maasto
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260918T065337Z
+UID:irma-27907-20261031@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kokemäen Kova-Väki Suunnistus Musta Mango Oy
+LOCATION:Tuntematon Alue (Kokemäen Kova-Väki Suunnistus Musta Mango Oy)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27907
+END:VEVENT
+END:VCALENDAR

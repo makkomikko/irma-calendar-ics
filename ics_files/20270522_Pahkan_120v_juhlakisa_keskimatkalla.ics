@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Pahkan 120v. juhlakisa keskimatkalla
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20260918T065422Z
+UID:irma-27752-20270522@suunnistusliitto.fi
+DESCRIPTION:Organizer: Sonkajärven Pahka
+LOCATION:Savo-Karjala (Sonkajärven Pahka)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27752
+END:VEVENT
+END:VCALENDAR

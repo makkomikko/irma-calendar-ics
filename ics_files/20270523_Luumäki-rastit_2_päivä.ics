@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Luumäki-rastit 2. päivä
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20260918T065426Z
+UID:irma-27848-20270523@suunnistusliitto.fi
+DESCRIPTION:Organizer: Luumäen Rasti
+LOCATION:Kaakko (Luumäen Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27848
+END:VEVENT
+END:VCALENDAR

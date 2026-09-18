@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Ice Power -rastit 1. päivä
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20260918T065438Z
+UID:irma-27818-20270612@suunnistusliitto.fi
+DESCRIPTION:Organizer: Tampereen Pyrintö
+LOCATION:Häme (Tampereen Pyrintö)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27818
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kirkkoharjun keskimatka
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20260918T065425Z
+UID:irma-27879-20270522@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kaustisen Pohjan-Veikot
+LOCATION:Keski-Pohjanmaa (Kaustisen Pohjan-Veikot)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27879
+END:VEVENT
+END:VCALENDAR

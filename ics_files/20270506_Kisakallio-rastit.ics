@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kisakallio-rastit
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260918T065358Z
+UID:irma-27792-20270506@suunnistusliitto.fi
+DESCRIPTION:Organizer: Hiidenkiertäjät
+LOCATION:Uusimaa (Hiidenkiertäjät)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27792
+END:VEVENT
+END:VCALENDAR

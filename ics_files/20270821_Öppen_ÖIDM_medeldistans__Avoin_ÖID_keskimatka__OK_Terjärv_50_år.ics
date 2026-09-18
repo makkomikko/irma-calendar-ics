@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Öppen ÖIDM medeldistans / Avoin ÖID keskimatka / OK Terjärv 50
+  år
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+DTSTAMP:20260918T065529Z
+UID:irma-27829-20270821@suunnistusliitto.fi
+DESCRIPTION:Organizer: OK Botnia OK Terjärv
+LOCATION:Tuntematon Alue (OK Botnia OK Terjärv)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27829
+END:VEVENT
+END:VCALENDAR

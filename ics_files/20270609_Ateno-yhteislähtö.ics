@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Ateno-yhteislähtö
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260918T065433Z
+UID:irma-27844-20270609@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kortesjärven Järvi-Veikot
+LOCATION:Etelä-Pohjanmaa (Kortesjärven Järvi-Veikot)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27844
+END:VEVENT
+END:VCALENDAR

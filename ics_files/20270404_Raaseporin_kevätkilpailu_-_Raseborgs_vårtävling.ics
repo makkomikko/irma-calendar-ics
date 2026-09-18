@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Raaseporin kevätkilpailu - Raseborgs vårtävling
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20260918T065347Z
+UID:irma-27786-20270404@suunnistusliitto.fi
+DESCRIPTION:Organizer: OK Raseborg
+LOCATION:FSO (OK Raseborg)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27786
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Pohjantähti-sprintti aamupäivä
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+DTSTAMP:20260918T065538Z
+UID:irma-27824-20270911@suunnistusliitto.fi
+DESCRIPTION:Organizer: SK Pohjantähti
+LOCATION:Pohjois-Pohjanmaa (SK Pohjantähti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27824
+END:VEVENT
+END:VCALENDAR

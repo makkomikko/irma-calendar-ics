@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:28. Särkänniemi-suunnistus
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20260918T065413Z
+UID:irma-27830-20270515@suunnistusliitto.fi
+DESCRIPTION:Organizer: Koovee
+LOCATION:Häme (Koovee)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27830
+END:VEVENT
+END:VCALENDAR

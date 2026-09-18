@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Kevätyön viesti 2027 (Viestiliigan 1. osakilpailu)
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20260918T065348Z
+UID:irma-27797-20270410@suunnistusliitto.fi
+DESCRIPTION:Organizer: Turun Suunnistajat
+LOCATION:Varsinais-Suomi (Turun Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27797
+END:VEVENT
+END:VCALENDAR

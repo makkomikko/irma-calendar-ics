@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Öppen ÖIDM sprint-Avoin am-sprintti
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260918T065545Z
+UID:irma-27878-20270912@suunnistusliitto.fi
+DESCRIPTION:Organizer: IF Brahe
+LOCATION:FSO (IF Brahe)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27878
+END:VEVENT
+END:VCALENDAR

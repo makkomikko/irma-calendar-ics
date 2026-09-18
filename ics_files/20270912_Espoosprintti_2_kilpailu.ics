@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Espoosprintti 2. kilpailu
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260918T065542Z
+UID:irma-27751-20270912@suunnistusliitto.fi
+DESCRIPTION:Organizer: Espoon Akilles Leppävaaran Sisu
+LOCATION:Tuntematon Alue (Espoon Akilles Leppävaaran Sisu)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27751
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:RaJun tuplasprint ap.
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+DTSTAMP:20260918T065543Z
+UID:irma-27872-20270912@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rasti-Jussit
+LOCATION:Etelä-Pohjanmaa (Rasti-Jussit)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27872
+END:VEVENT
+END:VCALENDAR

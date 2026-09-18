@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:54. Uudenmaan Rastipäivät
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20260918T065403Z
+UID:irma-27850-20270508@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rajamäen Rykmentti
+LOCATION:Uusimaa (Rajamäen Rykmentti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27850
+END:VEVENT
+END:VCALENDAR
