@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Rakas-rastit sprintti iltapäivä
+SUMMARY:Nuorten EM- ja MM-näyttökilpailu\, Rakas-rastit sprintti iltapä
+ ivä
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20260918T065408Z
+DTSTAMP:20260919T065256Z
 UID:irma-27843-20270509@suunnistusliitto.fi
 DESCRIPTION:Organizer: Raja-Karjalan Suunnistajat
 LOCATION:Kaakko (Raja-Karjalan Suunnistajat)

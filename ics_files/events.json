@@ -1,89 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "name": "Avoin KaaSu:n am-yö",
-    "location": "Joutsenon Kullervo",
-    "area": "Kaakko",
-    "filename": "20260918_Avoin_KaaSun_am-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27561",
-    "deadline": "13.9.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-18",
-    "name": "AM-yö Uusimaa, avoin",
-    "location": "Helsingin Suunnistajat",
-    "area": "Uusimaa",
-    "filename": "20260918_AM-yö_Uusimaa_avoin.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27619",
-    "deadline": "13.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-18",
-    "name": "Kainuun avoin AM-yö",
-    "location": "Kuhmon Peurat",
-    "area": "Kainuu",
-    "filename": "20260918_Kainuun_avoin_AM-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27622",
-    "deadline": "13.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-18",
-    "name": "** Avoin Ep:n am-yösuunnistus",
-    "location": "Kauhavan Wisa",
-    "area": "Etelä-Pohjanmaa",
-    "filename": "20260918__Avoin_Epn_am-yösuunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27670",
-    "deadline": "14.9.2028",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-18",
-    "name": "Avoin Pohjois-Pohjanmaan AM Yö",
-    "location": "Laitasaaren Veto",
-    "area": "Pohjois-Pohjanmaa",
-    "filename": "20260918_Avoin_Pohjois-Pohjanmaan_AM_Yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27799",
-    "deadline": "13.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-19",
     "name": "** SM-keskimatka esikisa",
     "location": "Kankaanpään Suunnistajat Rastikarhut",
@@ -994,10 +910,10 @@
   },
   {
     "date": "2027-05-09",
-    "name": "Rakas-rastit sprintti aamupäivä",
+    "name": "Nuorten EM- ja MM-näyttökilpailu, Rakas-rastit sprintti aamupäivä",
     "location": "Raja-Karjalan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20270509_Rakas-rastit_sprintti_aamupäivä.ics",
+    "filename": "20270509_Nuorten_EM-_ja_MM-näyttökilpailu_Rakas-rastit_sprintti_aamupäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27842",
     "deadline": "",
     "matka": "Sprintti",
@@ -1010,10 +926,10 @@
   },
   {
     "date": "2027-05-09",
-    "name": "Rakas-rastit sprintti iltapäivä",
+    "name": "Nuorten EM- ja MM-näyttökilpailu, Rakas-rastit sprintti iltapäivä",
     "location": "Raja-Karjalan Suunnistajat",
     "area": "Kaakko",
-    "filename": "20270509_Rakas-rastit_sprintti_iltapäivä.ics",
+    "filename": "20270509_Nuorten_EM-_ja_MM-näyttökilpailu_Rakas-rastit_sprintti_iltapäivä.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27843",
     "deadline": "",
     "matka": "Sprintti",
