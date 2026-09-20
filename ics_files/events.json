@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "name": "** SM-keskimatka esikisa",
-    "location": "Kankaanpään Suunnistajat Rastikarhut",
-    "area": "Tuntematon Alue",
-    "filename": "20260919__SM-keskimatka_esikisa.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27403",
-    "deadline": "13.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-19",
-    "name": "** Avoin K-P:n ja ÖID:n AM-yö/Öppen K-P och ÖIDM Natt",
-    "location": "Kaustisen Pohjan-Veikot OK Botnia",
-    "area": "Tuntematon Alue",
-    "filename": "20260919__Avoin_K-Pn_ja_ÖIDn_AM-yöÖppen_K-P_och_ÖIDM_Natt.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27518",
-    "deadline": "14.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-19",
-    "name": "ÖIDM Sprint - Avoin AM sprintti",
-    "location": "IK Falken",
-    "area": "FSO",
-    "filename": "20260919_ÖIDM_Sprint_-_Avoin_AM_sprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27520",
-    "deadline": "14.9.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-19",
-    "name": "Savo-Karjalan avoin AM-keskimatka",
-    "location": "Siilin Rasti",
-    "area": "Savo-Karjala",
-    "filename": "20260919_Savo-Karjalan_avoin_AM-keskimatka.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27559",
-    "deadline": "15.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-19",
-    "name": "Savo-Karjalan avoin AM-yö",
-    "location": "Siilin Rasti",
-    "area": "Savo-Karjala",
-    "filename": "20260919_Savo-Karjalan_avoin_AM-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27560",
-    "deadline": "15.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-19",
-    "name": "** Nuorisoviesti",
-    "location": "Turun Suunnistajat",
-    "area": "Varsinais-Suomi",
-    "filename": "20260919__Nuorisoviesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27563",
-    "deadline": "13.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-20",
     "name": "Hollola-rastit (Peruttu)",
     "location": "Hollolan Urheilijat -46",
@@ -466,7 +366,7 @@
     "area": "FSO",
     "filename": "20261031_Raatojuoksu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27722",
-    "deadline": "",
+    "deadline": "25.10.2026",
     "matka": "Erikoispitkä",
     "cancelled": false,
     "categories": [
