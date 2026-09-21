@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "name": "Hollola-rastit (Peruttu)",
-    "location": "Hollolan Urheilijat -46",
-    "area": "Päijät-Häme",
-    "filename": "20260920_Hollola-rastit_Peruttu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27485",
-    "deadline": "",
-    "matka": "Keskimatka",
-    "cancelled": true,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-20",
-    "name": "** XXXXI Oravatonni",
-    "location": "Mynämäen Suunnistajat -52",
-    "area": "Varsinais-Suomi",
-    "filename": "20260920__XXXXI_Oravatonni.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27505",
-    "deadline": "13.9.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-20",
-    "name": "Åboland-Åland 2026",
-    "location": "IF Åland Kimito SF Nagu IF Pargas IF",
-    "area": "Tuntematon Alue",
-    "filename": "20260920_Åboland-Åland_2026.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27746",
-    "deadline": "15.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-20",
-    "name": "** Keski-Suomen Kompassi-cup 5. osakilpailu (lähikilpailu)",
-    "location": "Vihtavuoren Pamaus",
-    "area": "Keski-Suomi",
-    "filename": "20260920__Keski-Suomen_Kompassi-cup_5_osakilpailu_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27885",
-    "deadline": "17.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-20",
-    "name": "** Keski-Suomen Kompassi-viesti 2. (lähikilpailu)",
-    "location": "Vihtavuoren Pamaus",
-    "area": "Keski-Suomi",
-    "filename": "20260920__Keski-Suomen_Kompassi-viesti_2_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27886",
-    "deadline": "17.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-23",
     "name": "Avoin Satakunnan ja Varsinais-Suomen am-yö",
     "location": "Hiisirasti Köyliön Lallit Yläneen Kiri",
@@ -216,7 +136,7 @@
     "area": "Uusimaa",
     "filename": "20261002_Kissojen_yö.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27659",
-    "deadline": "",
+    "deadline": "29.9.2026",
     "matka": "",
     "cancelled": false,
     "categories": [
@@ -350,7 +270,7 @@
     "area": "Varsinais-Suomi",
     "filename": "20261025_Metsäsprintti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27800",
-    "deadline": "",
+    "deadline": "20.10.2026",
     "matka": "Keskimatka",
     "cancelled": false,
     "categories": [
