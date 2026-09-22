@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Avoin Uudenmaan Kompassi sprinttiviesti (lähikilpailu)
+SUMMARY:** Avoin Uudenmaan Kompassi sprinttiviesti (lähikilpailu)
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260921T072630Z
+DTSTAMP:20260922T070451Z
 UID:irma-27914-20261020@suunnistusliitto.fi
 DESCRIPTION:Organizer: Helsingin Suunnistajat
 LOCATION:Uusimaa (Helsingin Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27914
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Avoin Uudenmaan Kompassi sprinttiv
- iesti (lähikilpailu)
+DESCRIPTION:Ilmoittautuminen päättyy: ** Avoin Uudenmaan Kompassi sprint
+ tiviesti (lähikilpailu)
 TRIGGER:20261013T090000Z
 END:VALARM
 END:VEVENT

@@ -5,10 +5,15 @@ BEGIN:VEVENT
 SUMMARY:Avoin Savo-Karjalan AM-sprintti
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260921T072630Z
+DTSTAMP:20260922T070451Z
 UID:irma-27899-20261011@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kuopion Suunnistajat
 LOCATION:Savo-Karjala (Kuopion Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27899
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Avoin Savo-Karjalan AM-sprintti
+TRIGGER:20261005T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR

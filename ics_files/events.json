@@ -202,8 +202,8 @@
     "area": "Savo-Karjala",
     "filename": "20261011_Avoin_Savo-Karjalan_AM-sprintti.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27899",
-    "deadline": "",
-    "matka": "",
+    "deadline": "6.10.2026",
+    "matka": "Sprintti",
     "cancelled": false,
     "categories": [
       "Sprintti",
@@ -231,10 +231,10 @@
   },
   {
     "date": "2026-10-20",
-    "name": "Avoin Uudenmaan Kompassi sprinttiviesti (lähikilpailu)",
+    "name": "** Avoin Uudenmaan Kompassi sprinttiviesti (lähikilpailu)",
     "location": "Helsingin Suunnistajat",
     "area": "Uusimaa",
-    "filename": "20261020_Avoin_Uudenmaan_Kompassi_sprinttiviesti_lähikilpailu.ics",
+    "filename": "20261020__Avoin_Uudenmaan_Kompassi_sprinttiviesti_lähikilpailu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27914",
     "deadline": "14.10.2026",
     "matka": "Sprintti",
@@ -601,6 +601,22 @@
   },
   {
     "date": "2027-05-02",
+    "name": "KevätSuunnistus",
+    "location": "Kouvolan Suunnistajat",
+    "area": "Kaakko",
+    "filename": "20270502_KevätSuunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27853",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-02",
     "name": "Virkiän kevätkansalliset",
     "location": "Lapuan Virkiä",
     "area": "Etelä-Pohjanmaa",
@@ -675,22 +691,6 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2027-05-08",
-    "name": "KevätSuunnistus",
-    "location": "Kouvolan Suunnistajat",
-    "area": "Kaakko",
-    "filename": "20270508_KevätSuunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27853",
-    "deadline": "",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""

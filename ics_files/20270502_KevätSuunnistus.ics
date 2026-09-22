@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:KevätSuunnistus
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-DTSTAMP:20260921T072656Z
-UID:irma-27853-20270508@suunnistusliitto.fi
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20260922T070516Z
+UID:irma-27853-20270502@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kouvolan Suunnistajat
 LOCATION:Kaakko (Kouvolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27853
