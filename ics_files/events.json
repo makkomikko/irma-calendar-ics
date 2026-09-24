@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "name": "Avoin Satakunnan ja Varsinais-Suomen am-yö",
-    "location": "Hiisirasti Köyliön Lallit Yläneen Kiri",
-    "area": "Tuntematon Alue",
-    "filename": "20260923_Avoin_Satakunnan_ja_Varsinais-Suomen_am-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27598",
-    "deadline": "17.9.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-25",
     "name": "Lapin am-yö (avoin)",
     "location": "Länsi-Rajan Rasti",
