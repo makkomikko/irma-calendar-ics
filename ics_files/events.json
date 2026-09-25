@@ -924,6 +924,22 @@
     "holiday_name": "Pentecost"
   },
   {
+    "date": "2027-05-16",
+    "name": "Ristivuoren kansallinen keskimatka",
+    "location": "Saloisten Reipas",
+    "area": "Pohjois-Pohjanmaa",
+    "filename": "20270516_Ristivuoren_kansallinen_keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27918",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": true,
+    "holiday_name": "Pentecost"
+  },
+  {
     "date": "2027-05-19",
     "name": "XXIX Junnukisat",
     "location": "Rasti-Nokia",
@@ -1950,6 +1966,23 @@
     "cancelled": false,
     "categories": [
       "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-18",
+    "name": "Varsinais-Suomen avoin am-keskimatka",
+    "location": "Paimion Rasti",
+    "area": "Varsinais-Suomi",
+    "filename": "20270818_Varsinais-Suomen_avoin_am-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27895",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka",
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
