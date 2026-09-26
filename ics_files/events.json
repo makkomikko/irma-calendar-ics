@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "name": "Lapin am-yö (avoin)",
-    "location": "Länsi-Rajan Rasti",
-    "area": "Lappi",
-    "filename": "20260925_Lapin_am-yö_avoin.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27729",
-    "deadline": "21.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-26",
     "name": "** Lasten Halikko-juoksu",
     "location": "Angelniemen Ankkuri",
@@ -1520,10 +1503,10 @@
   },
   {
     "date": "2027-07-12",
-    "name": "Fin5-suunnistusviikko 2027 1.pv",
+    "name": "Fin5-suunnistusviikko 2027 1. pv",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20270712_Fin5-suunnistusviikko_2027_1pv.ics",
+    "filename": "20270712_Fin5-suunnistusviikko_2027_1_pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27613",
     "deadline": "",
     "matka": "Keskimatka",
@@ -1536,10 +1519,10 @@
   },
   {
     "date": "2027-07-13",
-    "name": "Fin5-suunnistusviikko 2027 2.pv",
+    "name": "Fin5-suunnistusviikko 2027 2. pv",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20270713_Fin5-suunnistusviikko_2027_2pv.ics",
+    "filename": "20270713_Fin5-suunnistusviikko_2027_2_pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27614",
     "deadline": "",
     "matka": "Pitkä",
@@ -1552,10 +1535,10 @@
   },
   {
     "date": "2027-07-14",
-    "name": "Fin5-suunnistusviikko 2027 3.pv",
+    "name": "Fin5-suunnistusviikko 2027 3. pv",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20270714_Fin5-suunnistusviikko_2027_3pv.ics",
+    "filename": "20270714_Fin5-suunnistusviikko_2027_3_pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27615",
     "deadline": "",
     "matka": "Sprintti",
@@ -1568,10 +1551,10 @@
   },
   {
     "date": "2027-07-16",
-    "name": "Fin5-suunnistusviikko 2027 4.pv",
+    "name": "Fin5-suunnistusviikko 2027 4. pv",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20270716_Fin5-suunnistusviikko_2027_4pv.ics",
+    "filename": "20270716_Fin5-suunnistusviikko_2027_4_pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27616",
     "deadline": "",
     "matka": "Keskimatka",
@@ -1584,10 +1567,10 @@
   },
   {
     "date": "2027-07-17",
-    "name": "Fin5-suunnistusviikko 2027 5.pv",
+    "name": "Fin5-suunnistusviikko 2027 5. pv",
     "location": "Lappeen Riento",
     "area": "Kaakko",
-    "filename": "20270717_Fin5-suunnistusviikko_2027_5pv.ics",
+    "filename": "20270717_Fin5-suunnistusviikko_2027_5_pv.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27617",
     "deadline": "",
     "matka": "Pitkä",
