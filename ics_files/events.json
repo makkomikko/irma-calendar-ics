@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "name": "** Lasten Halikko-juoksu",
-    "location": "Angelniemen Ankkuri",
-    "area": "Varsinais-Suomi",
-    "filename": "20260926__Lasten_Halikko-juoksu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27389",
-    "deadline": "20.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-26",
-    "name": "** Halikko-viesti",
-    "location": "Angelniemen Ankkuri",
-    "area": "Varsinais-Suomi",
-    "filename": "20260926__Halikko-viesti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27390",
-    "deadline": "20.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Viesti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-27",
     "name": "Karjaa metsä- ja puistosprintti",
     "location": "Karjaan Ura",
