@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "name": "Karjaa metsä- ja puistosprintti",
-    "location": "Karjaan Ura",
-    "area": "Uusimaa",
-    "filename": "20260927_Karjaa_metsä-_ja_puistosprintti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27365",
-    "deadline": "23.9.2026",
-    "matka": "Sprintti",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-27",
-    "name": "GIF:s 75:te Tvåmila, ÖIDM ultra ja Keski-Pohjanmaan am-erikoispitkä",
-    "location": "Gamlakarleby IF",
-    "area": "FSO",
-    "filename": "20260927_GIFs_75te_Tvåmila_ÖIDM_ultra_ja_Keski-Pohjanmaan_am-erikoispitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27537",
-    "deadline": "22.9.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-09-27",
-    "name": "** Kainuun Kompassi-cup 4. osakilpailu",
-    "location": "Suomussalmen Rasti",
-    "area": "Kainuu",
-    "filename": "20260927__Kainuun_Kompassi-cup_4_osakilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27891",
-    "deadline": "24.9.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-09-29",
     "name": "Avoin Hämeen Am-yö",
     "location": "Koovee",
