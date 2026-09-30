@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-09-29",
-    "name": "Avoin Hämeen Am-yö",
-    "location": "Koovee",
-    "area": "Häme",
-    "filename": "20260929_Avoin_Hämeen_Am-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27770",
-    "deadline": "24.9.2026",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-10-02",
     "name": "Kissojen yö",
     "location": "Lynx",
@@ -665,14 +648,14 @@
   },
   {
     "date": "2027-05-14",
-    "name": "Kärppäjahti",
+    "name": "Kärppäjahti (Peruttu)",
     "location": "Kokkolan Suunnistajat",
     "area": "Keski-Pohjanmaa",
-    "filename": "20270514_Kärppäjahti.ics",
+    "filename": "20270514_Kärppäjahti_Peruttu.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27828",
     "deadline": "",
     "matka": "Keskimatka",
-    "cancelled": false,
+    "cancelled": true,
     "categories": [
       "Keskimatka"
     ],
