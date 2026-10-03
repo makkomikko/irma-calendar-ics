@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "name": "Kissojen yö",
-    "location": "Lynx",
-    "area": "Uusimaa",
-    "filename": "20261002_Kissojen_yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27659",
-    "deadline": "29.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-10-02",
-    "name": "** Seikkailujen yö (lähikilpailu)",
-    "location": "Kangasala SK",
-    "area": "Häme",
-    "filename": "20261002__Seikkailujen_yö_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27686",
-    "deadline": "28.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2026-10-02",
-    "name": "Lumonite SM-yö, H21 karsinta (ilmoittautuminen finaalin kautta)",
-    "location": "Rasti 88 Yläneen Kiri",
-    "area": "Tuntematon Alue",
-    "filename": "20261002_Lumonite_SM-yö_H21_karsinta_ilmoittautuminen_finaalin_kautta.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27809",
-    "deadline": "",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-10-03",
     "name": "Lumonite SM-yö",
     "location": "Rasti 88 Yläneen Kiri",
