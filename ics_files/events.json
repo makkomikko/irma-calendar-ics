@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "name": "Lumonite SM-yö",
-    "location": "Rasti 88 Yläneen Kiri",
-    "area": "Tuntematon Alue",
-    "filename": "20261003_Lumonite_SM-yö.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26670",
-    "deadline": "24.9.2026",
-    "matka": "",
-    "cancelled": false,
-    "categories": [
-      "Yö",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-10-11",
     "name": "Avoin Savo-Karjalan AM-sprintti",
     "location": "Kuopion Suunnistajat",
