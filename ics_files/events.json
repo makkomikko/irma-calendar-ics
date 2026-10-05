@@ -1859,6 +1859,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-08-21",
+    "name": "Lapin rastipäivät",
+    "location": "Länsi-Rajan Rasti",
+    "area": "Lappi",
+    "filename": "20270821_Lapin_rastipäivät.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27926",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-08-22",
     "name": "eGames",
     "location": "Espoon Suunta",
@@ -1903,6 +1919,22 @@
     "categories": [
       "Viesti",
       "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-22",
+    "name": "Lapin rastipäivät",
+    "location": "Länsi-Rajan Rasti",
+    "area": "Lappi",
+    "filename": "20270822_Lapin_rastipäivät.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27927",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""

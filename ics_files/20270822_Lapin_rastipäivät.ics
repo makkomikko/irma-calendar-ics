@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Lapin rastipäivät
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+DTSTAMP:20261005T080042Z
+UID:irma-27927-20270822@suunnistusliitto.fi
+DESCRIPTION:Organizer: Länsi-Rajan Rasti
+LOCATION:Lappi (Länsi-Rajan Rasti)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27927
+END:VEVENT
+END:VCALENDAR
