@@ -5,10 +5,16 @@ BEGIN:VEVENT
 SUMMARY:Salaperäinen seurataistelu 3.3 - sisäsuunnistus
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261007T075729Z
+DTSTAMP:20261008T081139Z
 UID:irma-27909-20261031@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kokemäen Kova-Väki Suunnistus Musta Mango Oy
 LOCATION:Tuntematon Alue (Kokemäen Kova-Väki Suunnistus Musta Mango Oy)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27909
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ilmoittautuminen päättyy: Salaperäinen seurataistelu 3.3 - 
+ sisäsuunnistus
+TRIGGER:20261025T090000Z
+END:VALARM
 END:VEVENT
 END:VCALENDAR
