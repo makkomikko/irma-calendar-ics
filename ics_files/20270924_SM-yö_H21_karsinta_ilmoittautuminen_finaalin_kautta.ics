@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:SM-yö\, H21 karsinta (ilmoittautuminen finaalin kautta)
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+DTSTAMP:20261010T075818Z
+UID:irma-27920-20270924@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kajaanin Suunnistajat
+LOCATION:Kainuu (Kajaanin Suunnistajat)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27920
+END:VEVENT
+END:VCALENDAR
