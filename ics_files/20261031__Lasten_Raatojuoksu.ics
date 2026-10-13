@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Lasten Raatojuoksu
+SUMMARY:** Lasten Raatojuoksu
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261012T081902Z
+DTSTAMP:20261013T084348Z
 UID:irma-27723-20261031@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Sibbo-Vargarna
 LOCATION:FSO (IF Sibbo-Vargarna)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27723
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ilmoittautuminen päättyy: Lasten Raatojuoksu
+DESCRIPTION:Ilmoittautuminen päättyy: ** Lasten Raatojuoksu
 TRIGGER:20261024T090000Z
 END:VALARM
 END:VEVENT
