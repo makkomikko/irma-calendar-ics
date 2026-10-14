@@ -1467,6 +1467,38 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-07-24",
+    "name": "Tampere-suunnistus",
+    "location": "Koovee",
+    "area": "Häme",
+    "filename": "20270724_Tampere-suunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27831",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Tampere-suunnistus",
+    "location": "Koovee",
+    "area": "Häme",
+    "filename": "20270725_Tampere-suunnistus.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27832",
+    "deadline": "",
+    "matka": "Pitkä",
+    "cancelled": false,
+    "categories": [
+      "Pitkä"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-07-31",
     "name": "Uudenmaan am-pitkä",
     "location": "Rasti-Jyry",
@@ -1516,22 +1548,6 @@
     "holiday_name": ""
   },
   {
-    "date": "2027-07-31",
-    "name": "Tampere-suunnistus",
-    "location": "Koovee",
-    "area": "Häme",
-    "filename": "20270731_Tampere-suunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27831",
-    "deadline": "",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2027-08-01",
     "name": "Uudenmaan am-viesti",
     "location": "Rasti-Jyry",
@@ -1571,22 +1587,6 @@
     "area": "Lappi",
     "filename": "20270801_Suomen_Tunturisuunnistus_2_päivä_parisarjat.ics",
     "link": "https://irma.suunnistusliitto.fi/public/competition/view/27805",
-    "deadline": "",
-    "matka": "Pitkä",
-    "cancelled": false,
-    "categories": [
-      "Pitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
-    "date": "2027-08-01",
-    "name": "Tampere-suunnistus",
-    "location": "Koovee",
-    "area": "Häme",
-    "filename": "20270801_Tampere-suunnistus.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27832",
     "deadline": "",
     "matka": "Pitkä",
     "cancelled": false,
