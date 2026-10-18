@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "name": "SM-erikoispitkä",
-    "location": "Suunta Jyväskylä",
-    "area": "Keski-Suomi",
-    "filename": "20261017_SM-erikoispitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/26707",
-    "deadline": "8.10.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä",
-      "SM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-10-20",
     "name": "** Avoin Uudenmaan Kompassi sprinttiviesti (lähikilpailu)",
     "location": "Helsingin Suunnistajat",
@@ -173,6 +156,20 @@
     "categories": [
       "Erikoispitkä"
     ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2026-11-07",
+    "name": "29. Valopäärastit",
+    "location": "Eurajoen Veikot",
+    "area": "Satakunta",
+    "filename": "20261107_29_Valopäärastit.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27932",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },
@@ -1143,6 +1140,20 @@
     "categories": [
       "Keskimatka"
     ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-06-29",
+    "name": "ÖID:s Ekorrstigfinal",
+    "location": "IK Kronan",
+    "area": "FSO",
+    "filename": "20270629_ÖIDs_Ekorrstigfinal.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27931",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [],
     "is_holiday": false,
     "holiday_name": ""
   },

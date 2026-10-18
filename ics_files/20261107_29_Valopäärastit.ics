@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:29. Valopäärastit
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261018T064904Z
+UID:irma-27932-20261107@suunnistusliitto.fi
+DESCRIPTION:Organizer: Eurajoen Veikot
+LOCATION:Satakunta (Eurajoen Veikot)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27932
+END:VEVENT
+END:VCALENDAR

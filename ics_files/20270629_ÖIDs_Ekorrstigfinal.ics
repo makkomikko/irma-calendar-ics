@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:ÖID:s Ekorrstigfinal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+DTSTAMP:20261018T065015Z
+UID:irma-27931-20270629@suunnistusliitto.fi
+DESCRIPTION:Organizer: IK Kronan
+LOCATION:FSO (IK Kronan)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27931
+END:VEVENT
+END:VCALENDAR

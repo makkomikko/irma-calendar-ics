@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Ristivuoren kansallinen keskimatka
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-DTSTAMP:20261017T062530Z
+DTSTAMP:20261018T064945Z
 UID:irma-27918-20270516@suunnistusliitto.fi
 DESCRIPTION:Organizer: Saloisten Reipas
 LOCATION:Pohjois-Pohjanmaa (Saloisten Reipas)
