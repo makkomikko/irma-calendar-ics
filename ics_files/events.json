@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "name": "Satakunnan avoin am-erikoispitkä",
-    "location": "Suosmeren Salpa",
-    "area": "Satakunta",
-    "filename": "20261024_Satakunnan_avoin_am-erikoispitkä.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27903",
-    "deadline": "20.10.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä",
-      "AM/FSOM"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-10-25",
     "name": "** Metsäsprintti (lähikilpailu)",
     "location": "Paimion Rasti",
