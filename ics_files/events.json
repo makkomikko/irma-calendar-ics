@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "name": "** Metsäsprintti (lähikilpailu)",
-    "location": "Paimion Rasti",
-    "area": "Varsinais-Suomi",
-    "filename": "20261025__Metsäsprintti_lähikilpailu.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27800",
-    "deadline": "20.10.2026",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Sprintti"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-10-31",
     "name": "Raatojuoksu",
     "location": "IF Sibbo-Vargarna",
