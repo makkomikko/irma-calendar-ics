@@ -1,21 +1,5 @@
 [
   {
-    "date": "2026-11-01",
-    "name": "XX Jämi Suunnistusmaraton",
-    "location": "Ikaalisten Nouseva-Voima",
-    "area": "Häme",
-    "filename": "20261101_XX_Jämi_Suunnistusmaraton.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27463",
-    "deadline": "26.10.2026",
-    "matka": "Erikoispitkä",
-    "cancelled": false,
-    "categories": [
-      "Erikoispitkä"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2026-11-07",
     "name": "29. Valopäärastit",
     "location": "Eurajoen Veikot",
@@ -720,6 +704,23 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-05-23",
+    "name": "Avoin EP:n am-keskimatka",
+    "location": "Rastiketut",
+    "area": "Etelä-Pohjanmaa",
+    "filename": "20270523_Avoin_EPn_am-keskimatka.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27936",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka",
+      "AM/FSOM"
     ],
     "is_holiday": false,
     "holiday_name": ""
@@ -2158,6 +2159,22 @@
     "cancelled": false,
     "categories": [
       "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-10-03",
+    "name": "GIF:s 76:e Tvåmila, ÖIDM ultra",
+    "location": "Gamlakarleby IF",
+    "area": "FSO",
+    "filename": "20271003_GIFs_76e_Tvåmila_ÖIDM_ultra.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27939",
+    "deadline": "",
+    "matka": "Erikoispitkä",
+    "cancelled": false,
+    "categories": [
+      "Erikoispitkä"
     ],
     "is_holiday": false,
     "holiday_name": ""

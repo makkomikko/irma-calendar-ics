@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Avoin EP:n am-keskimatka
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261102T083954Z
+UID:irma-27936-20270523@suunnistusliitto.fi
+DESCRIPTION:Organizer: Rastiketut
+LOCATION:Etelä-Pohjanmaa (Rastiketut)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27936
+END:VEVENT
+END:VCALENDAR
