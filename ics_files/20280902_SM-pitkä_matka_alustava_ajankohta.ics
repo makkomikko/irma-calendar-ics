@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:SM-pitkä matka (alustava ajankohta)
 DTSTART;VALUE=DATE:20280902
 DTEND;VALUE=DATE:20280903
-DTSTAMP:20261102T084158Z
+DTSTAMP:20261103T085325Z
 UID:irma-27486-20280902@suunnistusliitto.fi
 DESCRIPTION:Organizer: IF Femman Vaasan Suunnistajat
 LOCATION:Tuntematon Alue (IF Femman Vaasan Suunnistajat)
