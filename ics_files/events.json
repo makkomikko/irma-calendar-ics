@@ -2006,6 +2006,23 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-09-21",
+    "name": "Avoin Uudenmaan AM-yö",
+    "location": "Järvenpään Palo",
+    "area": "Uusimaa",
+    "filename": "20270921_Avoin_Uudenmaan_AM-yö.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27945",
+    "deadline": "",
+    "matka": "",
+    "cancelled": false,
+    "categories": [
+      "Yö",
+      "AM/FSOM"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-09-24",
     "name": "SM-yö, H21 karsinta (ilmoittautuminen finaalin kautta)",
     "location": "Kajaanin Suunnistajat",

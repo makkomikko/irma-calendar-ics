@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Avoin Uudenmaan AM-yö
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+DTSTAMP:20261112T090125Z
+UID:irma-27945-20270921@suunnistusliitto.fi
+DESCRIPTION:Organizer: Järvenpään Palo
+LOCATION:Uusimaa (Järvenpään Palo)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27945
+END:VEVENT
+END:VCALENDAR
