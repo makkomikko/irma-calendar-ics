@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
 SUMMARY:Kärppäjahti
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
-DTSTAMP:20261117T095522Z
-UID:irma-27922-20270509@suunnistusliitto.fi
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20261118T093336Z
+UID:irma-27922-20270808@suunnistusliitto.fi
 DESCRIPTION:Organizer: Kokkolan Suunnistajat
 LOCATION:Keski-Pohjanmaa (Kokkolan Suunnistajat)
 URL:https://irma.suunnistusliitto.fi/public/competition/view/27922

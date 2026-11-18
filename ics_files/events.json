@@ -387,22 +387,6 @@
     "holiday_name": ""
   },
   {
-    "date": "2027-05-09",
-    "name": "Kärppäjahti",
-    "location": "Kokkolan Suunnistajat",
-    "area": "Keski-Pohjanmaa",
-    "filename": "20270509_Kärppäjahti.ics",
-    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27922",
-    "deadline": "",
-    "matka": "Keskimatka",
-    "cancelled": false,
-    "categories": [
-      "Keskimatka"
-    ],
-    "is_holiday": false,
-    "holiday_name": ""
-  },
-  {
     "date": "2027-05-14",
     "name": "Kärppäjahti (Peruttu)",
     "location": "Kokkolan Suunnistajat",
@@ -1578,6 +1562,22 @@
     "cancelled": false,
     "categories": [
       "Sprintti"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
+    "date": "2027-08-08",
+    "name": "Kärppäjahti",
+    "location": "Kokkolan Suunnistajat",
+    "area": "Keski-Pohjanmaa",
+    "filename": "20270808_Kärppäjahti.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27922",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
     ],
     "is_holiday": false,
     "holiday_name": ""
