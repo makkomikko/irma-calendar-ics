@@ -696,6 +696,22 @@
     "holiday_name": ""
   },
   {
+    "date": "2027-05-23",
+    "name": "Jylynkallion Kutsu",
+    "location": "Kalajoen Junkkarit",
+    "area": "Keski-Pohjanmaa",
+    "filename": "20270523_Jylynkallion_Kutsu.ics",
+    "link": "https://irma.suunnistusliitto.fi/public/competition/view/27947",
+    "deadline": "",
+    "matka": "Keskimatka",
+    "cancelled": false,
+    "categories": [
+      "Keskimatka"
+    ],
+    "is_holiday": false,
+    "holiday_name": ""
+  },
+  {
     "date": "2027-05-29",
     "name": "SM-sprinttiviesti",
     "location": "Koovee",

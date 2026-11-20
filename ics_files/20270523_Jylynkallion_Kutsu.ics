@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//makkomikko//IRMA Calendar//FI
+BEGIN:VEVENT
+SUMMARY:Jylynkallion Kutsu
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261120T092849Z
+UID:irma-27947-20270523@suunnistusliitto.fi
+DESCRIPTION:Organizer: Kalajoen Junkkarit
+LOCATION:Keski-Pohjanmaa (Kalajoen Junkkarit)
+URL:https://irma.suunnistusliitto.fi/public/competition/view/27947
+END:VEVENT
+END:VCALENDAR
