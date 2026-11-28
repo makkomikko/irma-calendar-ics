@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//makkomikko//IRMA Calendar//FI
 BEGIN:VEVENT
-SUMMARY:Voipiovuoren 10k€skimatka
+SUMMARY:Voipiovuoren 10k€skimatka (WRE)\, MC-näyttökilpailu
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261127T102004Z
+DTSTAMP:20261128T093825Z
 UID:irma-27790-20270515@suunnistusliitto.fi
 DESCRIPTION:Organizer: Suunta Jyväskylä
 LOCATION:Keski-Suomi (Suunta Jyväskylä)
